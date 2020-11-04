@@ -1,0 +1,3 @@
+#Robolliurex lego rcx usb tower
+KERNEL=="legousbtower[0-9]*", MODE="0666"
+

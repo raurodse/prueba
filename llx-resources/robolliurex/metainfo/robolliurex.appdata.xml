@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component type="desktop-application">
+<id>robolliurex</id>
+<metadata_license>CC0-1.0</metadata_license>
+<name>Robolliurex</name>
+<summary>Lego RCX user interface</summary>
+<description>
+<p>Lego RCX user interface</p>
+<p xml:lang="ca_ES.UTF-8@valencia">Interfície d'usuari del Lego RCX</p>
+<p xml:lang="ca_ES@valencia">Interfície d'usuari del Lego RCX</p>
+<p xml:lang="ca_ES">Interfície d'usuari del Lego RCX</p>
+<p xml:lang="es_ES">Interfaz del usuario de Lego RCX</p>
+</description>
+<categories>
+<category>Education</category>
+</categories>
+<icon type="stock">robolliurex</icon>
+<provides><binary>robolliurex</binary></provides>
+<keywords>
+<keyword>Robolliurex</keyword>
+<keyword>RCX</keyword>
+<keyword>NCX</keyword>
+<keyword>Lego</keyword>
+
+</keywords>
+<developer_name>Lliurex Team</developer_name>
+<name xml:lang="ca_ES.UTF-8@valencia">Robolliurex</name>
+<summary xml:lang="ca_ES.UTF-8@valencia">Interfície d'usuari del Lego RCX</summary>
+<summary xml:lang="ca_ES@valencia">Interfície d'usuari del Lego RCX</summary>
+<summary xml:lang="ca_ES">Interfície d'usuari del Lego RCX</summary>
+<summary xml:lang="es_ES">Interfaz de usuario de Lego RCX</summary>
+</component>

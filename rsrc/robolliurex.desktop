@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Robolliurex
+Comment=Lego RCX user interface
+Exec=robolliurex
+Terminal=false
+Type=Application
+Categories=Education
+Icon=robolliurex
+TryExec=/usr/bin/robolliurex
