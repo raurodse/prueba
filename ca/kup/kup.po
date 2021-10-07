@@ -1,4 +1,4 @@
-# Translation of kup.po to Catalan
+# Translation of kup.po to Catalan (Valencian)
 # Copyright (C) 2019-2021 This_file_is_part_of_KDE
 # This file is distributed under the license LGPL version 2.1 or
 # version 3 or later versions approved by the membership of KDE e.V.
@@ -13,7 +13,7 @@ msgstr ""
 "PO-Revision-Date: 2021-03-16 13:11+0100\n"
 "Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
-"Language: ca\n"
+"Language: ca@valencia\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -116,8 +116,8 @@ msgstr "S'està desant la còpia de seguretat"
 msgctxt "@info notification"
 msgid "Failed to save backup. See log file for more details."
 msgstr ""
-"Ha fallat en desar la còpia de seguretat. Per a més detalls, vegeu el fitxer "
-"de registre."
+"Ha fallat en guardar la còpia de seguretat. Per a més detalls, vegeu el "
+"fitxer de registre."
 
 #: daemon/bupjob.cpp:212
 #, kde-format
@@ -196,7 +196,7 @@ msgstr ""
 msgctxt "@info notification"
 msgid "Backup integrity test was successful. Your backups are fine."
 msgstr ""
-"La prova d'integritat de la còpia de seguretat ha sortit correcta. Les "
+"La prova d'integritat de la còpia de seguretat ha eixit correcta. Les "
 "vostres còpies de seguretat estan bé."
 
 #: daemon/bupverificationjob.cpp:74
@@ -297,7 +297,7 @@ msgstr ""
 "El Kup és una solució de suport flexible que empra el sistema "
 "d'emmagatzematge de còpies de seguretat «bup». Permet realitzar ràpidament "
 "còpies de seguretat incrementals, desant només les parts dels fitxers que "
-"realment han canviat des que es va desar l'última còpia de seguretat."
+"realment han canviat des que es va guardar l'última còpia de seguretat."
 
 #: daemon/main.cpp:37 kcm/kupkcm.cpp:36
 #, kde-format
@@ -352,7 +352,7 @@ msgstr "S'estan reparant les còpies de seguretat"
 #, kde-kuit-format
 msgctxt "@info"
 msgid "Do you want to save a first backup now?"
-msgstr "Voleu desar una primera còpia de seguretat ara?"
+msgstr "Voleu guardar una primera còpia de seguretat ara?"
 
 #: daemon/planexecutor.cpp:99
 #, kde-kuit-format
@@ -361,8 +361,8 @@ msgid ""
 "It has been %1 since last backup was saved.\n"
 "Save a new backup now?"
 msgstr ""
-"Ha passat %1 des que es va desar l'última còpia de seguretat.\n"
-"Voleu desar una nova còpia de seguretat ara?"
+"Ha passat %1 des que es va guardar l'última còpia de seguretat.\n"
+"Voleu guardar una nova còpia de seguretat ara?"
 
 #: daemon/planexecutor.cpp:113
 #, kde-kuit-format
@@ -371,8 +371,9 @@ msgid ""
 "You have been active for %1 since last backup was saved.\n"
 "Save a new backup now?"
 msgstr ""
-"Heu estat actiu durant %1 des que es va desar l'última còpia de seguretat.\n"
-"Voleu desar una nova còpia de seguretat ara?"
+"Heu estat actiu durant %1 des que es va guardar l'última còpia de "
+"seguretat.\n"
+"Voleu guardar una nova còpia de seguretat ara?"
 
 #: daemon/planexecutor.cpp:144 daemon/planexecutor.cpp:174
 #: daemon/planexecutor.cpp:311
@@ -392,7 +393,7 @@ msgstr "No"
 #, kde-kuit-format
 msgctxt "@title:window"
 msgid "Saving of Backup Failed"
-msgstr "Ha fallat en desar la còpia de seguretat"
+msgstr "Ha fallat en guardar la còpia de seguretat"
 
 #: daemon/planexecutor.cpp:171 daemon/planexecutor.cpp:308
 #: daemon/planexecutor.cpp:342
@@ -405,13 +406,13 @@ msgstr "Mostra el fitxer de registre"
 #, kde-kuit-format
 msgctxt "@action:button"
 msgid "Open settings"
-msgstr "Obre la configuració"
+msgstr "Obri la configuració"
 
 #: daemon/planexecutor.cpp:202
 #, kde-kuit-format
 msgctxt "@title:window"
 msgid "Backup Saved"
-msgstr "S'ha desat la còpia de seguretat"
+msgstr "S'ha guardat la còpia de seguretat"
 
 #: daemon/planexecutor.cpp:203
 #, kde-kuit-format
@@ -519,7 +520,7 @@ msgid ""
 "Could not read this backup archive. Perhaps some files have become "
 "corrupted. Do you want to run an integrity check to test this?"
 msgstr ""
-"No s'ha pogut llegir aquest arxiu de còpia de seguretat. Potser s'han malmès "
+"No s'ha pogut llegir aquest arxiu de còpia de seguretat. Potser s'han malmés "
 "alguns fitxers. Voleu executar una comprovació de la integritat per a provar-"
 "ho?"
 
@@ -558,7 +559,7 @@ msgstr "No s'ha seleccionat cap destinació, trieu-ne una."
 msgctxt "@info message bar appearing on top"
 msgid "There was a problem while getting a list of all files to restore: %1"
 msgstr ""
-"S'ha produït un problema en obtenir una llista de tots els fitxers a "
+"S'ha produït un problema en obtindre una llista de tots els fitxers a "
 "restaurar: %1"
 
 #: filedigger/restoredialog.cpp:258
@@ -568,7 +569,7 @@ msgid ""
 "The destination does not have enough space available. Please choose a "
 "different destination or free some space."
 msgstr ""
-"La destinació no té prou espai disponible. Si us plau, trieu-ne una de "
+"La destinació no té prou espai disponible. Per favor, trieu-ne una de "
 "diferent o allibereu espai."
 
 #: filedigger/restoredialog.cpp:270
@@ -577,7 +578,7 @@ msgctxt ""
 "added to the suggested filename when restoring, %1 is the time when backup "
 "was saved"
 msgid " - saved at %1"
-msgstr " - desada a %1"
+msgstr " - guardada a %1"
 
 #: filedigger/restoredialog.cpp:271
 #, kde-kuit-format
@@ -726,7 +727,7 @@ msgstr "La restauració s'ha completat correctament!"
 #: filedigger/restoredialog.ui:419
 #, kde-format
 msgid "Open Destination"
-msgstr "Obre la destinació"
+msgstr "Obri la destinació"
 
 #. i18n: ectx: property (text), widget (QPushButton, mCloseButton)
 #: filedigger/restoredialog.ui:477
@@ -758,7 +759,7 @@ msgstr "Fitxer"
 #, kde-kuit-format
 msgctxt "@action:button"
 msgid "Open"
-msgstr "Obre"
+msgstr "Obri"
 
 #: filedigger/versionlistdelegate.cpp:123
 #, kde-kuit-format
@@ -816,7 +817,7 @@ msgid ""
 msgstr ""
 "L'enllaç simbòlic <filename>%1</filename> està actualment inclòs, però "
 "apunta a una carpeta que no ho està: <filename>%2</filename>.<nl/>Això "
-"probablement no sigui el que voleu. Una solució és simplement incloure la "
+"probablement no siga el que voleu. Una solució és simplement incloure la "
 "carpeta de destinació en el pla de la còpia de seguretat."
 
 #: kcm/backupplanwidget.cpp:400
@@ -830,7 +831,7 @@ msgid ""
 msgstr ""
 "L'enllaç simbòlic <filename>%1</filename> està actualment inclòs, però "
 "apunta a un fitxer que no ho està: <filename>%2</filename>.<nl/>Això "
-"probablement no sigui el que voleu. Una solució és simplement incloure la "
+"probablement no siga el que voleu. Una solució és simplement incloure la "
 "carpeta on resideix en el pla de la còpia de seguretat."
 
 #: kcm/backupplanwidget.cpp:423
@@ -872,7 +873,7 @@ msgstr ""
 "eliminant a l'ordinador. L'espai d'emmagatzematge necessari es minimitza en "
 "cercar les parts comuns dels fitxers entre versions i només emmagatzemar "
 "aquestes parts una vegada. No obstant això, l'arxiu de la còpia de seguretat "
-"seguirà creixent en grandària a mesura que passi el temps.<nl/>També és "
+"seguirà creixent en grandària a mesura que passe el temps.<nl/>També és "
 "important saber que no es pot accedir directament als fitxers a l'arxiu amb "
 "un gestor de fitxers general, es necessita un programa especial."
 
@@ -905,13 +906,13 @@ msgid ""
 "mistakes."
 msgstr ""
 "Aquest tipus de còpia de seguretat és una carpeta que se sincronitza amb les "
-"carpetes d'origen seleccionades. En desar una còpia de seguretat simplement "
-"vol dir fer que la destinació de la còpia de seguretat contingui una còpia "
-"exacta de les vostres carpetes d'origen tal com estan ara i res més. Si s'ha "
-"suprimit un fitxer en una carpeta d'origen, se suprimirà de la carpeta a la "
-"còpia de seguretat.<nl/>Aquest tipus de còpia de seguretat protegeix contra "
-"la pèrdua de dades a causa d'un disc dur trencat, però no ajudarà a "
-"recuperar-se dels vostres propis errors."
+"carpetes d'origen seleccionades. En guardar una còpia de seguretat "
+"simplement vol dir fer que la destinació de la còpia de seguretat continga "
+"una còpia exacta de les vostres carpetes d'origen tal com estan ara i res "
+"més. Si s'ha suprimit un fitxer en una carpeta d'origen, se suprimirà de la "
+"carpeta a la còpia de seguretat.<nl/>Aquest tipus de còpia de seguretat "
+"protegeix contra la pèrdua de dades a causa d'un disc dur trencat, però no "
+"ajudarà a recuperar-se dels vostres propis errors."
 
 #: kcm/backupplanwidget.cpp:536
 #, kde-kuit-format
@@ -977,8 +978,8 @@ msgstr ""
 "Podeu usar aquesta opció per a crear còpies de seguretat en un disc dur "
 "intern secundari, una unitat eSATA externa o un emmagatzematge en xarxa. El "
 "requisit és simplement que sempre es munti al mateix camí en el sistema de "
-"fitxers. El camí especificat aquí no necessita existir en tot moment, la "
-"seva existència serà supervisada."
+"fitxers. El camí especificat ací no necessita existir en tot moment, la seua "
+"existència serà supervisada."
 
 #: kcm/backupplanwidget.cpp:607
 #, kde-kuit-format
@@ -1013,7 +1014,7 @@ msgstr "Carpeta a la unitat de destinació:"
 #, kde-kuit-format
 msgctxt "@info:tooltip"
 msgid "Open dialog to select a folder"
-msgstr "Obre el diàleg per a seleccionar una carpeta"
+msgstr "Obri el diàleg per a seleccionar una carpeta"
 
 #: kcm/backupplanwidget.cpp:676
 #, kde-kuit-format
@@ -1052,9 +1053,9 @@ msgid ""
 "Backups are only saved when manually requested. This can be done by using "
 "the popup menu from the backup system tray icon."
 msgstr ""
-"Les còpies de seguretat només es desen quan se sol·licitin manualment. Això "
-"es pot fer usant el menú emergent des de la icona de la còpia de seguretat "
-"que hi ha a la safata del sistema."
+"Les còpies de seguretat només es guarden quan se sol·licitin manualment. "
+"Això es pot fer usant el menú emergent des de la icona de la còpia de "
+"seguretat que hi ha a la safata del sistema."
 
 #: kcm/backupplanwidget.cpp:712
 #, kde-kuit-format
@@ -1064,8 +1065,8 @@ msgid ""
 "more than the configured interval has passed since the last backup was saved."
 msgstr ""
 "La nova còpia de seguretat s'activarà quan la destinació de la còpia de "
-"seguretat estigui disponible i hagi transcorregut més de l'interval "
-"configurat des que es va desar l'última còpia de seguretat."
+"seguretat estiga disponible i haja transcorregut més de l'interval "
+"configurat des que es va guardar l'última còpia de seguretat."
 
 #: kcm/backupplanwidget.cpp:729
 #, kde-kuit-format
@@ -1100,15 +1101,15 @@ msgid ""
 "limit since the last backup was saved."
 msgstr ""
 "La còpia de seguretat nova s'activarà quan la destinació de la còpia de "
-"seguretat estigui disponible i hàgiu estat emprant activament l'ordinador "
-"transcorregut més del temps que el limit configurat des que es va desar "
+"seguretat estiga disponible i hàgeu estat emprant activament l'ordinador "
+"transcorregut més del temps que el limit configurat des que es va guardar "
 "l'última còpia de seguretat."
 
 #: kcm/backupplanwidget.cpp:763
 #, kde-kuit-format
 msgctxt "@option:check"
 msgid "Ask for confirmation before saving backup"
-msgstr "Demana confirmació abans de desar la còpia de seguretat"
+msgstr "Demana confirmació abans de guardar la còpia de seguretat"
 
 #: kcm/backupplanwidget.cpp:782
 #, kde-kuit-format
@@ -1188,8 +1189,8 @@ msgid ""
 "that time it could be too late."
 msgstr ""
 "Comprova la corrupció de tot l'arxiu de còpia de seguretat cada vegada que "
-"deseu dades noves. El fet de desar les còpies de seguretat portarà una mica "
-"més de temps, però permet detectar els problemes de corrupció abans que "
+"guardeu dades noves. El fet de guardar les còpies de seguretat portarà una "
+"mica més de temps, però permet detectar els problemes de corrupció abans que "
 "necessiteu emprar una còpia de seguretat, en aquell moment podria ser massa "
 "tard."
 
@@ -1207,16 +1208,16 @@ msgid ""
 "and folders with names that match any of the patterns will be excluded from "
 "the backup. The pattern format is documented <link url='%1'>here</link>."
 msgstr ""
-"Cal que els patrons estiguin llistats en un fitxer de text amb un patró per "
-"línia. Els fitxers i carpetes amb noms que coincideixin amb qualsevol dels "
+"Cal que els patrons estiguen llistats en un fitxer de text amb un patró per "
+"línia. Els fitxers i carpetes amb noms que coincidisquen amb qualsevol dels "
 "patrons s'exclouran de la còpia de seguretat. El format dels patrons està "
-"documentat <link url='%1'>aquí</link>."
+"documentat <link url='%1'>ací</link>."
 
 #: kcm/backupplanwidget.cpp:901
 #, kde-kuit-format
 msgctxt "@info:tooltip"
 msgid "Open dialog to select a file"
-msgstr "Obre el diàleg per a seleccionar un fitxer"
+msgstr "Obri el diàleg per a seleccionar un fitxer"
 
 #: kcm/backupplanwidget.cpp:903
 #, kde-format
@@ -1295,7 +1296,7 @@ msgid ""
 "system. File permissions only matters if there is more than one user of this "
 "computer or if you are backing up executable program files."
 msgstr ""
-"Avís: els enllaços simbòlics i els permisos de fitxer no es poden desar en "
+"Avís: els enllaços simbòlics i els permisos de fitxer no es poden guardar en "
 "aquest sistema de fitxers. Els permisos dels fitxers només són importants si "
 "hi ha més d'un usuari en aquest ordinador o si esteu fent una còpia de "
 "seguretat dels fitxers de programa executables."
@@ -1308,10 +1309,10 @@ msgid ""
 "permissions only matters if there is more than one user of this computer or "
 "if you are backing up executable program files."
 msgstr ""
-"Avís: els permisos de fitxer no es poden desar en aquest sistema de fitxers. "
-"Els permisos dels fitxers només són importants si hi ha més d'un usuari en "
-"aquest ordinador o si esteu fent una còpia de seguretat dels fitxers de "
-"programa executables."
+"Avís: els permisos de fitxer no es poden guardar en aquest sistema de "
+"fitxers. Els permisos dels fitxers només són importants si hi ha més d'un "
+"usuari en aquest ordinador o si esteu fent una còpia de seguretat dels "
+"fitxers de programa executables."
 
 #: kcm/folderselectionmodel.cpp:90
 #, kde-kuit-format
@@ -1391,7 +1392,7 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@action:button"
 msgid "Add New Plan"
-msgstr "Afegeix un pla nou"
+msgstr "Afig un pla nou"
 
 #: kcm/kupkcm.cpp:236
 #, kde-kuit-format
@@ -1403,7 +1404,7 @@ msgstr "Còpies de seguretat activades"
 #, kde-kuit-format
 msgctxt "@action:button"
 msgid "Open and restore from existing backups"
-msgstr "Obre i restaura de les còpies de seguretat existents"
+msgstr "Obri i restaura de les còpies de seguretat existents"
 
 #: kcm/planstatuswidget.cpp:32
 #, kde-kuit-format
@@ -1436,7 +1437,7 @@ msgstr ""
 #: plasmoid/contents/ui/FullRepresentation.qml:109
 #, kde-format
 msgid "Save new backup"
-msgstr "Desa una còpia de seguretat nova"
+msgstr "Guarda una còpia de seguretat nova"
 
 #: plasmoid/contents/ui/FullRepresentation.qml:115
 #, kde-format
@@ -1502,7 +1503,7 @@ msgstr "%1 (còpia)"
 #, kde-format
 msgctxt "%1 is fancy formatted date"
 msgid "Last saved: %1"
-msgstr "Desada per darrer cop: %1"
+msgstr "Guardada per darrer cop: %1"
 
 #: settings/backupplan.cpp:213
 #, kde-format

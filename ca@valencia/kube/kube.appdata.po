@@ -1,0 +1,72 @@
+# Translation of kube.appdata.po to Catalan (Valencian)
+# Copyright (C) 2018-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2018, 2020.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2018, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kube appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2018-08-29 03:52+0200\n"
+"PO-Revision-Date: 2021-09-06 19:21+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.12.0\n"
+
+#. (itstool) path: component/name
+#: kube.appdata.xml.in:6
+msgid "Kube"
+msgstr "Kube"
+
+#. (itstool) path: component/summary
+#: kube.appdata.xml.in:7
+msgid "E-mail client"
+msgstr "Client de correu electrònic"
+
+#. (itstool) path: description/p
+#: kube.appdata.xml.in:9
+msgid ""
+"Kube is a modern communication and collaboration client built with QtQuick "
+"on top of a high performance, low resource usage core. It provides online "
+"and offline access to all your mail, contacts, calendars, notes, todo's and "
+"more. With a strong focus on usability, the team works with designers and UX "
+"experts from the ground up, to build a product that is not only visually "
+"appealing but also a joy to use."
+msgstr ""
+"El Kube és un client modern de comunicació i col·laboració construït amb el "
+"«QtQuick» sobre un nucli amb alt rendiment i que empra pocs recursos. "
+"Proporciona accés en línia i fora de línia a tots els vostres correus, "
+"contactes, calendaris, notes, tasques pendents i més. Amb un fort enfocament "
+"en la usabilitat, l'equip ha treballat amb dissenyadors i experts d'UX des "
+"del començament, per a construir un producte que no només és visualment "
+"atractiu, sinó també agradable d'emprar."
+
+#. (itstool) path: description/p
+#: kube.appdata.xml.in:10
+msgid ""
+"Communication and collaboration within large groups and spread over several "
+"time zones is complex and something of the norm in modern projects and the "
+"existing solutions available are not up to that challenge. Kube is a way to "
+"simplify and make communication elegant again by focusing on the key needs "
+"of users instead of filling it with any feature that comes to mind. Our "
+"strict focus on what is actually needed instead of what is wanted brings a "
+"new way of collaboration between group members and a simpler way of handling "
+"communication."
+msgstr ""
+"La comunicació i la col·laboració en grups grans i distribuïts a través de "
+"diverses zones horàries és complexa. Tot i que és la norma en els projectes "
+"moderns, les solucions existents no responen a aquest desafiament. El Kube "
+"és una manera de simplificar i tornar a fer elegant la comunicació, tornant-"
+"se a centrar en les necessitats clau dels usuaris en lloc d'omplir-se amb "
+"qualsevol característica en la que pensem. El nostre estricte enfocament "
+"sobre el que realment es necessita, en lloc del que es vol, implica una nova "
+"forma de col·laboració entre els membres d'un grup i una forma més senzilla "
+"de manejar la comunicació."

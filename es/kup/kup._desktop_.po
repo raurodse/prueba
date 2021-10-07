@@ -1,121 +1,128 @@
-# Víctor Rodrigo Córdoba <vrcordoba@gmail.com>, 2019, 2020.
+# Translation of kup._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2019-2021 This_file_is_part_of_KDE
+# This file is distributed under same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2019, 2020.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2020, 2021.
 msgid ""
 msgstr ""
-"Project-Id-Version: desktop files\n"
+"Project-Id-Version: kup desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-23 00:25+0000\n"
-"PO-Revision-Date: 2020-08-01 16:53+0200\n"
-"Last-Translator: Víctor Rodrigo Córdoba <vrcordoba@gmail.com>\n"
-"Language-Team: Spanish <kde-l10n-es@kde.org>\n"
-"Language: es\n"
+"POT-Creation-Date: 2021-06-06 00:26+0000\n"
+"PO-Revision-Date: 2021-09-06 19:19+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 20.04.3\n"
+"X-Generator: Lokalize 20.12.0\n"
 
 #: daemon/kup-daemon.desktop:2
 msgctxt "Name"
 msgid "Kup"
 msgstr "Kup"
 
-#: daemon/kup-daemon.desktop:28
+#: daemon/kup-daemon.desktop:27
 msgctxt "GenericName"
 msgid "Backup Monitor"
-msgstr "Monitor de copias de seguridad"
+msgstr "Supervisor per a còpia de seguretat"
 
 #: daemon/kupdaemon.notifyrc:3
 msgctxt "Name"
 msgid "Kup Backup System"
-msgstr "Sistema de copias de seguridad Kup"
+msgstr "Sistema de còpia de seguretat Kup"
 
-#: daemon/kupdaemon.notifyrc:24
+#: daemon/kupdaemon.notifyrc:23
 msgctxt "Comment"
 msgid "Kup Backup System"
-msgstr "Sistema de copias de seguridad Kup"
+msgstr "Sistema per a còpia de seguretat Kup"
 
-#: daemon/kupdaemon.notifyrc:50
+#: daemon/kupdaemon.notifyrc:48
 msgctxt "Name"
 msgid "Start Saving Backup"
-msgstr "Empezar a crear una copia de seguridad"
+msgstr "Comença a guardar la còpia de seguretat"
 
-#: daemon/kupdaemon.notifyrc:71
+#: daemon/kupdaemon.notifyrc:68
 msgctxt "Comment"
 msgid "A question if user wants to start saving a backup"
-msgstr "Preguntar si el usuario quiere empezar a crear una copia de seguridad"
+msgstr ""
+"Una pregunta per a si l'usuari vol començar a guardar una còpia de seguretat"
 
-#: daemon/kupdaemon.notifyrc:95
+#: daemon/kupdaemon.notifyrc:91
 msgctxt "Name"
 msgid "Backup Succeeded"
-msgstr "Copia de seguridad creada con éxito"
+msgstr "La còpia de seguretat ha tingut èxit"
 
-#: daemon/kupdaemon.notifyrc:116
+#: daemon/kupdaemon.notifyrc:111
 msgctxt "Comment"
 msgid "Saving of backup successfully completed"
-msgstr "El guardado de la copia de seguridad acabó satisfactoriamente"
+msgstr "S'ha finalitzat correctament el desament de la còpia de seguretat"
 
-#: daemon/kupdaemon.notifyrc:143
+#: daemon/kupdaemon.notifyrc:137
 msgctxt "Name"
 msgid "Backup Failed"
-msgstr "La copia de seguridad falló"
+msgstr "Ha fallat la còpia de seguretat"
 
-#: daemon/kupdaemon.notifyrc:164
+#: daemon/kupdaemon.notifyrc:157
 msgctxt "Comment"
 msgid "Saving of backup failed, offer user to see log file"
 msgstr ""
-"El guardado de la copia de seguridad falló, ofreciendo al usuario ver los "
-"registros"
+"Ha fallat el desament de la còpia de seguretat, s'ofereix a l'usuari el "
+"fitxer de registre"
 
-#: daemon/kupdaemon.notifyrc:190
+#: daemon/kupdaemon.notifyrc:182
 msgctxt "Name"
 msgid "Integrity Check Completed"
-msgstr "Comprobación de integridad completada"
+msgstr "S'ha completat el control de la integritat"
 
-#: daemon/kupdaemon.notifyrc:211
+#: daemon/kupdaemon.notifyrc:202
 msgctxt "Comment"
 msgid "Finished checking integrity of backup archive"
-msgstr "Se terminó de comprobar la integridad de la copia de seguridad"
+msgstr ""
+"S'ha acabat de verificar la integritat de l'arxiu de còpia de seguretat"
 
-#: daemon/kupdaemon.notifyrc:238
+#: daemon/kupdaemon.notifyrc:228
 msgctxt "Name"
 msgid "Repair Completed"
-msgstr "Reparación completa"
+msgstr "Reparació finalitzada"
 
-#: daemon/kupdaemon.notifyrc:259
+#: daemon/kupdaemon.notifyrc:248
 msgctxt "Comment"
 msgid "Finished repairing backup archive"
-msgstr "Se terminó de reparar la copia de seguridad"
+msgstr "S'ha acabat la reparació de l'arxiu de còpia de seguretat"
 
 #: dataengine/plasma-dataengine-kup.desktop:17 kcm/kcm_kup.desktop:10
 msgctxt "Name"
 msgid "Backups"
-msgstr "Copias de seguridad"
+msgstr "Còpies de seguretat"
 
-#: dataengine/plasma-dataengine-kup.desktop:42
+#: dataengine/plasma-dataengine-kup.desktop:41
 msgctxt "Comment"
 msgid "Status of backup plans"
-msgstr "Estado de la planificación de copias de seguridad"
+msgstr "Estat dels plans per a còpia de seguretat"
 
-#: kcm/kcm_kup.desktop:35
+#: kcm/kcm_kup.desktop:34
 msgctxt "Comment"
 msgid "Configure backup plans"
-msgstr "Configurar planificación de copias de seguridad"
+msgstr "Configura els plans per a còpia de seguretat"
 
-#: kcm/kcm_kup.desktop:58
+#: kcm/kcm_kup.desktop:56
 msgctxt "X-KDE-Keywords"
 msgid "backup,recovery,safety"
-msgstr "copiado, recuperación, seguridad"
+msgstr "còpia de seguretat,recuperació,seguretat"
 
 #: plasmoid/metadata.desktop:22
 msgctxt "Name"
 msgid "Backup Status"
-msgstr "Estado de la copia de seguridad"
+msgstr "Estat de la còpia de seguretat"
 
-#: plasmoid/metadata.desktop:47
+#: plasmoid/metadata.desktop:46
 msgctxt "Comment"
 msgid "Displays status of backup plans"
-msgstr "Muestra el estado de las planificaciones de las copias de seguridad"
+msgstr "Mostra l'estat dels plans per a còpia de seguretat"
 
 #~ msgctxt "Description"
 #~ msgid "A kioslave for bup backup repositories"
-#~ msgstr "Un «kioslave» para los repositorios de copia de seguridad de bup"
+#~ msgstr "Un esclau «kio» per als repositoris de còpia de seguretat de «bup»"

@@ -1,0 +1,1095 @@
+# Translation of baloowidgets5.po to Catalan (Valencian)
+# Copyright (C) 2012-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2012, 2014, 2015, 2016, 2017, 2018, 2019, 2020.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: baloo-widgets\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-04-24 00:17+0000\n"
+"PO-Revision-Date: 2020-01-09 20:32+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: src/filemetadataprovider.cpp:163 src/filemetadataprovider.cpp:169
+#: src/filemetadataprovider.cpp:239 src/filemetadataprovider.cpp:242
+#, kde-format
+msgctxt "@item:intable"
+msgid "%1 item"
+msgid_plural "%1 items"
+msgstr[0] "%1 element"
+msgstr[1] "%1 elements"
+
+#: src/filemetadataprovider.cpp:417 src/filemetadataprovider.cpp:433
+#, kde-format
+msgctxt "@label"
+msgid "Comment"
+msgstr "Comentari"
+
+#: src/filemetadataprovider.cpp:418
+#, kde-format
+msgctxt "@label"
+msgid "Created"
+msgstr "Creat"
+
+#: src/filemetadataprovider.cpp:419
+#, kde-format
+msgctxt "@label"
+msgid "Accessed"
+msgstr "Accedit"
+
+#: src/filemetadataprovider.cpp:420
+#, kde-format
+msgctxt "@label"
+msgid "Modified"
+msgstr "Modificat"
+
+#: src/filemetadataprovider.cpp:421
+#, kde-format
+msgctxt "@label"
+msgid "Owner"
+msgstr "Propietari"
+
+#: src/filemetadataprovider.cpp:422
+#, kde-format
+msgctxt "@label"
+msgid "Group"
+msgstr "Grup"
+
+#: src/filemetadataprovider.cpp:423
+#, kde-format
+msgctxt "@label"
+msgid "Permissions"
+msgstr "Permisos"
+
+#: src/filemetadataprovider.cpp:424 src/filemetadataprovider.cpp:432
+#, kde-format
+msgctxt "@label"
+msgid "Rating"
+msgstr "Valoració"
+
+#: src/filemetadataprovider.cpp:425
+#, kde-format
+msgctxt "@label"
+msgid "Size"
+msgstr "Mida"
+
+#: src/filemetadataprovider.cpp:426 src/filemetadataprovider.cpp:431
+#, kde-format
+msgctxt "@label"
+msgid "Tags"
+msgstr "Etiquetes"
+
+#: src/filemetadataprovider.cpp:427
+#, kde-format
+msgctxt "@label"
+msgid "Total Size"
+msgstr "Mida total"
+
+#: src/filemetadataprovider.cpp:428
+#, kde-format
+msgctxt "@label"
+msgid "Hidden items"
+msgstr "Elements ocults"
+
+#: src/filemetadataprovider.cpp:429
+#, kde-format
+msgctxt "@label"
+msgid "Type"
+msgstr "Tipus"
+
+#: src/filemetadataprovider.cpp:430
+#, kde-format
+msgctxt "@label"
+msgid "Link to"
+msgstr "Enllaç a"
+
+#: src/filemetadataprovider.cpp:434
+#, kde-format
+msgctxt "@label"
+msgid "Downloaded From"
+msgstr "Baixat des de"
+
+#: src/filepropertiesplugin/baloofilepropertiesplugin.cpp:66
+#, kde-format
+msgctxt "Tab page with file meta data"
+msgid "&Details"
+msgstr "&Detalls"
+
+#: src/kcommentwidget.cpp:67 src/tagwidget.cpp:85
+#, kde-format
+msgctxt "@label"
+msgid "Add..."
+msgstr "Afig..."
+
+#: src/kcommentwidget.cpp:73 src/tagwidget.cpp:85
+#, kde-format
+msgctxt "@label"
+msgid "Edit..."
+msgstr "Edita..."
+
+#: src/kcommentwidget.cpp:119
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Comment"
+msgstr "Edició de comentari"
+
+#: src/kcommentwidget.cpp:120
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Comment"
+msgstr "Afig un comentari"
+
+#: src/keditcommentdialog.cpp:45 src/kedittagsdialog.cpp:52
+#, kde-format
+msgid "Save"
+msgstr "Guarda"
+
+#: src/kedittagsdialog.cpp:47
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Tags"
+msgstr "Edició d'etiquetes"
+
+#: src/kedittagsdialog.cpp:48
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Tags"
+msgstr "Afig etiquetes"
+
+#: src/kedittagsdialog.cpp:62
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Configure which tags should be applied."
+msgstr "Configura les etiquetes que s'hauran d'aplicar."
+
+#: src/kedittagsdialog.cpp:70
+#, kde-format
+msgctxt "@label"
+msgid "Create new tag:"
+msgstr "Crea una etiqueta nova:"
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:43
+#, kde-format
+msgid "Assign Tags"
+msgstr "Assigna etiquetes"
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:77
+#, kde-format
+msgid "Create New..."
+msgstr "Crea nova..."
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:81
+#, kde-format
+msgid "New tag"
+msgstr "Etiqueta nova"
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:81
+#, kde-format
+msgid "New tag:"
+msgstr "Etiqueta nova:"
+
+#: src/widgetfactory.cpp:85 src/widgetfactory.cpp:95
+#, kde-format
+msgctxt "String list separator"
+msgid ", "
+msgstr ", "
+
+#~ msgctxt "unknown file size"
+#~ msgid "Unknown"
+#~ msgstr "Desconegut"
+
+#~ msgctxt "@label bitrate (per second)"
+#~ msgid "%1/s"
+#~ msgstr "%1/s"
+
+#~ msgctxt "@label samplerate in kilohertz"
+#~ msgid "%1 kHz"
+#~ msgstr "%1 kHz"
+
+#~ msgctxt "@label"
+#~ msgid "Change..."
+#~ msgstr "Canvia..."
+
+#~ msgctxt "@title:window"
+#~ msgid "Change Comment"
+#~ msgstr "Canvi de comentari"
+
+#~ msgctxt "@title:window"
+#~ msgid "Change Tags"
+#~ msgstr "Canvi d'etiquetes"
+
+#~ msgctxt ""
+#~ "This is added to the query builder widget when a proposal containing a "
+#~ "placeholder is selected"
+#~ msgid "[something]"
+#~ msgstr "[quelcom]"
+
+#~ msgctxt "Pattern placeholder having no specific type"
+#~ msgid "[something]"
+#~ msgstr "[quelcom]"
+
+#~ msgctxt "Pattern placeholder of date-time type"
+#~ msgid "[date and time]"
+#~ msgstr "[data i hora]"
+
+#~ msgctxt "Pattern placeholder for a tag name"
+#~ msgid "[tag name]"
+#~ msgstr "[nom d'etiqueta]"
+
+#~ msgctxt "Pattern placeholder for a contact identifier"
+#~ msgid "[contact]"
+#~ msgstr "[contacte]"
+
+#~ msgctxt "Pattern placeholder for an e-mail address"
+#~ msgid "[email address]"
+#~ msgstr "[adreça de correu electrònic]"
+
+#~ msgctxt "Pattern placeholder for a standard property name"
+#~ msgid "[property]"
+#~ msgstr "[propietat]"
+
+#~ msgctxt "@label"
+#~ msgid "Add Comment..."
+#~ msgstr "Afegeix un comentari..."
+
+#~ msgctxt "Numeric rating of a resource"
+#~ msgid ""
+#~ "rated as $1;rated $1;score is $1;score|scored $1;having $1 stars|star"
+#~ msgstr ""
+#~ "valorat com a $1;valorat $1;puntuació és $1;punts|puntuat $1;té $1 "
+#~ "estrella|estrelles"
+
+#~ msgid "Rating (0 to 10)"
+#~ msgstr "Valoració (0 a 10)"
+
+#~ msgctxt "Comment of a resource"
+#~ msgid ""
+#~ "described as $1;description|comment is $1;described|description|comment $1"
+#~ msgstr ""
+#~ "descrit com a $1;descripció|comentari és $1;descrit|descripció|comentari "
+#~ "$1"
+
+#~ msgid "Comment or description"
+#~ msgstr "Comentari o descripció"
+
+#~ msgctxt "Author of a document"
+#~ msgid "written|created|composed by $1;author is $1;by $1"
+#~ msgstr "escrit|creat|composat per $1;autor és $1;per $1"
+
+#~ msgid "Author"
+#~ msgstr "Autor"
+
+#~ msgctxt "Size of a file"
+#~ msgid "size is $1;size $1;being $1 large;$1 large"
+#~ msgstr "mida és $1;mida $1;és $1 grandària;grandària $1"
+
+#~ msgid "Size"
+#~ msgstr "Mida"
+
+#~ msgctxt "Name of a file or contact"
+#~ msgid "name is $1;name $1;named $1"
+#~ msgstr "nom és $1;nom $1;anomenat $1"
+
+#~ msgid "Name"
+#~ msgstr "Nom"
+
+#~ msgctxt "Date of creation"
+#~ msgid ""
+#~ "created|dated at|on|in|of $1;created|dated $1;creation date|time|datetime "
+#~ "is $1"
+#~ msgstr "creat|datat a|en|el|de $1;creat|datat $1;data|hora de creació és $1"
+
+#~ msgid "Date of creation"
+#~ msgstr "Data de creació"
+
+#~ msgctxt "Date of last modification"
+#~ msgid ""
+#~ "modified|edited at|on $1;modified|edited $1;modification|edition date|"
+#~ "time|datetime is $1"
+#~ msgstr ""
+#~ "modificat|editat a|en $1;modificat|editat $1;data|hora modificació|edició "
+#~ "és $1"
+
+#~ msgid "Date of last modification"
+#~ msgstr "Data de darrera modificació"
+
+#~ msgctxt "A document is associated with a tag"
+#~ msgid "tagged as $1;has tag $1;tag is $1;# $1"
+#~ msgstr "etiquetat com a $1;té l'etiqueta $1;l'etiqueta és $1;# $1"
+
+#~ msgid "Tag name"
+#~ msgstr "Nom de l'etiqueta"
+
+#~ msgctxt ""
+#~ "$1 is a property name (non-translatable unfortunately) and $2 is the "
+#~ "value against which the property is matched. Note that the equal/greater/"
+#~ "smaller sign has already been folded in $2"
+#~ msgid "$1 is $2;$1 $2"
+#~ msgstr "$1 és $2;$1 $2"
+
+#~ msgid "File property"
+#~ msgstr "Propietat del fitxer"
+
+#~ msgctxt "Adding an offset to a period of time ($1=period, $2=offset)"
+#~ msgid "in $2 $1"
+#~ msgstr "en $2 $1"
+
+#~ msgctxt "Removing an offset from a period of time ($1=period, $2=offset)"
+#~ msgid "$2 $1 ago"
+#~ msgstr "fa $2 $1"
+
+#~ msgctxt "In one day"
+#~ msgid "tomorrow"
+#~ msgstr "demà"
+
+#~ msgid "Tomorrow"
+#~ msgstr "Demà"
+
+#~ msgctxt "One day ago"
+#~ msgid "yesterday"
+#~ msgstr "ahir"
+
+#~ msgid "Yesterday"
+#~ msgstr "Ahir"
+
+#~ msgctxt "The current day"
+#~ msgid "today"
+#~ msgstr "avui"
+
+#~ msgid "Today"
+#~ msgstr "Avui"
+
+#~ msgctxt "First period (first day, month, etc)"
+#~ msgid "first $1"
+#~ msgstr "primer $1"
+
+#~ msgid "First week, month, day, ..."
+#~ msgstr "Primera setmana, mes, dia,..."
+
+#~ msgctxt "Last period (last day, month, etc)"
+#~ msgid "last $1 of"
+#~ msgstr "l'últim $1 de"
+
+#~ msgid "Last week, month, day, ..."
+#~ msgstr "Darrera setmana, mes, dia,..."
+
+#~ msgctxt ""
+#~ "Setting the value of a period, as in 'third week' ($1=period, $2=value)"
+#~ msgid "$2 $1"
+#~ msgstr "$2 $1"
+
+#~ msgctxt "Adding 1 to a period of time"
+#~ msgid "next $1"
+#~ msgstr "següent $1"
+
+#~ msgid "Next week, month, day, ..."
+#~ msgstr "Següent setmana, mes, dia,..."
+
+#~ msgctxt "Removing 1 to a period of time"
+#~ msgid "last $1"
+#~ msgstr "últim $1"
+
+#~ msgid "Previous week, month, day, ..."
+#~ msgstr "Anterior setmana, mes, dia,..."
+
+#~ msgid "A time after midday"
+#~ msgstr "Després del migdia"
+
+#~ msgid "A time"
+#~ msgstr "Una hora"
+
+#~ msgctxt ""
+#~ "A year ($1), month ($2), day ($3), day of week ($4), hour ($5), minute "
+#~ "($6), second ($7), in every combination supported by your language"
+#~ msgid ""
+#~ "$3 of $2 $1;$3 st|nd|rd|th $2 $1;$3 st|nd|rd|th of $2 $1;$3 of $2;$3 st|"
+#~ "nd|rd|th $2;$3 st|nd|rd|th of $2;$2 $3 st|nd|rd|th;$2 $3;$2 $1;$1 - $2 - "
+#~ "$3;$1 - $2;$3 / $2 / $1;$3 / $2;in $2 $1; in $1;, $1"
+#~ msgstr ""
+#~ "$3 de $2 de $1;$3 de $2 $1;$3 r|n|t|è de $2 de $1;$3 $2 $1;$2 $3;$2 $1;$1 "
+#~ "- $2 - $3;$1 - $2;$3 / $2 / $1;$3 / $2;a $2 $1; a $1;, $1"
+
+#~ msgctxt "Decimal values with an integer ($1) and decimal ($2) part"
+#~ msgid "$1 \\. $2"
+#~ msgstr "$1 \\. $2"
+
+#~ msgid "A decimal value"
+#~ msgstr "Un valor decimal"
+
+#~ msgctxt "Equality"
+#~ msgid "contains|containing $1"
+#~ msgstr "conté|contenint $1"
+
+#~ msgid "Containing"
+#~ msgstr "Contingut"
+
+#~ msgctxt "Strictly greater"
+#~ msgid "greater|bigger|more than $1;at least $1;> $1"
+#~ msgstr "mes gran que $1;com a mínim $1;> $1"
+
+#~ msgid "Greater than"
+#~ msgstr "Més gran que"
+
+#~ msgctxt "After in time"
+#~ msgid "after|since $1"
+#~ msgstr "després|des de $1"
+
+#~ msgid "After"
+#~ msgstr "Després"
+
+#~ msgctxt "Strictly smaller"
+#~ msgid "smaller|less|lesser than $1;at most $1;< $1"
+#~ msgstr "més petit que $1;com a màxim $1;< $1"
+
+#~ msgid "Smaller than"
+#~ msgstr "Més petit que"
+
+#~ msgctxt "Before in time"
+#~ msgid "before|until $1"
+#~ msgstr "abans|fins a $1"
+
+#~ msgid "Before"
+#~ msgstr "Abans"
+
+#~ msgctxt "Equality"
+#~ msgid "equal|equals|= $1;equal to $1"
+#~ msgstr "igual|= $1;igual que $1"
+
+#~ msgid "Equal to"
+#~ msgstr "Igual que"
+
+#~ msgctxt "Space-separated list of words representing a year"
+#~ msgid "year years"
+#~ msgstr "any anys"
+
+#~ msgctxt "Space-separated list of words representing a month"
+#~ msgid "month months"
+#~ msgstr "mes mesos"
+
+#~ msgctxt "Space-separated list of words representing a week"
+#~ msgid "week weeks"
+#~ msgstr "setmana setmanes"
+
+#~ msgctxt "Space-separated list of words representing a day"
+#~ msgid "day days"
+#~ msgstr "dia dies"
+
+#~ msgctxt "Space-separated list of words representing an hour"
+#~ msgid "hour hours"
+#~ msgstr "hora hores"
+
+#~ msgctxt "Space-separated list of words representing a minute"
+#~ msgid "minute minutes"
+#~ msgstr "minut minuts"
+
+#~ msgctxt "Space-separated list of words representing a second"
+#~ msgid "second seconds"
+#~ msgstr "segon segons"
+
+#~ msgctxt "Lower-case units corresponding to a kilobyte"
+#~ msgid "kb kilobyte kilobytes"
+#~ msgstr "kb kilobyte kilobytes"
+
+#~ msgctxt "Lower-case units corresponding to a megabyte"
+#~ msgid "mb megabyte megabytes"
+#~ msgstr "mb megabyte megabytes"
+
+#~ msgctxt "Lower-case units corresponding to a gigabyte"
+#~ msgid "gb gigabyte gigabytes"
+#~ msgstr "gb gigabyte gigabytes"
+
+#~ msgctxt "Lower-case units corresponding to a terabyte"
+#~ msgid "tb terabyte terabytes"
+#~ msgstr "tb terabyte terabytes"
+
+#~ msgctxt "Lower-case units corresponding to a kibibyte"
+#~ msgid "kib k kibibyte kibibytes"
+#~ msgstr "kib k kibibyte kibibytes"
+
+#~ msgctxt "Lower-case units corresponding to a mebibyte"
+#~ msgid "mib m mebibyte mebibytes"
+#~ msgstr "mib m mebibyte mebibytes"
+
+#~ msgctxt "Lower-case units corresponding to a gibibyte"
+#~ msgid "gib g gibibyte gibibytes"
+#~ msgstr "gib g gibibyte gibibytes"
+
+#~ msgctxt "Lower-case units corresponding to a tebibyte"
+#~ msgid "tib t tebibyte tebibytes"
+#~ msgstr "tib t tebibyte tebibytes"
+
+#~ msgctxt "Space-separated list of words meaning 0"
+#~ msgid "zero nought null"
+#~ msgstr "zero res nul"
+
+#~ msgctxt "Space-separated list of words meaning 2"
+#~ msgid "two second"
+#~ msgstr "dos dues segon segona"
+
+#~ msgctxt "Space-separated list of words meaning 3"
+#~ msgid "three third"
+#~ msgstr "tres tercer tercera"
+
+#~ msgctxt "Space-separated list of words meaning 4"
+#~ msgid "four fourth"
+#~ msgstr "quatre quart quarta"
+
+#~ msgctxt "Space-separated list of words meaning 5"
+#~ msgid "five fifth"
+#~ msgstr "cinc cinquè cinquena"
+
+#~ msgctxt "Space-separated list of words meaning 6"
+#~ msgid "six sixth"
+#~ msgstr "sis sisè sisena"
+
+#~ msgctxt "Space-separated list of words meaning 7"
+#~ msgid "seven seventh"
+#~ msgstr "set setè setena"
+
+#~ msgctxt "Space-separated list of words meaning 8"
+#~ msgid "eight eighth"
+#~ msgstr "vuit vuitè vuitena"
+
+#~ msgctxt "Space-separated list of words meaning 9"
+#~ msgid "nine ninth"
+#~ msgstr "nou novè novena"
+
+#~ msgctxt "Space-separated list of words meaning 10"
+#~ msgid "ten tenth"
+#~ msgstr "deu desè desena"
+
+#~ msgctxt ""
+#~ "List of lowercase prefixes or suffix that need to be split from values"
+#~ msgid "k m g b kb mb gb tb kib mib gib tib h am pm th rd nd st"
+#~ msgstr "k m g b kb mb gb tb kib mib gib tib h am pm r n t è th rd nd st"
+
+#~ msgctxt "List of words representing a file"
+#~ msgid "file files"
+#~ msgstr "fitxer fitxers"
+
+#~ msgctxt "List of words representing an image"
+#~ msgid "image images picture pictures photo photos"
+#~ msgstr "imatge imatges foto fotos"
+
+#~ msgctxt "List of words representing a video"
+#~ msgid "video videos movie movies film films"
+#~ msgstr "video videos pel·lícula pel·lícules film films"
+
+#~ msgctxt "List of words representing an audio file"
+#~ msgid "music musics"
+#~ msgstr "música músiques"
+
+#~ msgctxt "List of words representing a document"
+#~ msgid "document documents"
+#~ msgstr "document documents"
+
+#~ msgctxt "List of words representing an email"
+#~ msgid "mail mails email emails e-mail e-mails message messages"
+#~ msgstr "correu correus electrònic electrònics missatge missatges"
+
+#~ msgctxt "List of words representing an archive"
+#~ msgid "archive archives tarball tarballs zip"
+#~ msgstr "arxiu arxius tarball tarballs zip"
+
+#~ msgctxt "List of words representing a folder"
+#~ msgid "folder folders directory directories"
+#~ msgstr "carpeta carpetes directori directoris"
+
+#~ msgctxt "List of words representing a contact"
+#~ msgid "contact contacts person people"
+#~ msgstr "contacte contactes persona persones gent"
+
+#~ msgctxt "List of words representing a note"
+#~ msgid "note notes"
+#~ msgstr "nota notes"
+
+#~ msgctxt "Are words of your language separated by spaces (Y/N) ?"
+#~ msgid "Y"
+#~ msgstr "S"
+
+#~ msgid "and"
+#~ msgstr "i"
+
+#~ msgid "or"
+#~ msgstr "o"
+
+#~ msgid "not"
+#~ msgstr "no"
+
+#~ msgctxt "@label file content size"
+#~ msgid "Size"
+#~ msgstr "Mida"
+
+#~ msgctxt "@label file depends from"
+#~ msgid "Depends"
+#~ msgstr "Depèn de"
+
+#~ msgctxt "@label Software used to generate content"
+#~ msgid "Generator"
+#~ msgstr "Generador"
+
+#~ msgctxt ""
+#~ "@label see http://www.semanticdesktop.org/ontologies/2007/01/19/"
+#~ "nie#hasPart"
+#~ msgid "Has Part"
+#~ msgstr "Té una part"
+
+#~ msgctxt ""
+#~ "@label see http://www.semanticdesktop.org/ontologies/2007/01/19/"
+#~ "nie#hasLogicalPart"
+#~ msgid "Has Logical Part"
+#~ msgstr "Té una part lògica"
+
+#~ msgctxt "@label parent directory"
+#~ msgid "Part of"
+#~ msgstr "Part de"
+
+#~ msgctxt "@label"
+#~ msgid "Keyword"
+#~ msgstr "Paraula clau"
+
+#~ msgctxt "@label modified date of file"
+#~ msgid "Modified"
+#~ msgstr "Modificat"
+
+#~ msgctxt "@label"
+#~ msgid "MIME Type"
+#~ msgstr "Tipus MIME"
+
+#~ msgctxt "@label"
+#~ msgid "Related To"
+#~ msgstr "Relacionat amb"
+
+#~ msgctxt "@label"
+#~ msgid "Subject"
+#~ msgstr "Assumpte"
+
+#~ msgctxt "@label music title"
+#~ msgid "Title"
+#~ msgstr "Títol"
+
+#~ msgctxt "@label file URL"
+#~ msgid "Location"
+#~ msgstr "Ubicació"
+
+#~ msgctxt "@label"
+#~ msgid "Creator"
+#~ msgstr "Creador"
+
+#~ msgctxt "@label"
+#~ msgid "Average Bitrate"
+#~ msgstr "Taxa de bits mitjana"
+
+#~ msgctxt "@label"
+#~ msgid "Channels"
+#~ msgstr "Canals"
+
+#~ msgctxt "@label number of characters"
+#~ msgid "Characters"
+#~ msgstr "Caràcters"
+
+#~ msgctxt "@label"
+#~ msgid "Codec"
+#~ msgstr "Còdec"
+
+#~ msgctxt "@label"
+#~ msgid "Color Depth"
+#~ msgstr "Profunditat de color"
+
+#~ msgctxt "@label"
+#~ msgid "Duration"
+#~ msgstr "Durada"
+
+#~ msgctxt "@label"
+#~ msgid "Filename"
+#~ msgstr "Nom de fitxer"
+
+#~ msgctxt "@label"
+#~ msgid "Hash"
+#~ msgstr "Resum"
+
+#~ msgctxt "@label"
+#~ msgid "Height"
+#~ msgstr "Alçada"
+
+#~ msgctxt "@label"
+#~ msgid "Interlace Mode"
+#~ msgstr "Mode d'entrellaçat"
+
+#~ msgctxt "@label number of lines"
+#~ msgid "Lines"
+#~ msgstr "Línies"
+
+#~ msgctxt "@label"
+#~ msgid "Programming Language"
+#~ msgstr "Llenguatge de programació"
+
+#~ msgctxt "@label"
+#~ msgid "Sample Rate"
+#~ msgstr "Freqüència de mostreig"
+
+#~ msgctxt "@label"
+#~ msgid "Width"
+#~ msgstr "Amplada"
+
+#~ msgctxt "@label number of words"
+#~ msgid "Words"
+#~ msgstr "Paraules"
+
+#~ msgctxt "@label EXIF aperture value"
+#~ msgid "Aperture"
+#~ msgstr "Obertura"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "Exposure Bias Value"
+#~ msgstr "Valor de compensació d'exposició"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "Exposure Time"
+#~ msgstr "Temps d'exposició"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "Flash"
+#~ msgstr "Flaix"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "Focal Length"
+#~ msgstr "Distància focal"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "Focal Length 35 mm"
+#~ msgstr "Distància focal en 35 mm"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "ISO Speed Ratings"
+#~ msgstr "Classificació de velocitat ISO"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "Make"
+#~ msgstr "Fabricant"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "Metering Mode"
+#~ msgstr "Mode de mesura"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "Model"
+#~ msgstr "Model"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "Orientation"
+#~ msgstr "Orientació"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "White Balance"
+#~ msgstr "Balanç de blancs"
+
+#~ msgctxt "@label video director"
+#~ msgid "Director"
+#~ msgstr "Director"
+
+#~ msgctxt "@label music genre"
+#~ msgid "Genre"
+#~ msgstr "Gènere"
+
+#~ msgctxt "@label music album"
+#~ msgid "Album"
+#~ msgstr "Àlbum"
+
+#, fuzzy
+#~| msgctxt "@label"
+#~| msgid "Sample Rate"
+#~ msgctxt "@label"
+#~ msgid "Frame Rate"
+#~ msgstr "Freqüència de mostreig"
+
+#~ msgctxt "@label"
+#~ msgid "Release Date"
+#~ msgstr "Data de publicació"
+
+#~ msgctxt "@label music track number"
+#~ msgid "Track"
+#~ msgstr "Peça"
+
+#~ msgctxt "@label resource created time"
+#~ msgid "Resource Created"
+#~ msgstr "Recurs creat"
+
+#~ msgctxt "@label"
+#~ msgid "Sub Resource"
+#~ msgstr "Sub recurs"
+
+#~ msgctxt "@label resource last modified"
+#~ msgid "Resource Modified"
+#~ msgstr "Recurs modificat"
+
+#~ msgctxt "@label"
+#~ msgid "Numeric Rating"
+#~ msgstr "Valoració numèrica"
+
+#~ msgctxt "@label"
+#~ msgid "First Usage"
+#~ msgstr "Primer ús"
+
+#~ msgctxt "@label"
+#~ msgid "Last Usage"
+#~ msgstr "Darrer ús"
+
+#~ msgctxt "@label"
+#~ msgid "Usage Count"
+#~ msgstr "Comptador d'ús"
+
+#~ msgctxt "@label"
+#~ msgid "Unix File Group"
+#~ msgstr "Grup de fitxer Unix"
+
+#~ msgctxt "@label"
+#~ msgid "Unix File Mode"
+#~ msgstr "Mode de fitxer Unix"
+
+#~ msgctxt "@label"
+#~ msgid "Unix File Owner"
+#~ msgstr "Propietari de fitxer Unix"
+
+#~ msgctxt "@label file type"
+#~ msgid "Type"
+#~ msgstr "Tipus"
+
+#~ msgctxt "@label Number of fuzzy translations"
+#~ msgid "Fuzzy Translations"
+#~ msgstr "Traduccions inexactes"
+
+#~ msgctxt "@label Name of last translator"
+#~ msgid "Last Translator"
+#~ msgstr "Últim traductor"
+
+#~ msgctxt "@label Number of obsolete translations"
+#~ msgid "Obsolete Translations"
+#~ msgstr "Traduccions obsoletes"
+
+#~ msgctxt "@label"
+#~ msgid "Translation Source Date"
+#~ msgstr "Data de l'origen de les traduccions"
+
+#~ msgctxt "@label Number of total translations"
+#~ msgid "Total Translations"
+#~ msgstr "Traduccions totals"
+
+#~ msgctxt "@label Number of translated strings"
+#~ msgid "Translated"
+#~ msgstr "Traduïdes"
+
+#~ msgctxt "@label"
+#~ msgid "Translation Date"
+#~ msgstr "Data de les traduccions"
+
+#~ msgctxt "@label Number of untranslated strings"
+#~ msgid "Untranslated"
+#~ msgstr "Sense traduir"
+
+#~ msgctxt "@info"
+#~ msgid "Delete tag"
+#~ msgstr "Elimina l'etiqueta"
+
+#~ msgctxt "@info"
+#~ msgid ""
+#~ "Should the tag <resource>%1</resource> really be deleted for all files?"
+#~ msgstr ""
+#~ "S'ha d'eliminar l'etiqueta <resource>%1</resource> de tots els fitxers?"
+
+#~ msgctxt "@title"
+#~ msgid "Delete tag"
+#~ msgstr "Elimina l'etiqueta"
+
+#~ msgctxt "@action:button"
+#~ msgid "Delete"
+#~ msgstr "Elimina"
+
+#~ msgctxt "@action:button"
+#~ msgid "Cancel"
+#~ msgstr "Cancel·la"
+
+#~ msgctxt "@label"
+#~ msgid "Performer"
+#~ msgstr "Intèrpret"
+
+#~ msgctxt "@label"
+#~ msgid "Show all tags..."
+#~ msgstr "Mostra totes les etiquetes..."
+
+#~ msgctxt ""
+#~ "@title KCategorizedSortFilterProxyModel grouping for all Nepomukj "
+#~ "resources that are of type rdfs:Resource"
+#~ msgid "Miscellaneous"
+#~ msgstr "Miscel·lània"
+
+#~ msgctxt "@title:column The Nepomuk resource label and icon"
+#~ msgid "Resource"
+#~ msgstr "Recurs"
+
+#~ msgctxt "@title:column The Nepomuk resource's RDF type"
+#~ msgid "Resource Type"
+#~ msgstr "Tipus de recurs"
+
+#~ msgctxt ""
+#~ "referring to a filter on the modification and usage date of files/"
+#~ "resources"
+#~ msgid "Anytime"
+#~ msgstr "En qualsevol moment"
+
+#~ msgctxt ""
+#~ "referring to a filter on the modification and usage date of files/"
+#~ "resources"
+#~ msgid "Today"
+#~ msgstr "Avui"
+
+#~ msgctxt ""
+#~ "referring to a filter on the modification and usage date of files/"
+#~ "resources"
+#~ msgid "This Week"
+#~ msgstr "Aquesta setmana"
+
+#~ msgctxt ""
+#~ "referring to a filter on the modification and usage date of files/"
+#~ "resources"
+#~ msgid "Last Week"
+#~ msgstr "Darrera setmana"
+
+#~ msgctxt ""
+#~ "referring to a filter on the modification and usage date of files/"
+#~ "resources"
+#~ msgid "This Month"
+#~ msgstr "Aquest mes"
+
+#~ msgctxt ""
+#~ "referring to a filter on the modification and usage date of files/"
+#~ "resources"
+#~ msgid "Last Month"
+#~ msgstr "Darrer mes"
+
+#~ msgctxt ""
+#~ "referring to a filter on the modification and usage date of files/"
+#~ "resources"
+#~ msgid "This Year"
+#~ msgstr "Aquest any"
+
+#~ msgctxt ""
+#~ "referring to a filter on the modification and usage date of files/"
+#~ "resources"
+#~ msgid "Last Year"
+#~ msgstr "Darrer any"
+
+#~ msgctxt ""
+#~ "referring to a filter on the modification and usage date of files/"
+#~ "resources that will open a dialog to choose a date range"
+#~ msgid "Custom..."
+#~ msgstr "Personalitzat..."
+
+#~ msgid "This Week"
+#~ msgstr "Aquesta setmana"
+
+#~ msgid "This Month"
+#~ msgstr "Aquest mes"
+
+#~ msgctxt ""
+#~ "@option:check An item in a list of resources that allows to query for "
+#~ "more resources to put in the list"
+#~ msgid "More..."
+#~ msgstr "Més..."
+
+#~ msgctxt "@option:check A filter on file type"
+#~ msgid "Documents"
+#~ msgstr "Documents"
+
+#~ msgctxt "@option:check A filter on file type - audio files"
+#~ msgid "Audio"
+#~ msgstr "Àudio"
+
+#~ msgctxt "@option:check A filter on file type - media video"
+#~ msgid "Video"
+#~ msgstr "Vídeo"
+
+#~ msgctxt "@option:check A filter on file type"
+#~ msgid "Images"
+#~ msgstr "Imatges"
+
+#~ msgctxt ""
+#~ "@option:radio A filter on prioritizing/sorting a selection of resources"
+#~ msgid "No priority"
+#~ msgstr "Sense prioritat"
+
+#~ msgctxt ""
+#~ "@option:radio A filter on prioritizing/sorting a selection of resources"
+#~ msgid "Last modified"
+#~ msgstr "Última modificació"
+
+#~ msgctxt ""
+#~ "@option:radio A filter on prioritizing/sorting a selection of resources"
+#~ msgid "Most important"
+#~ msgstr "Més importants"
+
+#~ msgctxt ""
+#~ "@option:radio A filter on prioritizing/sorting a selection of resources"
+#~ msgid "Never opened"
+#~ msgstr "Mai oberts"
+
+#~ msgctxt "@option:radio A filter on the rating of a resource"
+#~ msgid "Any Rating"
+#~ msgstr "Qualsevol puntuació"
+
+#~ msgctxt "@option:radio A filter on the rating of a resource"
+#~ msgid "1 or more"
+#~ msgstr "1 o més"
+
+#~ msgctxt "@option:radio A filter on the rating of a resource"
+#~ msgid "2 or more"
+#~ msgstr "2 o més"
+
+#~ msgctxt "@option:radio A filter on the rating of a resource"
+#~ msgid "3 or more"
+#~ msgstr "3 o més"
+
+#~ msgctxt "@option:radio A filter on the rating of a resource"
+#~ msgid "4 or more"
+#~ msgstr "4 o més"
+
+#~ msgctxt "@option:radio A filter on the rating of a resource"
+#~ msgid "Max Rating"
+#~ msgstr "Puntuació màxima"
+
+#~ msgid "Enter Search Terms..."
+#~ msgstr "Introduïu els termes de la cerca..."
+
+#~ msgid "Search"
+#~ msgstr "Cerca"
+
+#~ msgctxt "@option:check A filter on resource type"
+#~ msgid "Emails"
+#~ msgstr "Correus electrònics"
+
+#~ msgctxt "@option:check A filter on resource type"
+#~ msgid "Tasks"
+#~ msgstr "Tasques"
+
+#~ msgctxt "@option:check A filter on resource type"
+#~ msgid "Tags"
+#~ msgstr "Etiquetes"
+
+#~ msgctxt "@option:check Do filter on type - show only files"
+#~ msgid "Files"
+#~ msgstr "Fitxers"
+
+#~ msgctxt "@option:check Do filter on type - show everything but files"
+#~ msgid "Other"
+#~ msgstr "Altres"
