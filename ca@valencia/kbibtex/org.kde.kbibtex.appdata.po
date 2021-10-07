@@ -1,0 +1,113 @@
+# Translation of org.kde.kbibtex.appdata.po to Catalan (Valencian)
+# Copyright (C) 2014-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2017, 2019, 2020.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2017, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: kbibtex appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2018-10-28 02:37+0100\n"
+"PO-Revision-Date: 2020-07-13 13:42+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 20.04.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.kbibtex.appdata.xml:6
+msgid "KBibTeX"
+msgstr "KBibTeX"
+
+#. (itstool) path: component/summary
+#: org.kde.kbibtex.appdata.xml:7
+msgid "BibTeX editor by KDE to edit bibliographies used with LaTeX"
+msgstr ""
+"Editor de BibTeX, creat per la comunitat KDE, per a editar bibliografies "
+"emprant LaTeX"
+
+#. (itstool) path: description/p
+#: org.kde.kbibtex.appdata.xml:9
+msgid ""
+"KBibTeX is a reference management application which can be used to collect "
+"TeX/LaTeX bibliographies and export them in various formats."
+msgstr ""
+"El KBibTeX és una aplicació per a la gestió de referències que es pot "
+"utilitzar per a recollir bibliografies en TeX/LaTeX i exportar-les a "
+"diversos formats."
+
+#. (itstool) path: description/p
+#: org.kde.kbibtex.appdata.xml:12
+msgid "KBibTeX can do the following things:"
+msgstr "KBibTeX pot fer les següents coses:"
+
+#. (itstool) path: ul/li
+#: org.kde.kbibtex.appdata.xml:14
+msgid ""
+"Preview bibliography entries in various formats (Source (BibTeX), Source "
+"(RIS), Wikipedia, standard (XML/XSLT), fancy (XML/XSLT), and abstract-only "
+"(XML/XSLT)). Additional preview styles become available when bibtex2html is "
+"installed."
+msgstr ""
+"Vista prèvia de les entrades a la bibliografia en diversos formats (Origen "
+"(BibTeX), Origen (RIS), Viquipèdia, estàndard (XML/XSLT), elaborat (XML/"
+"XSLT), i només el resum (XML/XSLT)). Hi ha disponibles estils de vista "
+"prèvia addicionals quan s'instal·la «bibtex2html»."
+
+#. (itstool) path: ul/li
+#: org.kde.kbibtex.appdata.xml:15
+msgid ""
+"Import data in various bibliography file formats such as BibTeX, RIS and ISI "
+"(requires bibutils) and export data to PDF (requires pdflatex), PostScript "
+"(requires latex), RTF (requires latex2rtf), and HTML."
+msgstr ""
+"Importar les dades en diversos formats de fitxer per a bibliografies, tals "
+"com BibTeX, RIS i ISI (requereix «bibutils») i exporta les dades a PDF "
+"(requereix «pdflatex»), PostScript (requereix «latex»), RTF (requereix "
+"«latex2rtf»), i HTML."
+
+#. (itstool) path: ul/li
+#: org.kde.kbibtex.appdata.xml:16
+msgid ""
+"Search for the bibliography entries data in online databases (e.g. Google "
+"Scholar, ACM, IEEE, arXiv, etc.)"
+msgstr ""
+"Cerca dades d'entrades bibliogràfiques a les bases de dades en línia (p. "
+"ex., Google Scholar, ACM, IEEE, arXiv, etc.)"
+
+#. (itstool) path: ul/li
+#: org.kde.kbibtex.appdata.xml:17
+msgid ""
+"Preview local or remote (online) resources, e.g. PDF files, linked in the "
+"BibTEX entry."
+msgstr ""
+"Vista prèvia de recursos locals o remots (connectats), p. ex., fitxers PDF, "
+"vinculats amb l'entrada de BibTeX."
+
+#. (itstool) path: ul/li
+#: org.kde.kbibtex.appdata.xml:18
+msgid "Find and merge duplicate entries in bibliography."
+msgstr "Cerca i fusiona les entrades duplicades a la bibliografia."
+
+#. (itstool) path: ul/li
+#: org.kde.kbibtex.appdata.xml:19
+msgid "Integrate your bibliographies with LaTeX editors such as Kile and LyX."
+msgstr "Integra les vostres bibliografies amb editors de LaTeX com Kile i LyX."
+
+#. (itstool) path: ul/li
+#: org.kde.kbibtex.appdata.xml:20
+msgid "Import your Zotero library."
+msgstr "Importa la vostra biblioteca de Zotero."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kbibtex.appdata.xml:28
+msgid "KBibTeX main window"
+msgstr "Finestra principal del KBibTeX"

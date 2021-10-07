@@ -1,0 +1,39 @@
+# Translation of kde-gtk-config._json_.po to Catalan (Valencian)
+# Copyright (C) 2019-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kde-gtk-config json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-02-13 03:56+0000\n"
+"PO-Revision-Date: 2020-02-13 22:13+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: kded/gtkconfig.json
+msgctxt "Name"
+msgid "GNOME/GTK Settings Synchronization Service"
+msgstr "Servei de sincronització de la configuració del GNOME/GTK"
+
+#: kded/gtkconfig.json
+msgctxt "Description"
+msgid "Automatically applies settings to GNOME/GTK applications"
+msgstr "Aplica automàticament la configuració a les aplicacions GNOME/GTK"
+
+#~ msgctxt "Name"
+#~ msgid "Plasma GTKd"
+#~ msgstr "Plasma GTKd"
+
+#~ msgctxt "Description"
+#~ msgid "GTK config management"
+#~ msgstr "Gestió de la configuració del GTK"

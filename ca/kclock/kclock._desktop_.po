@@ -1,0 +1,73 @@
+# Translation of kclock._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2020-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2020.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kclock desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-07-29 00:24+0000\n"
+"PO-Revision-Date: 2021-03-24 08:16+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.12.3\n"
+
+#: kclockd.notifyrc:10 org.kde.kclockd-autostart.desktop:8
+#: org.kde.kclock.desktop:9
+msgctxt "Name"
+msgid "Clock"
+msgstr "Rellotge"
+
+#: kclockd.notifyrc:40
+msgctxt "Name"
+msgid "Timer finished"
+msgstr "El temporitzador ha finalitzat"
+
+#: kclockd.notifyrc:68
+msgctxt "Comment"
+msgid "Your timer has finished!"
+msgstr "El temporitzador ha finalitzat!"
+
+#: kclockd.notifyrc:101
+msgctxt "Name"
+msgid "Alarm"
+msgstr "Alarma"
+
+#: org.kde.kclockd-autostart.desktop:36
+msgctxt "Comment"
+msgid "A simple clock application in Kirigami."
+msgstr "Una aplicació senzilla de rellotge creada amb el Kirigami."
+
+#: org.kde.kclock.desktop:37
+msgctxt "Comment"
+msgid "A convergent clock application for Plasma."
+msgstr "Una aplicació de rellotge convergent per al Plasma."
+
+#: src/plasmoid/KClock_1x2/package/metadata.desktop:5
+msgctxt "Name"
+msgid "KClock_1x2"
+msgstr "KClock_1x2"
+
+#: src/plasmoid/KClock_1x2/package/metadata.desktop:33
+msgctxt "Comment"
+msgid "KClock widget (1x2)"
+msgstr "Giny del KClock (1x2)"
+
+#: src/plasmoid/KClock_KWeather_3x3/package/metadata.desktop:5
+msgctxt "Name"
+msgid "KClock_KWeather_3x3"
+msgstr "KClock_KWeather_3x3"
+
+#: src/plasmoid/KClock_KWeather_3x3/package/metadata.desktop:32
+msgctxt "Comment"
+msgid "KClock widget (3x3 with Weather info)"
+msgstr "Giny del KClock (3x3 amb informació meteorològica)"

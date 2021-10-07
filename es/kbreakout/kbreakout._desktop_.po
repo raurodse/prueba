@@ -1,0 +1,108 @@
+# Translation of kbreakout._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2002-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 2002, 2005.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2003, 2017, 2020, 2021.
+# Albert Astals Cid <aacid@kde.org>, 2003, 2004, 2005, 2007, 2008, 2009.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2004, 2005, 2006, 2008, 2010, 2012, 2014, 2015, 2021.
+# Orestes Mas <orestes@tsc.upc.edu>, 2009.
+# Manuel Tortosa <manutortosa@chakra-project.org>, 2009, 2010.
+# Manuel Tortosa Moreno <manutortosa@chakra-project.org>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: kbreakout desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-07-19 00:26+0000\n"
+"PO-Revision-Date: 2021-09-13 16:38+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.12.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: \n"
+"X-Accelerator-Marker: &\n"
+
+#: src/org.kde.kbreakout.desktop:2
+msgctxt "Name"
+msgid "KBreakOut"
+msgstr "KBreakOut"
+
+#: src/org.kde.kbreakout.desktop:57
+msgctxt "GenericName"
+msgid "Breakout-like Game"
+msgstr "Joc similar al Breakout"
+
+#: src/org.kde.kbreakout.desktop:108
+msgctxt "Comment"
+msgid "Classic arcade game"
+msgstr "Joc arcade clàssic"
+
+#: themes/alienbreakout.desktop:2
+msgctxt "Name"
+msgid "Alien Breakout"
+msgstr "Breakout alienígena"
+
+#: themes/alienbreakout.desktop:45
+msgctxt "Description"
+msgid "Breakout before the aliens do."
+msgstr "El Breakout abans que el fessin els alienígenes."
+
+#: themes/crystal.desktop:2
+msgctxt "Name"
+msgid "Crystal clear"
+msgstr "Cristall clar"
+
+#: themes/crystal.desktop:51
+msgctxt "Description"
+msgid "Crystal-like theme for KBreakOut"
+msgstr "Tema cristal·lí per al KBreakOut"
+
+#: themes/default.desktop:2
+msgctxt "Name"
+msgid "Egyptian Breakout"
+msgstr "Breakout egipci"
+
+#: themes/default.desktop:46
+msgctxt "Description"
+msgid "Egyptian style breakout theme."
+msgstr "Tema del Breakout d'estil egipci."
+
+#: themes/IceWorld.desktop:2
+msgctxt "Name"
+msgid "IceWorld"
+msgstr "Món de gel"
+
+#: themes/IceWorld.desktop:52
+msgctxt "Description"
+msgid "Ice chilled theme"
+msgstr "Tema congelat"
+
+#: themes/simple.desktop:2
+msgctxt "Name"
+msgid "Simple"
+msgstr "Simple"
+
+#: themes/simple.desktop:54
+msgctxt "Description"
+msgid "Simple KBreakOut theme"
+msgstr "Tema senzill del KBreakOut"
+
+#: themes/web20.desktop:2
+msgctxt "Name"
+msgid "WEB 2.0"
+msgstr "WEB 2.0"
+
+#: themes/web20.desktop:52
+msgctxt "Description"
+msgid ""
+"Web 2.0 theme showcases graphical elements reminiscent of those used in "
+"popular 'WEB 2.0' movement, currently taking the interweb by storm."
+msgstr ""
+"El tema Web 2.0 presenta els elements gràfics que recorden als emprats en el "
+"popular moviment «WEB 2.0», actualment adoptat per la interweb de storm."

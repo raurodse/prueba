@@ -1,0 +1,51 @@
+# Translation of org.kde.kiten.appdata.po to Catalan (Valencian)
+# Copyright (C) 2014-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2014, 2016, 2018.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kiten appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2018-11-08 03:52+0100\n"
+"PO-Revision-Date: 2020-12-28 18:13+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 20.08.2\n"
+
+#. (itstool) path: component/name
+#: org.kde.kiten.appdata.xml:6
+msgid "Kiten"
+msgstr "Kiten"
+
+#. (itstool) path: component/summary
+#: org.kde.kiten.appdata.xml:7
+msgid "Japanese Reference and Study Tool"
+msgstr "Eina de referència i estudi del japonés"
+
+#. (itstool) path: description/p
+#: org.kde.kiten.appdata.xml:9
+msgid ""
+"Kiten is a Japanese reference and study tool. It features an English to "
+"Japanese and Japanese to English dictionary, as well as a Kanji dictionary. "
+"For the Kanji dictionary there are multiple ways supported to look up "
+"characters."
+msgstr ""
+"El Kiten és una eina de referència i estudi del japonés. Inclou un "
+"diccionari de l'anglés al japonés i del japonés a l'anglés, i també un "
+"diccionari de Kanji. Per al diccionari de Kanji, s'admeten múltiples maneres "
+"de cercar els caràcters."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kiten.appdata.xml:17
+msgid "Practicing Japanese dictionary with Kiten"
+msgstr "Practicant el diccionari de japonés amb el Kiten"

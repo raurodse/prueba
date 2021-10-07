@@ -1,0 +1,70 @@
+# Translation of org.kde.calligrasheets.appdata.po to Catalan (Valencian)
+# Copyright (C) 2014-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2014, 2015, 2016.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: calligra appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2018-08-16 13:04+0200\n"
+"PO-Revision-Date: 2020-07-09 15:20+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 20.07.70\n"
+
+#. (itstool) path: component/name
+#: org.kde.calligrasheets.appdata.xml:6
+msgid "Calligra Sheets"
+msgstr "Sheets del Calligra"
+
+#. (itstool) path: component/summary
+#: org.kde.calligrasheets.appdata.xml:7
+msgid "Spreadsheet"
+msgstr "Full de càlcul"
+
+#. (itstool) path: description/p
+#: org.kde.calligrasheets.appdata.xml:9
+msgid ""
+"Calligra Sheets is a fully-featured calculation and spreadsheet tool. Use it "
+"to quickly create and calculate various business-related spreadsheets, such "
+"as income and expenditure, employee working hours, etc."
+msgstr ""
+"El Sheets del Calligra és una eina de full de càlcul plenament funcional. "
+"S'usa per a crear i calcular ràpidament diversos fulls de càlcul relacionats "
+"amb els negocis, com els ingressos i despeses, les hores de treball dels "
+"empleats, etc."
+
+#. (itstool) path: description/p
+#: org.kde.calligrasheets.appdata.xml:13
+msgid "Features:"
+msgstr "Característiques:"
+
+#. (itstool) path: ul/li
+#: org.kde.calligrasheets.appdata.xml:15
+msgid "Use shapes to take notes or mind maps"
+msgstr "Usa formes per a prendre notes o mapes mentals"
+
+#. (itstool) path: ul/li
+#: org.kde.calligrasheets.appdata.xml:16
+msgid "Large range of pre-defined templates"
+msgstr "Àmplia gamma de plantilles predefinides"
+
+#. (itstool) path: ul/li
+#: org.kde.calligrasheets.appdata.xml:17
+msgid "Powerful and comprehensive formula list"
+msgstr "Llista de fórmules potent i extensa"
+
+#. (itstool) path: ul/li
+#: org.kde.calligrasheets.appdata.xml:18
+msgid "Work in a familiar environment"
+msgstr "Treball en un entorn familiar"

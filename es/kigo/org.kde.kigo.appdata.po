@@ -1,0 +1,52 @@
+# Translation of org.kde.kigo.appdata.po to Catalan (Valencian)
+# Copyright (C) 2017 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: kigo appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2017-04-17 01:16+0200\n"
+"PO-Revision-Date: 2017-12-25 22:43+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.kigo.appdata.xml:6
+msgid "Kigo"
+msgstr "Kigo"
+
+#. (itstool) path: component/summary
+#: org.kde.kigo.appdata.xml:7
+msgid "Go Board Game"
+msgstr "Joc de taula Go"
+
+#. (itstool) path: description/p
+#: org.kde.kigo.appdata.xml:9
+msgid ""
+"Kigo is an open-source implementation of the popular Go game. Go is a "
+"strategic board game for two players. It is also known as igo (Japanese), "
+"weiqi or wei ch'i (Chinese) or baduk (Korean). Go is noted for being rich in "
+"strategic complexity despite its simple rules. The game is played by two "
+"players who alternately place black and white stones (playing pieces, now "
+"usually made of glass or plastic) on the vacant intersections of a grid of "
+"19x19 lines (9x9 or 13x13 for easier games)."
+msgstr ""
+"El Kigo és una implementació de codi obert del popular joc Go. El Go és un "
+"joc de taula d'estratègia per a dos jugadors. També es coneix com a "
+"«igo» (japonés), «weiqi» o «wei ch'i» (xinés) o «baduk» (coreà). El Go "
+"destaca per la seua riquesa en la complexitat estratègica malgrat tindre "
+"regles senzilles. El joc es juga entre dos jugadors que alternativament "
+"situen pedres negres i blanques (peces de joc, ara fetes normalment de vidre "
+"o plàstic) a les interseccions lliures d'una quadrícula de 19x19 línies (9x9 "
+"o 13x13 per les partides més fàcils)."

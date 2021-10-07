@@ -1,0 +1,214 @@
+# Translation of org.kde.smb4k.appdata.po to Catalan (Valencian)
+# Copyright (C) 2014-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2016, 2018, 2020.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2016, 2019, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: smb4k appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-13 02:12+0200\n"
+"PO-Revision-Date: 2021-09-05 12:10+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 20.12.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.smb4k.appdata.xml:7
+msgid "Smb4K"
+msgstr "Smb4K"
+
+#. (itstool) path: component/summary
+#: org.kde.smb4k.appdata.xml:8
+msgid "Discover and mount SAMBA and Windows shares over the network"
+msgstr "Descobreix i munta les comparticions de SAMBA i Windows sobre la xarxa"
+
+#. (itstool) path: description/p
+#: org.kde.smb4k.appdata.xml:10
+msgid ""
+"Smb4K is an advanced network neighborhood browser and Samba share mounting "
+"utility. It is based on the KDE Frameworks 5 and Samba's client library "
+"(libsmbclient). It scans your network neighborhood for all available "
+"workgroups, servers and shares and can mount all desired shares to your "
+"local file system."
+msgstr ""
+"El Smb4K és un explorador avançat del veïnatge de xarxa i una utilitat per a "
+"muntar les comparticions de Samba. Està basat en els Frameworks 5 del KDE i "
+"la biblioteca client de Samba (libsmbclient). Explora el vostre veïnatge de "
+"xarxa per a tots els grups de treball disponibles, servidors i "
+"comparticions, i pot muntar totes les comparticions desitjades al vostre "
+"sistema de fitxers local."
+
+#. (itstool) path: description/p
+#: org.kde.smb4k.appdata.xml:13
+msgid ""
+"Smb4K is based on Samba's client library. Its purpose is to provide a "
+"program that is easy to use and has as many features as possible."
+msgstr ""
+"El Smb4K està basat en la biblioteca client de Samba. La seua finalitat és "
+"proporcionar un programa de fàcil ús i contindre tantes característiques com "
+"siga possible."
+
+#. (itstool) path: description/p
+#: org.kde.smb4k.appdata.xml:16
+msgid "Features:"
+msgstr "Característiques:"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:20
+msgid "Scanning for (active) workgroups, hosts, and shares"
+msgstr "Exploració de grups de treball (actius), servidors i comparticions"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:21
+msgid "Support of the CIFS (Linux) and SMBFS (FreeBSD) file system"
+msgstr "Implementació dels sistemes de fitxers CIFS (Linux) i SMBFS (FreeBSD)"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:22
+msgid "Mounting and unmounting of shares"
+msgstr "El muntatge i desmuntatge de les comparticions"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:23
+msgid "Access to the files of a mounted share using a file manager or terminal"
+msgstr ""
+"Accés als fitxers d'una compartició muntada emprant un gestor de fitxers o "
+"terminal"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:24
+msgid "Auto-detection of external mounts and unmounts"
+msgstr "Detecció automàtica de muntatges i desmuntatges externs"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:25
+msgid "Remounting of previously used shares on program start"
+msgstr ""
+"Torna a muntar les comparticions emprades anteriorment en iniciar el programa"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:26
+msgid "Miscellaneous infos about remote network items and mounted shares"
+msgstr ""
+"Informacions diverses sobre elements de xarxa remots i les comparticions "
+"muntades"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:27
+msgid "Network search"
+msgstr "Cerca a la xarxa"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:28
+msgid "Preview of the contents of a remote share"
+msgstr "Vista prèvia del contingut d'una compartició remota"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:29
+msgid "Default login"
+msgstr "Inici de sessió predeterminat"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:30
+msgid "Special handling of homes shares"
+msgstr "Gestió especial de les comparticions personals"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:31
+msgid "Ability to bookmark favorite shares"
+msgstr "La capacitat d'apuntar les comparticions com a adreces d'interés"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:32
+msgid "System tray widget"
+msgstr "Un giny de la safata del sistema"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:33
+msgid "Support of advanced mount options"
+msgstr "Implementació de les opcions avançades de muntatge"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:34
+msgid "Support of printer shares"
+msgstr "Implementació de les impressores compartides"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:35
+msgid "KWallet support"
+msgstr "Implementació del KWallet"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:36
+msgid "Synchronization of a remote share with a local copy and vice versa"
+msgstr ""
+"Sincronització d'una compartició remota amb una còpia local i viceversa"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:37
+msgid "Ability to define custom options for individual servers and shares"
+msgstr ""
+"La capacitat per a definir opcions personalitzades individuals per a "
+"servidors i comparticions"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:38
+msgid "Laptop support through the Solid hardware device framework"
+msgstr ""
+"Implementació per a portàtils a través del marc de treball Solid per a "
+"dispositius de maquinari"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:39
+msgid "Wake-On-LAN capabilities"
+msgstr "Capacitats de l'activació per LAN (Wake-On-LAN)"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:40
+msgid "Plasmoid for desktop integration"
+msgstr "Plasmoide per a la integració amb l'escriptori"
+
+#. (itstool) path: ul/li
+#: org.kde.smb4k.appdata.xml:41
+msgid "Profiles for different network neighborhood setups"
+msgstr "Perfils per a diferents configuracions del veïnatge de xarxa"
+
+#. (itstool) path: description/p
+#: org.kde.smb4k.appdata.xml:43
+msgid ""
+"If you are working in a Windows dominated network environment, you may want "
+"to install this application to be able to easily access the provided Windows "
+"shares."
+msgstr ""
+"Si esteu treballant en un entorn de xarxa dominat per Windows, és possible "
+"que vulgueu instal·lar aquesta aplicació per a poder accedir amb facilitat a "
+"les comparticions proporcionades per Windows."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.smb4k.appdata.xml:49
+msgid "The main window"
+msgstr "La finestra principal"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.smb4k.appdata.xml:53
+msgid "The plasmoid"
+msgstr "El plasmoide"
+
+#~ msgid "WINS server support"
+#~ msgstr "Implementació del servidor WINS"
+
+#~ msgid ""
+#~ "Several methods to look up the initial list of workgroups and domains"
+#~ msgstr ""
+#~ "Hi ha diversos mètodes per a cercar la llista inicial dels grups de "
+#~ "treball i dominis"

@@ -1,0 +1,89 @@
+# Translation of kmix._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2000-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 2000, 2005.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2002, 2003, 2004, 2005, 2007, 2008, 2009, 2011, 2018.
+# Albert Astals Cid <aacid@kde.org>, 2004.
+# Joan Maspons <joanmaspons@gmail.com>, 2009.
+# Manuel Tortosa <manutortosa@chakra-project.org>, 2010.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2017, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kmix desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-02-12 02:51+0000\n"
+"PO-Revision-Date: 2021-02-12 19:26+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.12.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: desktop/kmix_autostart.desktop:13 desktop/org.kde.kmix.desktop:8
+msgctxt "GenericName"
+msgid "Sound Mixer"
+msgstr "Mesclador de so"
+
+#: desktop/kmix_autostart.desktop:65 desktop/org.kde.kmix.desktop:60
+msgctxt "Name"
+msgid "KMix"
+msgstr "KMix"
+
+#: desktop/kmixctrl_restore.desktop:3
+msgctxt "Name"
+msgid "Restore Mixer Settings"
+msgstr "Restaura l'arranjament del mesclador"
+
+#: desktop/kmixd.desktop:4
+msgctxt "Name"
+msgid "KMix Daemon"
+msgstr "Dimoni del KMix"
+
+#: desktop/kmixd.desktop:37
+msgctxt "Comment"
+msgid "Monitors sound devices"
+msgstr "Controla els dispositius de so"
+
+#: desktop/kmix.notifyrc:4
+msgctxt "Comment"
+msgid "Sound Mixer"
+msgstr "Mesclador de so"
+
+#: desktop/kmix.notifyrc:58
+msgctxt "Name"
+msgid "Audio Device Fallback"
+msgstr "Dispositiu d'àudio alternatiu"
+
+#: desktop/kmix.notifyrc:109
+msgctxt "Comment"
+msgid ""
+"Notification on automatic fallback if the preferred device is unavailable"
+msgstr ""
+"Notificació del canvi automàtic al dispositiu alternatiu si el dispositiu "
+"preferit no està disponible"
+
+#: desktop/org.kde.kmix.desktop:112
+msgctxt "Comment"
+msgid "Control sound volumes"
+msgstr "Controla els volums del so"
+
+#: desktop/restore_kmix_volumes.desktop:8
+msgctxt "Name"
+msgid "Restore Mixer Volumes"
+msgstr "Restaura els volums del mesclador"
+
+#: plasma/engine/plasma-dataengine-mixer.desktop:2
+msgctxt "Name"
+msgid "Mixer DataEngine"
+msgstr "Motor de dades del mesclador"
+
+#~ msgctxt "Comment"
+#~ msgid "KMixD Mixer Service"
+#~ msgstr "Servei de mesclador KMixD"

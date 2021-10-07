@@ -1,0 +1,233 @@
+# Translation of elisa-kde-org_www.po to Catalan (Valencian)
+# Copyright (C) 2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-elisa-kde-org\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"PO-Revision-Date: 2021-07-01 10:46+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: config.yaml:0
+msgid "Elisa"
+msgstr "Elisa"
+
+#: config.yaml:0
+msgid "Donate"
+msgstr "Donatius"
+
+#: content/_index.md:0
+msgid "A music player that is simple, reliable, and a joy to use."
+msgstr "Un reproductor musical que és senzill, fiable i agradable d'emprar."
+
+#: content/download.md:0
+msgid "Download"
+msgstr "Baixada"
+
+#: content/download.md:0
+msgid "org.kde.elisa.desktop"
+msgstr "org.kde.elisa.desktop"
+
+#: content/download.md:0
+msgid "/assets/img/windows.png"
+msgstr "/assets/img/windows.png"
+
+#: content/download.md:0
+msgid ""
+"* [Microsoft store](https://www.microsoft.com/en-us/p/elisa/9pb5md7zh8tl)\n"
+"* [Win64 executable](https://binary-factory.kde.org/view/Windows%2064-bit/"
+"job/Elisa_Release_win64/)\n"
+msgstr ""
+"* [Microsoft Store](https://www.microsoft.com/en-us/p/elisa/9pb5md7zh8tl)\n"
+"* [Executable Win64](https://binary-factory.kde.org/view/Windows%2064-bit/"
+"job/Elisa_Release_win64/)\n"
+
+#: content/get-involved.md:0
+msgid "Get Involved"
+msgstr "Col·laboreu-hi"
+
+#: content/get-involved.md:0
+msgid ""
+"Most development-related discussions take place on the [Elisa mailing list]"
+"(http://mail.kde.org/mailman/listinfo/).\n"
+"Just join in, say hi and tell us what you would like to help us with!\n"
+msgstr ""
+"La majoria dels debats relacionats amb el desenvolupament tenen lloc a la "
+"[llista de correu de l'Elisa](http://mail.kde.org/mailman/listinfo/).\n"
+"Uniu-vos-hi, digueu hola i expliqueu amb què vos agradaria ajudar!\n"
+
+#: content/get-involved.md:5
+msgid ""
+"Want to contribute to Elisa? Check out [Phabricator](https://phabricator.kde."
+"org/tag/elisa/) for some fun task or [browse the source code](https://invent."
+"kde.org/multimedia/elisa)."
+msgstr ""
+"Voleu col·laborar amb l'Elisa? Reviseu el [Phabricator](https://phabricator."
+"kde.org/tag/elisa/) cercant alguna tasca interessant o [exploreu el codi "
+"font](https://invent.kde.org/multimedia/elisa)."
+
+#: content/users.md:0
+msgid "User support"
+msgstr "Suport a l'usuari"
+
+#: content/users.md:0
+msgid "https://forum.kde.org/"
+msgstr "https://forum.kde.org/"
+
+#: content/users.md:0
+msgid "https://docs.kde.org/stable5/en/elisa/elisa/index.html"
+msgstr "https://docs.kde.org/stable5/ca/elisa/elisa/index.html"
+
+#: i18n/en.yaml:0
+msgid "Linux"
+msgstr "Linux"
+
+#: i18n/en.yaml:0
+msgid "FreeBSD"
+msgstr "FreeBSD"
+
+#: i18n/en.yaml:0
+msgid "Windows"
+msgstr "Windows"
+
+#: i18n/en.yaml:0
+msgid "Other ways to download"
+msgstr "Altres maneres de baixar"
+
+#: i18n/en.yaml:0
+msgid ""
+"<b>Elisa</b> is a music player developed by the KDE community that strives "
+"to be simple and nice to use. We also recognize that we need a flexible "
+"product to account for the different workflows and use-cases of our users. "
+"We focus on a very good integration with the Plasma desktop of the KDE "
+"community without compromising support for other platforms (other Linux "
+"desktop environments, Windows, and Android). We are creating a reliable "
+"product that is a joy to use and respects our users' privacy. As such, we "
+"prefer to support online services where users are in control of their data."
+msgstr ""
+"L'<b>Elisa</b> és un reproductor musical desenvolupat per la comunitat KDE "
+"que s'esforça per ser senzill i agradable d'emprar. També tenim en compte "
+"que es necessita un producte flexible que contempli els diferents fluxos de "
+"treball i casos d'ús dels nostres usuaris. Ens centrem en una integració "
+"molt bona amb l'escriptori Plasma de la comunitat KDE, sense comprometre el "
+"suport d'altres plataformes (els altres entorns d'escriptori de Linux, "
+"Windows i Android). Estem creant un producte fiable, el qual és una alegria "
+"d'emprar i respecta la privadesa dels nostres usuaris. Per tant, preferirem "
+"donar suport als serveis en línia on els usuaris tenen el control de les "
+"seues dades."
+
+#: i18n/en.yaml:0
+msgid "Available on all major platforms"
+msgstr "Disponible a totes les plataformes principals"
+
+#: i18n/en.yaml:0
+msgid "Browse music by album, artist, or tracks"
+msgstr "Exploreu la música per els àlbums, artistes, o peces"
+
+#: i18n/en.yaml:0
+msgid ""
+"Elisa, powered with Baloo indexing support, automatically looks in your "
+"music folder for music files and cover art. The left column has various "
+"viewing options: Now Playing, Albums, Artists, and Tracks."
+msgstr ""
+"L'Elisa, que funciona amb la tecnologia d'indexació Baloo, cerca "
+"automàticament en la vostra carpeta de música els fitxers musicals i les "
+"caràtules. La columna esquerra té diverses opcions de visualització: Ara "
+"s'està reproduint, Àlbums, Artistes, i Peces."
+
+#: i18n/en.yaml:0
+msgid "Create and manage playlists"
+msgstr "Creeu i gestioneu llistes de reproducció"
+
+#: i18n/en.yaml:0
+msgid "Create and manage all your playlists from the built-in side panel."
+msgstr ""
+"Creeu i gestioneu totes les vostres llistes de reproducció amb un plafó "
+"lateral integrat."
+
+#: i18n/en.yaml:0
+msgid "Screenshot of the playlist feature"
+msgstr "Captura de pantalla de la característica de la llista de reproducció"
+
+#: i18n/en.yaml:0
+msgid "Party mode"
+msgstr "Mode festa"
+
+#: i18n/en.yaml:0
+msgid "Turn Party Mode on with Elisa's immersive built-in party mode feature."
+msgstr ""
+"Activeu el mode festa amb la característica integrada del mode festa "
+"immersiu."
+
+#: i18n/en.yaml:0
+msgid "Screenshot of Elisa's party mode"
+msgstr "Captura de pantalla del mode festa de l'Elisa"
+
+#: i18n/en.yaml:0
+msgid "Dark / Light Themes"
+msgstr "Temes fosc/clar"
+
+#: i18n/en.yaml:0
+msgid ""
+"Elisa has both a <b>Light</b> and a <b>Dark</b> theme, so you can enjoy your "
+"music without the colors bothering you."
+msgstr ""
+"L'Elisa té tant un tema <b>Clar</b> com <b>Fosc</b>, de manera que pugueu "
+"gaudir de la música sense que els colors vos molestin."
+
+#: i18n/en.yaml:0
+msgid "Fast indexing"
+msgstr "Indexació ràpida"
+
+#: i18n/en.yaml:0
+msgid ""
+"With the help of <a href=\"https://community.kde.org/Baloo\">Baloo</a>, "
+"Elisa is fast to index and sort all your files. It is also possible to use "
+"Elisa without Baloo."
+msgstr ""
+"Amb l'ajuda del <a href=\"https://community.kde.org/Baloo\">Baloo</a>, "
+"l'Elisa és ràpid en indexar i ordenar tots els vostres fitxers. També és "
+"possible usar l'Elisa sense el Baloo."
+
+#: i18n/en.yaml:0
+msgid "Adapts to your screen"
+msgstr "S'adapta a la vostra pantalla"
+
+#: i18n/en.yaml:0
+msgid ""
+"Elisa uses <a href=\"https://develop.kde.org/frameworks/kirigami/"
+"\">Kirigami</a> to be the best convergent, responsive music player that "
+"adapts its content to your screen. Soon on your phone!"
+msgstr ""
+"L'Elisa usa el <a href=\"https://develop.kde.org/frameworks/kirigami/"
+"\">Kirigami</a> per a ser el reproductor musical més convergent i fluid que "
+"adapta el seu contingut a la vostra pantalla. Prompte al vostre telèfon!"
+
+#: i18n/en.yaml:0
+msgid "Open Source"
+msgstr "Codi obert"
+
+#: i18n/en.yaml:0
+msgid ""
+"Elisa is Open Source and you can browse, edit and share the source code.  "
+"Elisa is <a href=\"https://kde.org\">Made By KDE</a>, a community building "
+"high-quality projects that your are free to use. Check out all <a href="
+"\"https://kde.org/products\"> our projects!</a>"
+msgstr ""
+"L'Elisa és codi obert i podeu navegar, editar i compartir el codi font. "
+"L'Elisa està <a href=\"https://kde.org\">fet per KDE</a>, una comunitat que "
+"construeix projectes d'alta qualitat que sou lliure d'usar. Vegeu tots els "
+"<a href=\"https://kde.org/products\">nostres projectes!</a>"
+
+#~ msgid "LANGUAGE_NAME"
+#~ msgstr "Català"

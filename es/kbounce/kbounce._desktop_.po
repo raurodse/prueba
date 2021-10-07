@@ -1,0 +1,86 @@
+# Translation of kbounce._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2002-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 2002, 2005.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2003, 2020, 2021.
+# Albert Astals Cid <aacid@kde.org>, 2003, 2004, 2005, 2007, 2008, 2009.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2004, 2005, 2006, 2008, 2010, 2012, 2015, 2017.
+# Orestes Mas <orestes@tsc.upc.edu>, 2009.
+# Manuel Tortosa <manutortosa@chakra-project.org>, 2009, 2010.
+# Manuel Tortosa Moreno <manutortosa@chakra-project.org>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: kbounce desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-07-19 00:26+0000\n"
+"PO-Revision-Date: 2021-06-24 21:11+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 21.04.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: \n"
+"X-Accelerator-Marker: &\n"
+
+#: src/org.kde.kbounce.desktop:2
+msgctxt "Name"
+msgid "KBounce"
+msgstr "KBounce"
+
+#: src/org.kde.kbounce.desktop:78
+msgctxt "GenericName"
+msgid "Ball Bouncing Game"
+msgstr "Un joc de boles que reboten"
+
+#: src/org.kde.kbounce.desktop:131
+msgctxt "Comment"
+msgid "Ball Bouncing Game"
+msgstr "Un joc de boles que reboten"
+
+#: themes/default.desktop:3
+msgctxt "Name"
+msgid "Egyptian Bounce"
+msgstr "Bounce egipci"
+
+#: themes/default.desktop:48
+msgctxt "Description"
+msgid "KBounce, Egyptian style."
+msgstr "El KBounce, estil egipci."
+
+#: themes/geometry.desktop:3
+msgctxt "Name"
+msgid "Strange Geometry"
+msgstr "Geometria estranya"
+
+#: themes/geometry.desktop:54
+msgctxt "Description"
+msgid "A simple high-contrast theme for those who like it clean."
+msgstr ""
+"Un tema senzill en alt contrast per a aquells als que els agrada un aspecte "
+"net."
+
+#: themes/oxygen.desktop:3
+msgctxt "Name"
+msgid "Oxygen"
+msgstr "Oxygen"
+
+#: themes/roads.desktop:3
+msgctxt "Name"
+msgid "Roads"
+msgstr "Carreteres"
+
+#: themes/roads.desktop:53
+msgctxt "Description"
+msgid "Roads, cones and wheels."
+msgstr "Carreteres, cons i rodes."
+
+#: themes/the_beach.desktop:3
+msgctxt "Name"
+msgid "The Beach"
+msgstr "La platja"

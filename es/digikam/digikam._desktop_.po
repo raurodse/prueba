@@ -1,0 +1,865 @@
+# Translation of digikam._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2006-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2006, 2007, 2008, 2009, 2010, 2011, 2015, 2017, 2018, 2019, 2021.
+# Joan Maspons <joanmaspons@gmail.com>, 2009.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2012, 2017, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: digikam desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-08-21 00:26+0000\n"
+"PO-Revision-Date: 2021-04-13 18:25+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: core/app/main/digikam.notifyrc:4
+msgctxt "Comment"
+msgid "digiKam"
+msgstr "digiKam"
+
+#: core/app/main/digikam.notifyrc:55
+msgctxt "Name"
+msgid "Download complete"
+msgstr "Descàrrega completa"
+
+#: core/app/main/digikam.notifyrc:102
+msgctxt "Comment"
+msgid "A download from a camera or other device has finished."
+msgstr "Ha finalitzat la descàrrega des d'una càmera o un altre dispositiu."
+
+#: core/app/main/digikam.notifyrc:150
+msgctxt "Name"
+msgid "Save file complete"
+msgstr "S'ha completat el desament del fitxer"
+
+#: core/app/main/digikam.notifyrc:192
+msgctxt "Comment"
+msgid "A file from image editor is saved."
+msgstr "S'ha guardat un fitxer des de l'editor d'imatges."
+
+#: core/app/main/digikam.notifyrc:237
+msgctxt "Name"
+msgid "Batch queue completed"
+msgstr "La cua del lot s'ha completat"
+
+#: core/app/main/digikam.notifyrc:278
+msgctxt "Comment"
+msgid "A queue in the batch queue manager has been completed."
+msgstr "Ha finalitzat la cua en el gestor de cues de lots."
+
+#: core/app/main/digikam.notifyrc:321
+msgctxt "Name"
+msgid "Update of fingerprint database complete"
+msgstr "Actualització completada de la base de dades d'empremtes digitals"
+
+#: core/app/main/digikam.notifyrc:363
+msgctxt "Comment"
+msgid "The update of the fingerprint database has been completed."
+msgstr ""
+"L'actualització de la base de dades d'empremtes digitals ha finalitzat."
+
+#: core/app/main/digikam.notifyrc:408
+msgctxt "Name"
+msgid "Update of thumbnails database complete"
+msgstr "Actualització completada de la base de dades de miniatures"
+
+#: core/app/main/digikam.notifyrc:450
+msgctxt "Comment"
+msgid "The update of the thumbnails database has been completed."
+msgstr "L'actualització de la base de dades de miniatures ha finalitzat."
+
+#: core/app/main/digikam.notifyrc:495
+msgctxt "Name"
+msgid "Synchronization of images' metadata with database completed"
+msgstr ""
+"Sincronització completada de les metadades de les imatges amb la base de "
+"dades"
+
+#: core/app/main/digikam.notifyrc:536
+msgctxt "Comment"
+msgid ""
+"The synchronization of the images' metadata with the database has been "
+"completed."
+msgstr ""
+"La sincronització de les metadades de les imatges amb la base de dades ha "
+"finalitzat."
+
+#: core/app/main/digikam.notifyrc:580
+msgctxt "Name"
+msgid "Update of detected faces database complete"
+msgstr "Actualització completada de la base de dades de cares detectades"
+
+#: core/app/main/digikam.notifyrc:620
+msgctxt "Comment"
+msgid "The update of the detected faces database has completed."
+msgstr "L'actualització de la base de dades de cares detectades ha finalitzat."
+
+#: core/app/main/digikam.notifyrc:663
+msgctxt "Name"
+msgid "Update of duplicates items in database complete"
+msgstr "Actualització completada de la base de dades d'elements duplicats"
+
+#: core/app/main/digikam.notifyrc:702
+msgctxt "Comment"
+msgid "The update of the duplicates items in database has completed."
+msgstr ""
+"L'actualització de la base de dades d'elements duplicats ha finalitzat."
+
+#: core/app/main/digikam.notifyrc:744
+msgctxt "Name"
+msgid "Find of new items in database complete"
+msgstr "S'ha completat el trobar elements nous a la base de dades"
+
+#: core/app/main/digikam.notifyrc:783
+msgctxt "Comment"
+msgid "The scan of the new items in database has completed."
+msgstr "S'ha completat l'exploració d'elements nous a la base de dades."
+
+#: core/app/main/org.kde.digikam.desktop:8
+msgctxt "Name"
+msgid "digiKam"
+msgstr "digiKam"
+
+#: core/app/main/org.kde.digikam.desktop:64
+msgctxt "GenericName"
+msgid "Photo Management Program"
+msgstr "Programa per a la gestió de les fotografies"
+
+#: core/app/main/org.kde.digikam.desktop:115
+#: core/showfoto/main/org.kde.showfoto.desktop:101
+msgctxt "Comment"
+msgid ""
+"Manage your photographs like a professional with the power of open source"
+msgstr ""
+"Gestioneu les vostres fotografies com un professional amb la potència del "
+"programari lliure"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:64
+msgctxt "Name"
+msgid "Blue curves"
+msgstr "Corbes blaves"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:33
+msgctxt "Comment"
+msgid "A stylised theme"
+msgstr "Un tema estilitzat"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:97
+msgctxt "Name"
+msgid "Vincent Deroo Blanquart"
+msgstr "Vincent Deroo Blanquart"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:130
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:230
+msgctxt "Name"
+msgid "Gallery Introduction"
+msgstr "Introducció a galeries"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:165
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:131
+msgctxt "Name"
+msgid "Thumbnails per row"
+msgstr "Miniatures per fila"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/blueframes/blueframes.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/blueframes/blueframes.desktop:91
+msgctxt "Name"
+msgid "Blue Frames"
+msgstr "Marcs blaus"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/blueframes/blueframes.desktop:30
+msgctxt "Comment"
+msgid "A theme variation based Frames theme"
+msgstr "Una variació del tema basat en el tema Marcs"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/blueframes/blueframes.desktop:57
+#: core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:64
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:63
+msgctxt "Name"
+msgid "Elizabeth Marmorstein"
+msgstr "Elizabeth Marmorstein"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:64
+msgctxt "Name"
+msgid "Classic"
+msgstr "Clàssic"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:33
+msgctxt "Comment"
+msgid "A port of the old HTML Export plugin theme"
+msgstr "Una adaptació de l'antic tema del connector d'exportació a HTML"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:97
+#: core/dplugins/generic/tools/htmlgallery/themes/matrix/matrix.desktop:64
+#: core/dplugins/generic/tools/htmlgallery/themes/simple/simple.desktop:62
+#: core/dplugins/generic/tools/htmlgallery/themes/snow/snow.desktop:64
+msgctxt "Name"
+msgid "Aurélien Gâteau"
+msgstr "Aurélien Gâteau"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:167
+msgctxt "Name"
+msgid "Background Color"
+msgstr "Color de fons"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:203
+msgctxt "Name"
+msgid "Foreground Color"
+msgstr "Color de primer pla"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:239
+msgctxt "Name"
+msgid "Font Size"
+msgstr "Mida del tipus de lletra"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:276
+msgctxt "Name"
+msgid "Image Border Size"
+msgstr "Mida de la vora de la imatge"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:313
+msgctxt "Name"
+msgid "Image Border Color"
+msgstr "Color de la vora de la imatge"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:349
+msgctxt "Name"
+msgid "Link Color"
+msgstr "Color de l'enllaç"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:384
+msgctxt "Name"
+msgid "Visited Link Color"
+msgstr "Color de l'enllaç visitat"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:98
+msgctxt "Name"
+msgid "Clean Frames"
+msgstr "Marcs nets"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:33
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:32
+msgctxt "Comment"
+msgid "A frame theme based on Ruediger Bente's frame theme"
+msgstr "Un tema de marcs basat en el tema de marcs del Ruediger Bente"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:131
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:307
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:138
+#: core/dplugins/generic/tools/htmlgallery/themes/simple/simple.desktop:96
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:212
+msgctxt "Name"
+msgid "Style"
+msgstr "Estil"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:97
+msgctxt "Name"
+msgid "Date Frames"
+msgstr "Marcs de la data"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:129
+msgctxt "Name"
+msgid "Thumbnail Background"
+msgstr "Fons de les miniatures"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:163
+msgctxt "Name"
+msgid "Image Background (contrasting)"
+msgstr "Fons de les imatges (amb contrast)"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:197
+msgctxt "Name"
+msgid "Nav Bar Background (dark)"
+msgstr "Fons de la barra de navegació (fosc)"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:264
+msgctxt "Name"
+msgid "Caption Date Format (see xsltsl.sourceforge.net/date-time.html)"
+msgstr ""
+"Format de la data de la llegenda (vegeu xsltsl.sourceforge.net/date-time."
+"html)"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:285
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:337
+msgctxt "Comment"
+msgid ""
+"XSL Date Format String: Use the syntax given at xsltsl.sourceforge.net/date-"
+"time.html"
+msgstr ""
+"Cadena de format per a les dates en XSL: empreu la sintaxi indicada a xsltsl."
+"sourceforge.net/date-time.html"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:306
+msgctxt "Name"
+msgid "Image List Date Format"
+msgstr "Format de la data per a la llista d'imatges"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/details/details.desktop:3
+msgctxt "Comment"
+msgid "Yet another simple theme. Clean look with more image details."
+msgstr ""
+"Un altre tema senzill. Un aspecte net amb més detalls per a les imatges."
+
+#: core/dplugins/generic/tools/htmlgallery/themes/details/details.desktop:33
+msgctxt "Name"
+msgid "Details"
+msgstr "Detalls"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/details/details.desktop:66
+msgctxt "Name"
+msgid "Gianluca Urgese"
+msgstr "Gianluca Urgese"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/details/details.desktop:100
+msgctxt "Name"
+msgid "Details screenshot"
+msgstr "Captura de pantalla dels detalls"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/details/details.desktop:131
+msgctxt "Name"
+msgid "Footer information"
+msgstr "Informació del peu"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:94
+msgctxt "Name"
+msgid "Elegant"
+msgstr "Elegant"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:32
+msgctxt "Comment"
+msgid ""
+"Based on the \"Simple\" theme. Uses Lytebox by Markus F. Hay to display the "
+"images in a slideshow."
+msgstr ""
+"Basat en el tema «Senzill». Usa el Lytebox del Markus F. Hay per a mostrar "
+"les imatges en un passe de diapositives."
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:61
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:55
+msgctxt "Name"
+msgid "Wojciech Jarosz"
+msgstr "Wojciech Jarosz"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:126
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:104
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:88
+msgctxt "Name"
+msgid "Author"
+msgstr "Autor"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:160
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:182
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:125
+msgctxt "Name"
+msgid "Images per page"
+msgstr "Imatges per pàgina"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:193
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:215
+msgctxt "Name"
+msgid "Page links location"
+msgstr "La pàgina enllaça amb la ubicació"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:230
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:359
+msgctxt "Name"
+msgid "Use LyteBox"
+msgstr "Usa el LyteBox"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:266
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:395
+msgctxt "Name"
+msgid "LyteBox Slideshow Interval"
+msgstr "Interval entre diapositives del LyteBox"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:349
+msgctxt "Name"
+msgid "Custom Background Color"
+msgstr "Color personalitzat pel fons"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:382
+msgctxt "Name"
+msgid "Custom Foreground Color"
+msgstr "Color personalitzat pel primer pla"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:414
+msgctxt "Name"
+msgid "Custom Link Color"
+msgstr "Color personalitzat per a l'enllaç"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:447
+msgctxt "Name"
+msgid "Custom Hover Link Color"
+msgstr "Color personalitzat per a l'enllaç en passar-hi per sobre"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:478
+msgctxt "Name"
+msgid "Custom Visited Link Color"
+msgstr "Color personalitzat per a l'enllaç visitat"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:509
+msgctxt "Name"
+msgid "Custom Frame Color"
+msgstr "Color personalitzat pel marc"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:539
+msgctxt "Name"
+msgid "Custom Frame Border Color"
+msgstr "Color personalitzat per a la vora del marc"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:569
+msgctxt "Name"
+msgid "Custom Selected Frame Color"
+msgstr "Color personalitzat pel marc seleccionat"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:599
+msgctxt "Name"
+msgid "Custom Selected Frame Border Color"
+msgstr "Color personalitzat per a la vora del marc seleccionat"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/floatingcards/floatingcards.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/floatingcards/floatingcards.desktop:96
+msgctxt "Name"
+msgid "Floating Cards"
+msgstr "Targetes flotants"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/floatingcards/floatingcards.desktop:32
+msgctxt "Comment"
+msgid ""
+"A dark theme with floating thumbnail/description cards. Fast navigation "
+"through the gallery."
+msgstr ""
+"Un tema fosc amb targetes de miniatures/descripcions flotants. Navegació "
+"ràpida per la galeria."
+
+#: core/dplugins/generic/tools/htmlgallery/themes/floatingcards/floatingcards.desktop:63
+msgctxt "Name"
+msgid "Jiří Boháč"
+msgstr "Jiří Boháč"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/floatingcards/floatingcards.desktop:131
+msgctxt "Name"
+msgid "Keyboard & swipe navigation"
+msgstr "Navegació amb el teclat i lliscament"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/floatingcards/floatingcards.desktop:174
+msgctxt "Name"
+msgid "Preload"
+msgstr "Càrrega prèvia"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/frames/frames.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/frames/frames.desktop:98
+msgctxt "Name"
+msgid "Frames"
+msgstr "Marcs"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/frames/frames.desktop:33
+msgctxt "Comment"
+msgid "A frame theme"
+msgstr "Un tema de marcs"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/frames/frames.desktop:64
+msgctxt "Name"
+msgid "Ruediger Bente"
+msgstr "Ruediger Bente"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:75
+msgctxt "Name"
+msgid "HTML5 Responsive"
+msgstr "HTML5 responsiu"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:26
+msgctxt "Comment"
+msgid ""
+"Generates a gallery using responsive HTML5 and CSS3 and UTF-8 encoding. "
+"Optionally uses PhotoSwipe by Dmitry Semenov to display the images."
+msgstr ""
+"Genera una galeria usant HTML5 responsiu i CSS3 i codificació UTF-8. "
+"Opcionalment usa el PhotoSwipe del Dmitry Semenov por mostrar les imatges."
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:50
+msgctxt "Name"
+msgid "Bobulous"
+msgstr "Bobulous"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:252
+msgctxt "Name"
+msgid "Top pagination mode"
+msgstr "Mode de paginació de la part superior"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:279
+msgctxt "Name"
+msgid "Bottom pagination mode"
+msgstr "Mode de paginació de la part inferior"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:306
+msgctxt "Name"
+msgid "Use PhotoSwipe"
+msgstr "Usa el PhotoSwipe"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:337
+msgctxt "Name"
+msgid "PhotoSwipe Background Opacity"
+msgstr "Opacitat del fons del PhotoSwipe"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:366
+msgctxt "Name"
+msgid "PhotoSwipe sharing button"
+msgstr "Botó de compartició del PhotoSwipe"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:397
+msgctxt "Name"
+msgid "Add jiggle"
+msgstr "Afig un sacseig"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:425
+msgctxt "Name"
+msgid "Show GPS data"
+msgstr "Mostra les dades del GPS"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/matrix/matrix.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/matrix/matrix.desktop:98
+msgctxt "Name"
+msgid "Matrix"
+msgstr "Matrix"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/matrix/matrix.desktop:33
+msgctxt "Comment"
+msgid "Show your photos with Matrix style"
+msgstr "Visualitza les fotografies a l'estil de Matrix"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/s0/s0.desktop:3
+msgctxt "Comment"
+msgid ""
+"Yet another nice theme. Very simple and clean look with \"calligraphics\" "
+"icons."
+msgstr ""
+"Un altre tema agradable. Amb un aspecte molt simple i net amb icones "
+"«cal·ligràfiques»."
+
+#: core/dplugins/generic/tools/htmlgallery/themes/s0/s0.desktop:33
+#: core/dplugins/generic/tools/htmlgallery/themes/s0/s0.desktop:97
+msgctxt "Name"
+msgid "S0"
+msgstr "S0"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/s0/s0.desktop:64
+msgctxt "Name"
+msgid "Petr Vaněk"
+msgstr "Petr Vaněk"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:3
+msgctxt "Name"
+msgid "Simple Rounded"
+msgstr "Arrodonit senzill"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:31
+msgctxt "Comment"
+msgid "A theme with rounded corners and page support on big galeries"
+msgstr "Un tema amb cantonades arrodonides que admet pàgines en galeries grans"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:60
+msgctxt "Name"
+msgid "Franz Dietrich"
+msgstr "Franz Dietrich"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:92
+msgctxt "Name"
+msgid "Title Bar"
+msgstr "Barra de títol"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:160
+msgctxt "Name"
+msgid "Name of the Homepage"
+msgstr "Nom de la pàgina web"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:193
+msgctxt "Name"
+msgid "Url to the Homepage"
+msgstr "URL de la pàgina web"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:226
+msgctxt "Name"
+msgid "Background"
+msgstr "Fons"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:259
+msgctxt "Name"
+msgid "Content background"
+msgstr "Fons pel contingut"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:291
+msgctxt "Name"
+msgid "Icon background"
+msgstr "Fons per a les icones"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:323
+msgctxt "Name"
+msgid " Background of the navigation"
+msgstr "Fons per a la navegació"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:354
+msgctxt "Name"
+msgid "Thumbnail border"
+msgstr "Vora per a les miniatures"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:386
+msgctxt "Name"
+msgid "Links"
+msgstr "Enllaços"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:420
+msgctxt "Name"
+msgid "Simple Rounded Shapes"
+msgstr "Formes arrodonides senzilles"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simple/simple.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/simple/simple.desktop:136
+msgctxt "Name"
+msgid "Simple"
+msgstr "Senzill"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simple/simple.desktop:31
+msgctxt "Comment"
+msgid "A simple and light theme"
+msgstr "Un tema senzill i lluminós"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simpleslides/simpleslides.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/simpleslides/simpleslides.desktop:152
+msgctxt "Name"
+msgid "Simple Slideshow"
+msgstr "Passe de diapositives senzill"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simpleslides/simpleslides.desktop:29
+msgctxt "Comment"
+msgid ""
+"A slideshow designed for a kiosk-mode display. Generated from a simple "
+"template with javascript and css embedded into a single index.html file."
+msgstr ""
+"Un passe de diapositives dissenyat per a una pantalla en mode kiosk. Generat "
+"des d'una plantilla senzilla amb Javascript i CSS incrustat en un únic "
+"fitxer «index.html»."
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simpleslides/simpleslides.desktop:55
+msgctxt "Name"
+msgid "Simon Kuss"
+msgstr "Simon Kuss"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simpleslides/simpleslides.desktop:84
+msgctxt "Name"
+msgid "Time between slides (seconds)"
+msgstr "Temps entre diapositives (segons)"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simpleslides/simpleslides.desktop:116
+msgctxt "Name"
+msgid "Location of controls"
+msgstr "Ubicació dels controls"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/snow/snow.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/snow/snow.desktop:98
+msgctxt "Name"
+msgid "Snow"
+msgstr "Neu"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/snow/snow.desktop:33
+msgctxt "Comment"
+msgid "A perfect match for your mountain holidays"
+msgstr "Una coincidència perfecta per a les vostres vacances de muntanya"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:2
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:436
+msgctxt "Name"
+msgid "Vanilla"
+msgstr "Vainilla"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:29
+msgctxt "Comment"
+msgid ""
+"This theme is based on the look of Adobe Lightroom's HTML export. It has a "
+"simple but usable grid layout and comes with various color presets."
+msgstr ""
+"Aquest tema està basat en l'aspecte de l'exportació HTML del Lightroom de "
+"l'Adobe. Té una disposició de quadrícula senzilla però útil i es distribueix "
+"amb diverses predefinicions de colors."
+
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:122
+msgctxt "Name"
+msgid "Author Email"
+msgstr "Correu de l'autor"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:152
+msgctxt "Name"
+msgid "Rows per page"
+msgstr "Files per pàgina"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:182
+msgctxt "Name"
+msgid "Columns per page"
+msgstr "Columnes per pàgina"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:264
+msgctxt "Name"
+msgid "Show image numbers"
+msgstr "Mostra els números de les imatges"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:298
+msgctxt "Name"
+msgid "Add drop shadow"
+msgstr "Afig una ombra difusa"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:330
+msgctxt "Name"
+msgid "Thumbnail margin"
+msgstr "Marge de les miniatures"
+
+#: core/dplugins/generic/tools/printcreator/templates/1_photo_10.5x14.8cm.desktop:3
+msgctxt "Name"
+msgid "10.5x14.8 cm (1 photo)"
+msgstr "10.5x14.8 cm (1 fotografia)"
+
+#: core/dplugins/generic/tools/printcreator/templates/1_photo_10x15cm.desktop:3
+msgctxt "Name"
+msgid "10x15 cm (1 photo)"
+msgstr "10x15 cm (1 fotografia)"
+
+#: core/dplugins/generic/tools/printcreator/templates/1_photo_20x25cm.desktop:3
+msgctxt "Name"
+msgid "20x25 cm (1 photo)"
+msgstr "20x25 cm (1 fotografia)"
+
+#: core/dplugins/generic/tools/printcreator/templates/1_photo_8x10.desktop:3
+msgctxt "Name"
+msgid "8 x 10\" (1 photo)"
+msgstr "8 x 10\" (1 fotografia)"
+
+#: core/dplugins/generic/tools/printcreator/templates/1_photo_9x13cm.desktop:3
+msgctxt "Name"
+msgid "9x13 cm (1 photo)"
+msgstr "9x13 cm (1 fotografia)"
+
+#: core/dplugins/generic/tools/printcreator/templates/2_photos_13x18cm.desktop:3
+msgctxt "Name"
+msgid "13x18 cm (2 photos)"
+msgstr "13x18 cm (2 fotografies)"
+
+#: core/dplugins/generic/tools/printcreator/templates/2_photos_5x7.desktop:3
+msgctxt "Name"
+msgid "5 x 7\" (2 photos)"
+msgstr "5 x 7\" (2 fotografies)"
+
+#: core/dplugins/generic/tools/printcreator/templates/3_photos_10x15cm.desktop:3
+msgctxt "Name"
+msgid "10x15 cm (3 photos)"
+msgstr "10x15 cm (3 fotografies)"
+
+#: core/dplugins/generic/tools/printcreator/templates/3_photos_4x6.desktop:3
+msgctxt "Name"
+msgid "4 x 6\" (3 photos)"
+msgstr "4 x 6\" (3 fotografies)"
+
+#: core/dplugins/generic/tools/printcreator/templates/4_photos_10x13.33cm.desktop:3
+msgctxt "Name"
+msgid "10x13.33 cm (4 photos)"
+msgstr "10x13,33 cm (4 fotografies)"
+
+#: core/dplugins/generic/tools/printcreator/templates/4_photos_3.5x5.desktop:3
+msgctxt "Name"
+msgid "3.5 x 5\" (4 photos)"
+msgstr "3,5 x 5\" (4 fotografies)"
+
+#: core/dplugins/generic/tools/printcreator/templates/4_photos_4.5x5cm.desktop:3
+msgctxt "Name"
+msgid "Passport photos - 4.5x5cm (4 photos)"
+msgstr "Fotografies de passaport - 4,5x5cm (4 fotografies)"
+
+#: core/dplugins/generic/tools/printcreator/templates/4_photos_9x13cm.desktop:3
+msgctxt "Name"
+msgid "9x13 cm (4 photos)"
+msgstr "9x13 cm (4 fotografies)"
+
+#: core/dplugins/generic/tools/printcreator/templates/4x6Album.desktop:3
+msgctxt "Name"
+msgid "4 x 6\" Album"
+msgstr "Àlbum de 4 x 6\""
+
+#: core/dplugins/generic/tools/printcreator/templates/6_photos_3.5x4.5cm.desktop:3
+msgctxt "Name"
+msgid "Passport photos UK - 3.5x4.5cm (6 photos)"
+msgstr "Fotografies de passaport del Regne Unit - 3,5x4,5cm (6 fotografies)"
+
+#: core/dplugins/generic/tools/printcreator/templates/6_photos_3.5x4cm.desktop:3
+msgctxt "Name"
+msgid "Passport photos - 3.5x4cm (6 photos)"
+msgstr "Fotografies de passaport - 3,5x4cm (6 fotografies)"
+
+#: core/dplugins/generic/tools/printcreator/templates/8_photos_6x9cm.desktop:3
+msgctxt "Name"
+msgid "6x9 cm (8 photos)"
+msgstr "6x9 cm (8 fotografies)"
+
+#: core/dplugins/generic/tools/printcreator/templates/Album_10x15cm.desktop:3
+msgctxt "Name"
+msgid "10x15 cm Album"
+msgstr "Àlbum de 10x15 cm"
+
+#: core/dplugins/generic/tools/printcreator/templates/Album_11.5x15cm.desktop:3
+msgctxt "Name"
+msgid "11.5x15 cm Album"
+msgstr "Àlbum de 11,5x15 cm"
+
+#: core/dplugins/generic/tools/printcreator/templates/Album-Collage1.desktop:3
+msgctxt "Name"
+msgid "Album Collage 2 (6 photos)"
+msgstr "Collage d'àlbum 2 (6 fotografies)"
+
+#: core/dplugins/generic/tools/printcreator/templates/Album-Collage.desktop:3
+msgctxt "Name"
+msgid "Album Collage 1 (9 photos)"
+msgstr "Collage d'àlbum 1 (9 fotografies)"
+
+#: core/dplugins/generic/tools/printcreator/templates/FullPage.desktop:3
+msgctxt "Name"
+msgid "Full page"
+msgstr "Pàgina sencera"
+
+#: core/dplugins/generic/tools/printcreator/templates/Photoframe.desktop:3
+msgctxt "Name"
+msgid "Photoframe (5 photos)"
+msgstr "Marc de fotografies (5 fotografies)"
+
+#: core/dplugins/generic/tools/printcreator/templates/Thumbnails_5x4.desktop:3
+msgctxt "Name"
+msgid "Thumbnails 5x4 photos"
+msgstr "Fotografies 5x4 miniatures"
+
+#: core/dplugins/generic/tools/printcreator/templates/Thumbnails_6x5.desktop:3
+msgctxt "Name"
+msgid "Thumbnails 6x5 photos"
+msgstr "Fotografies 6x5 miniatures"
+
+#: core/showfoto/main/org.kde.showfoto.desktop:2
+msgctxt "Name"
+msgid "showFoto"
+msgstr "showFoto"
+
+#: core/showfoto/main/org.kde.showfoto.desktop:54
+msgctxt "GenericName"
+msgid "Photo Viewer and Editor"
+msgstr "Visor i editor de fotografies"

@@ -1,0 +1,132 @@
+# Translation of discover._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2015-2017 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2016, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: discover desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-09-15 00:28+0000\n"
+"PO-Revision-Date: 2019-07-02 14:30+0200\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: discover/org.kde.discover.desktop.cmake:2
+#: libdiscover/backends/FlatpakBackend/org.kde.discover-flatpak.desktop:2
+#: notifier/org.kde.discover.notifier.desktop.cmake:2
+msgctxt "Name"
+msgid "Discover"
+msgstr "Discover"
+
+#: discover/org.kde.discover.desktop.cmake:59
+msgctxt "GenericName"
+msgid "Software Center"
+msgstr "Centre de programari"
+
+#: discover/org.kde.discover.desktop.cmake:110
+msgctxt "Keywords"
+msgid ""
+"program;software;repository;package;install;remove;update;apps;applications;"
+msgstr ""
+"programa;programari;repositori;paquet;instal·la;suprimeix;actualitza;apps;"
+"aplicacions;"
+
+#: discover/org.kde.discover.desktop.cmake:160
+msgctxt "Name"
+msgid "See Available Updates"
+msgstr ""
+
+#: kcm/kcm_updates.desktop:11 kcm/package/metadata.desktop:6
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Software Center"
+msgctxt "Name"
+msgid "Software Update"
+msgstr "Centre de programari"
+
+#: kcm/kcm_updates.desktop:44
+msgctxt "Comment"
+msgid "Configure software update behavior"
+msgstr ""
+
+#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:2
+msgctxt "Name"
+msgid "Snap login action"
+msgstr "Accions de connexió de Snap"
+
+#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:49
+msgctxt "Description"
+msgid "Allows snap front-ends to log in"
+msgstr "Permet que els frontals de Snap es connecten"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:4
+msgctxt "Comment"
+msgid "Discover"
+msgstr "Discover"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:55
+msgctxt "Name"
+msgid "Updates Are Available"
+msgstr "Hi ha actualitzacions disponibles"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:105
+msgctxt "Comment"
+msgid "Updates Available"
+msgstr "Actualitzacions disponibles"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:158
+msgctxt "Name"
+msgid "Successful Offline Update"
+msgstr ""
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:192
+msgctxt "Comment"
+msgid "System updated successfully"
+msgstr ""
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:230
+msgctxt "Name"
+msgid "Failed Offline Update"
+msgstr ""
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:264
+msgctxt "Comment"
+msgid "System update failed"
+msgstr ""
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:302
+msgctxt "Name"
+msgid "Repair Failed"
+msgstr ""
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:336
+msgctxt "Comment"
+msgid "Repair failure after offline update"
+msgstr ""
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:374
+msgctxt "Name"
+msgid "Restart is Required"
+msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Updates"
+#~ msgstr "Actualitzacions"
+
+#~ msgctxt "Name"
+#~ msgid "Kate Snippets"
+#~ msgstr "Retalls de Kate"
+
+#~ msgctxt "Comment"
+#~ msgid "Helps you keep your system up to date"
+#~ msgstr "Us ajuda a mantindre el vostre sistema al dia"

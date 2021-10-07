@@ -1,0 +1,360 @@
+# Translation of k3b._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2003-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2003, 2016, 2020, 2021.
+# Albert Astals Cid <aacid@kde.org>, 2004, 2005.
+# Marc Coll Carrillo <marcoll@ya.com>, 2006, 2008.
+# Manuel Tortosa Moreno <manutortosa@gmail.com>, 2010.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2010, 2011, 2012, 2015, 2016, 2020.
+# Joan Maspons <joanmaspons@gmail.com>, 2010, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: k3b desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-07-31 00:25+0000\n"
+"PO-Revision-Date: 2021-08-02 09:12+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 21.07.80\n"
+"X-Generator: KBabel 1.11.2\n"
+"X-Generator: KBabel 1.11.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: kioslaves/videodvd/videodvd.desktop:5
+msgctxt "Name"
+msgid "Video DVD Browser"
+msgstr "Navegador de DVD de vídeo"
+
+#: libk3b/plugin/k3bplugin.desktop:4
+msgctxt "Name"
+msgid "K3b Plugin"
+msgstr "Connector K3b"
+
+#: plugins/encoder/external/kcm_k3bexternalencoder.desktop:2
+msgctxt "Name"
+msgid "K3b External Audio Encoder Config Widget"
+msgstr "Giny de configuració del codificador extern d'àudio del K3b"
+
+#: plugins/encoder/lame/kcm_k3blameencoder.desktop:2
+msgctxt "Name"
+msgid "K3b Lame MP3 Encoder Config Module"
+msgstr "Mòdul de configuració del codificador MP3 Lame del K3b"
+
+#: plugins/encoder/ogg/kcm_k3boggvorbisencoder.desktop:2
+msgctxt "Name"
+msgid "K3b Ogg Vorbis Encoder Config Widget"
+msgstr "Giny de configuració del codificador Ogg Vorbis del K3b"
+
+#: plugins/encoder/sox/kcm_k3bsoxencoder.desktop:2
+msgctxt "Name"
+msgid "K3b SoX Audio Encoder Config Module"
+msgstr "Mòdul de configuració del codificador d'àudio SoX"
+
+#: src/helper/k3b.actions:2
+msgctxt "Name"
+msgid "Update device and programs permissions"
+msgstr "Actualitza els permisos dels dispositius i programes"
+
+#: src/helper/k3b.actions:55
+msgctxt "Description"
+msgid ""
+"Authentication is required to update permissions of devices and programs"
+msgstr ""
+"Cal autenticar-se per a actualitzar els permisos dels dispositius i els "
+"programes"
+
+#: src/helper/k3b.actions:109
+msgctxt "Name"
+msgid "Adds current user to a specified group"
+msgstr "Afig l'usuari actual a un grup especificat"
+
+#: src/helper/k3b.actions:156
+msgctxt "Description"
+msgid "Authentication is required to add current user to a group"
+msgstr "Cal autenticar-se per a afegir l'usuari actual a un grup"
+
+#: src/k3b-cue.desktop:7 src/k3b-iso.desktop:7 src/org.kde.k3b.desktop:118
+msgctxt "Name"
+msgid "K3b"
+msgstr "K3b"
+
+#: src/k3b.notifyrc:4
+msgctxt "Comment"
+msgid "K3b"
+msgstr "K3b"
+
+#: src/k3b.notifyrc:70
+msgctxt "Name"
+msgid "Process successful"
+msgstr "Procés correcte"
+
+#: src/k3b.notifyrc:133
+msgctxt "Comment"
+msgid "Process successfully finished"
+msgstr "El procés s'ha completat correctament"
+
+#: src/k3b.notifyrc:197
+msgctxt "Name"
+msgid "Process error"
+msgstr "Error de procés"
+
+#: src/k3b.notifyrc:260
+msgctxt "Comment"
+msgid "Process finished with errors"
+msgstr "El procés ha finalitzat amb errors"
+
+#: src/k3b.notifyrc:327
+msgctxt "Name"
+msgid "Waiting for medium"
+msgstr "S'està esperant el suport"
+
+#: src/k3b.notifyrc:389
+msgctxt "Comment"
+msgid "The user needs to insert a medium"
+msgstr "L'usuari ha d'introduir un suport"
+
+#: src/k3b.notifyrc:451
+msgctxt "Name"
+msgid "Busy"
+msgstr "Ocupat"
+
+#: src/k3b.notifyrc:504
+msgctxt "Comment"
+msgid "K3b is currently busy and cannot start any other operations"
+msgstr "El K3b ara mateix està ocupat i no pot iniciar altres operacions"
+
+#: src/k3b.notifyrc:556
+msgctxt "Name"
+msgid "No problems found"
+msgstr "No s'ha trobat cap problema"
+
+#: src/k3b.notifyrc:606
+msgctxt "Comment"
+msgid "No problems found in system configuration"
+msgstr "No s'han trobat problemes amb la configuració del sistema"
+
+#: src/k3b.notifyrc:659
+msgctxt "Name"
+msgid "Mount/unmount failed"
+msgstr "Ha fallat en muntar/desmuntar"
+
+#: src/k3b.notifyrc:709
+msgctxt "Comment"
+msgid "Medium cannot be mount or unmounted"
+msgstr "El suport no es pot muntar o desmuntar"
+
+#: src/k3b.notifyrc:761
+msgctxt "Name"
+msgid "Track data not found"
+msgstr "No s'han trobat les dades de la pista"
+
+#: src/k3b.notifyrc:809
+msgctxt "Comment"
+msgid "Track information has not been found in the online database"
+msgstr "No s'ha trobat la informació de la pista a la base de dades en línia"
+
+#: src/org.kde.k3b.desktop:6
+msgctxt "GenericName"
+msgid "Disk Burning"
+msgstr "Gravació de disc"
+
+#: src/org.kde.k3b.desktop:61
+msgctxt "Comment"
+msgid "Disk writing program"
+msgstr "Programa d'escriptura de disc"
+
+#: src/services/k3b_audiocd_rip.desktop:8
+msgctxt "Name"
+msgid "Extract Digital Audio with K3b"
+msgstr "Extreu àudio digital amb el K3b"
+
+#: src/services/k3b_copy_disc.desktop:8
+msgctxt "Name"
+msgid "Copy with K3b"
+msgstr "Copia amb el K3b"
+
+#: src/services/k3b_create_audio_cd.desktop:9
+#: src/services/k3b_create_audio_cd_from_blank_medium.desktop:9
+msgctxt "Name"
+msgid "Create Audio CD with K3b"
+msgstr "Crea un CD d'àudio amb el K3b"
+
+#: src/services/k3b_create_data_project.desktop:10
+#: src/services/k3b_create_data_project_from_blank_medium.desktop:9
+msgctxt "Name"
+msgid "Create data project with K3b"
+msgstr "Crea un projecte de dades amb el K3b"
+
+#: src/services/k3b_create_video_cd.desktop:9
+msgctxt "Name"
+msgid "Create Video CD with K3b"
+msgstr "Crea un CD de vídeo amb el K3b"
+
+#: src/services/k3b_dvd_copy.desktop:8
+msgctxt "Name"
+msgid "Copy DVD with K3b"
+msgstr "Copia un DVD amb el K3b"
+
+#: src/services/k3b_videodvd_rip.desktop:8
+msgctxt "Name"
+msgid "Rip Video DVD Titles with K3b"
+msgstr "Extreu els títols del DVD amb el K3b"
+
+#: src/services/k3b_write_bin_image.desktop:9
+msgctxt "Name"
+msgid "Write CD Image with K3b"
+msgstr "Escriu una imatge de CD amb el K3b"
+
+#: src/services/k3b_write_iso_image.desktop:9
+msgctxt "Name"
+msgid "Write image to disc with K3b"
+msgstr "Escriu una imatge al disc amb el K3b"
+
+#~ msgctxt "Name"
+#~ msgid "K3b FFMpeg Decoder"
+#~ msgstr "Descodificador FFMpeg del K3b"
+
+#~ msgctxt "Comment"
+#~ msgid "Decoding module to decode WMA files"
+#~ msgstr "Mòdul de descodificació per a descodificar fitxers WMA"
+
+#~ msgctxt "Name"
+#~ msgid "K3b FLAC Decoder"
+#~ msgstr "Descodificador FLAC del K3b"
+
+#~ msgctxt "Comment"
+#~ msgid "Decoding module to decode FLAC files"
+#~ msgstr "Mòdul de descodificació per a descodificar fitxers FLAC"
+
+#~ msgctxt "Name"
+#~ msgid "K3b Libsndfile Decoder"
+#~ msgstr "Descodificador Libsndfile del K3b"
+
+#~ msgctxt "Comment"
+#~ msgid "Decoding module to decode audio files supported by libsndfile"
+#~ msgstr ""
+#~ "Mòdul de descodificació per a descodificar fitxers d'àudio admesos per la "
+#~ "«libsndfile»"
+
+#~ msgctxt "Name"
+#~ msgid "K3b MAD Decoder"
+#~ msgstr "Descodificador MAD del K3b"
+
+#~ msgctxt "Comment"
+#~ msgid "Decoding module to decode MPEG 1 Layer III files"
+#~ msgstr "Mòdul de descodificació per a descodificar fitxers MPEG 1 Layer III"
+
+#~ msgctxt "Name"
+#~ msgid "K3b Musepack Decoder"
+#~ msgstr "Descodificador Musepack del K3b"
+
+#~ msgctxt "Comment"
+#~ msgid "Decoding module to decode Musepack audio files"
+#~ msgstr "Mòdul de descodificació per a descodificar fitxers d'àudio Musepack"
+
+#~ msgctxt "Name"
+#~ msgid "K3b Ogg Vorbis Decoder"
+#~ msgstr "Descodificador Ogg Vorbis del K3b"
+
+#~ msgctxt "Comment"
+#~ msgid "Decoding module to decode Ogg Vorbis files"
+#~ msgstr "Mòdul de descodificació per a descodificar fitxers Ogg Vorbis"
+
+#~ msgctxt "Name"
+#~ msgid "K3b ??? Decoder"
+#~ msgstr "Descodificador ??? del K3b"
+
+#~ msgctxt "Comment"
+#~ msgid "Decoding module to decode ??? files"
+#~ msgstr "Mòdul de descodificació per a descodificar fitxers ???"
+
+#~ msgctxt "Name"
+#~ msgid "K3b Wave Decoder"
+#~ msgstr "Descodificador Wave del K3b"
+
+#~ msgctxt "Comment"
+#~ msgid "Decoding module to decode wave files"
+#~ msgstr "Mòdul de descodificació per a descodificar fitxers wave"
+
+#~ msgctxt "Name"
+#~ msgid "K3b External Audio Encoder"
+#~ msgstr "Codificador extern d'àudio del K3b"
+
+#~ msgctxt "Comment"
+#~ msgid "Encoding module that allows specifying an encoding command"
+#~ msgstr "Mòdul extern que permet especificar una ordre de codificació"
+
+#~ msgctxt "Name"
+#~ msgid "K3b Lame MP3 Encoder"
+#~ msgstr "Codificador MP3 Lame del K3b"
+
+#~ msgctxt "Comment"
+#~ msgid "Encoding module to encode MPEG1 Layer III (MP3) files"
+#~ msgstr "Mòdul de codificació per a codificar fitxers MPEG 1 Layer III (MP3)"
+
+#~ msgctxt "Name"
+#~ msgid "K3b Ogg Vorbis Encoder"
+#~ msgstr "Codificador Ogg Vorbis del K3b"
+
+#~ msgctxt "Comment"
+#~ msgid "Encoding module to encode Ogg Vorbis files"
+#~ msgstr "Mòdul de codificació per a codificar fitxers Ogg Vorbis"
+
+#~ msgctxt "Name"
+#~ msgid "K3b ??? Encoder"
+#~ msgstr "Codificador ??? del K3b"
+
+#~ msgctxt "Comment"
+#~ msgid "Encoding module to encode <name> files"
+#~ msgstr "Mòdul de codificació per a codificar fitxers <name>"
+
+#~ msgctxt "Name"
+#~ msgid "K3b SoX Audio Encoder"
+#~ msgstr "Codificador d'àudio SoX del K3b"
+
+#~ msgctxt "Comment"
+#~ msgid "Encoding module to encode many file formats using SoX"
+#~ msgstr ""
+#~ "Mòdul de codificació per a codificar molts formats de fitxers usant SoX"
+
+#~ msgctxt "Name"
+#~ msgid "K3b Audio Metainfo Renamer"
+#~ msgstr "Reanomenador de la meta-informació d'àudio del K3b"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Plugin to rename audio files in a data project based on the meta info."
+#~ msgstr ""
+#~ "Connector per a reanomenar fitxers d'àudio en un projecte de dades basat "
+#~ "en la meta-informació."
+
+#~ msgctxt "Name"
+#~ msgid "K3b CDDB Audio Plugin"
+#~ msgstr "Connector CDDB d'àudio del K3b"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Plugin to query a CDDB server for information about an audio project."
+#~ msgstr ""
+#~ "Connector per a consultar un servidor CDDB informació quant a un projecte "
+#~ "d'àudio."
+
+#~ msgctxt "Description"
+#~ msgid ""
+#~ "A kioslave that allows files to be copied from a Video DVD (including "
+#~ "decryption)"
+#~ msgstr ""
+#~ "Un kioslave que permet que es copiïn fitxers des d'un DVD de vídeo "
+#~ "(incloent-hi el desencriptatge)"
+
+#~ msgctxt "Comment"
+#~ msgid "Decoding module to decode wma files"
+#~ msgstr "Mòdul de descodificació per descodificar fitxers wma"

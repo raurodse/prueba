@@ -1,0 +1,44 @@
+# Translation of mygnuhealth._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: mygnuhealth desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-26 00:30+0000\n"
+"PO-Revision-Date: 2020-12-12 11:37+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: org.kde.mygnuhealth.desktop:4
+msgctxt "Name"
+msgid "MyGNUHealth"
+msgstr "MyGNUHealth"
+
+#: org.kde.mygnuhealth.desktop:26
+msgctxt "GenericName"
+msgid "Personal Health Record"
+msgstr "Registre personal de salut"
+
+#: org.kde.mygnuhealth.desktop:47
+msgctxt "Comment"
+msgid "GNU Health Personal Health Record"
+msgstr "Registre personal de salut GNU Health"
+
+#: org.kde.mygnuhealth.desktop:68
+msgctxt "Keywords"
+msgid ""
+"Healthcare;Medicine;Bioinformatics;Management;Enterprise;ERP;Framework;"
+"Client;"
+msgstr ""
+"Salut;Medicina;Bioinformàtica;Gestió;Corporació;ERP;Entorn de treball;Client;"

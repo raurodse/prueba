@@ -1,0 +1,180 @@
+# Translation of org.kde.knights.appdata.po to Catalan (Valencian)
+# Copyright (C) 2017-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2017, 2019, 2020.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2018, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: knights appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-25 03:06+0200\n"
+"PO-Revision-Date: 2020-12-08 22:38+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.knights.appdata.xml:6
+msgid "KNights"
+msgstr "KNights"
+
+#. (itstool) path: component/summary
+#: org.kde.knights.appdata.xml:7
+msgid "Chess game"
+msgstr "Joc d'escacs"
+
+#. (itstool) path: description/p
+#: org.kde.knights.appdata.xml:9
+msgid ""
+"KNights is a chess game. As a player, your goal is to defeat your opponent "
+"by checkmating their king."
+msgstr ""
+"El KNights és un joc d'escacs. Com a jugador, el vostre objectiu és derrotar "
+"a l'adversari fent escac i mat al seu rei."
+
+#. (itstool) path: description/p
+#: org.kde.knights.appdata.xml:12
+msgid "Features:"
+msgstr "Característiques:"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:14
+msgid "Local play between two players on the same computer"
+msgstr "Joc local entre dos jugadors al mateix ordinador"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:15
+msgid "Play against any computer program that supports the XBoard protocol"
+msgstr ""
+"Joc contra qualsevol programa d'ordinador que accepti el protocol XBoard"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:16
+msgid "Play on the Free Internet Chess Server (FICS)"
+msgstr "Jugar al Free Internet Chess Server (FICS)"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:17
+msgid "Watching two computer engines play against each other"
+msgstr "Mirar dos motors d'ordinador que juguen entre si"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:18
+msgid "Support for legal move checking"
+msgstr "Permet la comprovació de moviments legals"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:19
+msgid "Markers for possible moves, opponent’s last move and sources of check"
+msgstr ""
+"Marcadors per a possibles moviments, últim moviment de l'adversari i jugades "
+"d'escac"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:20
+msgid "Board borders and site notations"
+msgstr "Vores del tauler i notacions de lloc"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:21
+msgid "Complete time control, with Plasma-styled clocks"
+msgstr "Control complet del temps, amb rellotges a l'estil del Plasma"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:22
+msgid ""
+"Several themes, with the possibility of downloading new ones from within the "
+"program"
+msgstr ""
+"Diversos temes, amb la possibilitat de baixar-ne de nous des del programa"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:23
+msgid "Animated moves (configurable)"
+msgstr "Animació dels moviments (configurable)"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:24
+msgid ""
+"Views for playing on a chess server, including a seek graph, text console, "
+"and chat widget"
+msgstr ""
+"Vistes per a jugar en un servidor d'escacs, incloent-hi un gràfic de cerca, "
+"una consola de text i un giny de xat"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:25
+msgid "Option to undo and redo moves"
+msgstr "Opcions per a fer i desfer moviments"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:26
+msgid "Graphic interface for making and receiving offers from remote players"
+msgstr "Interfície gràfica per a fer i rebre oferiments de jugadors remots"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:27
+msgid ""
+"Support for the UCI protocol (used by Stockfish, Chessbase, and many others)"
+msgstr "Admet el protocol UCI (usat per l'Stockfish, el Chessbase i altres)"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:28
+msgid "Support for saving and loading Portable game notation (PGN) files"
+msgstr ""
+"Admet els fitxers «Portable game notation» (PGN) per a guardar i carregar"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:29
+msgid "Use of Jovie, the KDE text-to-speak program, to speak opponent’s moves"
+msgstr ""
+"Ús del Jovie, el programa de text a veu del KDE, per a pronunciar els "
+"moviments de l'adversari"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:30
+msgid "Ability to control the program via a D-Bus interface"
+msgstr "Permet controlar el programa via una interfície de D-Bus"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.knights.appdata.xml:35
+msgid "Knights, chess game"
+msgstr "Knights, un joc d'escacs"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.knights.appdata.xml:39
+msgid "Main Window - Human vs. Chess Engine"
+msgstr "Finestra principal: humà vs. motor d'escacs"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.knights.appdata.xml:43
+msgid "Main Window - Chess Engine vs. Chess Engine"
+msgstr "Finestra principal: motor d'escacs vs. motor d'escacs"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.knights.appdata.xml:47
+msgid "\"New Game\" Dialog"
+msgstr "Diàleg «Joc nou»"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.knights.appdata.xml:51
+msgid "Auto-Detection of Chess Engines"
+msgstr "Detecció automàtica dels motors d'escacs"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.knights.appdata.xml:55
+msgid "Playing online - FICS Console"
+msgstr "Jugant en línia: consola FICS"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.knights.appdata.xml:59
+msgid "Playing online - graphical Seek-Graph"
+msgstr "Jugant en línia: gràfic de cerca"

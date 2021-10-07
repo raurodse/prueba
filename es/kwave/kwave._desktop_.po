@@ -1,0 +1,193 @@
+# Translation of kwave._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2015-2017 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2015, 2016, 2017.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: kwave desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-01-04 02:06+0000\n"
+"PO-Revision-Date: 2017-11-24 21:26+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: kwave/org.kde.kwave.desktop.in:4
+msgctxt "GenericName"
+msgid "Sound Editor"
+msgstr "Editor de so"
+
+#: kwave/org.kde.kwave.desktop.in:36
+msgctxt "Name"
+msgid "Kwave Sound Editor"
+msgstr "Editor de so Kwave"
+
+#: kwave/org.kde.kwave.desktop.in:68
+msgctxt "Comment"
+msgid "A sound editor by KDE"
+msgstr "Un editor de so, creat per la comunitat KDE"
+
+#: plugins/about/kwaveplugin_about.desktop.in:2
+msgctxt "Name"
+msgid "About Kwave"
+msgstr "Quant al Kwave"
+
+#: plugins/amplifyfree/kwaveplugin_amplifyfree.desktop.in:2
+msgctxt "Name"
+msgid "Amplify Free"
+msgstr "Amplifica amb llibertat"
+
+#: plugins/band_pass/kwaveplugin_band_pass.desktop.in:2
+msgctxt "Name"
+msgid "Band Pass Filter"
+msgstr "Filtre passabanda"
+
+#: plugins/codec_ascii/kwaveplugin_codec_ascii.desktop.in:2
+msgctxt "Name"
+msgid "ASCII Codec"
+msgstr "Còdec ASCII"
+
+#: plugins/codec_audiofile/kwaveplugin_codec_audiofile.desktop.in:2
+msgctxt "Name"
+msgid "Audiofile Codec"
+msgstr "Còdec Audiofile"
+
+#: plugins/codec_flac/kwaveplugin_codec_flac.desktop.in:2
+msgctxt "Name"
+msgid "FLAC Codec"
+msgstr "Còdec FLAC"
+
+#: plugins/codec_mp3/kwaveplugin_codec_mp3.desktop.in:2
+msgctxt "Name"
+msgid "MP3 Codec"
+msgstr "Còdec MP3"
+
+#: plugins/codec_ogg/kwaveplugin_codec_ogg.desktop.in:2
+msgctxt "Name"
+msgid "Ogg Codec"
+msgstr "Còdec Ogg"
+
+#: plugins/codec_wav/kwaveplugin_codec_wav.desktop.in:2
+msgctxt "Name"
+msgid "WAV Codec"
+msgstr "Còdec WAV"
+
+#: plugins/debug/kwaveplugin_debug.desktop.in:2
+msgctxt "Name"
+msgid "Debug Functions"
+msgstr "Funcions de depuració"
+
+#: plugins/export_k3b/kwaveplugin_export_k3b.desktop.in:2
+msgctxt "Name"
+msgid "K3b Project Export"
+msgstr "Exporta un projecte del K3b"
+
+#: plugins/fileinfo/kwaveplugin_fileinfo.desktop.in:2
+msgctxt "Name"
+msgid "File Info"
+msgstr "Informació del fitxer"
+
+#: plugins/goto/kwaveplugin_goto.desktop.in:2
+msgctxt "Name"
+msgid "Goto Position"
+msgstr "Vés a la posició"
+
+#: plugins/goto/kwaveplugin_insert_at.desktop.in:2
+msgctxt "Name"
+msgid "Insert At"
+msgstr "Insereix a"
+
+#: plugins/kwave-plugin.desktop:4
+msgctxt "Comment"
+msgid "Kwave Plugin"
+msgstr "Connector del Kwave"
+
+#: plugins/lowpass/kwaveplugin_lowpass.desktop.in:2
+msgctxt "Name"
+msgid "Low Pass Filter"
+msgstr "Filtre passabaix"
+
+#: plugins/newsignal/kwaveplugin_newsignal.desktop.in:2
+msgctxt "Name"
+msgid "New Signal"
+msgstr "Senyal nou"
+
+#: plugins/noise/kwaveplugin_noise.desktop.in:2
+msgctxt "Name"
+msgid "Noise Generator"
+msgstr "Generador de soroll"
+
+#: plugins/normalize/kwaveplugin_normalize.desktop.in:2
+msgctxt "Name"
+msgid "Normalizer"
+msgstr "Normalitzador"
+
+#: plugins/notch_filter/kwaveplugin_notch_filter.desktop.in:2
+msgctxt "Name"
+msgid "Notch Filter"
+msgstr "Filtre de supressió de la banda"
+
+#: plugins/pitch_shift/kwaveplugin_pitch_shift.desktop.in:2
+msgctxt "Name"
+msgid "Pitch Shift"
+msgstr "Desplaça el to"
+
+#: plugins/playback/kwaveplugin_playback.desktop.in:2
+msgctxt "Name"
+msgid "Playback"
+msgstr "Reproducció"
+
+#: plugins/record/kwaveplugin_record.desktop.in:2
+msgctxt "Name"
+msgid "Record"
+msgstr "Enregistra"
+
+#: plugins/reverse/kwaveplugin_reverse.desktop.in:2
+msgctxt "Name"
+msgid "Reverse"
+msgstr "Inverteix"
+
+#: plugins/samplerate/kwaveplugin_samplerate.desktop.in:2
+msgctxt "Name"
+msgid "Sample Rate Conversion"
+msgstr "Conversió de la freqüència de mostreig"
+
+#: plugins/saveblocks/kwaveplugin_saveblocks.desktop.in:2
+msgctxt "Name"
+msgid "Save Blocks"
+msgstr "Guarda els blocs"
+
+#: plugins/selectrange/kwaveplugin_selectrange.desktop.in:2
+msgctxt "Name"
+msgid "Select Range"
+msgstr "Selecció de l'interval"
+
+#: plugins/sonagram/kwaveplugin_sonagram.desktop.in:2
+msgctxt "Name"
+msgid "Sonagram"
+msgstr "Sonograma"
+
+#: plugins/stringenter/kwaveplugin_stringenter.desktop.in:2
+msgctxt "Name"
+msgid "Enter Command"
+msgstr "Introdueix una ordre"
+
+#: plugins/volume/kwaveplugin_volume.desktop.in:2
+msgctxt "Name"
+msgid "Volume"
+msgstr "Volum"
+
+#: plugins/zero/kwaveplugin_zero.desktop.in:2
+msgctxt "Name"
+msgid "Zero Generator"
+msgstr "Generador de zeros"

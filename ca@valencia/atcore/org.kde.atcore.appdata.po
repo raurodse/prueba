@@ -1,0 +1,51 @@
+# Translation of org.kde.atcore.appdata.po to Catalan (Valencian)
+# Copyright (C) 2018-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2018.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: atcore appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-09 02:18+0200\n"
+"PO-Revision-Date: 2020-07-09 11:53+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.07.70\n"
+
+#. (itstool) path: component/name
+#: org.kde.atcore.appdata.xml:8
+msgid "AtCore Test Client"
+msgstr "Client de prova de l'AtCore"
+
+#. (itstool) path: component/summary
+#: org.kde.atcore.appdata.xml:9
+msgid "A test application for the AtCore framework to control 3D printers"
+msgstr ""
+"Una aplicació de prova per a l'entorn de treball AtCore per a controlar les "
+"impressores 3D"
+
+#. (itstool) path: description/p
+#: org.kde.atcore.appdata.xml:11
+msgid ""
+"AtCore is the API that controls the 3DPrinter and its basic functionalities. "
+"AtCore comes with a test client called atcore-gui to manage your printer."
+msgstr ""
+"L'AtCore és l'API que controla la impressora 3D i les seues funcionalitats "
+"bàsiques. L'AtCore ve amb client de prova anomenant «atcore-gui» per a "
+"gestionar la impressora."
+
+#. (itstool) path: description/p
+#: org.kde.atcore.appdata.xml:14
+msgid "This is an AtCore test application to showcase the framework."
+msgstr ""
+"Aquesta és una aplicació de prova de l'AtCore per a exposar l'entorn de "
+"treball."

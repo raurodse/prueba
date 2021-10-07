@@ -1,0 +1,35 @@
+# Translation of svgpart._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2002-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 2002.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2020.
+# Albert Astals Cid <aacid@kde.org>, 2004, 2005.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: svgpart desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-29 00:25+0000\n"
+"PO-Revision-Date: 2020-11-16 12:36+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: src/svgpart.desktop.in:3
+msgctxt "Name"
+msgid "Svg Part"
+msgstr "Part SVG"
+
+#: src/svgpart.desktop.in:64
+msgctxt "Comment"
+msgid "A KPart to display SVG images"
+msgstr "Una KPart per a visualitzar imatges SVG"

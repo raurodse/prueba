@@ -1,0 +1,53 @@
+# Translation of org.kde.kbounce.appdata.po to Catalan (Valencian)
+# Copyright (C) 2018-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2018.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kbounce appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2018-11-12 03:55+0100\n"
+"PO-Revision-Date: 2021-06-24 20:26+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 21.04.2\n"
+
+#. (itstool) path: component/name
+#: org.kde.kbounce.appdata.xml:6
+msgid "KBounce"
+msgstr "KBounce"
+
+#. (itstool) path: component/summary
+#: org.kde.kbounce.appdata.xml:7
+msgid "KBounce is a single player arcade game with the elements of puzzle"
+msgstr ""
+"El KBounce és un joc d'arcade de jugador únic amb elements de trencaclosques"
+
+#. (itstool) path: description/p
+#: org.kde.kbounce.appdata.xml:9
+msgid ""
+"KBounce is a single player arcade game with the elements of puzzle. It is "
+"played on a field, surrounded by wall, with two or more balls that move "
+"about in the field bouncing off of walls. The player can build new walls, "
+"decreasing the size of active field. The goal of the game is to fill at "
+"least 75% of the field and advance to the next level."
+msgstr ""
+"El KBounce és un joc d'arcade de jugador únic amb elements de puzzle. Es "
+"juga en un camp rodejat per murs, amb dues o més boles que es mouen pel camp "
+"rebotant en els murs. El jugador pot construir murs nous, reduint la mida "
+"del camp actiu. L'objectiu del joc és omplir com a mínim el 75% del camp i "
+"així avançar cap al nivell següent."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kbounce.appdata.xml:19
+msgid "Playing KBounce"
+msgstr "Jugant al KBounce"

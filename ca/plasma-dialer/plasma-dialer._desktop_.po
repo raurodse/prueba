@@ -1,0 +1,65 @@
+# Translation of plasma-dialer._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2020 This_file_is_part_of_KDE
+# This file is distributed under same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2020.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-dialer desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-09-12 00:27+0000\n"
+"PO-Revision-Date: 2020-12-20 14:20+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: dialer-autostart.desktop:2 org.kde.phone.dialer.desktop:2
+msgctxt "Comment"
+msgid "Plasma phone dialer"
+msgstr "Marcador de telèfon del Plasma"
+
+#: dialer-autostart.desktop:35 org.kde.phone.dialer.desktop:35
+msgctxt "Name"
+msgid "Phone"
+msgstr "Telèfon"
+
+#: src/plasma_dialer.notifyrc:3
+msgctxt "Comment"
+msgid "Phone"
+msgstr "Telèfon"
+
+#: src/plasma_dialer.notifyrc:40
+msgctxt "Name"
+msgid "Missed Call"
+msgstr "Trucada perduda"
+
+#: src/plasma_dialer.notifyrc:75
+msgctxt "Comment"
+msgid "A call has been missed"
+msgstr "S'ha perdut una trucada"
+
+#: src/plasma_dialer.notifyrc:112
+msgctxt "Name"
+msgid "Ringing"
+msgstr "Sonant"
+
+#: src/plasma_dialer.notifyrc:147
+msgctxt "Comment"
+msgid "The phone is ringing"
+msgstr "El telèfon està sonant"
+
+#: telephony-services.desktop:2
+msgctxt "Comment"
+msgid "Telepathy services required for telephony"
+msgstr "Serveis del Telepathy requerits per a la telefonia"
+
+#: telephony-services.desktop:33
+msgctxt "Name"
+msgid "Telepathy Services"
+msgstr "Serveis del Telepathy"

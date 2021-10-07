@@ -1,0 +1,60 @@
+# Translation of org.kde.ktimetracker.appdata.po to Catalan (Valencian)
+# Copyright (C) 2019-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: ktimetracker appdata files\n"
+"POT-Creation-Date: 2019-05-30 03:11+0200\n"
+"PO-Revision-Date: 2020-07-26 16:15+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.04.3\n"
+
+#. (itstool) path: component/name
+#. (itstool) path: screenshot/caption
+#: org.kde.ktimetracker.appdata.xml:6 org.kde.ktimetracker.appdata.xml:16
+msgid "KTimeTracker"
+msgstr "KTimeTracker"
+
+#. (itstool) path: component/summary
+#: org.kde.ktimetracker.appdata.xml:7
+msgid "Personal Time Tracker"
+msgstr "Seguidor personal del temps"
+
+#. (itstool) path: description/p
+#: org.kde.ktimetracker.appdata.xml:9
+msgid ""
+"KTimeTracker helps you track your personal time spent on various tasks and "
+"projects."
+msgstr ""
+"El KTimeTracker ajuda a fer un seguiment del vostre temps personal dedicat a "
+"diverses tasques i projectes."
+
+#. (itstool) path: description/p
+#: org.kde.ktimetracker.appdata.xml:10
+msgid ""
+"It is useful for tracking billable hours and can report the hours logged by "
+"task and day."
+msgstr ""
+"És útil per al seguiment de les hores facturables i pot informar de les "
+"hores registrades per tasca i dia."
+
+#. (itstool) path: description/p
+#: org.kde.ktimetracker.appdata.xml:11
+msgid ""
+"With KTimeTracker, you can organize a broken-down project as subtasks with "
+"unlimited nesting. The standard keyboard and mouse shortcuts are simple and "
+"make the tool really comfortable and intuitive to use."
+msgstr ""
+"Amb el KTimeTracker, podreu organitzar un projecte desglossat com a "
+"subtasques amb nidificació il·limitada. Les dreceres de teclat i ratolí "
+"estàndard són senzilles i fan que l'eina siga molt còmoda i intuïtiva."

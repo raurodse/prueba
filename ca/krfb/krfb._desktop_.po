@@ -1,0 +1,175 @@
+# Translation of krfb._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2000-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Sebastià Plà i Sanz <sps@sastia.com>, 2000, 2004.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2002, 2003, 2004, 2016, 2020.
+# Albert Astals Cid <aacid@kde.org>, 2004, 2005.
+# Sebastià Pla i Sanz <sps@sastia.com>, 2004.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2015, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: krfb desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-07-20 00:26+0000\n"
+"PO-Revision-Date: 2020-09-15 13:27+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Poedit-Language: Catalan\n"
+
+#: krfb/krfb-events.desktop:5
+msgctxt "Comment"
+msgid "Event plugins for KRfb"
+msgstr "Connectors d'esdeveniments per al KRfb."
+
+#: krfb/krfb-framebuffer.desktop:5
+msgctxt "Comment"
+msgid "Frame Buffer plugins for KRfb"
+msgstr "Connectors de «framebuffer» per al KRfb."
+
+#: krfb/krfb.notifyrc:3 krfb/org.kde.krfb.desktop:103
+msgctxt "Comment"
+msgid "Desktop Sharing"
+msgstr "Compartir l'escriptori"
+
+#: krfb/krfb.notifyrc:76
+msgctxt "Name"
+msgid "User Accepts Connection"
+msgstr "L'usuari accepta la connexió"
+
+#: krfb/krfb.notifyrc:136
+msgctxt "Comment"
+msgid "User accepts connection"
+msgstr "L'usuari accepta la connexió"
+
+#: krfb/krfb.notifyrc:209
+msgctxt "Name"
+msgid "User Refuses Connection"
+msgstr "L'usuari refusa la connexió"
+
+#: krfb/krfb.notifyrc:269
+msgctxt "Comment"
+msgid "User refuses connection"
+msgstr "L'usuari refusa la connexió"
+
+#: krfb/krfb.notifyrc:342
+msgctxt "Name"
+msgid "Connection Closed"
+msgstr "Connexió tancada"
+
+#: krfb/krfb.notifyrc:404
+msgctxt "Comment"
+msgid "Connection closed"
+msgstr "Connexió tancada"
+
+#: krfb/krfb.notifyrc:481
+msgctxt "Name"
+msgid "Invalid Password"
+msgstr "Contrasenya no vàlida"
+
+#: krfb/krfb.notifyrc:543
+msgctxt "Comment"
+msgid "Invalid password"
+msgstr "Contrasenya no vàlida"
+
+#: krfb/krfb.notifyrc:623
+msgctxt "Name"
+msgid "Invalid Password Invitations"
+msgstr "Contrasenya no vàlida de les invitacions"
+
+#: krfb/krfb.notifyrc:683
+msgctxt "Comment"
+msgid "The invited party sent an invalid password. Connection refused."
+msgstr ""
+"La part invitada ha enviat una contrasenya no vàlida. Connexió refusada."
+
+#: krfb/krfb.notifyrc:754
+msgctxt "Name"
+msgid "New Connection on Hold"
+msgstr "Connexió nova en espera"
+
+#: krfb/krfb.notifyrc:813
+msgctxt "Comment"
+msgid "Connection requested, user must accept"
+msgstr "Connexió sol·licitada, l'usuari l'ha d'acceptar"
+
+#: krfb/krfb.notifyrc:885
+msgctxt "Name"
+msgid "New Connection Auto Accepted"
+msgstr "Connexió nova acceptada automàticament"
+
+#: krfb/krfb.notifyrc:944
+msgctxt "Comment"
+msgid "New connection automatically established"
+msgstr "Connexió nova establida automàticament"
+
+#: krfb/krfb.notifyrc:1016
+msgctxt "Name"
+msgid "Too Many Connections"
+msgstr "Massa connexions"
+
+#: krfb/krfb.notifyrc:1075
+msgctxt "Comment"
+msgid "Busy, connection refused"
+msgstr "Ocupat, connexió rebutjada"
+
+#: krfb/krfb.notifyrc:1150
+msgctxt "Name"
+msgid "Unexpected Connection"
+msgstr "Connexió inesperada"
+
+#: krfb/krfb.notifyrc:1210
+msgctxt "Comment"
+msgid "Received unexpected connection, abort"
+msgstr "S'ha rebut una connexió inesperada, s'està interrompent"
+
+#: krfb/org.kde.krfb.desktop:9
+msgctxt "Name"
+msgid "Krfb"
+msgstr "Krfb"
+
+#: krfb/org.kde.krfb.desktop:77
+msgctxt "GenericName"
+msgid "Desktop Sharing (VNC)"
+msgstr "Compartició de l'escriptori (VNC)"
+
+#~ msgctxt "Comment"
+#~ msgid "X11 XFakeInput based event handler for KRfb"
+#~ msgstr "Gestor d'esdeveniments basat en «XFakeInput» de l'X11 per al KRfb"
+
+#~ msgctxt "Name"
+#~ msgid "X11 XFakeInput based event handler for KRfb"
+#~ msgstr "Gestor d'esdeveniments basat en «XFakeInput» de l'X11 per al KRfb"
+
+#~ msgctxt "Comment"
+#~ msgid "Xdg-desktop-portal based event handler for KRfb"
+#~ msgstr "Gestor d'esdeveniments basat en «Xdg-desktop-portal» per al KRfb"
+
+#~ msgctxt "Name"
+#~ msgid "Xdg-desktop-portal based event handler for KRfb"
+#~ msgstr "Gestor d'esdeveniments basat en «Xdg-desktop-portal» per al KRfb"
+
+#~ msgctxt "Comment"
+#~ msgid "Qt based Framebuffer for KRfb."
+#~ msgstr "«Framebuffer» basat en les Qt per al KRfb."
+
+#~ msgctxt "Name"
+#~ msgid "Qt Framebuffer for KRfb"
+#~ msgstr "«Framebuffer» de les Qt per al KRfb."
+
+#~ msgctxt "Comment"
+#~ msgid "X11 XDamage/XShm based Framebuffer for KRfb."
+#~ msgstr "«Framebuffer» basat en XDamage/XShmQt del X11 per al KRfb."
+
+#~ msgctxt "Name"
+#~ msgid "X11 Framebuffer for KRfb"
+#~ msgstr "«Framebuffer» del X11 per al KRfb."

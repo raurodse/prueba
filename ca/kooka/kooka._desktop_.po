@@ -1,0 +1,191 @@
+# Translation of kooka._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2014-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2020.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2018, 2019, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kooka desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-08-02 00:24+0000\n"
+"PO-Revision-Date: 2021-09-06 20:33+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 20.12.0\n"
+
+#: app/desktop/org.kde.kooka.desktop:7
+msgctxt "GenericName"
+msgid "Scan & OCR Program"
+msgstr "Programa d'escaneig i OCR"
+
+#: app/desktop/org.kde.kooka.desktop:45
+msgctxt "Name"
+msgid "Kooka"
+msgstr "Kooka"
+
+#: libkookascan/desktop/scanservice.desktop:4
+msgctxt "Name"
+msgid "KDE Scan Service"
+msgstr "Servei d'escaneig del KDE"
+
+#: plugins/destination/application/kookadestination-application.desktop:9
+msgctxt "Name"
+msgid "Application"
+msgstr "Aplicació"
+
+#: plugins/destination/application/kookadestination-application.desktop:29
+msgctxt "Comment"
+msgid "Open the scanned image in an application"
+msgstr "Obri la imatge escanejada en una aplicació"
+
+#: plugins/destination/clipboard/kookadestination-clipboard.desktop:9
+msgctxt "Name"
+msgid "Copy Image"
+msgstr "Copia la imatge"
+
+#: plugins/destination/clipboard/kookadestination-clipboard.desktop:29
+msgctxt "Comment"
+msgid "Copy the scanned image to the clipboard"
+msgstr "Copia la imatge escanejada al porta-retalls"
+
+#: plugins/destination/export/kookadestination-export.desktop:9
+msgctxt "Name"
+msgid "Online Service"
+msgstr "Servei en línia"
+
+#: plugins/destination/export/kookadestination-export.desktop:29
+msgctxt "Comment"
+msgid "Export the scanned image to an online service"
+msgstr "Exporta la imatge escanejada a un servei en línia"
+
+#: plugins/destination/gallery/kookadestination-gallery.desktop:9
+msgctxt "Name"
+msgid "Scan Gallery"
+msgstr "Galeria d'escaneig"
+
+#: plugins/destination/gallery/kookadestination-gallery.desktop:28
+msgctxt "Comment"
+msgid "Save the scanned image to the scan gallery"
+msgstr "Guarda la imatge escanejada a la galeria d'escaneig"
+
+#: plugins/destination/kookadestinationplugin.desktop:5
+msgctxt "Name"
+msgid "Kooka Scan Destination Plugin"
+msgstr "Connector de destinació d'escaneig del Kooka"
+
+#: plugins/destination/print/kookadestination-print.desktop:9
+msgctxt "Name"
+msgid "Print Image"
+msgstr "Impressió de la imatge"
+
+#: plugins/destination/print/kookadestination-print.desktop:29
+msgctxt "Comment"
+msgid "Print the scanned image"
+msgstr "Imprimeix la imatge escanejada"
+
+#: plugins/destination/save/kookadestination-save.desktop:9
+msgctxt "Name"
+msgid "Save Image"
+msgstr "Guarda la imatge"
+
+#: plugins/destination/save/kookadestination-save.desktop:29
+msgctxt "Comment"
+msgid "Save the scanned image"
+msgstr "Guarda la imatge escanejada"
+
+#: plugins/destination/share/kookadestination-share.desktop:9
+msgctxt "Name"
+msgid "Share Image"
+msgstr "Comparteix una imatge"
+
+#: plugins/destination/share/kookadestination-share.desktop:29
+msgctxt "Comment"
+msgid "Share the scanned image"
+msgstr "Comparteix la imatge escanejada"
+
+#: plugins/ocr/gocr/kookaocr-gocr.desktop:8
+msgctxt "Name"
+msgid "GOCR"
+msgstr "GOCR"
+
+#: plugins/ocr/gocr/kookaocr-gocr.desktop:33
+msgctxt "Comment"
+msgid ""
+"<emphasis>GOCR</emphasis> (sometimes known as <emphasis>JOCR</emphasis>) is "
+"an open source OCR engine, originally started by Joerg&nbsp;Schulenburg and "
+"now with a team of active developers.<nl/><nl/>See <link url=\"http://jocr."
+"sourceforge.net\">jocr.sourceforge.net</link> for more information on GOCR."
+msgstr ""
+"El <emphasis>GOCR</emphasis> (a vegades conegut com a <emphasis>JOCR</"
+"emphasis>) és un motor d'OCR de codi font obert, començat originalment per "
+"en Joerg&nbsp;Schulenburg i ara hi ha un equip de desenvolupadors actius. "
+"<nl/><nl/>Vegeu <link url=\"http://jocr.sourceforge.net\">jocr.sourceforge."
+"net</link> per a obtindre més informació quant al GOCR."
+
+#: plugins/ocr/kookaocrplugin.desktop:5
+msgctxt "Name"
+msgid "Kooka OCR Plugin"
+msgstr "Connector OCR del Kooka"
+
+#: plugins/ocr/ocrad/kookaocr-ocrad.desktop:8
+msgctxt "Name"
+msgid "OCRAD"
+msgstr "OCRAD"
+
+#: plugins/ocr/ocrad/kookaocr-ocrad.desktop:34
+msgctxt "Comment"
+msgid ""
+"<emphasis>OCRAD</emphasis> is a free software OCR engine by Antonio&nbsp;"
+"Diaz, part of the GNU&nbsp;Project.<nl/><nl/>Images for OCR should be "
+"scanned in black/white (lineart) mode. Best results are achieved if the "
+"characters are at least 20&nbsp;pixels high. Problems may arise, as usual, "
+"with very bold or very light or broken characters, or with merged character "
+"groups.<nl/><nl/>See <link url=\"http://www.gnu.org/software/ocrad/ocrad.html"
+"\">www.gnu.org/software/ocrad/ocrad.html</link> for more information on "
+"OCRAD."
+msgstr ""
+"L'<emphasis>OCRAD</emphasis> és un motor d'OCR de programari lliure fet per "
+"l'Antonio&nbsp;Diaz, part del Projecte&nbsp;GNU. <nl/><nl/>Les imatges per a "
+"l'OCR s'han d'escanejar en mode blanc i negre (art lineal). S'aconsegueixen "
+"els millors resultats si els caràcters tenen com a mínim 20&nbsp;píxels "
+"d'alçària. Poden produir-se problemes, normalment, amb caràcters molt "
+"grossos o molt fins o trencats, o amb grups de caràcters barrejats.<nl/><nl/"
+">Vegeu <link url=\"http://www.gnu.org/software/ocrad/ocrad.html\">www.gnu."
+"org/software/ocrad/ocrad.html</link> per a obtindre més informació quant a "
+"l'OCRAD."
+
+#: plugins/ocr/tesseract/kookaocr-tesseract.desktop:8
+msgctxt "Name"
+msgid "Tesseract"
+msgstr "Tesseract"
+
+#: plugins/ocr/tesseract/kookaocr-tesseract.desktop:31
+msgctxt "Comment"
+msgid ""
+"<emphasis>Tesseract</emphasis> is a free software OCR engine, originally "
+"developed at HP&nbsp;Labs and now sponsored by Google. It supports multiple "
+"languages and scripts (including right-to-left text) and page layout "
+"analysis.<nl/><nl/>The best results are achieved if scanned characters are "
+"at least 20&nbsp;pixels high. Problems may arise with excessively skewed or "
+"rotated images, or if dark borders are present.<nl/><nl/>See <link url="
+"\"https://github.com/tesseract-ocr/tesseract\">github.com/tesseract-ocr/"
+"tesseract</link> for more information on Tesseract."
+msgstr ""
+"El <emphasis>Tesseract</emphasis> és un motor d'OCR de programari lliure, "
+"desenvolupat originalment en els laboratoris d'HP i ara patrocinat per "
+"Google. Admet múltiples idiomes i scripts (inclòs el text de dreta a "
+"esquerra) i analitza la disposició de la pàgina.<nl/><nl/>S'obtenen els "
+"millors resultats si els caràcters escanejats tenen al menys 20 píxels "
+"d'alçària. Poden sorgir problemes amb imatges excessivament inclinades o "
+"girades, o si hi ha presents vores fosques.<nl/><nl/>Vegeu <link url="
+"\"https://github.com/tesseract-ocr/tesseract\">github.com/tesseract-ocr/"
+"tesseract</link> per a obtindre més informació quant el Tesseract."

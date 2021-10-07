@@ -1,0 +1,103 @@
+# Translation of org.kde.korganizer.appdata.po to Catalan (Valencian)
+# Copyright (C) 2014-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2017, 2018, 2020.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: korganizer appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2018-10-04 03:54+0200\n"
+"PO-Revision-Date: 2020-07-23 20:25+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 20.04.3\n"
+
+#. (itstool) path: component/developer_name
+#: org.kde.korganizer.appdata.xml:6
+msgid "The KDE Community"
+msgstr "La comunitat KDE"
+
+#. (itstool) path: component/name
+#: org.kde.korganizer.appdata.xml:7
+msgid "KOrganizer"
+msgstr "KOrganizer"
+
+#. (itstool) path: component/summary
+#: org.kde.korganizer.appdata.xml:8
+msgid "KOrganizer is a calendar and scheduling application"
+msgstr "El KOrganizer és una aplicació de calendari i planificació de tasques"
+
+#. (itstool) path: description/p
+#: org.kde.korganizer.appdata.xml:10
+msgid ""
+"KOrganizer is the calendar and scheduling component of Kontact. It provides "
+"management of events and tasks, alarm notification, web export, network "
+"transparent handling of data, group scheduling, import and export of "
+"calendar files and more. It is able to work together with a wide variety of "
+"calendaring services, including NextCloud, Kolab, Google Calendar and "
+"others. KOrganizer is fully customizable to your needs and is an integral "
+"part of the Kontact suite, which aims to be a complete solution for "
+"organizing your personal data. KOrganizer supports the two dominant "
+"standards for storing and exchanging calendar data, vCalendar and iCalendar."
+msgstr ""
+"El KOrganizer és el component de calendari i programació del Kontact. "
+"Proporciona gestió dels esdeveniments i tasques, notificació d'alarmes, "
+"exportació web, gestió de dades transparent a la xarxa, programació de "
+"grups, importació i exportació de fitxers de calendari i molt més. És capaç "
+"de treballar juntament amb una àmplia varietat de serveis de calendari, "
+"incloent el NextCloud, Kolab, Google Calendar i altres. El KOrganizer és "
+"totalment personalitzable segons les vostres necessitats i forma part de la "
+"suite Kontact, la qual pretén ser una solució completa per a organitzar les "
+"vostres dades personals. El KOrganizer admet els dos estàndards dominants "
+"per a emmagatzemar i intercanviar dades de calendari: vCalendar i iCalendar."
+
+#. (itstool) path: description/p
+#: org.kde.korganizer.appdata.xml:13
+msgid "Features:"
+msgstr "Característiques:"
+
+#. (itstool) path: ul/li
+#: org.kde.korganizer.appdata.xml:15
+msgid "Support for multiple calendars and todo lists"
+msgstr "Permet múltiples calendaris i llistes de tasques pendents"
+
+#. (itstool) path: ul/li
+#: org.kde.korganizer.appdata.xml:16
+msgid "Storage model"
+msgstr "Model d'emmagatzematge"
+
+#. (itstool) path: ul/li
+#: org.kde.korganizer.appdata.xml:17
+msgid "Undo and Redo"
+msgstr "Fes i desfés"
+
+# skip-rule: ff-agenda
+#. (itstool) path: ul/li
+#: org.kde.korganizer.appdata.xml:18
+msgid "Todo integration with agenda view"
+msgstr "Integra les tasques pendents amb la vista d'agenda"
+
+#. (itstool) path: ul/li
+#: org.kde.korganizer.appdata.xml:19
+msgid "Attachments for events and todos"
+msgstr "Adjunts per als esdeveniments i tasques pendents"
+
+#. (itstool) path: ul/li
+#: org.kde.korganizer.appdata.xml:20
+msgid "Quick todo and event entries"
+msgstr "Entrades de tasques pendents i esdeveniments ràpids"
+
+#. (itstool) path: ul/li
+#: org.kde.korganizer.appdata.xml:21
+msgid "Print support"
+msgstr "Permet la impressió"

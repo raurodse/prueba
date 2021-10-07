@@ -1,0 +1,196 @@
+# Translation of knotes._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2000-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 2000, 2004, 2005, 2006.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2003, 2004, 2011, 2012, 2013, 2014, 2015, 2016, 2018, 2020.
+# Albert Astals Cid <aacid@kde.org>, 2004, 2005.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2006, 2007, 2008, 2010, 2011, 2012, 2013, 2015, 2016, 2021.
+# Manuel Tortosa Moreno <manutortosa@chakra-project.org>, 2009, 2010, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: knotes desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-08-21 00:26+0000\n"
+"PO-Revision-Date: 2021-09-05 19:27+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.12.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: notesagent/akonadi_notes_agent.notifyrc:3
+msgctxt "Comment"
+msgid "Notes Agent"
+msgstr "Agent de notes"
+
+#: notesagent/akonadi_notes_agent.notifyrc:45
+msgctxt "Name"
+msgid "Received a note"
+msgstr "S'ha rebut una nota"
+
+#: notesagent/notesagent.desktop:2
+msgctxt "Name"
+msgid "Notes Agent"
+msgstr "Agent de notes"
+
+#: notesagent/notesagent.desktop:42
+msgctxt "Comment"
+msgid "Adds notes received via network and handles note alarm notifications"
+msgstr ""
+"Afig notes rebudes a través de la xarxa i s'ocupa de les notificacions "
+"d'alarma"
+
+#: src/data/kcm_knote_action.desktop:13
+msgctxt "Name"
+msgid "Actions"
+msgstr "Accions"
+
+#: src/data/kcm_knote_action.desktop:65
+msgctxt "Comment"
+msgid "Setup actions for notes"
+msgstr "Arranja les accions per a les notes"
+
+#: src/data/kcm_knote_collection.desktop:13
+msgctxt "Name"
+msgid "Collections"
+msgstr "Col·leccions"
+
+#: src/data/kcm_knote_collection.desktop:52
+msgctxt "Comment"
+msgid "Setup collections for notes"
+msgstr "Configura les col·leccions per a les notes"
+
+#: src/data/kcm_knote_display.desktop:13
+msgctxt "Name"
+msgid "Display"
+msgstr "Visor"
+
+#: src/data/kcm_knote_display.desktop:66
+msgctxt "Comment"
+msgid "Setup display for notes"
+msgstr "Configura el visor per a les notes"
+
+#: src/data/kcm_knote_editor.desktop:13
+msgctxt "Name"
+msgid "Editor"
+msgstr "Editor"
+
+#: src/data/kcm_knote_editor.desktop:67
+msgctxt "Comment"
+msgid "Setup editor"
+msgstr "Configura l'editor"
+
+#: src/data/kcm_knote_misc.desktop:13
+msgctxt "Name"
+msgid "Misc"
+msgstr "Miscel·lània"
+
+#: src/data/kcm_knote_misc.desktop:83
+msgctxt "Comment"
+msgid "Settings that don't fit elsewhere"
+msgstr "Opcions que no van bé enlloc"
+
+#: src/data/kcm_knote_network.desktop:13
+msgctxt "Name"
+msgid "Network"
+msgstr "Xarxa"
+
+#: src/data/kcm_knote_network.desktop:66
+msgctxt "Comment"
+msgid "Network Settings"
+msgstr "Configuració de la xarxa"
+
+#: src/data/kcm_knote_print.desktop:13
+msgctxt "Name"
+msgid "Print"
+msgstr "Impressió"
+
+#: src/data/kcm_knote_print.desktop:54
+msgctxt "Comment"
+msgid "Setup printing for notes"
+msgstr "Configura la impressió per a les notes"
+
+#: src/data/knotes_printing_theme.knsrc:2
+msgctxt "Name"
+msgid "KNotes Printing Theme"
+msgstr "Tema d'impressió del KNotes"
+
+#: src/data/org.kde.knotes.desktop:8
+msgctxt "GenericName"
+msgid "Popup Notes"
+msgstr "Notes emergents"
+
+#: src/data/org.kde.knotes.desktop:77
+msgctxt "Name"
+msgid "KNotes"
+msgstr "KNotes"
+
+#: src/data/org.kde.knotes.desktop:155
+msgctxt "Name"
+msgid "New Note"
+msgstr "Nota nova"
+
+#: src/kontactplugin/kcmknotessummary.desktop:13
+msgctxt "Name"
+msgid "New Notes"
+msgstr "Notes noves"
+
+#: src/kontactplugin/kcmknotessummary.desktop:53
+msgctxt "Comment"
+msgid "Notes Summary Setup"
+msgstr "Configuració del resum per a les notes"
+
+#: src/kontactplugin/knotesplugin.desktop:19
+msgctxt "Comment"
+msgid "Kontact KNotes Plugin"
+msgstr "Connector del KNotes per al Kontact"
+
+#: src/kontactplugin/knotesplugin.desktop:86
+msgctxt "Name"
+msgid "Popup Notes"
+msgstr "Notes emergents"
+
+#: src/print/themes/background-color/theme.desktop:2
+msgctxt "Name"
+msgid "Note with background color"
+msgstr "Nota amb un color de fons"
+
+#: src/print/themes/background-color/theme.desktop:41
+msgctxt "Description"
+msgid "Theme which use note background color"
+msgstr "Tema que usa una nota amb un color de fons"
+
+#: src/print/themes/big-title/theme.desktop:2
+msgctxt "Name"
+msgid "Big Title"
+msgstr "Títol gran"
+
+#: src/print/themes/big-title/theme.desktop:43
+msgctxt "Description"
+msgid "KNote printing theme with big title"
+msgstr "Tema d'impressió del KNotes amb títols grans"
+
+#: src/print/themes/default/theme.desktop:2
+msgctxt "Name"
+msgid "Default"
+msgstr "Omissió"
+
+#: src/print/themes/default/theme.desktop:73
+msgctxt "Description"
+msgid "Default knotes printing theme"
+msgstr "Tema d'impressió per omissió del KNotes"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "notes, summary, configure, settings"
+#~ msgstr "notes, resum, configura, arranjament"
+
+#~ msgctxt "Comment"
+#~ msgid "Popup Notes Component"
+#~ msgstr "Component de notes emergents"

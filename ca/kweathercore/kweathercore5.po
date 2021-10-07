@@ -1,0 +1,222 @@
+# Translation of kweathercore5.po to Catalan (Valencian)
+# Copyright (C) 2020-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2020.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kweathercore\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-08-30 00:16+0000\n"
+"PO-Revision-Date: 2021-08-03 10:29+0200\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.12.0\n"
+
+#: kweathercore.cpp:103
+#, kde-format
+msgid "Immediate"
+msgstr "Immediata"
+
+#: kweathercore.cpp:106
+#, kde-format
+msgid "Expected"
+msgstr "Esperada"
+
+#: kweathercore.cpp:109
+#, kde-format
+msgid "Future"
+msgstr "Futura"
+
+#: kweathercore.cpp:112
+#, kde-format
+msgid "Past"
+msgstr "Passada"
+
+#: kweathercore.cpp:115 kweathercore.cpp:137 kweathercore.cpp:159
+#: kweathercore_p.h:29
+#, kde-format
+msgid "Unknown"
+msgstr "Desconeguda"
+
+#: kweathercore.cpp:125
+#, kde-format
+msgid "Extreme"
+msgstr "Extrema"
+
+#: kweathercore.cpp:128
+#, kde-format
+msgid "Severe"
+msgstr "Severa"
+
+#: kweathercore.cpp:131
+#, kde-format
+msgid "Moderate"
+msgstr "Moderada"
+
+#: kweathercore.cpp:134
+#, kde-format
+msgid "Minor"
+msgstr "Menor"
+
+#: kweathercore.cpp:147
+#, kde-format
+msgid "Observed"
+msgstr "Observada"
+
+#: kweathercore.cpp:150
+#, kde-format
+msgid "Likely"
+msgstr "Probable"
+
+#: kweathercore.cpp:153
+#, kde-format
+msgid "Possible"
+msgstr "Possible"
+
+#: kweathercore.cpp:156
+#, kde-format
+msgid "Unlikely"
+msgstr "Poc probable"
+
+#: kweathercore_p.h:100 kweathercore_p.h:101 kweathercore_p.h:102
+#: kweathercore_p.h:103 kweathercore_p.h:104 kweathercore_p.h:105
+#: kweathercore_p.h:106 kweathercore_p.h:107 kweathercore_p.h:108
+#: kweathercore_p.h:112 kweathercore_p.h:113 kweathercore_p.h:114
+#: kweathercore_p.h:115 kweathercore_p.h:116 kweathercore_p.h:117
+#: kweathercore_p.h:127 kweathercore_p.h:128 kweathercore_p.h:129
+#: kweathercore_p.h:133 kweathercore_p.h:134 kweathercore_p.h:135
+#: kweathercore_p.h:142 kweathercore_p.h:143 kweathercore_p.h:144
+#: kweathercore_p.h:145 kweathercore_p.h:146 kweathercore_p.h:147
+#: kweathercore_p.h:148 kweathercore_p.h:149 kweathercore_p.h:150
+#: kweathercore_p.h:154 kweathercore_p.h:155 kweathercore_p.h:156
+#: kweathercore_p.h:157 kweathercore_p.h:158 kweathercore_p.h:159
+#: kweathercore_p.h:178 kweathercore_p.h:179 kweathercore_p.h:180
+#: kweathercore_p.h:184 kweathercore_p.h:185 kweathercore_p.h:186
+#: kweathercore_p.h:211 kweathercore_p.h:212 kweathercore_p.h:213
+#: kweathercore_p.h:214 kweathercore_p.h:215 kweathercore_p.h:216
+#, kde-format
+msgid "Storm"
+msgstr "Tempesta"
+
+#: kweathercore_p.h:109 kweathercore_p.h:110 kweathercore_p.h:111
+#: kweathercore_p.h:190 kweathercore_p.h:191 kweathercore_p.h:192
+#, kde-format
+msgid "Heavy Snow"
+msgstr "Nevada intensa"
+
+#: kweathercore_p.h:118 kweathercore_p.h:119 kweathercore_p.h:120
+#: kweathercore_p.h:187 kweathercore_p.h:188 kweathercore_p.h:189
+#, kde-format
+msgid "Rain"
+msgstr "Pluja"
+
+#: kweathercore_p.h:121 kweathercore_p.h:122 kweathercore_p.h:123
+#, kde-format
+msgid "Fog"
+msgstr "Boira"
+
+#: kweathercore_p.h:124 kweathercore_p.h:125 kweathercore_p.h:126
+#: kweathercore_p.h:139 kweathercore_p.h:140 kweathercore_p.h:141
+#, kde-format
+msgid "Heavy Sleet"
+msgstr "Calamarsa forta"
+
+#: kweathercore_p.h:130 kweathercore_p.h:131 kweathercore_p.h:132
+#, kde-format
+msgid "Cloudy"
+msgstr "Ennuvolat"
+
+#: kweathercore_p.h:136 kweathercore_p.h:137 kweathercore_p.h:138
+#: kweathercore_p.h:160 kweathercore_p.h:161 kweathercore_p.h:162
+#, kde-format
+msgid "Light Snow"
+msgstr "Nevada lleugera"
+
+#: kweathercore_p.h:151 kweathercore_p.h:152 kweathercore_p.h:153
+#: kweathercore_p.h:169 kweathercore_p.h:170 kweathercore_p.h:171
+#, kde-format
+msgid "Light Sleet"
+msgstr "Calamarsa lleugera"
+
+#: kweathercore_p.h:163 kweathercore_p.h:164 kweathercore_p.h:165
+#: kweathercore_p.h:208 kweathercore_p.h:209 kweathercore_p.h:210
+#, kde-format
+msgid "Sleet"
+msgstr "Aiguaneu"
+
+#: kweathercore_p.h:166 kweathercore_p.h:167 kweathercore_p.h:168
+#: kweathercore_p.h:217 kweathercore_p.h:218 kweathercore_p.h:219
+#, kde-format
+msgid "Heavy Rain"
+msgstr "Pluja intensa"
+
+#: kweathercore_p.h:172 kweathercore_p.h:173 kweathercore_p.h:174
+#: kweathercore_p.h:175 kweathercore_p.h:176 kweathercore_p.h:177
+#: kweathercore_p.h:181 kweathercore_p.h:182 kweathercore_p.h:183
+#, kde-format
+msgid "Snow"
+msgstr "Neu"
+
+#: kweathercore_p.h:193 kweathercore_p.h:194 kweathercore_p.h:195
+#: kweathercore_p.h:205 kweathercore_p.h:206 kweathercore_p.h:207
+#, kde-format
+msgid "Light Rain"
+msgstr "Pluja lleugera"
+
+#: kweathercore_p.h:196 kweathercore_p.h:198
+#, kde-format
+msgid "Light Clouds"
+msgstr "Núvols lleugers"
+
+#: kweathercore_p.h:197
+#, kde-format
+msgid "Partly Sunny"
+msgstr "Parcialment assolellat"
+
+#: kweathercore_p.h:199 kweathercore_p.h:200 kweathercore_p.h:201
+#, kde-format
+msgid "Partly Cloudy"
+msgstr "Parcialment ennuvolat"
+
+#: kweathercore_p.h:202 kweathercore_p.h:203 kweathercore_p.h:204
+#, kde-format
+msgid "Clear"
+msgstr "Serè"
+
+#: sunrise.cpp:172 sunrise.cpp:184
+#, kde-format
+msgid "New Moon"
+msgstr "Lluna nova"
+
+#: sunrise.cpp:174
+#, kde-format
+msgid "Waxing Crescent"
+msgstr "Quart creixent"
+
+#: sunrise.cpp:176
+#, kde-format
+msgid "Waxing Gibbous"
+msgstr "Gibosa creixent"
+
+#: sunrise.cpp:178
+#, kde-format
+msgid "Full Moon"
+msgstr "Lluna plena"
+
+#: sunrise.cpp:180
+#, kde-format
+msgid "Waning Gibbous"
+msgstr "Gibosa minvant"
+
+#: sunrise.cpp:182
+#, kde-format
+msgid "Waning Crescent"
+msgstr "Quart minvant"

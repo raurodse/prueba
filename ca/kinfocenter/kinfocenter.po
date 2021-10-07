@@ -1,0 +1,108 @@
+# Translation of kinfocenter.po to Catalan (Valencian)
+# Copyright (C) 1998-2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 1998, 1999, 2000, 2001, 2002, 2004, 2005, 2006.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2003.
+# Albert Astals Cid <aacid@kde.org>, 2005.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2006, 2007, 2008, 2009, 2010, 2013, 2016, 2017, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: kinfocenter\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-29 03:19+0100\n"
+"PO-Revision-Date: 2019-07-09 12:09+0200\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sebastià Pla i Sanz,Antoni Bella"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sps@sastia.com,antonibella5@yahoo.com"
+
+#~ msgctxt "Main window title"
+#~ msgid "KInfocenter"
+#~ msgstr "KInfocenter"
+
+#~ msgctxt "Information about current module located in about menu"
+#~ msgid "About Current Information Module"
+#~ msgstr "Quant al mòdul d'informació actual"
+
+#~ msgctxt "Module help button label"
+#~ msgid "Module Help"
+#~ msgstr "Ajuda del mòdul"
+
+#~ msgctxt "Help button label"
+#~ msgid "Help"
+#~ msgstr "Ajuda"
+
+#~ msgctxt "Search Bar Click Message"
+#~ msgid "Search"
+#~ msgstr "Busca"
+
+#~ msgctxt "Kaction search label"
+#~ msgid "Search Modules"
+#~ msgstr "Busca mòduls"
+
+#~ msgid "Information Modules"
+#~ msgstr "Mòduls d'informació"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Main Toolbar"
+#~ msgstr "Barra d'eines principal"
+
+#~ msgid "Info Center"
+#~ msgstr "Centre d'informació"
+
+#~ msgid "Copyright 2009-2018 KDE"
+#~ msgstr "Copyright 2009-2018 KDE"
+
+#~ msgid "David Hubner"
+#~ msgstr "David Hubner"
+
+#~ msgid "Current Maintainer"
+#~ msgstr "Mantenidor actual"
+
+#~ msgid "Helge Deller"
+#~ msgstr "Helge Deller"
+
+#~ msgid "Previous Maintainer"
+#~ msgstr "Mantenidor anterior"
+
+#~ msgid "Matthias Hoelzer-Kluepfel"
+#~ msgstr "Matthias Hoelzer-Kluepfel"
+
+#~ msgid "Matthias Elter"
+#~ msgstr "Matthias Elter"
+
+#~ msgid "Matthias Ettrich"
+#~ msgstr "Matthias Ettrich"
+
+#~ msgid "Waldo Bastian"
+#~ msgstr "Waldo Bastian"
+
+#~ msgid "Nicolas Ternisien"
+#~ msgstr "Nicolas Ternisien"
+
+#~ msgid "Clear Search"
+#~ msgstr "Neteja la cerca"
+
+#~ msgid "Expand All Categories"
+#~ msgstr "Expandeix totes les categories"
+
+#~ msgid "Collapse All Categories"
+#~ msgstr "Redueix totes les categories"

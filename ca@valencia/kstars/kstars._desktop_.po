@@ -1,0 +1,473 @@
+# Translation of kstars._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2003-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2003, 2004, 2015, 2017, 2018, 2019, 2020.
+# Albert Astals Cid <aacid@kde.org>, 2004, 2005, 2006.
+# David Gil <al016950@yahoo.es>, 2005.
+# Orestes Mas <orestes@tsc.upc.edu>, 2006, 2007.
+# Orestes Mas Casals <orestes@tsc.upc.edu>, 2007, 2008, 2009, 2010.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2009, 2010, 2016, 2017, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kstars desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-07-04 00:25+0000\n"
+"PO-Revision-Date: 2021-07-22 16:01+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: kstars/kstars.notifyrc:4
+msgctxt "Comment"
+msgid "KStars"
+msgstr "KStars"
+
+#: kstars/kstars.notifyrc:35
+msgctxt "Name"
+msgid "Focus started"
+msgstr "S'ha iniciat l'enfocament"
+
+#: kstars/kstars.notifyrc:60
+msgctxt "Comment"
+msgid "Autofocus operation started"
+msgstr "S'ha iniciat l'operació d'enfocament automàtic"
+
+#: kstars/kstars.notifyrc:86
+msgctxt "Name"
+msgid "Autofocus Success"
+msgstr "L'enfocament automàtic ha estat correcte"
+
+#: kstars/kstars.notifyrc:111
+msgctxt "Comment"
+msgid "Autofocus operation completed successfully"
+msgstr "L'operació d'enfocament automàtic s'ha completat correctament"
+
+#: kstars/kstars.notifyrc:139
+msgctxt "Name"
+msgid "Autofocus Failure"
+msgstr "Ha fallat l'enfocament automàtic"
+
+#: kstars/kstars.notifyrc:164
+msgctxt "Comment"
+msgid "Autofocus operation failed with errors"
+msgstr "L'operació d'enfocament automàtic ha fallat amb errors"
+
+#: kstars/kstars.notifyrc:192
+msgctxt "Name"
+msgid "Alignment Success"
+msgstr "L'alineació ha estat correcta"
+
+#: kstars/kstars.notifyrc:217
+msgctxt "Comment"
+msgid "Astrometry alignment completed successfully"
+msgstr "L'alineació amb astrometria s'ha completat correctament"
+
+#: kstars/kstars.notifyrc:246
+msgctxt "Name"
+msgid "Alignment Failure"
+msgstr "Ha fallat l'alineació"
+
+#: kstars/kstars.notifyrc:272
+msgctxt "Comment"
+msgid "Astrometry alignment failed with errors"
+msgstr "L'alineació amb astrometria ha fallat amb errors"
+
+#: kstars/kstars.notifyrc:301
+msgctxt "Name"
+msgid "Calibration Success"
+msgstr "El calibratge ha estat correcte"
+
+#: kstars/kstars.notifyrc:329
+msgctxt "Comment"
+msgid "Guiding calibration completed successfully"
+msgstr "El calibratge del guiatge s'ha completat correctament"
+
+#: kstars/kstars.notifyrc:357
+msgctxt "Name"
+msgid "Calibration Failure"
+msgstr "Ha fallat el calibratge"
+
+#: kstars/kstars.notifyrc:384
+msgctxt "Comment"
+msgid "Guiding calibration failed with errors"
+msgstr "El calibratge del guiatge ha fallat amb errors"
+
+#: kstars/kstars.notifyrc:411
+msgctxt "Name"
+msgid "Guiding Failure"
+msgstr "Ha fallat el guiatge"
+
+#: kstars/kstars.notifyrc:436
+msgctxt "Comment"
+msgid "Autoguiding failed with errors"
+msgstr "El guiatge automàtic ha fallat amb errors"
+
+#: kstars/kstars.notifyrc:464
+msgctxt "Name"
+msgid "Capture Success"
+msgstr "La captura ha estat correcta"
+
+#: kstars/kstars.notifyrc:489
+msgctxt "Comment"
+msgid "CCD Capture completed successfully"
+msgstr "La captura CCD s'ha completat correctament"
+
+#: kstars/kstars.notifyrc:517
+msgctxt "Name"
+msgid "Capture Failure"
+msgstr "Ha fallat la captura"
+
+#: kstars/kstars.notifyrc:542
+msgctxt "Comment"
+msgid "CCD capture failed with errors"
+msgstr "La captura CCD ha fallat amb errors"
+
+#: kstars/kstars.notifyrc:570
+msgctxt "Name"
+msgid "FITS Received"
+msgstr "S'ha rebut un FITS"
+
+#: kstars/kstars.notifyrc:595
+msgctxt "Comment"
+msgid "FITS file is received"
+msgstr "S'ha rebut un fitxer FITS"
+
+#: kstars/kstars.notifyrc:623
+msgctxt "Name"
+msgid "Weather Warning"
+msgstr "Avís meteorològic"
+
+#: kstars/kstars.notifyrc:649
+msgctxt "Comment"
+msgid "Weather conditions in warning zone"
+msgstr "Les condicions meteorològiques es troben a la zona d'alerta"
+
+#: kstars/kstars.notifyrc:676
+msgctxt "Name"
+msgid "Weather Alert"
+msgstr "Alerta meteorològica"
+
+#: kstars/kstars.notifyrc:702
+msgctxt "Comment"
+msgid "Weather conditions are critical. Observatory shutdown is imminent"
+msgstr ""
+"Les condicions meteorològiques són crítiques. El tancament de l'observatori "
+"és imminent"
+
+#: kstars/kstars.notifyrc:729
+msgctxt "Name"
+msgid "Observatory Startup"
+msgstr "Inici de l'observatori"
+
+#: kstars/kstars.notifyrc:754
+msgctxt "Comment"
+msgid "Observatory is in the startup process"
+msgstr "L'observatori es troba en el procés d'inici"
+
+#: kstars/kstars.notifyrc:780
+msgctxt "Name"
+msgid "Observatory Shutdown"
+msgstr "Tancament de l'observatori"
+
+#: kstars/kstars.notifyrc:805
+msgctxt "Comment"
+msgid "Observatory is in the shutdown process"
+msgstr "L'observatori es troba en el procés de tancament"
+
+#: kstars/kstars.notifyrc:832
+msgctxt "Name"
+msgid "Scheduler Aborted"
+msgstr "El programador s'ha interromput"
+
+#: kstars/kstars.notifyrc:857
+msgctxt "Name"
+msgid "Slew Started"
+msgstr "S'ha iniciat l'orientació"
+
+#: kstars/kstars.notifyrc:879
+msgctxt "Comment"
+msgid "Mount is slewing to target location"
+msgstr "La muntura s'està orientant cap a la ubicació de l'objectiu"
+
+#: kstars/kstars.notifyrc:903
+msgctxt "Name"
+msgid "Slew Completed"
+msgstr "S'ha completat l'orientació"
+
+#: kstars/kstars.notifyrc:925
+msgctxt "Comment"
+msgid "Mount arrived at target location"
+msgstr "La muntura ha arribat a la ubicació de l'objectiu"
+
+#: kstars/kstars.notifyrc:950
+msgctxt "Name"
+msgid "Mount Aborted"
+msgstr "La muntura s'ha interromput"
+
+#: kstars/kstars.notifyrc:972
+msgctxt "Comment"
+msgid "Mount motion was aborted"
+msgstr "El moviment de la muntura s'ha interromput"
+
+#: kstars/kstars.notifyrc:995
+msgctxt "Name"
+msgid "Mount Parking"
+msgstr "Aparcament de la muntura"
+
+#: kstars/kstars.notifyrc:1016
+msgctxt "Comment"
+msgid "Mount parking is in progress"
+msgstr "L'aparcament de la muntura és en curs"
+
+#: kstars/kstars.notifyrc:1039
+msgctxt "Name"
+msgid "Parking Mount Completed"
+msgstr "S'ha completat l'aparcament de la muntura"
+
+#: kstars/kstars.notifyrc:1060
+msgctxt "Comment"
+msgid "Mount parked"
+msgstr "La muntura està aparcada"
+
+#: kstars/kstars.notifyrc:1083
+msgctxt "Name"
+msgid "Mount parking failed"
+msgstr "Ha fallat en aparcar la muntura"
+
+#: kstars/kstars.notifyrc:1104
+msgctxt "Comment"
+msgid "Mount parking failed"
+msgstr "Ha fallat en aparcar la muntura"
+
+#: kstars/kstars.notifyrc:1127
+msgctxt "Name"
+msgid "Mount unparked"
+msgstr "La muntura està desaparcada"
+
+#: kstars/kstars.notifyrc:1147
+msgctxt "Comment"
+msgid "Mount unparked"
+msgstr "La muntura està desaparcada"
+
+#: kstars/kstars.notifyrc:1169
+msgctxt "Name"
+msgid "Dome Parking"
+msgstr "Aparcament de la cúpula"
+
+#: kstars/kstars.notifyrc:1189
+msgctxt "Comment"
+msgid "Parking dome is in progress"
+msgstr "L'aparcament de la cúpula és en curs"
+
+#: kstars/kstars.notifyrc:1211
+msgctxt "Name"
+msgid "Dome Parked"
+msgstr "La cúpula està aparcada"
+
+#: kstars/kstars.notifyrc:1231
+msgctxt "Comment"
+msgid "Parking dome is complete"
+msgstr "L'aparcament de la cúpula s'ha completat"
+
+#: kstars/kstars.notifyrc:1253
+msgctxt "Name"
+msgid "Dome Unparking"
+msgstr "Desaparcament de la cúpula"
+
+#: kstars/kstars.notifyrc:1273
+msgctxt "Comment"
+msgid "Unparking dome is in progress"
+msgstr "El desaparcament de la cúpula és en curs"
+
+#: kstars/kstars.notifyrc:1295
+msgctxt "Name"
+msgid "Dome unparked"
+msgstr "La cúpula està desaparcada"
+
+#: kstars/kstars.notifyrc:1315
+msgctxt "Comment"
+msgid "Unparking dome is complete"
+msgstr "El desaparcament de la cúpula s'ha completat"
+
+#: kstars/kstars.notifyrc:1337
+msgctxt "Name"
+msgid "Filter Wheel Changed"
+msgstr "S'ha canviat la roda de filtres"
+
+#: kstars/kstars.notifyrc:1361
+msgctxt "Name"
+msgid "Video Recording Started"
+msgstr "Ha començat la gravació de vídeo"
+
+#: kstars/kstars.notifyrc:1386
+msgctxt "Name"
+msgid "Video Recording Stopped"
+msgstr "S'ha aturat la gravació de vídeo"
+
+#: kstars/kstars.notifyrc:1411
+msgctxt "Name"
+msgid "Meridian Flip Started"
+msgstr "S'ha iniciat la inversió del meridià"
+
+#: kstars/kstars.notifyrc:1434
+msgctxt "Name"
+msgid "Meridian Flip Completed"
+msgstr "S'ha completat la inversió del meridià"
+
+#: kstars/kstars.notifyrc:1457
+msgctxt "Name"
+msgid "Meridian Flip Failed"
+msgstr "La inversió del meridià ha fallat"
+
+#: kstars/kstars.notifyrc:1480
+msgctxt "Name"
+msgid "Motion Started"
+msgstr "El moviment ha començat"
+
+#: kstars/kstars.notifyrc:1502
+msgctxt "Comment"
+msgid "Mount manual motion started"
+msgstr "El moviment manual de la muntura ha començat"
+
+#: kstars/kstars.notifyrc:1525
+msgctxt "Name"
+msgid "Motion Completed"
+msgstr "S'ha completat el moviment"
+
+#: kstars/kstars.notifyrc:1547
+msgctxt "Comment"
+msgid "Mount manual motion completed"
+msgstr "El moviment manual de la muntura s'ha completat"
+
+#: kstars/kstars.notifyrc:1569
+msgctxt "Name"
+msgid "INDI Server Message"
+msgstr "Missatge del servidor INDI"
+
+#: kstars/kstars.notifyrc:1592
+msgctxt "Comment"
+msgid "INDI Server Message (it must be enabled in INDI section of Settings)"
+msgstr ""
+"Missatge del servidor INDI (ha d'estar activat a la secció INDI de "
+"l'arranjament)"
+
+#: kstars/kstars.notifyrc:1616
+msgctxt "Name"
+msgid "Scheduled Ekos job started"
+msgstr "S'ha iniciat la tasca programada de l'Ekos"
+
+#: kstars/kstars.notifyrc:1638
+msgctxt "Comment"
+msgid "A scheduled Ekos job is started"
+msgstr "S'ha iniciat una tasca programada de l'Ekos"
+
+#: kstars/kstars.notifyrc:1662
+msgctxt "Name"
+msgid "Scheduled Ekos job failed"
+msgstr "Ha fallat la tasca programada de l'Ekos"
+
+#: kstars/kstars.notifyrc:1684
+msgctxt "Comment"
+msgid "A scheduled Ekos job is failed"
+msgstr "Ha fallat una tasca programada de l'Ekos"
+
+#: kstars/kstars.notifyrc:1708
+msgctxt "Name"
+msgid "Imaging in scheduled Ekos job started"
+msgstr ""
+"S'ha iniciat l'obtenció de les imatges en una tasca programada de l'Ekos"
+
+#: kstars/kstars.notifyrc:1727
+msgctxt "Comment"
+msgid "An image sequence capture is started in a scheduled Ekos job"
+msgstr ""
+"S'ha iniciat la captura d'una seqüència d'imatges en una tasca programada de "
+"l'Ekos"
+
+#: kstars/kstars.notifyrc:1748
+msgctxt "Name"
+msgid "Imaging in scheduled Ekos job finished"
+msgstr ""
+"S'ha finalitzat l'obtenció de les imatges en una tasca programada de l'Ekos"
+
+#: kstars/kstars.notifyrc:1767
+msgctxt "Comment"
+msgid "An image sequence capture is finished in a scheduled Ekos job"
+msgstr ""
+"S'ha finalitzat la captura de seqüència d'imatges en una tasca programada de "
+"l'Ekos"
+
+#: kstars/kstars.notifyrc:1788
+msgctxt "Name"
+msgid "Telescope is synced in a scheduled Ekos job"
+msgstr "El telescopi està sincronitzat amb una tasca programada de l'Ekos"
+
+#: kstars/kstars.notifyrc:1808
+msgctxt "Comment"
+msgid ""
+"The telescope is synced before tracking a new target in a scheduled Ekos job"
+msgstr ""
+"El telescopi està sincronitzat abans de seguir un objectiu nou en una tasca "
+"programada de l'Ekos"
+
+#: kstars/kstars.notifyrc:1830
+msgctxt "Name"
+msgid "Captured image received"
+msgstr "S'ha rebut la imatge capturada"
+
+#: kstars/kstars.notifyrc:1855
+msgctxt "Name"
+msgid "Known Issue"
+msgstr "Problema conegut"
+
+#: kstars/org.kde.kstars.desktop:8 snap/gui/org.kde.kstars.desktop:7
+msgctxt "Comment"
+msgid "Desktop Planetarium"
+msgstr "Planetari per a l'escriptori"
+
+#: kstars/org.kde.kstars.desktop:79 snap/gui/org.kde.kstars.desktop:78
+msgctxt "Name"
+msgid "KStars"
+msgstr "KStars"
+
+#: kstars/org.kde.kstars.desktop:148 snap/gui/org.kde.kstars.desktop:147
+msgctxt "GenericName"
+msgid "Desktop Planetarium"
+msgstr "Planetari per a l'escriptori"
+
+#: org.kde.kf5auth.kstars.actions:2
+msgctxt "Name"
+msgid "Save Astrometry Index File to a write protected directory"
+msgstr ""
+"Guarda el fitxer d'índex de l'astrometria en un directori protegit contra "
+"escriptura"
+
+#: org.kde.kf5auth.kstars.actions:24
+msgctxt "Description"
+msgid ""
+"KStars is attempting to save an Astrometry Index File to a directory owned "
+"by root"
+msgstr ""
+"El KStars està intentant guardar un fitxer d'índex de l'astrometria en un "
+"directori propietat de l'administrador"
+
+#: org.kde.kf5auth.kstars.actions:50
+msgctxt "Name"
+msgid "Remove an Astrometry Index File Set"
+msgstr "Elimina un conjunt de fitxers d'índex de l'astrometria"
+
+#: org.kde.kf5auth.kstars.actions:72
+msgctxt "Description"
+msgid "KStars is attempting to remove Astrometry Index Files owned by root"
+msgstr ""
+"El KStars està intentant eliminar fitxers d'índex de l'astrometria en què el "
+"propietari és l'administrador"

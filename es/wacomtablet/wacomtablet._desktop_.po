@@ -1,0 +1,119 @@
+# Translation of wacomtablet._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2008-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2008, 2016, 2021.
+# Manuel Tortosa <manutortosa@gmail.com>, 2009.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2013, 2014, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: wacomtablet desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-04 01:47+0000\n"
+"PO-Revision-Date: 2021-09-02 18:10+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.12.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: src/applet/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Wacom Tablet Settings"
+msgstr "Arranjament de la tauleta Wacom"
+
+#: src/applet/package/metadata.desktop:48
+msgctxt "Comment"
+msgid "Hotplugging and profile support for Wacom tablets"
+msgstr "Connexió en calent i admet perfils per a tauletes Wacom"
+
+#: src/applet/package/metadata.desktop:92
+msgctxt "Keywords"
+msgid "Wacom"
+msgstr "Wacom"
+
+#: src/dataengine/plasma-dataengine-wacomtablet.desktop:2
+msgctxt "Name"
+msgid "Wacom Tablet DataEngine"
+msgstr "Motor de dades de les tauletes Wacom"
+
+#: src/kcmodule/kcm_wacomtablet.desktop:14
+msgctxt "Name"
+msgid "Graphic Tablet"
+msgstr "Tauleta gràfica"
+
+#: src/kcmodule/kcm_wacomtablet.desktop:61
+msgctxt "Comment"
+msgid "Wacom Tablet Settings"
+msgstr "Arranjament de la tauleta Wacom"
+
+#: src/kcmodule/kcm_wacomtablet.desktop:108
+msgctxt "X-KDE-Keywords"
+msgid "Tablet,Input Devices,Wacom,Stylus"
+msgstr "Tauleta,Dispositius d'entrada,Wacom,Llapis"
+
+#: src/kded/wacomtablet.desktop:12
+msgctxt "Name"
+msgid "Wacom Tablet"
+msgstr "Tauleta Wacom"
+
+#: src/kded/wacomtablet.desktop:59
+msgctxt "Comment"
+msgid "Wacom tablet control daemon"
+msgstr "Dimoni de control de les tauletes Wacom"
+
+#: src/kded/wacomtablet.notifyrc:3
+msgctxt "Comment"
+msgid "Wacom Tablet"
+msgstr "Tauleta Wacom"
+
+#: src/kded/wacomtablet.notifyrc:50
+msgctxt "Name"
+msgid "WacomTablet"
+msgstr "TauletaWacom"
+
+#: src/kded/wacomtablet.notifyrc:97
+msgctxt "Name"
+msgid "New tablet connected"
+msgstr "Hi ha una nova tauleta connectada"
+
+#: src/kded/wacomtablet.notifyrc:141
+msgctxt "Comment"
+msgid "New graphic tablet connected"
+msgstr "Hi ha una nova tauleta gràfica connectada"
+
+#: src/kded/wacomtablet.notifyrc:188
+msgctxt "Name"
+msgid "Tablet removed"
+msgstr "S'ha extret la tauleta"
+
+#: src/kded/wacomtablet.notifyrc:232
+msgctxt "Comment"
+msgid "Graphic tablet removed"
+msgstr "S'ha extret la tauleta gràfica"
+
+#: src/kded/wacomtablet.notifyrc:279
+msgctxt "Name"
+msgid "A tablet error"
+msgstr "Un error a la tauleta"
+
+#: src/kded/wacomtablet.notifyrc:323
+msgctxt "Comment"
+msgid "An error occurred with the tablet"
+msgstr "Hi ha hagut un error amb la tauleta"
+
+#: src/tabletfinder/kde_wacom_tabletfinder.desktop:2
+msgctxt "Name"
+msgid "Wacom Tablet finder"
+msgstr "Detecció de tauletes Wacom"
+
+#: src/tabletfinder/kde_wacom_tabletfinder.desktop:41
+msgctxt "GenericName"
+msgid "Helper tool to detect Wacom Tablets"
+msgstr "Eina d'ajuda per a detectar tauletes Wacom"

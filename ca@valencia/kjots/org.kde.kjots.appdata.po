@@ -1,0 +1,71 @@
+# Translation of org.kde.kjots.appdata.po to Catalan (Valencian)
+# Copyright (C) 2014-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015, 2020.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2017, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kjots appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2017-03-15 03:38+0100\n"
+"PO-Revision-Date: 2021-09-13 17:37+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 20.12.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.kjots.appdata.xml:5
+msgid "KJots"
+msgstr "KJots"
+
+#. (itstool) path: component/summary
+#: org.kde.kjots.appdata.xml:6
+msgid "Note-taking utility"
+msgstr "Utilitat de presa de notes"
+
+#. (itstool) path: description/p
+#: org.kde.kjots.appdata.xml:8
+msgid "KJots organises all of your notes into separate books."
+msgstr "El KJots organitza totes les vostres notes en llibres separats."
+
+#. (itstool) path: description/p
+#: org.kde.kjots.appdata.xml:11
+msgid "Features:"
+msgstr "Característiques:"
+
+#. (itstool) path: ul/li
+#: org.kde.kjots.appdata.xml:13
+msgid "Multiple books handled"
+msgstr "Maneja múltiples llibres"
+
+#. (itstool) path: ul/li
+#: org.kde.kjots.appdata.xml:14
+msgid "Each book has many named pages"
+msgstr "Cada llibre conté moltes pàgines amb nom"
+
+#. (itstool) path: ul/li
+#: org.kde.kjots.appdata.xml:15
+msgid "Books and pages can be rearranged by drag-and-drop"
+msgstr ""
+"Els llibres i les pàgines es poden tornar a ordenar fent un arrossega i deixa"
+
+#. (itstool) path: ul/li
+#: org.kde.kjots.appdata.xml:16
+msgid "Keyboard shortcuts are available for many functions"
+msgstr "Hi ha disponibles dreceres de teclat per a moltes funcions"
+
+#. (itstool) path: ul/li
+#: org.kde.kjots.appdata.xml:17
+msgid "Automatic saving means your notes are safe from loss"
+msgstr ""
+"El desament automàtic significa que les vostres notes estaran fora de perill "
+"d'una pèrdua"

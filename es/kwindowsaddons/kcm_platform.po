@@ -1,0 +1,400 @@
+# Translation of kcm_platform.po to Catalan (Valencian)
+# Copyright (C) 2009-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2009, 2010, 2011, 2012, 2015, 2018, 2020, 2021.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kwindowsaddons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:19+0200\n"
+"PO-Revision-Date: 2021-09-06 19:11+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.12.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Josep Ma. Ferrer"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "txemaq@gmail.com"
+
+#: platform.cpp:39
+#, kde-format
+msgid "Platform"
+msgstr "Plataforma"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, PlatformThing)
+#: platform.ui:20
+#, kde-format
+msgid "Platform Specific Configuration Module"
+msgstr "Mòdul de configuració específic de la plataforma"
+
+#. i18n: ectx: property (title), widget (QGroupBox, shellChooser)
+#: platform.ui:35
+#, kde-format
+msgctxt "'Windows' means the OS"
+msgid "Windows Desktop Shell"
+msgstr "Àrea de treball per a l'escriptori de Windows"
+
+#. i18n: tooltip for option in switching Windows Desktop shells
+#. i18n: ectx: property (toolTip), widget (QRadioButton, optNative)
+#: platform.ui:41
+#, kde-format
+msgid "Native Windows Explorer shell"
+msgstr "Àrea de treball nativa de l'escriptori de Windows"
+
+#. i18n: whatsThis for option in switching Windows Desktop shells
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, optNative)
+#: platform.ui:44
+#, kde-format
+msgid ""
+"This is the standard Windows Desktop shell. Choose this if you want to "
+"return your system to the default desktop."
+msgstr ""
+"Aquesta és l'àrea de treball estàndard per a l'escriptori de Windows. "
+"Seleccioneu-ho si voleu tornar a l'escriptori per defecte del sistema."
+
+#. i18n: radio button to choose Windows Desktop shell
+#. i18n: ectx: property (text), widget (QRadioButton, optNative)
+#: platform.ui:47
+#, kde-format
+msgid "Native desktop shell"
+msgstr "Àrea de treball nativa de l'escriptori"
+
+#. i18n: ectx: property (text), widget (QLabel, descrNative)
+#: platform.ui:54
+#, kde-format
+msgid "System's default desktop shell"
+msgstr "Àrea de treball predeterminada del sistema per a l'escriptori"
+
+#. i18n: tooltip for option in switching Windows Desktop shells
+#. i18n: ectx: property (toolTip), widget (QRadioButton, optPlasma)
+#: platform.ui:61
+#, kde-format
+msgid "Use the KDE desktop shell, as it is seen on Linux."
+msgstr "Usa l'àrea de treball de l'escriptori KDE, com es veu en el Linux."
+
+#. i18n: whatsThis for option in switching Windows Desktop shells
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, optPlasma)
+#: platform.ui:64
+#, kde-format
+msgid ""
+"Choose this option if you would like to use the Plasma desktop shell for "
+"your Windows system."
+msgstr ""
+"Seleccioneu aquesta opció si vos agradaria usar l'àrea de treball de "
+"l'escriptori Plasma per al sistema Windows."
+
+#. i18n: radio button to choose Windows Desktop shell
+#. i18n: ectx: property (text), widget (QRadioButton, optPlasma)
+#: platform.ui:67
+#, kde-format
+msgid "Plasma desktop shell"
+msgstr "Àrea de treball de l'escriptori Plasma"
+
+#. i18n: ectx: property (text), widget (QLabel, descrPlasma)
+#: platform.ui:74
+#, kde-format
+msgid "KDE4 Plasma desktop shell"
+msgstr "Àrea de treball per a l'escriptori Plasma del KDE 4"
+
+#. i18n: tooltip for option in switching Windows Desktop shells
+#. i18n: ectx: property (toolTip), widget (QRadioButton, optCustom)
+#: platform.ui:81
+#, kde-format
+msgid "Your custom desktop shell"
+msgstr "Àrea de treball personalitzada de l'escriptori"
+
+#. i18n: whatsThis for option in switching Windows Desktop shells
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, optCustom)
+#: platform.ui:84
+#, kde-format
+msgid ""
+"Choose this and press the <i>\"Setup...\"</i> button to configure you custom "
+"desktop shell. Not recommended for the average user."
+msgstr ""
+"Seleccioneu-ho i premeu el botó <i>«Configuració...»</i> per a configurar "
+"l'àrea de treball personalitzada. No es recomana per a l'usuari normal."
+
+#. i18n: radio button to chose Windows Desktop shell
+#. i18n: ectx: property (text), widget (QRadioButton, optCustom)
+#: platform.ui:87 shellEdit.cpp:24
+#, kde-format
+msgid "Custom desktop shell"
+msgstr "Àrea de treball personalitzada de l'escriptori"
+
+#. i18n: ectx: property (text), widget (QLabel, descrCustom)
+#: platform.ui:94
+#, kde-format
+msgid ""
+"This shell is reserved for the user's custom shell. Press the \"Setup\" "
+"button to setup your favorite shell."
+msgstr ""
+"Aquesta àrea de treball està reservada per a l'àrea de treball "
+"personalitzada de l'usuari. Premeu el botó «Configuració» per a configurar "
+"la vostra àrea de treball preferida."
+
+#. i18n: tooltip for button to setup custom Desktop shell
+#. i18n: ectx: property (toolTip), widget (QPushButton, btnShellSetup)
+#: platform.ui:109
+#, kde-format
+msgid "Press to setup your custom desktop shell"
+msgstr "Premeu per a configurar l'àrea de treball personalitzada"
+
+#. i18n: whatsThis for button to setup custom Desktop shells
+#. i18n: ectx: property (whatsThis), widget (QPushButton, btnShellSetup)
+#: platform.ui:112
+#, kde-format
+msgid ""
+"Press this and a configuration dialog will appear to allow you to configure "
+"your custom desktop shell."
+msgstr ""
+"Premeu-ho i apareixerà un diàleg de configuració que vos permetrà configurar "
+"l'àrea de treball personalitzada de l'escriptori."
+
+#. i18n: ectx: property (text), widget (QPushButton, btnShellSetup)
+#: platform.ui:115
+#, kde-format
+msgid "Setup..."
+msgstr "Configuració..."
+
+#. i18n: ectx: property (title), widget (QGroupBox, systemIntegration)
+#: platform.ui:146
+#, kde-format
+msgid "System Integration"
+msgstr "Integració amb el sistema"
+
+#. i18n: tooltip for checkbox
+#. i18n: ectx: property (toolTip), widget (QCheckBox, chkDisableMenuGen)
+#: platform.ui:161
+#, kde-format
+msgid ""
+"This will enable automatic regeneration of Windows' Start menu entries for "
+"KDE applications"
+msgstr ""
+"Això activarà la regeneració automàtica de les entrades en el menú «Inici» "
+"de Windows per a les aplicacions KDE"
+
+#. i18n: whatsThis tooltip
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, chkDisableMenuGen)
+#: platform.ui:167
+#, kde-format
+msgid ""
+"This option defines if Windows' Start menu entries should be regenerated or "
+"not. By default start menu entries are regenerated automatically, but you "
+"may wish to disable it if you have issues with that."
+msgstr ""
+"Aquesta opció defineix si s'han de regenerar o no les entrades en el menú "
+"«Inici» de Windows. Per defecte, les entrades en el menú «Inici» es "
+"regeneren automàticament, però podeu desactivar-ho si això vos dóna "
+"problemes."
+
+#. i18n: checkbox caption in System Integration options
+#. i18n: ectx: property (text), widget (QCheckBox, chkDisableMenuGen)
+#: platform.ui:170
+#, kde-format
+msgid "Enable automatic regeneration of start menu entries"
+msgstr "Activa la regeneració automàtica de les entrades en el menú d'inici"
+
+# skip-rule: t-art_rep2
+#. i18n: tooltip for checkbox
+#. i18n: ectx: property (toolTip), widget (QCheckBox, chkUseNativeDialogs)
+#: platform.ui:177
+#, kde-format
+msgid "Use native Windows file dialogs instead of KDE ones"
+msgstr "Usa els diàlegs de fitxer natius de Windows en lloc dels del KDE"
+
+#. i18n: whatsThis tooltip
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, chkUseNativeDialogs)
+#: platform.ui:183
+#, kde-format
+msgid ""
+"Choose this option to make KDE applications use the standard Windows Open/"
+"Save file dialogs, instead of those normally used in KDE."
+msgstr ""
+"Seleccioneu aquesta opció per a fer que les aplicacions del KDE usin els "
+"diàlegs obri/guarda fitxers estàndards de Windows, en lloc dels emprats "
+"normalment en el KDE."
+
+#. i18n: checkbox caption in System Integration options
+#. i18n: ectx: property (text), widget (QCheckBox, chkUseNativeDialogs)
+#: platform.ui:186
+#, kde-format
+msgid "Use native system file dialogs"
+msgstr "Usa els diàlegs de fitxer natius del sistema"
+
+#. i18n: tooltip for checkbox
+#. i18n: ectx: property (toolTip), widget (QCheckBox, chkInstallCPl)
+#: platform.ui:199
+#, kde-format
+msgid "Install System Settings into the Windows Control Panel."
+msgstr "Instal·la l'arranjament del sistema en el plafó de control de Windows."
+
+#. i18n: whatsThis tooltip
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, chkInstallCPl)
+#: platform.ui:202
+#, kde-format
+msgid ""
+"This will install the KDE 'System Settings' as an element in the Windows "
+"Control Panel.<br><b>Caution: This option tweaks your Windows registry.</b>"
+msgstr ""
+"Això instal·larà l'«Arranjament del sistema» del KDE com a un element en el "
+"plafó de control de Windows.<br><b>Precaució: aquesta opció modifica el "
+"registre de Windows.</b>"
+
+#. i18n: checkbox caption in System Integration options
+#. i18n: ectx: property (text), widget (QCheckBox, chkInstallCPl)
+#: platform.ui:205
+#, kde-format
+msgid "Install as control panel element"
+msgstr "Instal·la com a element en el plafó de control"
+
+#. i18n: tooltip for checkbox
+#. i18n: ectx: property (toolTip), widget (QCheckBox, chkInstallCursors)
+#: platform.ui:212
+#, kde-format
+msgid "Install Oxygen cursors as Windows cursor schemes"
+msgstr "Instal·la els cursors Oxygen com a esquemes de cursor de Windows"
+
+#. i18n: whatsThis tooltip
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, chkInstallCursors)
+#: platform.ui:215
+#, kde-format
+msgid ""
+"This will install the Oxygen cursors into your system and combine them as a "
+"cursor theme.<br><b>Caution: This option tweaks your Windows registry.</b>"
+msgstr ""
+"Això instal·larà els cursors Oxygen en el sistema i els combinarà com a un "
+"tema de cursor.<br><b>Precaució: aquesta opció modifica el registre de "
+"Windows.</b>"
+
+#. i18n: checkbox caption in System Integration options
+#. i18n: ectx: property (text), widget (QCheckBox, chkInstallCursors)
+#: platform.ui:218
+#, kde-format
+msgid "Install Oxygen cursor schemes"
+msgstr "Instal·la els esquemes de cursor Oxygen"
+
+#. i18n: tooltip for checkbox
+#. i18n: ectx: property (toolTip), widget (QCheckBox, chkInstallWallpapers)
+#: platform.ui:225
+#, kde-format
+msgid "This option installs KDE wallpapers into your \"My Pictures\" directory"
+msgstr ""
+"Aquesta opció instal·la els fons de pantalla del KDE en el directori "
+"«Imatges»"
+
+#. i18n: whatsThis tooltip
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, chkInstallWallpapers)
+#: platform.ui:228
+#, kde-format
+msgid ""
+"This will install KDE wallpapers into the <i>\"My Pictures\"</i> directory "
+"so they can be used as your Windows wallpaper. If the checkbox is set to "
+"half-checked then it means that there are new wallpapers available to update."
+"<br> The wallpaper aspect ratio will be selected according to your current "
+"screen resolution."
+msgstr ""
+"Això instal·larà els fons de pantalla del KDE en el directori <i>«Imatges»</"
+"i>, de manera que es podran usar com a fons de pantalla de Windows. Si "
+"aquesta casella de selecció està mig marcada, vol dir que hi ha disponibles "
+"fons de pantalla nous per a actualitzar.<br>La relació d'aspecte del fons de "
+"pantalla se seleccionarà d'acord amb la resolució de pantalla actual."
+
+#. i18n: checkbox caption in System Integration options
+#. i18n: ectx: property (text), widget (QCheckBox, chkInstallWallpapers)
+#: platform.ui:231
+#, kde-format
+msgid "Install Oxygen wallpapers"
+msgstr "Instal·la els fons de pantalla Oxygen"
+
+#. i18n: tooltip for checkbox
+#. i18n: ectx: property (toolTip), widget (QCheckBox, chkStartAtLogin)
+#: platform.ui:238
+#, kde-format
+msgid "This will make essential KDE processes run at user login"
+msgstr ""
+"Això farà que els processos essencials del KDE s'executen en iniciar la "
+"sessió de l'usuari"
+
+#. i18n: whatsThis tooltip
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, chkStartAtLogin)
+#: platform.ui:241
+#, kde-format
+msgid ""
+"Enabling this option will start essential KDE processes at user login. "
+"Normally these processes are started when you first start a KDE application, "
+"thereby delaying the actual application launch.<br>It is recommended to "
+"enable this option to make your applications launch faster for the first "
+"time.<br><b>Caution: This option tweaks your Windows registry.</b>"
+msgstr ""
+"Activant aquesta opció s'iniciaran els processos essencials del KDE en "
+"iniciar la sessió de l'usuari. Normalment aquests processos s'inicien quan "
+"inicieu una aplicació del KDE, endarrerint el llançament de l'aplicació."
+"<br>Es recomana activar aquesta opció per a accelerar l'inici de les "
+"aplicacions per primer cop.<br><b>Precaució: aquesta opció modifica el "
+"registre de Windows.</b>"
+
+#. i18n: checkbox caption in System Integration options
+#. i18n: ectx: property (text), widget (QCheckBox, chkStartAtLogin)
+#: platform.ui:244
+#, kde-format
+msgid "Load KDE at user login"
+msgstr "Carrega el KDE en iniciar la sessió de l'usuari"
+
+#: registryManager.cpp:189
+#, kde-format
+msgid "KDE System Settings"
+msgstr "Arranjament del sistema del KDE"
+
+#: registryManager.cpp:190
+#, kde-format
+msgid "All KDE settings in one place"
+msgstr "Tota la configuració del KDE en un lloc"
+
+#: shellEdit.cpp:24
+#, kde-format
+msgid ""
+"This shell is reserved for user's custom shell. Press \"Setup\" button to "
+"setup your favourite shell."
+msgstr ""
+"Aquesta àrea de treball està reservada per a l'àrea de treball "
+"personalitzada de l'usuari. Premeu el botó «Configuració» per a configurar "
+"la vostra àrea de treball preferida."
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, ShellEditDlg)
+#: shellEdit.ui:19
+#, kde-format
+msgid "Setup Custom Shell"
+msgstr "Configuració de l'àrea de treball personalitzada"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: shellEdit.ui:28
+#, kde-format
+msgid "Name:"
+msgstr "Nom:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: shellEdit.ui:48
+#, kde-format
+msgid "Command:"
+msgstr "Ordre:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: shellEdit.ui:61
+#, kde-format
+msgid "Description:"
+msgstr "Descripció:"

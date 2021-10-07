@@ -1,0 +1,82 @@
+# Translation of org.kde.kolourpaint.appdata.po to Catalan (Valencian)
+# Copyright (C) 2014-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2014, 2018.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2016, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kolourpaint appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2018-11-15 03:55+0100\n"
+"PO-Revision-Date: 2020-07-22 23:27+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 20.04.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.kolourpaint.appdata.xml:6
+msgid "KolourPaint"
+msgstr "KolourPaint"
+
+#. (itstool) path: component/summary
+#: org.kde.kolourpaint.appdata.xml:7
+msgid "Paint Program"
+msgstr "Programa de dibuix"
+
+#. (itstool) path: description/p
+#: org.kde.kolourpaint.appdata.xml:9
+msgid ""
+"KolourPaint is a simple painting program to quickly create raster images. It "
+"is useful as a touch-up tool and simple image editing tasks."
+msgstr ""
+"El KolourPaint és un programa senzill de dibuix per a crear ràpidament "
+"imatges ràster. És útil com a eina de retoc i tasques senzilles per a "
+"l'edició d'imatges."
+
+#. (itstool) path: description/p
+#: org.kde.kolourpaint.appdata.xml:13
+msgid "Features:"
+msgstr "Característiques:"
+
+#. (itstool) path: ul/li
+#: org.kde.kolourpaint.appdata.xml:15
+msgid ""
+"Support for drawing various shapes - lines, rectangles, rounded rectangles, "
+"ovals and polygons"
+msgstr ""
+"Permet dibuixar diverses formes: línies, rectangles, rectangles arrodonits, "
+"ovals i polígons"
+
+#. (itstool) path: ul/li
+#: org.kde.kolourpaint.appdata.xml:16
+msgid "Curves, lines and text"
+msgstr "Corbes, línies i text"
+
+#. (itstool) path: ul/li
+#: org.kde.kolourpaint.appdata.xml:17
+msgid "Colour picker"
+msgstr "Selector de color"
+
+#. (itstool) path: ul/li
+#: org.kde.kolourpaint.appdata.xml:18
+msgid "Selections"
+msgstr "Seleccions"
+
+#. (itstool) path: ul/li
+#: org.kde.kolourpaint.appdata.xml:19
+msgid "Rotation, monochrome and other advanced effects"
+msgstr "Gir, monocrom i altres efectes avançats."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kolourpaint.appdata.xml:28
+msgid "Painting in KolourPaint"
+msgstr "Pintant al KolourPaint"

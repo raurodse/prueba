@@ -1,0 +1,1251 @@
+# Translation of marble.po to Catalan (Valencian)
+# Copyright (C) 2007-2020 This_file_is_part_of_KDE
+#
+# Orestes Mas Casals <orestes@tsc.upc.edu>, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2008, 2009, 2010, 2011, 2012, 2014, 2015, 2016, 2017, 2020.
+# Joan Maspons <joanmaspons@gmail.com>, 2011.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2012, 2013, 2014, 2015, 2018, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: marble\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-08-04 00:14+0000\n"
+"PO-Revision-Date: 2020-11-04 11:49+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Orestes Mas Casals,Joan Maspons Ventura"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "orestes@tsc.upc.edu,joanmaspons@gmail.com"
+
+#: kdemain.cpp:96
+#, kde-format
+msgid "Marble Virtual Globe"
+msgstr "El globus terraqüi virtual Marble"
+
+#: kdemain.cpp:98
+#, kde-format
+msgid "A World Atlas."
+msgstr "Un atles del món."
+
+#: kdemain.cpp:100
+#, kde-format
+msgid "(c) 2007-%1"
+msgstr "(c) 2007-%1"
+
+#: kdemain.cpp:105 kdemain.cpp:291
+#, kde-format
+msgid "Torsten Rahn"
+msgstr "Torsten Rahn"
+
+#: kdemain.cpp:106
+#, kde-format
+msgid "Developer and Original Author"
+msgstr "Desenvolupador i autor original"
+
+#: kdemain.cpp:108
+#, kde-format
+msgid "Bernhard Beschow"
+msgstr "Bernhard Beschow"
+
+#: kdemain.cpp:109
+#, kde-format
+msgid "WMS Support, Mobile, Performance"
+msgstr "Implementació WMS, mòbil, rendiment"
+
+#: kdemain.cpp:111
+#, kde-format
+msgid "Thibaut Gridel"
+msgstr "Thibaut Gridel"
+
+#: kdemain.cpp:112
+#, kde-format
+msgid "Geodata"
+msgstr "Geodata"
+
+#: kdemain.cpp:114
+#, kde-format
+msgid "Jens-Michael Hoffmann"
+msgstr "Jens-Michael Hoffmann"
+
+#: kdemain.cpp:115
+#, kde-format
+msgid "OpenStreetMap Integration, OSM Namefinder, Download Management"
+msgstr ""
+"Integració de l'OpenStreetMap, cercador de noms OSM, gestor de baixades"
+
+#: kdemain.cpp:117
+#, kde-format
+msgid "Florian E&szlig;er"
+msgstr "Florian E&szlig;er"
+
+#: kdemain.cpp:118
+#, kde-format
+msgid "Elevation Profile"
+msgstr "Perfil de desnivell"
+
+#: kdemain.cpp:120
+#, kde-format
+msgid "Wes Hardaker"
+msgstr "Wes Hardaker"
+
+#: kdemain.cpp:121
+#, kde-format
+msgid "APRS Plugin"
+msgstr "Connector d'APRS"
+
+#: kdemain.cpp:123 kdemain.cpp:207
+#, kde-format
+msgid "Bastian Holst"
+msgstr "Bastian Holst"
+
+#: kdemain.cpp:124
+#, kde-format
+msgid "Online Services support"
+msgstr "Implementació dels serveis en línia"
+
+#: kdemain.cpp:126 kdemain.cpp:177
+#, kde-format
+msgid "Guillaume Martres"
+msgstr "Guillaume Martres"
+
+#: kdemain.cpp:127
+#, kde-format
+msgid "Satellites"
+msgstr "Satèl·lits"
+
+#: kdemain.cpp:129 kdemain.cpp:173
+#, kde-format
+msgid "Rene Kuettner"
+msgstr "Rene Kuettner"
+
+#: kdemain.cpp:130
+#, kde-format
+msgid "Satellites, Eclipses"
+msgstr "Satèl·lits, eclipsis"
+
+#: kdemain.cpp:132
+#, kde-format
+msgid "Friedrich W. H. Kossebau"
+msgstr "Friedrich W. H. Kossebau"
+
+#: kdemain.cpp:133
+#, kde-format
+msgid "Plasma Integration, Bugfixes"
+msgstr "Integració amb Plasma, correcció d'errors"
+
+#: kdemain.cpp:135
+#, kde-format
+msgid "Dennis Nienhüser"
+msgstr "Dennis Nienhüser"
+
+#: kdemain.cpp:136
+#, kde-format
+msgid "Routing, Navigation, Mobile"
+msgstr "Itineraris, Navegació, Mòbil"
+
+#: kdemain.cpp:138
+#, kde-format
+msgid "Niko Sams"
+msgstr "Niko Sams"
+
+#: kdemain.cpp:139
+#, kde-format
+msgid "Routing, Elevation Profile"
+msgstr "Itineraris, Perfil de desnivell"
+
+#: kdemain.cpp:141 kdemain.cpp:211
+#, kde-format
+msgid "Patrick Spendrin"
+msgstr "Patrick Spendrin"
+
+#: kdemain.cpp:142
+#, kde-format
+msgid "Core Developer: KML and Windows support"
+msgstr "Desenvolupador principal: Implementació de KML i Windows"
+
+#: kdemain.cpp:144
+#, kde-format
+msgid "Eckhart Wörner"
+msgstr "Eckhart Wörner"
+
+#: kdemain.cpp:145
+#, kde-format
+msgid "Bugfixes"
+msgstr "Esmena d'errors"
+
+#: kdemain.cpp:150
+#, kde-format
+msgid "Inge Wallin"
+msgstr "Inge Wallin"
+
+#: kdemain.cpp:151
+#, kde-format
+msgid "Core Developer and Co-Maintainer"
+msgstr "Desenvolupador principal i comantenidor"
+
+#: kdemain.cpp:153
+#, kde-format
+msgid "Henry de Valence"
+msgstr "Henry de Valence"
+
+#: kdemain.cpp:154
+#, kde-format
+msgid "Core Developer: Marble Runners, World-Clock Plasmoid"
+msgstr "Desenvolupador principal: Marble Runners, plasmoide World-Clock"
+
+#: kdemain.cpp:156
+#, kde-format
+msgid "Pino Toscano"
+msgstr "Pino Toscano"
+
+#: kdemain.cpp:157
+#, kde-format
+msgid "Network plugins"
+msgstr "Connectors de xarxa"
+
+#: kdemain.cpp:159
+#, kde-format
+msgid "Harshit Jain"
+msgstr "Harshit Jain"
+
+#: kdemain.cpp:160
+#, kde-format
+msgid "Planet filter"
+msgstr "Filtre de planetes"
+
+#: kdemain.cpp:162
+#, kde-format
+msgid "Simon Edwards"
+msgstr "Simon Edwards"
+
+#: kdemain.cpp:163
+#, kde-format
+msgid "Marble Python Bindings"
+msgstr "Lligams Python del Marble"
+
+#: kdemain.cpp:165
+#, kde-format
+msgid "Magnus Valle"
+msgstr "Magnus Valle"
+
+#: kdemain.cpp:166
+#, kde-format
+msgid "Historical Maps"
+msgstr "Mapes històrics"
+
+#: kdemain.cpp:168
+#, kde-format
+msgid "Médéric Boquien"
+msgstr "Médéric Boquien"
+
+#: kdemain.cpp:169
+#, kde-format
+msgid "Astronomical Observatories"
+msgstr "Observatoris astronòmics"
+
+#: kdemain.cpp:174
+#, kde-format
+msgid ""
+"ESA Summer of Code in Space 2012 Project: Visualization of planetary "
+"satellites"
+msgstr ""
+"Projecte ESA Summer of Code in Space 2012: Visualització dels satèl·lits "
+"planetaris"
+
+#: kdemain.cpp:178
+#, kde-format
+msgid ""
+"ESA Summer of Code in Space 2011 Project: Visualization of Satellite Orbits"
+msgstr ""
+"Projecte ESA Summer of Code in Space 2011: Visualització de les òrbites dels "
+"satèl·lits"
+
+#: kdemain.cpp:183
+#, kde-format
+msgid "Konstantin Oblaukhov"
+msgstr "Konstantin Oblaukhov"
+
+#: kdemain.cpp:184
+#, kde-format
+msgid "Google Summer of Code 2011 Project: OpenStreetMap Vector Rendering"
+msgstr ""
+"Projecte Google Summer of Code 2011: Renderització vectorial de "
+"l'OpenStreetMap"
+
+#: kdemain.cpp:187
+#, kde-format
+msgid "Daniel Marth"
+msgstr "Daniel Marth"
+
+#: kdemain.cpp:188
+#, kde-format
+msgid "Google Summer of Code 2011 Project: Marble Touch on MeeGo"
+msgstr "Projecte Google Summer of Code 2011: Marble Touch al MeeGo"
+
+#: kdemain.cpp:191
+#, kde-format
+msgid "Gaurav Gupta"
+msgstr "Gaurav Gupta"
+
+#: kdemain.cpp:192
+#, kde-format
+msgid "Google Summer of Code 2010 Project: Bookmarks"
+msgstr "Projecte Google Summer of Code 2010: Adreces d'interés"
+
+#: kdemain.cpp:195
+#, kde-format
+msgid "Harshit Jain "
+msgstr "Harshit Jain "
+
+#: kdemain.cpp:196
+#, kde-format
+msgid "Google Summer of Code 2010 Project: Time Support"
+msgstr "Projecte Google Summer of Code 2010: Implementació del temps"
+
+#: kdemain.cpp:199
+#, kde-format
+msgid "Siddharth Srivastava"
+msgstr "Siddharth Srivastava"
+
+#: kdemain.cpp:200
+#, kde-format
+msgid "Google Summer of Code 2010 Project: Turn-by-turn Navigation"
+msgstr "Projecte Google Summer of Code 2010: Navegació guiada"
+
+#: kdemain.cpp:203 kdemain.cpp:223
+#, kde-format
+msgid "Andrew Manson"
+msgstr "Andrew Manson"
+
+#: kdemain.cpp:204
+#, kde-format
+msgid "Google Summer of Code 2009 Project: OSM Annotation"
+msgstr "Projecte Google Summer of Code 2009: Anotació d'OSM"
+
+#: kdemain.cpp:208
+#, kde-format
+msgid "Google Summer of Code 2009 Project: Online Services"
+msgstr "Projecte Google Summer of Code 2009: Serveis en línia"
+
+#: kdemain.cpp:212
+#, kde-format
+msgid "Google Summer of Code 2008 Project: Vector Tiles for Marble"
+msgstr "Projecte Google Summer of Code 2008: Mosaic vectorial per al Marble"
+
+#: kdemain.cpp:215
+#, kde-format
+msgid "Shashank Singh"
+msgstr "Shashank Singh"
+
+#: kdemain.cpp:216
+#, kde-format
+msgid ""
+"Google Summer of Code 2008 Project: Panoramio / Wikipedia -photo support for "
+"Marble"
+msgstr ""
+"Projecte Google Summer of Code 2008: Implementació de les fotografies de "
+"Panoramio / Viquipèdia al Marble"
+
+#: kdemain.cpp:219
+#, kde-format
+msgid "Carlos Licea"
+msgstr "Carlos Licea"
+
+#: kdemain.cpp:220
+#, kde-format
+msgid ""
+"Google Summer of Code 2007 Project: Equirectangular Projection (\"Flat Map\")"
+msgstr ""
+"Projecte Google Summer of Code 2007: Projecció equirectangular («Mapa pla»)"
+
+#: kdemain.cpp:224
+#, kde-format
+msgid "Google Summer of Code 2007 Project: GPS Support for Marble"
+msgstr "Projecte Google Summer of Code 2007: Implementació GPS en el Marble"
+
+#: kdemain.cpp:227
+#, kde-format
+msgid "Murad Tagirov"
+msgstr "Murad Tagirov"
+
+#: kdemain.cpp:228
+#, kde-format
+msgid "Google Summer of Code 2007 Project: KML Support for Marble"
+msgstr ""
+"Projecte Google Summer of Code 2007: Implementació del KML en el Marble"
+
+#: kdemain.cpp:233
+#, kde-format
+msgid "Simon Schmeisser"
+msgstr "Simon Schmeisser"
+
+#: kdemain.cpp:234 kdemain.cpp:236 kdemain.cpp:238 kdemain.cpp:240
+#: kdemain.cpp:242 kdemain.cpp:244 kdemain.cpp:246 kdemain.cpp:248
+#: kdemain.cpp:250 kdemain.cpp:252 kdemain.cpp:254 kdemain.cpp:256
+#: kdemain.cpp:258 kdemain.cpp:260 kdemain.cpp:262 kdemain.cpp:264
+#: kdemain.cpp:266 kdemain.cpp:268 kdemain.cpp:270
+#, kde-format
+msgid "Development & Patches"
+msgstr "Desenvolupament i pedaços"
+
+#: kdemain.cpp:235
+#, kde-format
+msgid "Claudiu Covaci"
+msgstr "Claudiu Covaci"
+
+#: kdemain.cpp:237
+#, kde-format
+msgid "David Roberts"
+msgstr "David Roberts"
+
+#: kdemain.cpp:239
+#, kde-format
+msgid "Nikolas Zimmermann"
+msgstr "Nikolas Zimmermann"
+
+#: kdemain.cpp:241
+#, kde-format
+msgid "Jan Becker"
+msgstr "Jan Becker"
+
+#: kdemain.cpp:243
+#, kde-format
+msgid "Stefan Asserhäll"
+msgstr "Stefan Asserhäll"
+
+#: kdemain.cpp:245
+#, kde-format
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#: kdemain.cpp:247
+#, kde-format
+msgid "Mayank Madan"
+msgstr "Mayank Madan"
+
+#: kdemain.cpp:249
+#, kde-format
+msgid "Prashanth Udupa"
+msgstr "Prashanth Udupa"
+
+#: kdemain.cpp:251
+#, kde-format
+msgid "Anne-Marie Mahfouf"
+msgstr "Anne-Marie Mahfouf"
+
+#: kdemain.cpp:253
+#, kde-format
+msgid "Josef Spillner"
+msgstr "Josef Spillner"
+
+#: kdemain.cpp:255
+#, kde-format
+msgid "Frerich Raabe"
+msgstr "Frerich Raabe"
+
+#: kdemain.cpp:257
+#, kde-format
+msgid "Frederik Gladhorn"
+msgstr "Frederik Gladhorn"
+
+#: kdemain.cpp:259
+#, kde-format
+msgid "Fredrik Höglund"
+msgstr "Fredrik Höglund"
+
+#: kdemain.cpp:261
+#, kde-format
+msgid "Albert Astals Cid"
+msgstr "Albert Astals Cid"
+
+#: kdemain.cpp:263
+#, kde-format
+msgid "Thomas Zander"
+msgstr "Thomas Zander"
+
+#: kdemain.cpp:265
+#, kde-format
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#: kdemain.cpp:267
+#, kde-format
+msgid "Kris Thomsen"
+msgstr "Kris Thomsen"
+
+#: kdemain.cpp:269
+#, kde-format
+msgid "Daniel Molkentin"
+msgstr "Daniel Molkentin"
+
+#: kdemain.cpp:271
+#, kde-format
+msgid "Christophe Leske"
+msgstr "Christophe Leske"
+
+#: kdemain.cpp:272 kdemain.cpp:274 kdemain.cpp:276 kdemain.cpp:278
+#: kdemain.cpp:280 kdemain.cpp:282 kdemain.cpp:284 kdemain.cpp:286
+#: kdemain.cpp:288
+#, kde-format
+msgid "Platforms & Distributions"
+msgstr "Plataformes i distribucions"
+
+#: kdemain.cpp:273
+#, kde-format
+msgid "Sebastian Wiedenroth"
+msgstr "Sebastian Wiedenroth"
+
+#: kdemain.cpp:275
+#, kde-format
+msgid "Tim Sutton"
+msgstr "Tim Sutton"
+
+#: kdemain.cpp:277
+#, kde-format
+msgid "Christian Ehrlicher"
+msgstr "Christian Ehrlicher"
+
+#: kdemain.cpp:279
+#, kde-format
+msgid "Ralf Habacker"
+msgstr "Ralf Habacker"
+
+#: kdemain.cpp:281
+#, kde-format
+msgid "Steffen Joeris"
+msgstr "Steffen Joeris"
+
+#: kdemain.cpp:283
+#, kde-format
+msgid "Marcus Czeslinski"
+msgstr "Marcus Czeslinski"
+
+#: kdemain.cpp:285
+#, kde-format
+msgid "Marcus D. Hanwell"
+msgstr "Marcus D. Hanwell"
+
+#: kdemain.cpp:287
+#, kde-format
+msgid "Chitlesh Goorah"
+msgstr "Chitlesh Goorah"
+
+#: kdemain.cpp:289
+#, kde-format
+msgid "Nuno Pinheiro"
+msgstr "Nuno Pinheiro"
+
+#: kdemain.cpp:290 kdemain.cpp:292
+#, kde-format
+msgid "Artwork"
+msgstr "Grafisme"
+
+#: kdemain.cpp:295
+#, kde-format
+msgid "Luis Silva"
+msgstr "Luis Silva"
+
+#: kdemain.cpp:296 kdemain.cpp:298 kdemain.cpp:300 kdemain.cpp:302
+#: kdemain.cpp:304 kdemain.cpp:306 kdemain.cpp:308 kdemain.cpp:310
+#: kdemain.cpp:312 kdemain.cpp:314
+#, kde-format
+msgid "Various Suggestions & Testing"
+msgstr "Suggeriments diversos i proves"
+
+#: kdemain.cpp:297
+#, kde-format
+msgid "Stefan Jordan"
+msgstr "Stefan Jordan"
+
+#: kdemain.cpp:299
+#, kde-format
+msgid "Robert Scott"
+msgstr "Robert Scott"
+
+#: kdemain.cpp:301
+#, kde-format
+msgid "Lubos Petrovic"
+msgstr "Lubos Petrovic"
+
+#: kdemain.cpp:303
+#, kde-format
+msgid "Benoit Sigoure"
+msgstr "Benoit Sigoure"
+
+#: kdemain.cpp:305
+#, kde-format
+msgid "Martin Konold"
+msgstr "Martin Konold"
+
+#: kdemain.cpp:307
+#, kde-format
+msgid "Matthias Welwarsky"
+msgstr "Matthias Welwarsky"
+
+#: kdemain.cpp:309
+#, kde-format
+msgid "Rainer Endres"
+msgstr "Rainer Endres"
+
+#: kdemain.cpp:311
+#, kde-format
+msgid "Ralf Gesellensetter"
+msgstr "Ralf Gesellensetter"
+
+#: kdemain.cpp:313
+#, kde-format
+msgid "Tim Alder"
+msgstr "Tim Alder"
+
+#: kdemain.cpp:315
+#, kde-format
+msgid "John Layt"
+msgstr "John Layt"
+
+#: kdemain.cpp:316
+#, kde-format
+msgid ""
+"Special thanks for providing an important source of inspiration by creating "
+"Marble's predecessor \"Kartographer\"."
+msgstr ""
+"Volem agrair-li especialment que ens proporcionés una gran font d'inspiració "
+"en crear «Kartographer», el predecessor de Marble."
+
+#: kdemain.cpp:332
+#, kde-format
+msgid "Enable debug output"
+msgstr "Activa l'eixida de depuració"
+
+#: kdemain.cpp:334
+#, kde-format
+msgid "Display OSM placemarks according to the level selected"
+msgstr "Mostra les marques de llocs de l'OSM segons el nivell seleccionat"
+
+#: kdemain.cpp:336
+#, kde-format
+msgid "Make a time measurement to check performance"
+msgstr "Fa una mesura de temps per a comprovar el rendiment"
+
+#: kdemain.cpp:338
+#, kde-format
+msgid "Show frame rate"
+msgstr "Mostra la freqüència dels fotogrames"
+
+#: kdemain.cpp:340
+#, kde-format
+msgid "Show tile IDs"
+msgstr "Mostra els ID dels mosaics"
+
+#: kdemain.cpp:342
+#, kde-format
+msgid "Show time spent in each layer"
+msgstr "Mostra el temps esmerçat en cada capa"
+
+#: kdemain.cpp:344
+#, kde-format
+msgid "Use a different directory <directory> which contains map data."
+msgstr "Usa un directori <directori> diferent que conté dades de mapa."
+
+#: kdemain.cpp:346
+#, kde-format
+msgid "Do not use the interface optimized for small screens"
+msgstr "No usis la interfície optimitzada per a pantalles petites"
+
+#: kdemain.cpp:347
+#, kde-format
+msgid "Use the interface optimized for small screens"
+msgstr "Usa la interfície optimitzada per a pantalles petites"
+
+#: kdemain.cpp:349
+#, kde-format
+msgid "Do not use the interface optimized for high resolutions"
+msgstr "No usis la interfície optimitzada per a resolucions altes"
+
+#: kdemain.cpp:350
+#, kde-format
+msgid "Use the interface optimized for high resolutions"
+msgstr "Usa la interfície optimitzada per a resolucions altes"
+
+#: kdemain.cpp:352
+#, kde-format
+msgid "Show map at given lat lon <coordinates>"
+msgstr "Mostra el mapa a les <coordenades> lat., lon. donades"
+
+#: kdemain.cpp:354
+#, kde-format
+msgid "Show map at given geo <uri>"
+msgstr "Mostra el mapa en l'<URI> de geolocalització indicat"
+
+#: kdemain.cpp:356
+#, kde-format
+msgid "Set the distance of the observer to the globe (in km)"
+msgstr "Estableix la distància de l'observador al globus (en km)"
+
+#: kdemain.cpp:358
+#, kde-format
+msgid "Use map <id> (e.g. \"earth/openstreetmap/openstreetmap.dgml\")"
+msgstr "Usa l'<ID> del mapa (p. ex. «earth/openstreetmap/openstreetmap.dgml»)"
+
+#: kdemain.cpp:360
+#, kde-format
+msgid "One or more placemark files to be opened"
+msgstr "Un o més fitxers de marques de llocs a obrir"
+
+#. i18n: ectx: label, entry, group (Time)
+#: marble.kcfg:58
+#, kde-format
+msgid "The date and time of marble clock"
+msgstr "La data i hora del rellotge del Marble"
+
+#. i18n: ectx: label, entry, group (Time)
+#: marble.kcfg:61
+#, kde-format
+msgid "The speed of marble clock"
+msgstr "La velocitat del rellotge del Marble"
+
+#. i18n: ectx: label, entry, group (View)
+#: marble.kcfg:107
+#, kde-format
+msgid "The unit chosen to measure distances."
+msgstr "Les unitats seleccionades per a mesurar distàncies."
+
+#. i18n: ectx: label, entry, group (View)
+#: marble.kcfg:115
+#, kde-format
+msgid "The unit chosen to measure angles."
+msgstr "Les unitats seleccionades per a mesurar angles."
+
+#. i18n: ectx: label, entry, group (View)
+#: marble.kcfg:124
+#, kde-format
+msgid "The quality at which a still map gets painted."
+msgstr "La qualitat a la qual es dibuixa un mapa fotogràfic."
+
+#. i18n: ectx: label, entry, group (View)
+#: marble.kcfg:135
+#, kde-format
+msgid "The quality at which an animated map gets painted."
+msgstr "La qualitat a la qual es dibuixa un mapa animat."
+
+#. i18n: ectx: label, entry, group (View)
+#: marble.kcfg:146
+#, kde-format
+msgid "The localization of the labels."
+msgstr "La ubicació de les etiquetes."
+
+#. i18n: ectx: label, entry (mapFont), group (View)
+#: marble.kcfg:155
+#, kde-format
+msgid "The general font used on the map."
+msgstr "El tipus de lletra general usat en el mapa."
+
+#. i18n: ectx: label, entry (lastFileOpenDir), group (View)
+#: marble.kcfg:159
+#, kde-format
+msgid "The last directory that was opened by File->Open."
+msgstr "L'últim directori que s'ha obert via Fitxer->Obri."
+
+#. i18n: ectx: label, entry, group (Navigation)
+#: marble.kcfg:179
+#, kde-format
+msgid "The behaviour of the planet's axis on mouse dragging."
+msgstr "El comportament dels eixos del planeta en arrossegar el ratolí."
+
+#. i18n: ectx: label, entry, group (Navigation)
+#: marble.kcfg:187
+#, kde-format
+msgid "The location shown on application startup."
+msgstr "L'emplaçament mostrat en engegar l'aplicació."
+
+#. i18n: ectx: label, entry, group (Navigation)
+#: marble.kcfg:201
+#, kde-format
+msgid "Display animation on voyage to target."
+msgstr "Anima el desplaçament fins a l'objectiu."
+
+#. i18n: ectx: label, entry, group (Navigation)
+#: marble.kcfg:205
+#, kde-format
+msgid "The external OpenStreetMap editor application"
+msgstr "L'aplicació externa d'edició de l'OpenStreetMap"
+
+#. i18n: ectx: label, entry, group (Cache)
+#: marble.kcfg:211
+#, kde-format
+msgid "Cache for tiles reserved in the physical memory."
+msgstr "Memòria cau per al mosaic reservada en la memòria física."
+
+#. i18n: ectx: label, entry, group (Cache)
+#: marble.kcfg:217
+#, kde-format
+msgid "Maximum space on the hard disk that can be used to store tiles."
+msgstr "Espai màxim del disc dur que es pot usar per a emmagatzemar el mosaic."
+
+#. i18n: ectx: label, entry (proxyUrl), group (Cache)
+#: marble.kcfg:223
+#, kde-format
+msgid "URL for the proxy server."
+msgstr "L'URL del servidor intermediari."
+
+#. i18n: ectx: label, entry, group (Cache)
+#: marble.kcfg:227
+#, kde-format
+msgid "Port for the proxy server."
+msgstr "El port del servidor intermediari."
+
+#. i18n: ectx: label, entry (proxyUser), group (Cache)
+#: marble.kcfg:233
+#, kde-format
+msgid "Username for authorization."
+msgstr "Nom d'usuari per a l'autorització."
+
+#. i18n: ectx: label, entry (proxyPass), group (Cache)
+#: marble.kcfg:236
+#, kde-format
+msgid "Password for authorization."
+msgstr "Contrasenya per a l'autorització."
+
+#. i18n: ectx: label, entry (proxyHttp), group (Cache)
+#: marble.kcfg:239
+#, kde-format
+msgid "Proxy type is HTTP"
+msgstr "El tipus de servidor intermediari és HTTP"
+
+#. i18n: ectx: label, entry (proxySocks5), group (Cache)
+#: marble.kcfg:250
+#, kde-format
+msgid "Proxy type is Socks5"
+msgstr "El tipus de servidor intermediari és Socks5"
+
+#. i18n: ectx: label, entry (proxyAuth), group (Cache)
+#: marble.kcfg:254
+#, kde-format
+msgid "Proxy requires Authentication"
+msgstr "El servidor intermediari requereix autenticació"
+
+#. i18n: ectx: label, entry (activePositionTrackingPlugin), group (Plugins)
+#: marble.kcfg:260
+#, kde-format
+msgid "The position tracking plugin used to determine the current location"
+msgstr ""
+"El connector de seguiment de la posició usat per a determinar l'emplaçament "
+"actual"
+
+#: marble_part.cpp:107
+#, kde-format
+msgid "Position: %1"
+msgstr "Posició: %1"
+
+#: marble_part.cpp:108
+#, kde-format
+msgid "Altitude: %1"
+msgstr "Altitud: %1"
+
+#: marble_part.cpp:109
+#, kde-format
+msgid "Tile Zoom Level: %1"
+msgstr "Nivell de zoom dels mosaics: %1"
+
+#: marble_part.cpp:110
+#, kde-format
+msgid "Time: %1"
+msgstr "Hora: %1"
+
+#: marble_part.cpp:172
+#, kde-format
+msgid ""
+"Sorry, unable to open '%1':\n"
+"'%2'"
+msgstr ""
+"No s'ha pogut obrir «%1»:\n"
+"«%2»"
+
+#: marble_part.cpp:173
+#, kde-format
+msgid "File not readable"
+msgstr "El fitxer no es pot llegir"
+
+#: marble_part.cpp:219
+#, kde-format
+msgid "marble_part"
+msgstr "marble_part"
+
+#: marble_part.cpp:222
+#, kde-format
+msgid "A Virtual Globe"
+msgstr "Un globus terraqüi virtual"
+
+#: marble_part.cpp:236
+#, kde-format
+msgid "Sorry, unable to open '%1'. The file is not accessible."
+msgstr "No s'ha pogut obrir «%1». El fitxer no és accessible."
+
+#: marble_part.cpp:237
+#, kde-format
+msgid "File not accessible"
+msgstr "El fitxer no accessible"
+
+#: marble_part.cpp:258
+#, kde-format
+msgid "All Supported Files"
+msgstr "Tots els fitxers admesos"
+
+#: marble_part.cpp:264
+#, kde-format
+msgid "Open File"
+msgstr "Obri un fitxer"
+
+#: marble_part.cpp:281
+#, kde-format
+msgid "Export Map"
+msgstr "Exporta el mapa"
+
+#: marble_part.cpp:282
+#, kde-format
+msgid "Images *.jpg *.png"
+msgstr "Imatges *.jpg *.png"
+
+#: marble_part.cpp:296
+#, kde-format
+msgctxt "Application name"
+msgid "Marble"
+msgstr "Marble"
+
+#: marble_part.cpp:297
+#, kde-format
+msgid "An error occurred while trying to save the file.\n"
+msgstr "S'ha produït un error en intentar guardar el fitxer.\n"
+
+#: marble_part.cpp:488
+#, kde-format
+msgid "Unnamed"
+msgstr "Sense nom"
+
+#: marble_part.cpp:719
+#, kde-format
+msgctxt "Action for downloading an entire region of a map"
+msgid "Download Region..."
+msgstr "Descarrega una regió..."
+
+#: marble_part.cpp:733
+#, kde-format
+msgctxt "Action for saving the map to a file"
+msgid "&Export Map..."
+msgstr "&Exporta el mapa..."
+
+#: marble_part.cpp:742
+#, kde-format
+msgctxt "Action for toggling offline mode"
+msgid "&Work Offline"
+msgstr "&Treballa desconnectat"
+
+#: marble_part.cpp:752
+#, kde-format
+msgctxt "Action for copying the map to the clipboard"
+msgid "&Copy Map"
+msgstr "&Copia el mapa"
+
+#: marble_part.cpp:759
+#, kde-format
+msgctxt "Action for copying the coordinates to the clipboard"
+msgid "C&opy Coordinates"
+msgstr "C&opia les coordenades"
+
+#: marble_part.cpp:767
+#, kde-format
+msgctxt "Action for opening a file"
+msgid "&Open..."
+msgstr "&Obri..."
+
+#: marble_part.cpp:774
+#, kde-format
+msgctxt "Action for downloading maps (GHNS)"
+msgid "Download Maps..."
+msgstr "Descarrega els mapes..."
+
+#: marble_part.cpp:777
+#, kde-format
+msgctxt "Status tip"
+msgid "Download new maps"
+msgstr "Descarrega mapes nous"
+
+#: marble_part.cpp:783
+#, kde-format
+msgctxt "Action for creating new maps"
+msgid "&Create a New Map..."
+msgstr "&Crea un mapa nou..."
+
+#: marble_part.cpp:788
+#, kde-format
+msgctxt "Status tip"
+msgid "A wizard guides you through the creation of your own map theme."
+msgstr ""
+"Un assistent vos guiarà a través de la creació d'un tema de mapa propi."
+
+#: marble_part.cpp:815
+#, kde-format
+msgctxt "Action for toggling clouds"
+msgid "&Clouds"
+msgstr "&Núvols"
+
+#: marble_part.cpp:822
+#, kde-format
+msgctxt "Action for sun control dialog"
+msgid "S&un Control..."
+msgstr "Control del &sol..."
+
+#: marble_part.cpp:832
+#, kde-format
+msgctxt "Action for time control dialog"
+msgid "&Time Control..."
+msgstr "Control del &temps..."
+
+#: marble_part.cpp:841
+#, kde-format
+msgctxt "Action for locking float items on the map"
+msgid "Lock Position"
+msgstr "Fixa la posició"
+
+#: marble_part.cpp:852
+#, kde-format
+msgid "Show Shadow"
+msgstr "Mostra l'ombra"
+
+#: marble_part.cpp:855
+#, kde-format
+msgid "Hide Shadow"
+msgstr "Oculta l'ombra"
+
+#: marble_part.cpp:856
+#, kde-format
+msgid "Shows and hides the shadow of the sun"
+msgstr "Mostra i oculta l'ombra del Sol"
+
+#: marble_part.cpp:860
+#, kde-format
+msgid "Show sun icon on the Sub-Solar Point"
+msgstr "Mostra la icona del sol en el punt subsolar"
+
+#: marble_part.cpp:862
+#, kde-format
+msgid "Hide sun icon on the Sub-Solar Point"
+msgstr "Oculta la icona del sol en el punt subsolar"
+
+#: marble_part.cpp:863
+#, kde-format
+msgid "Show sun icon on the sub-solar point"
+msgstr "Mostra la icona del sol en el punt subsolar"
+
+#: marble_part.cpp:868
+#, kde-format
+msgid "Lock Globe to the Sub-Solar Point"
+msgstr "Bloqueja el globus en el Punt Subsolar"
+
+#: marble_part.cpp:870
+#, kde-format
+msgid "Unlock Globe to the Sub-Solar Point"
+msgstr "Desbloqueja el globus del punt subsolar"
+
+#: marble_part.cpp:871
+#, kde-format
+msgid "Lock globe to the sub-solar point"
+msgstr "Bloqueja el globus en el punt subsolar"
+
+#: marble_part.cpp:886
+#, kde-format
+msgctxt "Add Bookmark"
+msgid "&Add Bookmark"
+msgstr "&Afig una adreça d'interés"
+
+#: marble_part.cpp:894
+#, kde-format
+msgctxt "Show Bookmarks"
+msgid "Show &Bookmarks"
+msgstr "Mostra les &adreces d'interés"
+
+#: marble_part.cpp:895
+#, kde-format
+msgid "Show or hide bookmarks in the map"
+msgstr "Mostra o oculta les adreces d'interés en el mapa"
+
+#: marble_part.cpp:903
+#, kde-format
+msgid "&Set Home Location"
+msgstr "&Estableix el vostre emplaçament"
+
+#: marble_part.cpp:910
+#, kde-format
+msgctxt "Manage Bookmarks"
+msgid "&Manage Bookmarks"
+msgstr "&Gestiona les adreces d'interés"
+
+#: marble_part.cpp:922
+#, kde-format
+msgctxt "Edit the map in an external application"
+msgid "&Edit Map"
+msgstr "&Edita el mapa"
+
+#: marble_part.cpp:930
+#, kde-format
+msgid "&Record Movie"
+msgstr "En&registra una pel·lícula"
+
+#: marble_part.cpp:932
+#, kde-format
+msgid "Records a movie of the globe"
+msgstr "Enregistra una pel·lícula del globus terraqüi"
+
+#: marble_part.cpp:938
+#, kde-format
+msgid "&Stop recording"
+msgstr "Atura l'enregi&strament"
+
+#: marble_part.cpp:940
+#, kde-format
+msgid "Stop recording a movie of the globe"
+msgstr "Atura l'enregistrament d'una pel·lícula del globus terraqüi"
+
+#: marble_part.cpp:1292
+#, kde-format
+msgctxt "Action for toggling"
+msgid "Show Position"
+msgstr "Mostra la posició"
+
+#: marble_part.cpp:1294
+#, kde-format
+msgctxt "Action for toggling"
+msgid "Show Date and Time"
+msgstr "Mostra la data i hora"
+
+#: marble_part.cpp:1296
+#, kde-format
+msgctxt "Action for toggling"
+msgid "Show Altitude"
+msgstr "Mostra l'altitud"
+
+#: marble_part.cpp:1299
+#, kde-format
+msgctxt "Action for toggling"
+msgid "Show Tile Zoom Level"
+msgstr "Mostra el nivell de zoom del mosaic"
+
+#: marble_part.cpp:1301
+#, kde-format
+msgctxt "Action for toggling"
+msgid "Show Download Progress Bar"
+msgstr "Mostra la barra de progrés de les baixades"
+
+#: marble_part.cpp:1396
+#, kde-format
+msgid "View"
+msgstr "Visualitza"
+
+#: marble_part.cpp:1407
+#, kde-format
+msgid "Navigation"
+msgstr "Navegació"
+
+#: marble_part.cpp:1418
+#, kde-format
+msgid "Cache & Proxy"
+msgstr "Cau i Intermediari"
+
+#: marble_part.cpp:1431
+#, kde-format
+msgid "Date & Time"
+msgstr "Data i hora"
+
+#: marble_part.cpp:1439
+#, kde-format
+msgid "Synchronization"
+msgstr "Sincronització"
+
+#: marble_part.cpp:1452
+#, kde-format
+msgid "Routing"
+msgstr "Itineraris"
+
+#: marble_part.cpp:1460
+#, kde-format
+msgid "Plugins"
+msgstr "Connectors"
+
+#. i18n: ectx: Menu (file)
+#: marble_part.rc:6 marbleui.rc:5
+#, kde-format
+msgid "&File"
+msgstr "&Fitxer"
+
+#. i18n: ectx: Menu (edit)
+#: marble_part.rc:21 marbleui.rc:14
+#, kde-format
+msgid "&Edit"
+msgstr "&Edita"
+
+#. i18n: ectx: Menu (view)
+#: marble_part.rc:31 marbleui.rc:18
+#, kde-format
+msgid "&View"
+msgstr "&Visualitza"
+
+#. i18n: ectx: Menu (infoboxes)
+#: marble_part.rc:36
+#, kde-format
+msgid "&Info Boxes"
+msgstr "&Rètols informatius"
+
+#. i18n: ectx: Menu (onlineservices)
+#: marble_part.rc:42
+#, kde-format
+msgid "&Online Services"
+msgstr "Serveis en &línia"
+
+#. i18n: ectx: Menu (settings)
+#: marble_part.rc:55 marbleui.rc:31
+#, kde-format
+msgid "&Settings"
+msgstr "&Arranjament"
+
+#. i18n: ectx: Menu (panels)
+#: marble_part.rc:59
+#, kde-format
+msgid "&Panels"
+msgstr "&Plafons"
+
+#. i18n: ectx: Menu (viewSize)
+#: marble_part.rc:65
+#, kde-format
+msgid "&View Size"
+msgstr "Mida de la &vista"
+
+#. i18n: ectx: Menu (bookmarks)
+#: marble_part.rc:73 marbleui.rc:29
+#, kde-format
+msgid "&Bookmarks"
+msgstr "&Adreces d'interés"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: marble_part.rc:84 marbleui.rc:36
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Barra d'eines principal"
+
+#. i18n: ectx: ToolBar (pluginToolBar)
+#: marble_part.rc:97
+#, kde-format
+msgid "Edit Toolbar"
+msgstr "Barra d'eines d'edició"

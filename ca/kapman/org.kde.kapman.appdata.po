@@ -1,0 +1,52 @@
+# Translation of org.kde.kapman.appdata.po to Catalan (Valencian)
+# Copyright (C) 2014-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2014.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kapman appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2016-01-30 07:33+0000\n"
+"PO-Revision-Date: 2020-07-11 23:33+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 20.04.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.kapman.appdata.xml:6
+msgid "Kapman"
+msgstr "Kapman"
+
+#. (itstool) path: component/summary
+#: org.kde.kapman.appdata.xml:7
+msgid "Pac-Man Clone"
+msgstr "Un clon del Pac-Man"
+
+#. (itstool) path: description/p
+#: org.kde.kapman.appdata.xml:9
+msgid "Kapman is a clone of the well known game Pac-Man."
+msgstr "El Kapman és un clon del ben conegut joc Pac-Man."
+
+#. (itstool) path: description/p
+#: org.kde.kapman.appdata.xml:12
+msgid ""
+"You must run through the maze to eat all pills without being captured by a "
+"ghost. By eating an energizer, Kapman gets the ability to eat ghosts for a "
+"few seconds. When a stage is cleared of pills and energizer the player is "
+"taken to the next stage with slightly increased game speed."
+msgstr ""
+"Heu de recórrer el laberint per a menjar les píndoles sense ser capturat per "
+"cap fantasma. Si menja un energitzant, el Kapman aconsegueix la capacitat de "
+"menjar els fantasmes durant uns segons. Quan una etapa es neteja de píndoles "
+"i energitzants, el jugador es porta a l'etapa següent amb un lleuger "
+"increment de la velocitat de joc."

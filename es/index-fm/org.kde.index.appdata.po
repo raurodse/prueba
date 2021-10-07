@@ -1,0 +1,40 @@
+# Translation of org.kde.index.appdata.po to Catalan (Valencian)
+# Copyright (C) 2020 This_file_is_part_of_KDE
+# This file is distributed under same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: index-fm appdata files\n"
+"POT-Creation-Date: 2020-08-02 02:15+0200\n"
+"PO-Revision-Date: 2020-06-28 11:04+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.index.appdata.xml:6
+msgid "Index"
+msgstr "Índex"
+
+#. (itstool) path: component/summary
+#: org.kde.index.appdata.xml:7
+msgid "Manage your files"
+msgstr "Gestioneu els fitxers"
+
+#. (itstool) path: description/p
+#: org.kde.index.appdata.xml:9
+msgid ""
+"Index allows you to navigate your computer and preview multimedia files."
+msgstr ""
+"L'Índex permet navegar per l'ordinador i previsualitzar fitxers multimèdia."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.index.appdata.xml:16
+msgid "Index file manager"
+msgstr "Gestor de fitxers Índex"

@@ -1,0 +1,337 @@
+# Translation of kcm_users.po to Catalan (Valencian)
+# Copyright (C) 2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-09-02 00:19+0000\n"
+"PO-Revision-Date: 2020-07-01 10:29+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+"X-Accelerator-Marker: &\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Josep Ma. Ferrer"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "txemaq@gmail.com"
+
+#: package/contents/ui/ChangePassword.qml:26
+#: package/contents/ui/UserDetailsPage.qml:168
+#, kde-format
+msgid "Change Password"
+msgstr "Canvi de contrasenya"
+
+#: package/contents/ui/ChangePassword.qml:41
+#, kde-format
+msgid "Password"
+msgstr "Contrasenya"
+
+#: package/contents/ui/ChangePassword.qml:55
+#, kde-format
+msgid "Confirm password"
+msgstr "Confirma la contrasenya"
+
+#: package/contents/ui/ChangePassword.qml:68
+#: package/contents/ui/CreateUser.qml:66
+#, kde-format
+msgid "Passwords must match"
+msgstr "Cal que les contrasenyes coincidisquen"
+
+#: package/contents/ui/ChangePassword.qml:73
+#, kde-format
+msgid "Set Password"
+msgstr "Estableix la contrasenya"
+
+#: package/contents/ui/ChangeWalletPassword.qml:17
+#, fuzzy, kde-format
+#| msgid "Change Password"
+msgid "Change Wallet Password?"
+msgstr "Canvi de contrasenya"
+
+#: package/contents/ui/ChangeWalletPassword.qml:26
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Now that you have changed your login password, you may also want to change "
+"the password on your default KWallet to match it."
+msgstr ""
+
+#: package/contents/ui/ChangeWalletPassword.qml:31
+#, kde-format
+msgid "What is KWallet?"
+msgstr ""
+
+#: package/contents/ui/ChangeWalletPassword.qml:41
+#, kde-format
+msgid ""
+"KWallet is a password manager that stores your passwords for wireless "
+"networks and other encrypted resources. It is locked with its own password "
+"which differs from your login password. If the two passwords match, it can "
+"be unlocked at login automatically so you don't have to enter the KWallet "
+"password yourself."
+msgstr ""
+
+#: package/contents/ui/ChangeWalletPassword.qml:57
+#, fuzzy, kde-format
+#| msgid "Change Password"
+msgid "Change Wallet Password"
+msgstr "Canvi de contrasenya"
+
+#: package/contents/ui/ChangeWalletPassword.qml:66
+#, kde-format
+msgid "Leave Unchanged"
+msgstr ""
+
+#: package/contents/ui/CreateUser.qml:16
+#, kde-format
+msgid "Create User"
+msgstr "Creació d'un usuari"
+
+#: package/contents/ui/CreateUser.qml:30
+#, kde-format
+msgid "Name:"
+msgstr "Nom:"
+
+#: package/contents/ui/CreateUser.qml:35
+#: package/contents/ui/UserDetailsPage.qml:142
+#, kde-format
+msgid "Username:"
+msgstr "Nom d'usuari:"
+
+#: package/contents/ui/CreateUser.qml:45
+#: package/contents/ui/UserDetailsPage.qml:150
+#, kde-format
+msgid "Standard"
+msgstr "Estàndard"
+
+#: package/contents/ui/CreateUser.qml:46
+#: package/contents/ui/UserDetailsPage.qml:151
+#, kde-format
+msgid "Administrator"
+msgstr "Administrador"
+
+#: package/contents/ui/CreateUser.qml:49
+#: package/contents/ui/UserDetailsPage.qml:154
+#, kde-format
+msgid "Account type:"
+msgstr "Tipus de compte:"
+
+#: package/contents/ui/CreateUser.qml:54
+#, kde-format
+msgid "Password:"
+msgstr "Contrasenya:"
+
+#: package/contents/ui/CreateUser.qml:59
+#, kde-format
+msgid "Confirm password:"
+msgstr "Confirma la contrasenya:"
+
+#: package/contents/ui/CreateUser.qml:70
+#, kde-format
+msgid "Create"
+msgstr "Crea"
+
+#: package/contents/ui/main.qml:22
+#, kde-format
+msgid "Manage Users"
+msgstr "Gestió d'usuaris"
+
+#: package/contents/ui/main.qml:98
+#, kde-format
+msgid "Add New User"
+msgstr "Afig un usuari nou"
+
+#: package/contents/ui/UserDetailsPage.qml:89
+#, kde-format
+msgid "Choose a picture"
+msgstr "Trieu una imatge"
+
+#: package/contents/ui/UserDetailsPage.qml:122
+#, fuzzy, kde-format
+#| msgid "Change Avatar"
+msgid "Change avatar"
+msgstr "Canvia l'avatar"
+
+#: package/contents/ui/UserDetailsPage.qml:134
+#, kde-format
+msgctxt "Example name"
+msgid "John Doe"
+msgstr "Joan Conill"
+
+#: package/contents/ui/UserDetailsPage.qml:163
+#, kde-format
+msgctxt "Example email address"
+msgid "john.doe@kde.org"
+msgstr "joan.conill@exemple.cat"
+
+#: package/contents/ui/UserDetailsPage.qml:164
+#, kde-format
+msgid "Email address:"
+msgstr "Adreça de correu electrònic:"
+
+#: package/contents/ui/UserDetailsPage.qml:188
+#, kde-format
+msgid "Delete files"
+msgstr "Suprimeix els fitxers"
+
+#: package/contents/ui/UserDetailsPage.qml:197
+#, kde-format
+msgid "Keep files"
+msgstr "Conserva els fitxers"
+
+#: package/contents/ui/UserDetailsPage.qml:206
+#, fuzzy, kde-format
+#| msgid "Delete User..."
+msgid "Delete User…"
+msgstr "Suprimeix l'usuari..."
+
+#: package/contents/ui/UserDetailsPage.qml:216
+#, kde-format
+msgid "Change Avatar"
+msgstr "Canvia l'avatar"
+
+#: package/contents/ui/UserDetailsPage.qml:259
+#, fuzzy, kde-format
+#| msgid "Choose File..."
+msgid "Choose File…"
+msgstr "Tria un fitxer..."
+
+#: package/contents/ui/UserDetailsPage.qml:364
+#, kde-format
+msgid "Feisty Flamingo"
+msgstr "Rosa flamenc intens"
+
+#: package/contents/ui/UserDetailsPage.qml:365
+#, kde-format
+msgid "Dragon's Fruit"
+msgstr "Pitaya"
+
+#: package/contents/ui/UserDetailsPage.qml:366
+#, kde-format
+msgid "Sweet Potato"
+msgstr "Moniato"
+
+#: package/contents/ui/UserDetailsPage.qml:367
+#, kde-format
+msgid "Ambient Amber"
+msgstr "Ambre ambient"
+
+#: package/contents/ui/UserDetailsPage.qml:368
+#, kde-format
+msgid "Sparkle Sunbeam"
+msgstr "Raig de sol lluent"
+
+#: package/contents/ui/UserDetailsPage.qml:369
+#, kde-format
+msgid "Lemon-Lime"
+msgstr "Lima llimona"
+
+#: package/contents/ui/UserDetailsPage.qml:370
+#, kde-format
+msgid "Verdant Charm"
+msgstr "Encant verdenc"
+
+#: package/contents/ui/UserDetailsPage.qml:371
+#, kde-format
+msgid "Mellow Meadow"
+msgstr "Prat dolç"
+
+#: package/contents/ui/UserDetailsPage.qml:372
+#, kde-format
+msgid "Tepid Teal"
+msgstr "Anedó tebi"
+
+#: package/contents/ui/UserDetailsPage.qml:373
+#, kde-format
+msgid "Plasma Blue"
+msgstr "Blau plasma"
+
+#: package/contents/ui/UserDetailsPage.qml:374
+#, kde-format
+msgid "Pon Purple"
+msgstr "Porpra pujat"
+
+#: package/contents/ui/UserDetailsPage.qml:375
+#, kde-format
+msgid "Bajo Purple"
+msgstr "Porpra baix"
+
+#: package/contents/ui/UserDetailsPage.qml:376
+#, kde-format
+msgid "Burnt Charcoal"
+msgstr "Carbonet cremat"
+
+#: package/contents/ui/UserDetailsPage.qml:377
+#, kde-format
+msgid "Paper Perfection"
+msgstr "Paper perfecte"
+
+#: package/contents/ui/UserDetailsPage.qml:378
+#, kde-format
+msgid "Cafétera Brown"
+msgstr "Marró cafetera"
+
+#: package/contents/ui/UserDetailsPage.qml:379
+#, kde-format
+msgid "Rich Hardwood"
+msgstr "Fusta dura brillant"
+
+#: src/kcm.cpp:40
+#, kde-format
+msgid "Manage user accounts"
+msgstr "Gestiona els comptes dels usuaris"
+
+#: src/kcm.cpp:41
+#, kde-format
+msgid "Nicolas Fella"
+msgstr "Nicolas Fella"
+
+#: src/kcm.cpp:42
+#, kde-format
+msgid "Carson Black"
+msgstr "Carson Black"
+
+#: src/user.cpp:239
+#, kde-format
+msgid "Could not get permission to save user %1"
+msgstr ""
+
+#: src/user.cpp:244
+#, kde-format
+msgid "There was an error while saving changes"
+msgstr ""
+
+#: src/user.cpp:319 src/user.cpp:320
+#, kde-format
+msgid "Failed to resize image: opening temp file failed"
+msgstr ""
+
+#: src/user.cpp:327 src/user.cpp:328
+#, kde-format
+msgid "Failed to resize image: writing to temp file failed"
+msgstr ""
+
+#: src/usermodel.cpp:138
+#, kde-format
+msgid "Your Account"
+msgstr "El vostre compte"
+
+#: src/usermodel.cpp:138
+#, kde-format
+msgid "Other Accounts"
+msgstr "Altres comptes"

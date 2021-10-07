@@ -1,0 +1,743 @@
+# Translation of koko.po to Catalan (Valencian)
+# Copyright (C) 2020-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2020.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: koko\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-09-17 00:15+0000\n"
+"PO-Revision-Date: 2021-09-17 10:03+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.12.0\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Antoni Bella"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "antonibella5@yahoo.com"
+
+#: main.cpp:49
+#, kde-kuit-format
+msgctxt "@title"
+msgid "<application>Koko</application>"
+msgstr "<application>Koko</application>"
+
+#: main.cpp:51
+#, kde-kuit-format
+msgctxt "@title"
+msgid "Koko is an image viewer for your image collection."
+msgstr "El Koko és un visor d'imatges per a la vostra col·lecció d'imatges."
+
+#: main.cpp:53
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "(c) 2013-2020 KDE Contributors"
+msgstr "(c) 2013-2020 Els col·laboradors del KDE"
+
+#: main.cpp:58
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Vishesh Handa"
+msgstr "Vishesh Handa"
+
+#: main.cpp:58 main.cpp:60 main.cpp:62 main.cpp:64 main.cpp:66 main.cpp:68
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Developer"
+msgstr "Desenvolupador"
+
+#: main.cpp:60
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Atul Sharma"
+msgstr "Atul Sharma"
+
+#: main.cpp:62
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Marco Martin"
+msgstr "Marco Martin"
+
+#: main.cpp:64
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Nicolas Fella"
+msgstr "Nicolas Fella"
+
+#: main.cpp:66
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Carl Schwan"
+msgstr "Carl Schwan"
+
+#: main.cpp:68
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Mikel Johnson"
+msgstr "Mikel Johnson"
+
+#: main.cpp:75
+#, kde-format
+msgid "Image viewer"
+msgstr "Visor d'imatges"
+
+#: main.cpp:76
+#, kde-format
+msgid "Reset the database"
+msgstr "Restableix la base de dades"
+
+#: main.cpp:77
+#, kde-format
+msgid "path of image you want to open"
+msgstr "camí de la imatge que voleu obrir"
+
+#: notificationmanager.cpp:16
+#, kde-format
+msgid "Sharing failed"
+msgstr "Ha fallat la compartició"
+
+#: notificationmanager.cpp:22
+#, kde-format
+msgid "Shared url for image is <a href='%1'>%1</a>"
+msgstr "L'URL compartit per a la imatge és <a href='%1'>%1</a>"
+
+#: qml/AlbumDelegate.qml:103
+#, kde-format
+msgid "1 Image"
+msgid_plural "%1 Images"
+msgstr[0] "1 imatge"
+msgstr[1] "%1 imatges"
+
+#: qml/AlbumView.qml:187
+#, kde-format
+msgid "Remove Bookmark"
+msgstr "Elimina punt"
+
+#: qml/AlbumView.qml:187
+#, kde-format
+msgctxt "@action:button Bookmarks the current folder"
+msgid "Bookmark Folder"
+msgstr "Apunta la carpeta"
+
+#: qml/AlbumView.qml:208
+#, kde-format
+msgid "Go Up"
+msgstr "Vés amunt"
+
+#: qml/AlbumView.qml:239
+#, kde-format
+msgid "Home"
+msgstr "Inici"
+
+#: qml/AlbumView.qml:239
+#, kde-format
+msgid "Root"
+msgstr "Arrel"
+
+#: qml/AlbumView.qml:257
+#, kde-format
+msgid "Select All"
+msgstr "Selecciona-ho tot"
+
+#: qml/AlbumView.qml:258
+#, kde-format
+msgid "Selects all the media in the current view"
+msgstr "Selecciona tots els elements multimèdia de la vista actual"
+
+#: qml/AlbumView.qml:264
+#, kde-format
+msgid "Deselect All"
+msgstr "Desselecciona-ho tot"
+
+#: qml/AlbumView.qml:265
+#, kde-format
+msgid "De-selects all the selected media"
+msgstr "Desselecciona tots els elements multimèdia seleccionats"
+
+#: qml/AlbumView.qml:271 qml/ShareDialog.qml:34
+#, kde-format
+msgid "Share"
+msgstr "Comparteix"
+
+#: qml/AlbumView.qml:272
+#, kde-format
+msgid "Share the selected media"
+msgstr "Comparteix els elements multimèdia seleccionats"
+
+#: qml/AlbumView.qml:284
+#, kde-format
+msgid "Delete Selection"
+msgstr "Suprimeix la selecció"
+
+#: qml/AlbumView.qml:285
+#, kde-format
+msgid "Move selected items to trash"
+msgstr "Mou els elements seleccionats cap a la paperera"
+
+#: qml/AlbumView.qml:291
+#, kde-format
+msgid "Restore Selection"
+msgstr "Restaura la selecció"
+
+#: qml/AlbumView.qml:292
+#, kde-format
+msgid "Restore selected items from trash"
+msgstr "Restaura els elements seleccionats des de la paperera"
+
+#: qml/AlbumView.qml:443
+#, kde-format
+msgid "No Media Found"
+msgstr "No s'ha trobat cap element multimèdia"
+
+#: qml/EditorView.qml:25
+#, kde-format
+msgid "Edit"
+msgstr "Edita"
+
+#: qml/EditorView.qml:43
+#, kde-format
+msgctxt "@action:button Save image modification"
+msgid "Save"
+msgstr "Guarda"
+
+#: qml/EditorView.qml:48 qml/EditorView.qml:223
+#, kde-format
+msgid ""
+"Unable to save file. Check if you have the correct permission to edit this "
+"file."
+msgstr ""
+"No es pot guardar el fitxer. Comproveu que teniu el permís correcte per a "
+"editar aquest fitxer."
+
+#: qml/EditorView.qml:57
+#, kde-format
+msgctxt "@action:button Undo modification"
+msgid "Undo"
+msgstr "Desfés"
+
+#: qml/EditorView.qml:70
+#, kde-format
+msgctxt "@action:button Accept crop for an image"
+msgid "Accept"
+msgstr "Accepta"
+
+#: qml/EditorView.qml:71
+#, kde-format
+msgctxt "@action:button Crop an image"
+msgid "Crop"
+msgstr "Escapça"
+
+#: qml/EditorView.qml:77
+#, kde-format
+msgid "Cancel"
+msgstr "Cancel·la"
+
+#: qml/EditorView.qml:82
+#, kde-format
+msgctxt "@action:button Rotate an image to the left"
+msgid "Rotate left"
+msgstr "Gira a l'esquerra"
+
+#: qml/EditorView.qml:88
+#, kde-format
+msgctxt "@action:button Rotate an image to the right"
+msgid "Rotate right"
+msgstr "Gira a la dreta"
+
+#: qml/EditorView.qml:94
+#, kde-format
+msgctxt "@action:button Mirror an image vertically"
+msgid "Flip"
+msgstr "Inverteix"
+
+#: qml/EditorView.qml:100
+#, kde-format
+msgctxt "@action:button Mirror an image horizontally"
+msgid "Mirror"
+msgstr "Emmiralla"
+
+#: qml/EditorView.qml:114
+#, kde-format
+msgctxt "@title:group for crop area size spinboxes"
+msgid "Size:"
+msgstr "Mida:"
+
+#: qml/EditorView.qml:146
+#, kde-format
+msgctxt "@title:group for crop area position spinboxes"
+msgid "Position:"
+msgstr "Posició:"
+
+#: qml/EditorView.qml:211
+#, kde-format
+msgid "Save As"
+msgstr "Guarda com a"
+
+#: qml/EditorView.qml:219
+#, kde-format
+msgid "You are now editing a new file."
+msgstr "Ara esteu editant un fitxer nou."
+
+#: qml/ImageViewPage.qml:85
+#, kde-format
+msgid "Edit image"
+msgstr "Edita la imatge"
+
+#: qml/ImageViewPage.qml:93
+#, kde-format
+msgid "Info"
+msgstr "Informació"
+
+#: qml/ImageViewPage.qml:95
+#, kde-format
+msgid "See information about video"
+msgstr "Vegeu la informació quant al vídeo"
+
+#: qml/ImageViewPage.qml:96
+#, kde-format
+msgid "See information about image"
+msgstr "Vegeu la informació quant a la imatge"
+
+#: qml/ImageViewPage.qml:106
+#, kde-format
+msgid "Remove"
+msgstr "Elimina"
+
+#: qml/ImageViewPage.qml:106
+#, kde-format
+msgid "Favorite"
+msgstr "Preferida"
+
+#: qml/ImageViewPage.qml:107
+#, kde-format
+msgid "Remove from favorites"
+msgstr "Elimina de les preferides"
+
+#: qml/ImageViewPage.qml:107
+#, kde-format
+msgid "Add to favorites"
+msgstr "Afig a les preferides"
+
+#: qml/ImageViewPage.qml:118
+#, kde-format
+msgctxt "verb, edit an image"
+msgid "Edit"
+msgstr "Edita"
+
+#: qml/ImageViewPage.qml:138
+#, kde-format
+msgid "Share Video"
+msgstr "Comparteix el vídeo"
+
+#: qml/ImageViewPage.qml:138
+#, kde-format
+msgid "Share Image"
+msgstr "Comparteix la imatge"
+
+#: qml/ImageViewPage.qml:140
+#, kde-format
+msgctxt "verb, share an image/video"
+msgid "Share"
+msgstr "Comparteix"
+
+#: qml/ImageViewPage.qml:151
+#, kde-format
+msgid "Start Slideshow"
+msgstr "Inicia el passe de diapositives"
+
+#: qml/ImageViewPage.qml:152
+#, kde-format
+msgid "Slideshow"
+msgstr "Passe de diapositives"
+
+#: qml/ImageViewPage.qml:159
+#, kde-format
+msgid "Thumbnail Bar"
+msgstr "Barra de miniatures"
+
+#: qml/ImageViewPage.qml:160
+#, kde-format
+msgid "Hide Thumbnail Bar"
+msgstr "Oculta la barra de miniatures"
+
+#: qml/ImageViewPage.qml:160
+#, kde-format
+msgid "Show Thumbnail Bar"
+msgstr "Mostra la barra de miniatures"
+
+#: qml/ImageViewPage.qml:161
+#, kde-format
+msgid "Toggle Thumbnail Bar"
+msgstr "Commuta la barra de miniatures"
+
+#: qml/ImageViewPage.qml:176
+#, kde-format
+msgid "Fullscreen"
+msgstr "Pantalla completa"
+
+#: qml/ImageViewPage.qml:176 qml/ImageViewPage.qml:177
+#, kde-format
+msgid "Exit Fullscreen"
+msgstr "Ix de la pantalla completa"
+
+#: qml/ImageViewPage.qml:177
+#, kde-format
+msgid "Enter Fullscreen"
+msgstr "Entra a la pantalla completa"
+
+#: qml/ImageViewPage.qml:365
+#, kde-format
+msgid "Previous image"
+msgstr "Imatge anterior"
+
+#: qml/ImageViewPage.qml:395
+#, kde-format
+msgid "Next image"
+msgstr "Imatge següent"
+
+#: qml/ImageViewPage.qml:610 qml/SettingsPage.qml:41
+#, kde-format
+msgctxt "@label:spinbox Slideshow image changing interval"
+msgid "Slideshow interval:"
+msgstr "Interval entre diapositives:"
+
+#: qml/ImageViewPage.qml:627 qml/SettingsPage.qml:49
+#, kde-format
+msgctxt "Slideshow image changing interval"
+msgid "1 second"
+msgid_plural "%1 seconds"
+msgstr[0] "1 segon"
+msgstr[1] "%1 segons"
+
+#: qml/ImageViewPage.qml:680 qml/SettingsPage.qml:28
+#, kde-format
+msgctxt "@option:check"
+msgid "Loop"
+msgstr "Bucle"
+
+#: qml/ImageViewPage.qml:686 qml/SettingsPage.qml:35
+#, kde-format
+msgctxt "@option:check"
+msgid "Randomize"
+msgstr "Aleatori"
+
+#: qml/ImageViewPage.qml:695
+#, kde-format
+msgid "Stop Slideshow"
+msgstr "Atura el passe de diapositives"
+
+#: qml/ImageViewPage.qml:709
+#, kde-format
+msgid "Show All Controls"
+msgstr "Mostra tots els controls"
+
+#: qml/InfoDrawer.qml:40 qml/InfoSidebar.qml:37
+#, kde-format
+msgid "Metadata"
+msgstr "Metadades"
+
+#: qml/InfoDrawerSidebarBase.qml:42
+#, kde-format
+msgid "File Name"
+msgstr "Nom del fitxer"
+
+#: qml/InfoDrawerSidebarBase.qml:52
+#, kde-format
+msgid "Dimension"
+msgstr "Dimensions"
+
+#: qml/InfoDrawerSidebarBase.qml:58
+#, kde-format
+msgctxt "dimensions"
+msgid "%1 x %2"
+msgstr "%1 x %2"
+
+#: qml/InfoDrawerSidebarBase.qml:64
+#, kde-format
+msgid "Size"
+msgstr "Mida"
+
+#: qml/InfoDrawerSidebarBase.qml:76
+#, kde-format
+msgid "Created"
+msgstr "Creat"
+
+#: qml/InfoDrawerSidebarBase.qml:88
+#, kde-format
+msgid "Model"
+msgstr "Model"
+
+#: qml/InfoDrawerSidebarBase.qml:100
+#, kde-format
+msgid "Latitude"
+msgstr "Latitud"
+
+#: qml/InfoDrawerSidebarBase.qml:112
+#, kde-format
+msgid "Longitude"
+msgstr "Longitud"
+
+#: qml/InfoDrawerSidebarBase.qml:124
+#, kde-format
+msgid "Rating"
+msgstr "Valoració"
+
+#: qml/InfoDrawerSidebarBase.qml:131
+#, kde-format
+msgid "Current rating %1"
+msgstr "Valoració actual %1"
+
+#: qml/InfoDrawerSidebarBase.qml:138
+#, kde-format
+msgid "Set rating to %1"
+msgstr "Estableix la valoració a %1"
+
+#: qml/InfoDrawerSidebarBase.qml:164
+#, kde-format
+msgid "Description"
+msgstr "Descripció"
+
+#: qml/InfoDrawerSidebarBase.qml:172
+#, kde-format
+msgid "Image description…"
+msgstr "Descripció de la imatge…"
+
+#: qml/InfoDrawerSidebarBase.qml:182 qml/Sidebar.qml:199
+#, kde-format
+msgid "Tags"
+msgstr "Etiquetes"
+
+#: qml/InfoDrawerSidebarBase.qml:198
+#, kde-format
+msgid "Add Tag"
+msgstr "Afig una etiqueta"
+
+#: qml/InfoDrawerSidebarBase.qml:211
+#, kde-format
+msgid "Remove %1 tag"
+msgstr "Elimina l'etiqueta %1"
+
+#: qml/Main.qml:69
+#, kde-format
+msgid "Images"
+msgstr "Imatges"
+
+#: qml/Main.qml:80 qml/Main.qml:89
+#, kde-format
+msgid "Folders"
+msgstr "Carpetes"
+
+#: qml/Main.qml:211 qml/SettingsPage.qml:15
+#, kde-format
+msgid "Settings"
+msgstr "Configuració"
+
+#: qml/Main.qml:216
+#, kde-format
+msgid "About"
+msgstr "Quant al"
+
+#: qml/SettingsPage.qml:18
+#, kde-format
+msgid "General:"
+msgstr "General:"
+
+#: qml/SettingsPage.qml:19
+#, kde-format
+msgid "Show preview carousel in image view"
+msgstr "Mostra la seqüència de vista prèvia a la vista d'imatges"
+
+#: qml/SettingsPage.qml:27
+#, kde-format
+msgctxt "@title:group"
+msgid "Slideshow settings:"
+msgstr "Configuració del passe de diapositives:"
+
+#: qml/Sidebar.qml:49
+#, kde-format
+msgid "Sort by"
+msgstr "Ordena per"
+
+#: qml/Sidebar.qml:108
+#, kde-format
+msgid "Places"
+msgstr "Llocs"
+
+#: qml/Sidebar.qml:113
+#, kde-format
+msgid "Pictures"
+msgstr "Imatges"
+
+#: qml/Sidebar.qml:117
+#, kde-format
+msgid "Favorites"
+msgstr "Preferides"
+
+#: qml/Sidebar.qml:123
+#, kde-format
+msgid "Videos"
+msgstr "Vídeos"
+
+#: qml/Sidebar.qml:144
+#, kde-format
+msgid "Trash"
+msgstr "Paperera"
+
+#: qml/Sidebar.qml:149
+#, kde-format
+msgctxt "Remote network locations"
+msgid "Remote"
+msgstr "Remotes"
+
+#: qml/Sidebar.qml:153
+#, kde-format
+msgid "Network"
+msgstr "Xarxa"
+
+#: qml/Sidebar.qml:158
+#, kde-format
+msgid "Locations"
+msgstr "Ubicacions"
+
+#: qml/Sidebar.qml:161
+#, kde-format
+msgid "Countries"
+msgstr "Països"
+
+#: qml/Sidebar.qml:166
+#, kde-format
+msgid "States"
+msgstr "Estats"
+
+#: qml/Sidebar.qml:171
+#, kde-format
+msgid "Cities"
+msgstr "Ciutats"
+
+#: qml/Sidebar.qml:176
+#, kde-format
+msgid "Time"
+msgstr "Temps"
+
+#: qml/Sidebar.qml:179
+#, kde-format
+msgid "Years"
+msgstr "Anys"
+
+#: qml/Sidebar.qml:184
+#, kde-format
+msgid "Months"
+msgstr "Mesos"
+
+#: qml/Sidebar.qml:189
+#, kde-format
+msgid "Weeks"
+msgstr "Setmanes"
+
+#: qml/Sidebar.qml:194
+#, kde-format
+msgid "Days"
+msgstr "Dies"
+
+#: qml/Sidebar.qml:222
+#, kde-format
+msgid "Thumbnails size:"
+msgstr "Mida de les miniatures:"
+
+#: qml/Sidebar.qml:226
+#, kde-format
+msgid "%1 px"
+msgstr "%1 px"
+
+#: qml/Tag.qml:84
+#, kde-format
+msgid "Remove Tag"
+msgstr "Elimina l'etiqueta"
+
+#: qml/TagInput.qml:60
+#, kde-format
+msgid "Add new tag…"
+msgstr "Afig una etiqueta nova…"
+
+#: qml/VideoPlayer.qml:151
+#, kde-format
+msgid "Seek slider"
+msgstr "Control lliscant de cerca"
+
+#: qml/VideoPlayer.qml:193 qml/VideoPlayer.qml:215
+#, kde-format
+msgid "Skip backward 1 second"
+msgid_plural "Skip backward %1 seconds"
+msgstr[0] "Salta cap arrere 1 segon"
+msgstr[1] "Salta cap arrere %1 segons"
+
+#: qml/VideoPlayer.qml:203
+#, kde-format
+msgid "Pause playback"
+msgstr "Fa pausa a la reproducció"
+
+#: qml/VideoPlayer.qml:203
+#, kde-format
+msgid "Continue playback"
+msgstr "Continua la reproducció"
+
+#: qml/VideoPlayer.qml:225
+#, kde-format
+msgid "Unmute audio"
+msgstr "Activa el so de l'àudio"
+
+#: qml/VideoPlayer.qml:225
+#, kde-format
+msgid "Mute audio"
+msgstr "Silencia l'àudio"
+
+#: qml/VideoPlayer.qml:237
+#, kde-format
+msgid "Volume slider"
+msgstr "Control lliscant del volum"
+
+#: qml/VideoPlayer.qml:257
+#, kde-format
+msgid "Repeat current video"
+msgstr "Repeteix el vídeo actual"
+
+#: qml/VideoPlayer.qml:257
+#, kde-format
+msgid "Don't repeat current video"
+msgstr "No repetisques el vídeo actual"
+
+#~ msgid "General"
+#~ msgstr "General"
+
+#~ msgid "New tag..."
+#~ msgstr "Etiqueta nova..."
+
+#~ msgid "Finished"
+#~ msgstr "Finalitzat"
+
+#~ msgctxt "verb, share an image"
+#~ msgid "Share"
+#~ msgstr "Comparteix"
+
+#~ msgid "By City"
+#~ msgstr "Per ciutat"
+
+#~ msgid "By Day"
+#~ msgstr "Per dia"
+
+#~ msgid "Path"
+#~ msgstr "Camí"

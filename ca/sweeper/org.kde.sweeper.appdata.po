@@ -1,0 +1,41 @@
+# Translation of org.kde.sweeper.appdata.po to Catalan (Valencian)
+# Copyright (C) 2017 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2017.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: sweeper appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2017-08-27 03:10+0200\n"
+"PO-Revision-Date: 2017-09-03 13:47+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.sweeper.appdata.xml:6
+msgid "Sweeper"
+msgstr "Escombraire"
+
+#. (itstool) path: component/summary
+#: org.kde.sweeper.appdata.xml:7
+msgid "System cleaning utility"
+msgstr "Utilitat per a netejar el sistema"
+
+#. (itstool) path: description/p
+#: org.kde.sweeper.appdata.xml:9
+msgid ""
+"Sweeper helps to clean unwanted traces the user leaves on the system. It can "
+"remove cookies and clean out caches, for example."
+msgstr ""
+"L'escombraire ajuda a netejar el rastre no desitjat que va deixant l'usuari "
+"al sistema. Elimina les galetes i neteja les memòries cau, per exemple."

@@ -1,0 +1,95 @@
+# Translation of org.kde.kcalc.appdata.po to Catalan (Valencian)
+# Copyright (C) 2016-2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2016, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcalc appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-07-25 02:25+0200\n"
+"PO-Revision-Date: 2018-12-06 11:26+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.kcalc.appdata.xml:6
+msgid "KCalc"
+msgstr "KCalc"
+
+#. (itstool) path: component/summary
+#: org.kde.kcalc.appdata.xml:7
+msgid "Scientific Calculator"
+msgstr "Calculadora científica"
+
+#. (itstool) path: description/p
+#: org.kde.kcalc.appdata.xml:9
+msgid ""
+"KCalc has everything you would expect from a scientific calculator, plus:"
+msgstr "El KCalc té tot allò que espereu d'una calculadora científica, més:"
+
+#. (itstool) path: ul/li
+#: org.kde.kcalc.appdata.xml:11
+msgid "Trigonometric functions, logic operations and statistical calculations"
+msgstr "Funcions trigonomètriques, operacions lògiques i càlculs estadístics"
+
+#. (itstool) path: ul/li
+#: org.kde.kcalc.appdata.xml:12
+msgid ""
+"A results stack which enables convenient recall of previous calculation "
+"results"
+msgstr ""
+"Una pila de resultats que permet la invocació adequada dels resultats de "
+"càlculs anteriors"
+
+#. (itstool) path: ul/li
+#: org.kde.kcalc.appdata.xml:13
+msgid "Precision is user-definable"
+msgstr "La precisió és definible per l'usuari"
+
+#. (itstool) path: ul/li
+#: org.kde.kcalc.appdata.xml:14
+msgid "The display allows cut and paste of numbers"
+msgstr "El visor permet retallar i enganxar nombres"
+
+#. (itstool) path: ul/li
+#: org.kde.kcalc.appdata.xml:15
+msgid "The display colors and font are configurable, aiding usability"
+msgstr ""
+"Els colors del visor i el tipus de lletra són configurables, ajudant a la "
+"usabilitat"
+
+#. (itstool) path: ul/li
+#: org.kde.kcalc.appdata.xml:16
+msgid "The use of key-bindings make it easy to use without a pointing device"
+msgstr ""
+"L'ús dels lligams de tecles facilita l'ús sense un dispositiu apuntador"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kcalc.appdata.xml:25
+msgid "Main window of KCalc"
+msgstr "Finestra principal del KCalc"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kcalc.appdata.xml:29
+msgid "KCalc window in numeral system mode"
+msgstr ""
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kcalc.appdata.xml:33
+msgid "Kcalc window in scientific mode"
+msgstr ""
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kcalc.appdata.xml:37
+msgid "Kcalc window in statistics mode"
+msgstr ""

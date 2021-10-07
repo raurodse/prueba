@@ -1,0 +1,182 @@
+# Translation of org.kde.calligragemini.appdata.po to Catalan (Valencian)
+# Copyright (C) 2017-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2017, 2018.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: calligra appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2018-08-16 13:04+0200\n"
+"PO-Revision-Date: 2020-07-09 15:20+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.07.70\n"
+
+#. (itstool) path: component/name
+#: org.kde.calligragemini.appdata.xml:6
+msgid "Gemini"
+msgstr "Gemini"
+
+#. (itstool) path: component/summary
+#: org.kde.calligragemini.appdata.xml:7
+msgid "Office Suite"
+msgstr "Suite d'oficina"
+
+#. (itstool) path: description/p
+#: org.kde.calligragemini.appdata.xml:9
+msgid "The KDE Office suite for 2-in-1 devices."
+msgstr "La suite d'oficina del KDE per a dispositius 2 en 1."
+
+#. (itstool) path: description/p
+#: org.kde.calligragemini.appdata.xml:10
+msgid ""
+"2-in-1 devices which can act as both a touch only tablet and a classic "
+"clamshell notebook are fast becoming very popular, and after the success of "
+"Krita Gemini, the team behind it realised there were plenty of reasons to "
+"apply that same concept to other applications, and especially the others in "
+"the Calligra suite. In particular the word processor component Words and "
+"presentation tool Stage were deemed ripe for this treatment."
+msgstr ""
+"Els dispositius 2 en 1, que poden actuar tant com a tauleta tàctil i com a "
+"portàtil clàssic, estan esdevenint molt populars, i després de l'èxit del "
+"Krita Gemini, l'equip que hi ha darrere s'ha adonat que hi ha moltes raons "
+"per a aplicar el mateix concepte a altres aplicacions, i en especial, les "
+"altres del paquet Calligra. En concret, el component Words de processament "
+"de textos i l'eina de presentacions Stage s'han considerat madures per a "
+"aquest tractament."
+
+#. (itstool) path: description/p
+#: org.kde.calligragemini.appdata.xml:11
+msgid ""
+"With that realisation was born the desire to create Calligra Gemini, an "
+"application encasing word processor and presentation components which would "
+"function both as a traditional desktop application with a mouse and "
+"keyboard, and transform into a touch friendly application on the go, "
+"changing the experience to one suitable for all-touch devices without the "
+"inconvenience of having to switch to a different application."
+msgstr ""
+"Amb aquesta idea, va néixer el desig de crear el Calligra Gemini, una "
+"aplicació que agrupa els components de procés de textos i presentacions que "
+"poden funcionar tant com una aplicació tradicional d'escriptori amb un "
+"ratolí i un teclat, i transformar-se en una aplicació tàctil per ella "
+"mateixa, canviant l'experiència a una adequada a tots els dispositius "
+"tàctils, sense els inconvenients d'haver de canviar a una aplicació diferent."
+
+#. (itstool) path: description/p
+#: org.kde.calligragemini.appdata.xml:12
+msgid ""
+"The Gemini applications combine the power of Calligra's main applications "
+"(in Calligra Gemini's case the main office desktop applications, at the "
+"moment Words and Stage), with pleasant and explicitly touch optimised "
+"experiences based around the same document types."
+msgstr ""
+"Les aplicacions Gemini combinen la potència de les principals aplicacions "
+"del Calligra (en el cas del Gemini del Calligra les principals aplicacions "
+"ofimàtiques d'escriptori, actualment el Words i l'Stage), amb una "
+"optimitzada experiència tàctil agradable i explícita, basada en els mateixos "
+"tipus de documents."
+
+#. (itstool) path: description/p
+#: org.kde.calligragemini.appdata.xml:13
+msgid ""
+"Calligra itself is a large suite of applications, split into three main "
+"categories: Office applications, Graphics Applications and Project "
+"Management. Please visit the Calligra website to see full descriptions of "
+"the many tools."
+msgstr ""
+"El mateix Calligra és un gran paquet d'aplicacions, dividit en tres "
+"categories principals: aplicacions d'ofimàtica, aplicacions gràfiques i "
+"gestió de projectes. Per favor, visiteu el lloc web del Calligra per a veure "
+"les descripcions completes de moltes eines."
+
+#. (itstool) path: ul/li
+#: org.kde.calligragemini.appdata.xml:15
+msgid "Common Features"
+msgstr "Característiques comunes"
+
+#. (itstool) path: description/p
+#: org.kde.calligragemini.appdata.xml:17
+msgid ""
+"The applications in the Calligra Suite shares some common UI concepts that "
+"gives it a modern look better suited for the wide screens of today. One of "
+"them is that most formatting is done using dockers which are placed at the "
+"side of the windows instead of on the top. This makes more space available "
+"for the actual document contents and avoids opening dialogs on top of it. If "
+"the user chooses, s/he can rearrange the placement of the dockers around the "
+"document area or even tear loose them and let them float freely. The "
+"arrangement is saved and reused the next time Calligra is opened."
+msgstr ""
+"Les aplicacions de la suite Calligra comparteixen diversos conceptes d'IU "
+"que ofereixen un aspecte modern adequat per a les pantalles amples d'hui en "
+"dia. Un d'ells és que la majoria del format es fa usant acobladors que estan "
+"situats als laterals de les finestres en lloc de la part superior. Això fa "
+"que hi haja més espai disponible per al contingut real del document i evita "
+"obrir diàlegs damunt d'ell. Si l'usuari ho tria, pot ressituar els "
+"acobladors al voltant de l'àrea del document o inclús desenganxar-los i "
+"deixar-los flotar lliurement. L'arranjament es guardarà i reutilitzarà la "
+"pròxima vegada que s'òbriga el Calligra."
+
+#. (itstool) path: ul/li
+#: org.kde.calligragemini.appdata.xml:19
+msgid "Embeddable Objects"
+msgstr "Objectes incrustables"
+
+#. (itstool) path: description/p
+#: org.kde.calligragemini.appdata.xml:21
+msgid ""
+"There are many objects and shapes that you can insert into your document, "
+"such as geometric shapes, sheet music score, and many more amazing options. "
+"All of these shapes are available in all applications, which makes "
+"implementing these objects much easier."
+msgstr ""
+"Hi ha molts objectes i formes que podeu inserir als documents, com les "
+"formes geomètriques, puntuacions de partitures, i moltes opcions "
+"impressionants. Totes aquestes formes estan disponibles a totes les "
+"aplicacions, cosa que facilita molt la implementació d'aquests objectes."
+
+#. (itstool) path: ul/li
+#: org.kde.calligragemini.appdata.xml:23
+msgid "Standard file format"
+msgstr "Format estàndard de fitxer"
+
+#. (itstool) path: description/p
+#: org.kde.calligragemini.appdata.xml:25
+msgid ""
+"Calligra uses the Open Document Format (ODF) as its main file format which "
+"makes it compatible with most other office applications including OpenOffice."
+"org, LibreOffice and Microsoft Office. It can also import the native file "
+"formats of Microsoft Office with great accuracy, in many cases the best you "
+"can find."
+msgstr ""
+"El Calligra usa l'Open Document Format (ODF) com a format de fitxer "
+"principal, que el fa compatible amb la majoria d'altres aplicacions "
+"ofimàtiques, incloent-hi l'OpenOffice.org, el LibreOffice i l'Office de "
+"Microsoft. També pot importar els formats de fitxer natius de l'Office de "
+"Microsoft amb molta precisió, en molts casos el millor que trobareu."
+
+# skip-rule: kct-dropdown
+#. (itstool) path: screenshot/caption
+#: org.kde.calligragemini.appdata.xml:32
+msgid "A presentation loaded directly from DropBox, in Edit mode"
+msgstr ""
+"Una presentació carregada directament des del DropBox, en mode d'edició"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.calligragemini.appdata.xml:36
+msgid "A text document in the traditional desktop style UI (Create mode)"
+msgstr ""
+"Un document de text en la IU d'estil d'escriptori tradicional (mode creació)"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.calligragemini.appdata.xml:40
+msgid "A text document in Create mode with the notes panel shown"
+msgstr "Un document de text en mode creació mostrant el plafó de les notes"

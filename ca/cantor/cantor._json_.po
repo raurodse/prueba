@@ -1,0 +1,337 @@
+# Translation of cantor._json_.po to Catalan (Valencian)
+# Copyright (C) 2003-2021 This_file_is_part_of_KDE
+# This file is distributed under same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2003, 2004, 2015, 2016, 2020, 2021.
+# Albert Astals Cid <aacid@kde.org>, 2004, 2005, 2006.
+# David Gil <al016950@yahoo.es>, 2005.
+# Orestes Mas <orestes@tsc.upc.edu>, 2006, 2007.
+# Orestes Mas Casals <orestes@tsc.upc.edu>, 2007, 2008, 2009, 2010, 2011.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2009, 2010, 2013, 2014, 2015, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: cantor json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-24 00:32+0000\n"
+"PO-Revision-Date: 2021-06-24 10:20+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 21.04.2\n"
+
+#: src/assistants/advancedplot/advancedplotassistant.json
+msgctxt "Name"
+msgid "AdvancedPlot"
+msgstr "GràficAvançat"
+
+#: src/assistants/differentiate/differentiateassistant.json
+msgctxt "Name"
+msgid "Differentiate"
+msgstr "Deriva"
+
+#: src/assistants/importpackage/importpackageassistant.json
+msgctxt "Name"
+msgid "Import Package"
+msgstr "Importació de paquet"
+
+#: src/assistants/integrate/integrateassistant.json
+msgctxt "Name"
+msgid "Integrate"
+msgstr "Integra"
+
+#: src/assistants/linearalgebra/creatematrix/creatematrixassistant.json
+msgctxt "Name"
+msgid "Create Matrix"
+msgstr "Crea una matriu"
+
+#: src/assistants/linearalgebra/eigenvalues/eigenvaluesassistant.json
+msgctxt "Name"
+msgid "Eigenvalues"
+msgstr "Valors propis (autovalors)"
+
+#: src/assistants/linearalgebra/eigenvectors/eigenvectorsassistant.json
+msgctxt "Name"
+msgid "Eigenvectors"
+msgstr "Vectors propis (autovectors)"
+
+#: src/assistants/linearalgebra/invertmatrix/invertmatrixassistant.json
+msgctxt "Name"
+msgid "Invert Matrix"
+msgstr "Inverteix la matriu"
+
+#: src/assistants/plot2d/plot2dassistant.json
+msgctxt "Name"
+msgid "Plot2d"
+msgstr "Plot2d"
+
+#: src/assistants/plot3d/plot3dassistant.json
+msgctxt "Name"
+msgid "Plot3d"
+msgstr "Plot3d"
+
+#: src/assistants/runscript/runscriptassistant.json
+msgctxt "Name"
+msgid "RunScript"
+msgstr "ExecutaScript"
+
+#: src/assistants/solve/solveassistant.json
+msgctxt "Name"
+msgid "Solve"
+msgstr "Resol"
+
+#: src/backends/julia/juliabackend.json
+msgctxt "Name"
+msgid "Julia"
+msgstr "Julia"
+
+#: src/backends/kalgebra/kalgebrabackend.json
+msgctxt "Name"
+msgid "KAlgebra"
+msgstr "KAlgebra"
+
+#: src/backends/lua/luabackend.json
+msgctxt "Name"
+msgid "Lua"
+msgstr "Lua"
+
+#: src/backends/maxima/maximabackend.json
+msgctxt "Name"
+msgid "Maxima"
+msgstr "Maxima"
+
+#: src/backends/octave/octavebackend.json
+msgctxt "Name"
+msgid "Octave"
+msgstr "Octave"
+
+#: src/backends/python/pythonbackend.json
+msgctxt "Name"
+msgid "Python"
+msgstr "Python"
+
+#: src/backends/qalculate/plotassistant/qalculateplotassistant.json
+msgctxt "Name"
+msgid "QalculatePlot"
+msgstr "Gràfic de Qalculate"
+
+#: src/backends/qalculate/qalculatebackend.json
+msgctxt "Name"
+msgid "Qalculate"
+msgstr "Qalculate"
+
+#: src/backends/R/rbackend.json
+msgctxt "Name"
+msgid "R"
+msgstr "R"
+
+#: src/backends/sage/sagebackend.json
+msgctxt "Name"
+msgid "Sage"
+msgstr "Sage"
+
+#: src/backends/scilab/scilabbackend.json
+msgctxt "Name"
+msgid "Scilab"
+msgstr "Scilab"
+
+#: src/cantor_part.json
+msgctxt "Name"
+msgid "CantorPart"
+msgstr "CantorPart"
+
+#: src/panelplugins/documentationpanel/documentationpanelplugin.json
+msgctxt "Name"
+msgid "Documentation"
+msgstr "Documentació"
+
+#: src/panelplugins/filebrowserpanel/filebrowserpanelplugin.json
+msgctxt "Name"
+msgid "File Browser"
+msgstr "Navegador de fitxers"
+
+#: src/panelplugins/helppanel/helppanelplugin.json
+msgctxt "Name"
+msgid "Help"
+msgstr "Ajuda"
+
+#: src/panelplugins/tocpanel/tocpanelplugin.json
+msgctxt "Name"
+msgid "Table Of Contents"
+msgstr "Taula de continguts"
+
+#: src/panelplugins/variablemgr/variablemanagerplugin.json
+msgctxt "Name"
+msgid "Variable Manager"
+msgstr "Gestor de variables"
+
+#: src/assistants/differentiate/differentiateassistant.json
+msgctxt "Description"
+msgid "An Assistant dialog to simplify calculating derivatives of expressions"
+msgstr ""
+"Un diàleg assistent per a simplificar els càlculs de derivades d'expressions"
+
+#: src/assistants/importpackage/importpackageassistant.json
+msgctxt "Description"
+msgid ""
+"An Assistant dialog to import a specific package (or library or module) to "
+"Cantor workspace"
+msgstr ""
+"Un diàleg d'assistència per a importar un paquet específic (o biblioteca o "
+"mòdul) a l'espai de treball del Cantor"
+
+#: src/assistants/integrate/integrateassistant.json
+msgctxt "Description"
+msgid "An Assistant dialog to simplify calculation of integrals"
+msgstr "Un diàleg assistent per a simplificar els càlculs d'integrals"
+
+#: src/assistants/linearalgebra/creatematrix/creatematrixassistant.json
+msgctxt "Description"
+msgid "An Assistant dialog to simplify entering of matrices"
+msgstr "Un diàleg assistent per a simplificar la introducció de matrius"
+
+#: src/assistants/linearalgebra/eigenvalues/eigenvaluesassistant.json
+msgctxt "Description"
+msgid "An Assistant dialog to simplify calculating of Eigenvalues"
+msgstr "Un diàleg assistent per a simplificar el càlcul d'autovalors"
+
+#: src/assistants/linearalgebra/eigenvectors/eigenvectorsassistant.json
+msgctxt "Description"
+msgid "An Assistant dialog to simplify calculating of EigenVectors"
+msgstr "Un diàleg assistent per a simplificar el càlcul d'autovectors"
+
+#: src/assistants/linearalgebra/invertmatrix/invertmatrixassistant.json
+msgctxt "Description"
+msgid "An Assistant dialog to simplify inverting of matrices"
+msgstr "Un diàleg assistent per a simplificar la inversió de matrius"
+
+#: src/assistants/plot2d/plot2dassistant.json
+msgctxt "Description"
+msgid "An Assistant dialog to simplify plotting of 2D functions"
+msgstr ""
+"Un diàleg assistent per a simplificar la representació gràfica de funcions "
+"en 2D"
+
+#: src/assistants/plot3d/plot3dassistant.json
+msgctxt "Description"
+msgid "An Assistant dialog to simplify plotting of 3D functions"
+msgstr ""
+"Un diàleg assistent per a simplificar la representació gràfica de funcions "
+"en 3D"
+
+#: src/assistants/runscript/runscriptassistant.json
+msgctxt "Description"
+msgid "An Assistant for running an external Script file"
+msgstr "Un assistent per a executar un fitxer de script extern"
+
+#: src/assistants/solve/solveassistant.json
+msgctxt "Description"
+msgid "An Assistant dialog to simplify solving of equations"
+msgstr "Un diàleg assistent per a simplificar la resolució d'equacions"
+
+#: src/backends/julia/juliabackend.json
+msgctxt "Description"
+msgid "Julia backend for Cantor"
+msgstr "Dorsal del Julia per al Cantor"
+
+#: src/backends/kalgebra/kalgebrabackend.json
+msgctxt "Description"
+msgid ""
+"KAlgebra backend for Cantor. Lets you use the same language you use in the "
+"KAlgebra application in Cantor worksheets."
+msgstr ""
+"Dorsal de KAlgebra per al Cantor. Vos permet utilitzar als fulls de treball "
+"del Cantor el mateix llenguatge que feu servir a l'aplicació KAlgebra."
+
+#: src/backends/lua/luabackend.json
+msgctxt "Description"
+msgid "Backend for luajit"
+msgstr "Dorsal pel Luajit"
+
+#: src/backends/maxima/maximabackend.json
+msgctxt "Description"
+msgid "Backend for the Maxima Computer Algebra System"
+msgstr "Dorsal per al Maxima: un sistema d'àlgebra per ordinador"
+
+#: src/backends/octave/octavebackend.json
+msgctxt "Description"
+msgid "Backend for GNU Octave"
+msgstr "Un dorsal per al GNU Octave"
+
+#: src/backends/python/pythonbackend.json
+msgctxt "Description"
+msgid "Backend for Python Scientific Programming"
+msgstr "Dorsal per a la programació científica en Python"
+
+#: src/backends/qalculate/plotassistant/qalculateplotassistant.json
+msgctxt "Description"
+msgid "An Assistant for plotting with the Qalculate backend."
+msgstr "Un assistent per a fer gràfiques amb el dorsal del Qalculate."
+
+#: src/backends/qalculate/qalculatebackend.json
+msgctxt "Description"
+msgid ""
+"Qalculate backend for Cantor. Gives you the advanced features of Qalculate"
+msgstr ""
+"Dorsal de Qalculate per al Cantor. Vos ofereix les característiques "
+"avançades de Qalculate"
+
+#: src/backends/R/rbackend.json
+msgctxt "Description"
+msgid "Backend for The R Project for Statistical Computing"
+msgstr "Dorsal per al projecte R, paquet d'estadística per ordinador"
+
+#: src/backends/sage/sagebackend.json
+msgctxt "Description"
+msgid "Backend for the Sage Mathematics Software"
+msgstr "Dorsal per al programari matemàtic Sage"
+
+#: src/backends/scilab/scilabbackend.json
+msgctxt "Description"
+msgid "Backend for the Scilab Scientific Programming Environment"
+msgstr "Dorsal per a l'entorn de programació científic Scilab"
+
+#: src/panelplugins/documentationpanel/documentationpanelplugin.json
+msgctxt "Description"
+msgid "A panel to display the official documentation of various backends"
+msgstr "Un plafó per a mostrar la documentació oficial de diversos dorsals."
+
+#: src/panelplugins/filebrowserpanel/filebrowserpanelplugin.json
+msgctxt "Description"
+msgid "A panel for working with files inside Cantor"
+msgstr "Un plafó per a treballar amb fitxers dins del Cantor"
+
+#: src/panelplugins/helppanel/helppanelplugin.json
+msgctxt "Description"
+msgid "A panel to display help"
+msgstr "Un plafó per a mostrar les pàgines d'ajuda"
+
+#: src/panelplugins/tocpanel/tocpanelplugin.json
+msgctxt "Description"
+msgid "A panel for showing worksheet structure"
+msgstr "Un plafó per a mostrar l'estructura del full de treball "
+
+#: src/panelplugins/variablemgr/variablemanagerplugin.json
+msgctxt "Description"
+msgid "A panel to manage the variables of a session"
+msgstr "Un plafó per a gestionar les variables d'una sessió"
+
+#~ msgctxt "Name"
+#~ msgid "Python 3"
+#~ msgstr "Python 3"
+
+#~ msgctxt "Description"
+#~ msgid "Backend for Python 3 Scientific Programming"
+#~ msgstr "Dorsal per a la programació científica Python 3"
+
+#~ msgctxt "Name"
+#~ msgid "nullbackend"
+#~ msgstr "DorsalNul"
+
+#~ msgctxt "Description"
+#~ msgid "Backend for Cantor for testing purposes"
+#~ msgstr "Dorsal per al Cantor, per a fer proves"

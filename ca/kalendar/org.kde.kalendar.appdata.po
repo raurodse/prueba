@@ -1,0 +1,77 @@
+# Translation of org.kde.kalendar.appdata.po to Catalan (Valencian)
+# Copyright (C) 2021 This_file_is_part_of_KDE
+# This file is distributed under same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kalendar appdata files\n"
+"POT-Creation-Date: 2021-07-23 00:17+0000\n"
+"PO-Revision-Date: 2021-07-23 10:41+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 21.07.80\n"
+
+#. (itstool) path: component/name
+#: org.kde.kalendar.appdata.xml:4
+msgid "Kalendar"
+msgstr "Kalendar"
+
+#. (itstool) path: component/summary
+#: org.kde.kalendar.appdata.xml:5
+msgid "Calendar application"
+msgstr "Aplicació de calendari"
+
+#. (itstool) path: component/developer_name
+#: org.kde.kalendar.appdata.xml:8
+msgid "KDE Community, Clau Cambra and Carl Schwan"
+msgstr "Comunitat KDE, Clau Cambra i Carl Schwan"
+
+#. (itstool) path: description/p
+#: org.kde.kalendar.appdata.xml:10
+msgid "A calendar application allowing you to manage your events."
+msgstr ""
+"Una aplicació de calendari que vos permetrà gestionar els vostres "
+"esdeveniments."
+
+#. (itstool) path: ul/li
+#: org.kde.kalendar.appdata.xml:12
+msgid ""
+"Online calendar support. Bring your calendar from Nextcloud and other online "
+"services in Kalendar"
+msgstr ""
+"Admet els calendaris en línia. Porteu el calendari de NextCloud i altres "
+"serveis en línia al Kalendar"
+
+#~ msgid "A short summary describing what this software is about"
+#~ msgstr "Una descripció breu descrivint què fa aquest programari"
+
+#~ msgid "The software vendor name, e.g. \"ACME Corporation\""
+#~ msgstr "El nom del distribuïdor de programari, p. ex. «ACME Corporation»"
+
+#~ msgid ""
+#~ "Multiple paragraphs of long description, describing this software "
+#~ "component."
+#~ msgstr ""
+#~ "Múltiples paràgrafs de descripció llarga, descrivint aquest component de "
+#~ "programari."
+
+#~ msgid "You can also use ordered and unordered lists:"
+#~ msgstr "També podeu utilitzar llistes ordenades i no ordenades:"
+
+#~ msgid "Feature 1"
+#~ msgstr "Característica 1"
+
+#~ msgid "Feature 2"
+#~ msgstr "Característica 2"
+
+#~ msgid ""
+#~ "Keep in mind to XML-escape characters, and that this is not HTML markup."
+#~ msgstr ""
+#~ "Cal tenir en compte els caràcters d'escapament en XML i que no es tracta "
+#~ "de marcatge en HTML."

@@ -1,0 +1,41 @@
+# Translation of org.kde.audex.appdata.po to Catalan (Valencian)
+# Copyright (C) 2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: audex appdata files\n"
+"POT-Creation-Date: 2019-06-21 03:27+0200\n"
+"PO-Revision-Date: 2019-06-21 18:24+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.audex.appdata.xml:6
+msgid "Audex"
+msgstr "Audex"
+
+#. (itstool) path: component/summary
+#: org.kde.audex.appdata.xml:7
+msgid "An easy to use audio CD ripping application"
+msgstr "Una aplicació d'extracció dels CD d'ús senzill"
+
+#. (itstool) path: description/p
+#: org.kde.audex.appdata.xml:9
+msgid ""
+"The general usage of Audex is self-explanatory. With the first start Audex "
+"scans your system for common encoders and creates a common set of profiles "
+"automatically for you."
+msgstr ""
+"L'ús general de l'Audex és autoexplicatori. Al primer inici, l'Audex explora "
+"el sistema cercant els codificadors usuals i crea automàticament un conjunt "
+"normal de perfils."

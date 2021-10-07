@@ -1,0 +1,131 @@
+# Translation of spectacle._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2015-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2016, 2018, 2019, 2021.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2015, 2016, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: spectacle desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-08-29 00:27+0000\n"
+"PO-Revision-Date: 2021-09-03 14:28+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 20.12.0\n"
+
+#: desktop/org.kde.spectacle.desktop.cmake:2
+msgctxt "GenericName"
+msgid "Screenshot Capture Utility"
+msgstr "Utilitat de captura de pantalla"
+
+#: desktop/org.kde.spectacle.desktop.cmake:47 desktop/spectacle.notifyrc:4
+msgctxt "Name"
+msgid "Spectacle"
+msgstr "Spectacle"
+
+#: desktop/org.kde.spectacle.desktop.cmake:90
+msgctxt "Comment"
+msgid "Screenshot capture utility"
+msgstr "Utilitat per a prendre captures de pantalla"
+
+#: desktop/org.kde.spectacle.desktop.cmake:129
+msgctxt "Keywords"
+msgid "snapshot;capture;print;screenshot;snipping;snip;"
+msgstr "captura de pantalla;captura;imprimeix;impressió;"
+
+#: desktop/org.kde.spectacle.desktop.cmake:178
+msgctxt "Name"
+msgid "Capture Entire Desktop"
+msgstr "Captura l'escriptori sencer"
+
+#: desktop/org.kde.spectacle.desktop.cmake:226
+msgctxt "Name"
+msgid "Capture Current Monitor"
+msgstr "Captura el monitor actual"
+
+#: desktop/org.kde.spectacle.desktop.cmake:274
+msgctxt "Name"
+msgid "Capture Active Window"
+msgstr "Captura la finestra activa"
+
+#: desktop/org.kde.spectacle.desktop.cmake:322
+msgctxt "Name"
+msgid "Capture Rectangular Region"
+msgstr "Captura una regió rectangular"
+
+#: desktop/org.kde.spectacle.desktop.cmake:370
+msgctxt "Name"
+msgid "Capture Window Under Cursor"
+msgstr "Captura la finestra sota el cursor"
+
+#: desktop/spectacle.notifyrc:47
+msgctxt "Comment"
+msgid "Screenshot Capture Utility"
+msgstr "Utilitat per a prendre captures de pantalla"
+
+#: desktop/spectacle.notifyrc:93
+msgctxt "Name"
+msgid "New Screenshot Saved"
+msgstr "S'ha guardat una captura de pantalla nova"
+
+#: desktop/spectacle.notifyrc:137
+msgctxt "Comment"
+msgid "A new screenshot was captured and saved"
+msgstr "S'ha efectuat i guardat una captura de pantalla nova"
+
+#~ msgctxt "Comment"
+#~ msgid "Shortcuts for taking screenshots"
+#~ msgstr "Dreceres per a prendre captures de pantalla"
+
+#~ msgctxt "Name"
+#~ msgid "Screenshots"
+#~ msgstr "Captures de pantalla"
+
+#~ msgctxt "Comment"
+#~ msgid "Start the screenshot tool and show the GUI"
+#~ msgstr "Inicia l'eina de captura de pantalla i mostra la IGU"
+
+#~ msgctxt "Name"
+#~ msgid "Start Screenshot Tool"
+#~ msgstr "Inicia l'eina de captura de pantalla"
+
+#~ msgctxt "Comment"
+#~ msgid "Simple_action"
+#~ msgstr "Acció_senzilla"
+
+#~ msgctxt "Comment"
+#~ msgid "Take a full screen (all monitors) screenshot and save it"
+#~ msgstr "Pren una captura de pantalla completa (tots els monitors) i la desa"
+
+#~ msgctxt "Name"
+#~ msgid "Take Full Screen Screenshot"
+#~ msgstr "Pren una captura de pantalla completa"
+
+#~ msgctxt "Comment"
+#~ msgid "Take a screenshot of the currently active window and save it"
+#~ msgstr "Pren una captura de pantalla de la finestra activa i la desa"
+
+#~ msgctxt "Name"
+#~ msgid "Take Active Window Screenshot"
+#~ msgstr "Pren una captura de pantalla de la finestra activa"
+
+#~ msgctxt "Comment"
+#~ msgid "Take a screenshot of a rectangular region you specify and save it"
+#~ msgstr "Pren una captura de pantalla d'una regió rectangular i la desa"
+
+#~ msgctxt "Name"
+#~ msgid "Take Rectangular Region Screenshot"
+#~ msgstr "Pren una captura de pantalla d'una regió rectangular"
+
+#~ msgctxt "Name"
+#~ msgid "Kapture"
+#~ msgstr "Kapture"

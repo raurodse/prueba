@@ -1,0 +1,52 @@
+# Translation of org.kde.kaffeine.appdata.po to Catalan (Valencian)
+# Copyright (C) 2014-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015, 2020.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2018, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kaffeine appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2018-10-28 02:36+0100\n"
+"PO-Revision-Date: 2021-09-13 19:08+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 20.12.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.kaffeine.appdata.xml:6
+msgid "Kaffeine"
+msgstr "Kaffeine"
+
+#. (itstool) path: component/summary
+#: org.kde.kaffeine.appdata.xml:7
+msgid "Multimedia Player"
+msgstr "Reproductor multimèdia"
+
+#. (itstool) path: description/p
+#: org.kde.kaffeine.appdata.xml:9
+msgid ""
+"Kaffeine is a media player. What makes it different from the others is its "
+"excellent support of digital TV (DVB). Kaffeine has user-friendly interface, "
+"so that even first time users can start immediately playing their movies: "
+"from DVD (including DVD menus, titles, chapters, etc.), VCD, or a file."
+msgstr ""
+"El Kaffeine és un reproductor de suports. El que el fa diferent dels altres "
+"és el seu excel·lent suport de televisió digital (DVB). El Kaffeine té una "
+"interfície fàcil d'usar, de manera que fins i tot els usuaris principiants "
+"podran començar immediatament a reproduir les seues pel·lícules: des d'un "
+"DVD (incloent-hi els menús, títols, capítols, etc. del DVD), VCD o un fitxer."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kaffeine.appdata.xml:19
+msgid "Kaffeine main window"
+msgstr "Finestra principal del Kaffeine"

@@ -1,0 +1,43 @@
+# Translation of plasma-vault._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2017-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2017.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2018.
+# Empar Montoro Martín <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-vault desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-04 00:41+0000\n"
+"PO-Revision-Date: 2019-07-22 08:23+0200\n"
+"Last-Translator: Empar Montoro Martín <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.04.2\n"
+
+#: kded/plasmavault.desktop:2
+msgctxt "Name"
+msgid "Plasma Vault module"
+msgstr "Mòdul de Plasma per a Caixa forta"
+
+#: kded/plasmavault.desktop:47
+msgctxt "Comment"
+msgid "Provides encrypted vaults"
+msgstr "Proporciona caixes fortes encriptades"
+
+#: plasma/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Vaults"
+msgstr "Caixes fortes"
+
+#: plasma/package/metadata.desktop:47
+msgctxt "Comment"
+msgid "Create encrypted vaults"
+msgstr "Crea caixes fortes encriptades"

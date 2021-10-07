@@ -1,0 +1,42 @@
+# Translation of org.kde.krdc.appdata.po to Catalan (Valencian)
+# Copyright (C) 2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: krdc appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2018-03-03 03:25+0100\n"
+"PO-Revision-Date: 2018-03-03 20:22+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.krdc.appdata.xml:4
+msgid "KRDC"
+msgstr "KRDC"
+
+#. (itstool) path: component/summary
+#: org.kde.krdc.appdata.xml:5
+msgid "Connect with RDP or VNC to another computer"
+msgstr "Connecta amb RDP o VNC a un altre ordinador"
+
+#. (itstool) path: description/p
+#: org.kde.krdc.appdata.xml:7
+msgid ""
+"KRDC is a client application that allows you to view or even control the "
+"desktop session on another machine that is running a compatible server. VNC "
+"and RDP is supported."
+msgstr ""
+"El KRDC és una aplicació client que permet veure o fins i tot controlar la "
+"sessió d'escriptori en una altra màquina que estiga executant un servidor "
+"compatible. Estan suportats VNC i RDP."

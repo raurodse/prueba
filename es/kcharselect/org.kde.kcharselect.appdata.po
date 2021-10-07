@@ -1,0 +1,75 @@
+# Translation of org.kde.kcharselect.appdata.po to Catalan (Valencian)
+# Copyright (C) 2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcharselect appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2018-03-25 04:25+0200\n"
+"PO-Revision-Date: 2018-03-25 12:09+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.kcharselect.appdata.xml:6
+msgid "KCharSelect"
+msgstr "KCharSelect"
+
+#. (itstool) path: component/summary
+#: org.kde.kcharselect.appdata.xml:7
+msgid "Character Selector"
+msgstr "Selector de caràcters"
+
+#. (itstool) path: description/p
+#: org.kde.kcharselect.appdata.xml:9
+msgid ""
+"KCharSelect is a tool to select special characters from all installed fonts "
+"and copy them into the clipboard."
+msgstr ""
+"El KCharSelect és una eina per seleccionar els caràcters especials de tots "
+"els tipus de lletra instal·lats i els copia al porta-retalls."
+
+#. (itstool) path: description/p
+#: org.kde.kcharselect.appdata.xml:12
+msgid ""
+"You can browse characters by their category or quickly find a certain "
+"character by searching for its name."
+msgstr ""
+"Podeu navegar pels caràcters per categoria o trobar ràpidament un caràcter "
+"determinat mitjançant la cerca pel seu nom."
+
+#. (itstool) path: description/p
+#: org.kde.kcharselect.appdata.xml:15
+msgid ""
+"KCharSelect displays various information about the selected character. This "
+"includes not only the Unicode character name, but also aliases, general "
+"notes and cross references to similar characters."
+msgstr ""
+"El KCharSelect mostra diversa informació sobre el caràcter seleccionat. Això "
+"inclou no només el nom de caràcter Unicode, sinó també els seus àlies, notes "
+"generals i referències a caràcters similars."
+
+#. (itstool) path: description/p
+#: org.kde.kcharselect.appdata.xml:18
+msgid ""
+"For technical use, different representations of the character are shown."
+msgstr "Per a ús tècnic, es mostren diferents representacions del caràcter."
+
+#. (itstool) path: description/p
+#: org.kde.kcharselect.appdata.xml:21
+msgid ""
+"KCharSelect also contains Unihan data for East Asian characters to display "
+"English definitions and different pronunciations."
+msgstr ""
+"El KCharSelect també conté dades Unihan per a caràcters asiàtics orientals, "
+"mostrant les definicions angleses i les pronunciacions diferents."

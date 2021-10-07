@@ -1,0 +1,46 @@
+# Translation of org.kde.keysmith.appdata.po to Catalan (Valencian)
+# Copyright (C) 2019-2020 This_file_is_part_of_KDE
+# This file is distributed under same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2019, 2020.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: keysmith appdata files\n"
+"POT-Creation-Date: 2021-06-09 00:21+0000\n"
+"PO-Revision-Date: 2020-12-08 19:06+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#. (itstool) path: screenshot/caption
+#: org.kde.keysmith.appdata.xml:10 org.kde.keysmith.appdata.xml:37
+msgid "Keysmith"
+msgstr "Keysmith"
+
+#. (itstool) path: component/summary
+#: org.kde.keysmith.appdata.xml:27
+msgid "Two-factor code generator for Plasma Mobile and Desktop"
+msgstr "Generador del codi de dos factors per al Plasma Mobile i l'escriptori"
+
+#. (itstool) path: component/developer_name
+#: org.kde.keysmith.appdata.xml:28
+msgid "KDE Community"
+msgstr "La comunitat KDE"
+
+#. (itstool) path: description/p
+#: org.kde.keysmith.appdata.xml:30
+msgid "Keysmith generates tokens for your two-factor logins (2FA)"
+msgstr ""
+"El Keysmith genera testimonis per als inicis de sessió de dos factors (2FA)"
+
+#. (itstool) path: ul/li
+#: org.kde.keysmith.appdata.xml:32
+msgid "Time and Hash-based OTP"
+msgstr "OTP basat en l'hora i en el resum"

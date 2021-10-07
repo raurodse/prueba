@@ -1,0 +1,98 @@
+# Translation of kapman._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2002-2012 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 2002, 2005.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2003.
+# Albert Astals Cid <aacid@kde.org>, 2003, 2004, 2005, 2007, 2008, 2009.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2004, 2005, 2006, 2008, 2010, 2012.
+# Orestes Mas <orestes@tsc.upc.edu>, 2009.
+# Manuel Tortosa <manutortosa@chakra-project.org>, 2009, 2010.
+# Manuel Tortosa Moreno <manutortosa@chakra-project.org>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: kapman desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-12-31 01:48+0000\n"
+"PO-Revision-Date: 2012-01-14 21:35+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: \n"
+"X-Accelerator-Marker: &\n"
+
+#: src/org.kde.kapman.desktop:4
+msgctxt "Name"
+msgid "Kapman"
+msgstr "Kapman"
+
+#: src/org.kde.kapman.desktop:57
+msgctxt "GenericName"
+msgid "Pac-Man Clone"
+msgstr "Un clon del Pac-Man"
+
+#: src/org.kde.kapman.desktop:105
+msgctxt "Comment"
+msgid "Eat pills escaping ghosts"
+msgstr "Mengeu píndoles mentre escapeu dels fantasmes"
+
+#: themes/invisible.desktop:2
+msgctxt "Name"
+msgid "Invisible"
+msgstr "Invisible"
+
+#: themes/invisible.desktop:53
+msgctxt "Description"
+msgid ""
+"Getting bored with Kapman? More than 100,000 points over level 20? Next "
+"step: the invisible maze!"
+msgstr ""
+"Estàs avorrit del Kapman? Has aconseguit més de 100,000 punts en el nivell "
+"20? Següent pas: el laberint invisible!"
+
+#: themes/matches.desktop:2
+msgctxt "Name"
+msgid "Matches"
+msgstr "Llumins"
+
+#: themes/matches.desktop:53
+msgctxt "Description"
+msgid "A matches drawn maze"
+msgstr "Un laberint dissenyat amb llumins"
+
+#: themes/mountain.desktop:2
+msgctxt "Name"
+msgid "Mountain Adventure"
+msgstr "Aventura de la muntanya"
+
+#: themes/mountain.desktop:49
+msgctxt "Description"
+msgid "Default"
+msgstr "Per omissió"
+
+#: themes/mummies_crypt.desktop:2
+msgctxt "Name"
+msgid "Mummies Crypt"
+msgstr "La cripta de les mòmies"
+
+#: themes/mummies_crypt.desktop:48
+msgctxt "Description"
+msgid "Avoid the mummies at all costs!"
+msgstr "Evita les mòmies a tota costa!"
+
+#: themes/retro.desktop:2
+msgctxt "Name"
+msgid "Retro"
+msgstr "Retro"
+
+#: themes/retro.desktop:53
+msgctxt "Description"
+msgid "The old game theme revisited"
+msgstr "L'antic tema del joc renovat"

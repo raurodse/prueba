@@ -1,0 +1,3330 @@
+# Translation of kdelibs4support._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2000-2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 2000, 2001, 2002, 2004, 2005, 2006, 2007.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2002, 2003, 2004, 2012.
+# Albert Astals Cid <aacid@kde.org>, 2004, 2005, 2006, 2007.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2007, 2008, 2009, 2010, 2011, 2013, 2014, 2015, 2016, 2017, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdelibs4support desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-12 01:49+0000\n"
+"PO-Revision-Date: 2018-08-03 21:16+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: data/currency/adf.desktop:5
+msgctxt "Name"
+msgid "Andorran Franc"
+msgstr "Franc andorrà"
+
+#: data/currency/adp.desktop:5
+msgctxt "Name"
+msgid "Andorran Peseta"
+msgstr "Pesseta andorrana"
+
+#: data/currency/aed.desktop:5
+msgctxt "Name"
+msgid "United Arab Emirates Dirham"
+msgstr "Dírham de la Unió dels Emirats Àrabs"
+
+#: data/currency/afa.desktop:5 data/currency/afn.desktop:5
+msgctxt "Name"
+msgid "Afghan Afghani"
+msgstr "Afghani afganés"
+
+#: data/currency/all.desktop:5
+msgctxt "Name"
+msgid "Albanian Lek"
+msgstr "Lek albanés"
+
+#: data/currency/amd.desktop:5
+msgctxt "Name"
+msgid "Armenian Dram"
+msgstr "Dram armeni"
+
+#: data/currency/ang.desktop:5
+msgctxt "Name"
+msgid "Netherlands Antillean Guilder"
+msgstr "Florí de les Antilles Neerlandeses"
+
+#: data/currency/aoa.desktop:5
+msgctxt "Name"
+msgid "Angolan Kwanza"
+msgstr "Kwanza d'Angola"
+
+#: data/currency/aon.desktop:5
+msgctxt "Name"
+msgid "Angolan Novo Kwanza"
+msgstr "Nou kwanza d'Angola"
+
+#: data/currency/ars.desktop:5
+msgctxt "Name"
+msgid "Argentine Peso"
+msgstr "Peso argentí"
+
+#: data/currency/ats.desktop:5
+msgctxt "Name"
+msgid "Austrian Schilling"
+msgstr "Xíling austríac"
+
+#: data/currency/aud.desktop:5
+msgctxt "Name"
+msgid "Australian Dollar"
+msgstr "Dòlar australià"
+
+#: data/currency/awg.desktop:5
+msgctxt "Name"
+msgid "Aruban Florin"
+msgstr "Florí d'Aruba"
+
+#: data/currency/azm.desktop:5 data/currency/azn.desktop:5
+msgctxt "Name"
+msgid "Azerbaijani Manat"
+msgstr "Manat d'Azerbaidjan"
+
+#: data/currency/bam.desktop:5
+msgctxt "Name"
+msgid "Bosnia and Herzegovina Convertible Mark"
+msgstr "Marc convertible de Bòsnia i Hercegovina"
+
+#: data/currency/bbd.desktop:5
+msgctxt "Name"
+msgid "Barbados Dollar"
+msgstr "Dòlar de Barbados"
+
+#: data/currency/bdt.desktop:5
+msgctxt "Name"
+msgid "Bangladeshi Taka"
+msgstr "Taka de Bangla Desh"
+
+#: data/currency/bef.desktop:5
+msgctxt "Name"
+msgid "Belgian Franc"
+msgstr "Franc belga"
+
+#: data/currency/bgl.desktop:5
+msgctxt "Name"
+msgid "Bulgarian Lev A/99"
+msgstr "Lev búlgar A/99"
+
+#: data/currency/bgn.desktop:5
+msgctxt "Name"
+msgid "Bulgarian Lev"
+msgstr "Lev búlgar"
+
+#: data/currency/bhd.desktop:5
+msgctxt "Name"
+msgid "Bahraini Dinar"
+msgstr "Dinar de Bahrain"
+
+#: data/currency/bif.desktop:5
+msgctxt "Name"
+msgid "Burundian Franc"
+msgstr "Franc de Burundi"
+
+#: data/currency/bmd.desktop:5
+msgctxt "Name"
+msgid "Bermuda Dollar"
+msgstr "Dòlar de Bermuda"
+
+#: data/currency/bnd.desktop:5
+msgctxt "Name"
+msgid "Brunei Dollar"
+msgstr "Dòlar de Brunei"
+
+#: data/currency/bob.desktop:5
+msgctxt "Name"
+msgid "Bolivian Boliviano"
+msgstr "Boliviano de Bolívia"
+
+#: data/currency/bov.desktop:5
+msgctxt "Name"
+msgid "Bolivian Mvdol"
+msgstr "Mvdol de Bolívia"
+
+#: data/currency/brl.desktop:5
+msgctxt "Name"
+msgid "Brazilian Real"
+msgstr "Real brasiler"
+
+#: data/currency/bsd.desktop:5
+msgctxt "Name"
+msgid "Bahamian Dollar"
+msgstr "Dòlar de les Bahames"
+
+#: data/currency/btn.desktop:5
+msgctxt "Name"
+msgid "Bhutanese Ngultrum"
+msgstr "Ngultrum de Bhutan"
+
+#: data/currency/bwp.desktop:6
+msgctxt "Name"
+msgid "Botswana Pula"
+msgstr "Pula de Botswana"
+
+#: data/currency/byr.desktop:5
+msgctxt "Name"
+msgid "Belarusian Ruble"
+msgstr "Ruble bielorús"
+
+#: data/currency/bzd.desktop:5
+msgctxt "Name"
+msgid "Belize Dollar"
+msgstr "Dòlar de Belize"
+
+#: data/currency/cad.desktop:5
+msgctxt "Name"
+msgid "Canadian Dollar"
+msgstr "Dòlar canadenc"
+
+#: data/currency/cdf.desktop:5
+msgctxt "Name"
+msgid "Congolese Franc"
+msgstr "Franc congolés"
+
+#: data/currency/chf.desktop:5
+msgctxt "Name"
+msgid "Swiss Franc"
+msgstr "Franc suís"
+
+#: data/currency/clf.desktop:5
+msgctxt "Name"
+msgid "Chilean Unidad de Fomento"
+msgstr "Unidad de fomento xilena"
+
+#: data/currency/clp.desktop:5
+msgctxt "Name"
+msgid "Chilean Peso"
+msgstr "Peso xilè"
+
+#: data/currency/cny.desktop:5
+msgctxt "Name"
+msgid "Chinese Yuan"
+msgstr "Iuan xinés"
+
+#: data/currency/cop.desktop:5
+msgctxt "Name"
+msgid "Colombian Peso"
+msgstr "Peso colombià"
+
+#: data/currency/cou.desktop:5
+msgctxt "Name"
+msgid "Colombian Unidad de Valor Real"
+msgstr "Unidad de Valor Real colombiana"
+
+#: data/currency/crc.desktop:5
+msgctxt "Name"
+msgid "Costa Rican Colon"
+msgstr "Colon costa-riqueny"
+
+#: data/currency/cuc.desktop:5
+msgctxt "Name"
+msgid "Cuban Convertible Peso"
+msgstr "Peso cubà convertible"
+
+#: data/currency/cup.desktop:5
+msgctxt "Name"
+msgid "Cuban Peso"
+msgstr "Peso cubà"
+
+#: data/currency/cve.desktop:5
+msgctxt "Name"
+msgid "Cape Verde Escudo"
+msgstr "Escut de Cap Verd"
+
+#: data/currency/cyp.desktop:5
+msgctxt "Name"
+msgid "Cypriot Pound"
+msgstr "Lliura xipriota"
+
+#: data/currency/czk.desktop:5
+msgctxt "Name"
+msgid "Czech Koruna"
+msgstr "Corona txeca"
+
+#: data/currency/dem.desktop:5
+msgctxt "Name"
+msgid "German Mark"
+msgstr "Marc alemany"
+
+#: data/currency/djf.desktop:5
+msgctxt "Name"
+msgid "Djibouti Franc"
+msgstr "Franc de Djibouti"
+
+#: data/currency/dkk.desktop:5
+msgctxt "Name"
+msgid "Danish Krone"
+msgstr "Corona danesa"
+
+#: data/currency/dop.desktop:5
+msgctxt "Name"
+msgid "Dominican Peso"
+msgstr "Peso dominicà"
+
+#: data/currency/dzd.desktop:5
+msgctxt "Name"
+msgid "Algerian Dinar"
+msgstr "Dinar algerià"
+
+#: data/currency/eek.desktop:5
+msgctxt "Name"
+msgid "Estonian Kroon"
+msgstr "Corona estoniana"
+
+#: data/currency/egp.desktop:5
+msgctxt "Name"
+msgid "Egyptian Pound"
+msgstr "Lliura egípcia"
+
+#: data/currency/ern.desktop:5
+msgctxt "Name"
+msgid "Eritrean Nakfa"
+msgstr "Nakfa d'Eritrea"
+
+#: data/currency/esp.desktop:5
+msgctxt "Name"
+msgid "Spanish Peseta"
+msgstr "Pesseta espanyola"
+
+#: data/currency/etb.desktop:5
+msgctxt "Name"
+msgid "Ethiopian Birr"
+msgstr "Birr etíop"
+
+#: data/currency/eur.desktop:6
+msgctxt "Name"
+msgid "Euro"
+msgstr "Euro"
+
+#: data/currency/fim.desktop:5
+msgctxt "Name"
+msgid "Finnish Markka"
+msgstr "Marc finlandés"
+
+#: data/currency/fjd.desktop:5
+msgctxt "Name"
+msgid "Fijian Dollar"
+msgstr "Dòlar de Fiji"
+
+#: data/currency/fkp.desktop:5
+msgctxt "Name"
+msgid "Falkland Islands Pound"
+msgstr "Lliura de les Malvines"
+
+#: data/currency/frf.desktop:5
+msgctxt "Name"
+msgid "French Franc"
+msgstr "Franc francés"
+
+#: data/currency/gbp.desktop:5
+msgctxt "Name"
+msgid "British Pound Sterling"
+msgstr "Lliura esterlina britànica"
+
+#: data/currency/gel.desktop:5
+msgctxt "Name"
+msgid "Georgian Lari"
+msgstr "Lari de Geòrgia"
+
+#: data/currency/ghc.desktop:5
+msgctxt "Name"
+msgid "Ghanaian Cedi"
+msgstr "Cedi de Ghana"
+
+#: data/currency/ghs.desktop:5
+msgctxt "Name"
+msgid "Ghana Cedi"
+msgstr "Cedi de Ghana"
+
+#: data/currency/gip.desktop:5
+msgctxt "Name"
+msgid "Gibraltar Pound"
+msgstr "Lliura de Gibraltar"
+
+#: data/currency/gmd.desktop:5
+msgctxt "Name"
+msgid "Gambian Dalasi"
+msgstr "Dalasi de Gàmbia"
+
+#: data/currency/gnf.desktop:5
+msgctxt "Name"
+msgid "Guinean Franc"
+msgstr "Franc de Guinea"
+
+#: data/currency/grd.desktop:5
+msgctxt "Name"
+msgid "Greek Drachma"
+msgstr "Dracma grega"
+
+#: data/currency/gtq.desktop:5
+msgctxt "Name"
+msgid "Guatemalan Quetzal"
+msgstr "Quetzal de Guatemala"
+
+#: data/currency/gwp.desktop:5
+msgctxt "Name"
+msgid "Guinea-Bissau Peso"
+msgstr "Pes de Guinea Bissau"
+
+#: data/currency/gyd.desktop:5
+msgctxt "Name"
+msgid "Guyanese Dollar"
+msgstr "Dòlar de Guyana"
+
+#: data/currency/hkd.desktop:5
+msgctxt "Name"
+msgid "Hong Kong Dollar"
+msgstr "Dòlar de Hong Kong"
+
+#: data/currency/hnl.desktop:5
+msgctxt "Name"
+msgid "Honduran Lempira"
+msgstr "Lempira d'Hondures"
+
+#: data/currency/hrk.desktop:5
+msgctxt "Name"
+msgid "Croatian Kuna"
+msgstr "Kuna croat"
+
+#: data/currency/htg.desktop:5
+msgctxt "Name"
+msgid "Haitian Gourde"
+msgstr "Gourde d'Haití"
+
+#: data/currency/huf.desktop:5
+msgctxt "Name"
+msgid "Hungarian Forint"
+msgstr "Fòrint hongarés"
+
+#: data/currency/idr.desktop:5
+msgctxt "Name"
+msgid "Indonesian Rupiah"
+msgstr "Rupia d'Indonèsia"
+
+#: data/currency/iep.desktop:5
+msgctxt "Name"
+msgid "Irish Pound"
+msgstr "Lliura irlandesa"
+
+#: data/currency/ils.desktop:5
+msgctxt "Name"
+msgid "Israeli New Sheqel"
+msgstr "Nou xéquel israelià"
+
+#: data/currency/inr.desktop:5
+msgctxt "Name"
+msgid "Indian Rupee"
+msgstr "Rupia índia"
+
+#: data/currency/iqd.desktop:5
+msgctxt "Name"
+msgid "Iraqi Dinar"
+msgstr "Dinar iraquià"
+
+#: data/currency/irr.desktop:5
+msgctxt "Name"
+msgid "Iranian Rial"
+msgstr "Rial iranià"
+
+#: data/currency/isk.desktop:5
+msgctxt "Name"
+msgid "Icelandic Krona"
+msgstr "Corona islandesa"
+
+#: data/currency/itl.desktop:5
+msgctxt "Name"
+msgid "Italian Lira"
+msgstr "Lira Italiana"
+
+#: data/currency/jmd.desktop:5
+msgctxt "Name"
+msgid "Jamaican Dollar"
+msgstr "Dòlar jamaicà"
+
+#: data/currency/jod.desktop:5
+msgctxt "Name"
+msgid "Jordanian Dinar"
+msgstr "Dinar jordà"
+
+#: data/currency/jpy.desktop:5
+msgctxt "Name"
+msgid "Japanese Yen"
+msgstr "Ien japonés"
+
+#: data/currency/kes.desktop:5
+msgctxt "Name"
+msgid "Kenyan Shilling"
+msgstr "Xíling kenyà"
+
+#: data/currency/kgs.desktop:5
+msgctxt "Name"
+msgid "Kyrgyzstani Som"
+msgstr "Som de Kirguizistan"
+
+#: data/currency/khr.desktop:5
+msgctxt "Name"
+msgid "Cambodian Riel"
+msgstr "Riel de Cambodja"
+
+#: data/currency/kmf.desktop:5
+msgctxt "Name"
+msgid "Comorian Franc"
+msgstr "Franc de Comores"
+
+#: data/currency/kpw.desktop:5
+msgctxt "Name"
+msgid "North Korean Won"
+msgstr "Won nord-coreà"
+
+#: data/currency/krw.desktop:5
+msgctxt "Name"
+msgid "South Korean Won"
+msgstr "Won sud-coreà"
+
+#: data/currency/kwd.desktop:5
+msgctxt "Name"
+msgid "Kuwaiti Dinar"
+msgstr "Dinar kuwaitià"
+
+#: data/currency/kyd.desktop:5
+msgctxt "Name"
+msgid "Cayman Islands Dollar"
+msgstr "Dòlar de les Illes Caiman"
+
+#: data/currency/kzt.desktop:5
+msgctxt "Name"
+msgid "Kazakhstani Tenge"
+msgstr "Tenge de Kazakhstan"
+
+#: data/currency/lak.desktop:5
+msgctxt "Name"
+msgid "Lao Kip"
+msgstr "Kip de Laos"
+
+#: data/currency/lbp.desktop:5
+msgctxt "Name"
+msgid "Lebanese Pound"
+msgstr "Lliura libanesa"
+
+#: data/currency/lkr.desktop:5
+msgctxt "Name"
+msgid "Sri Lankan Rupee"
+msgstr "Rupia de Sri Lanka"
+
+#: data/currency/lrd.desktop:5
+msgctxt "Name"
+msgid "Liberian Dollar"
+msgstr "Dòlar liberià"
+
+#: data/currency/lsl.desktop:5
+msgctxt "Name"
+msgid "Lesotho Loti"
+msgstr "Loti de Lesotho"
+
+#: data/currency/ltl.desktop:5
+msgctxt "Name"
+msgid "Lithuanian Litas"
+msgstr "Litas lituà"
+
+#: data/currency/luf.desktop:5
+msgctxt "Name"
+msgid "Luxembourgish Franc"
+msgstr "Franc luxemburgués"
+
+#: data/currency/lvl.desktop:5
+msgctxt "Name"
+msgid "Latvian Lats"
+msgstr "Lats letó"
+
+#: data/currency/lyd.desktop:5
+msgctxt "Name"
+msgid "Libyan Dinar"
+msgstr "Dinar libi"
+
+#: data/currency/mad.desktop:5
+msgctxt "Name"
+msgid "Moroccan Dirham"
+msgstr "Dírham marroquí"
+
+#: data/currency/mdl.desktop:5
+msgctxt "Name"
+msgid "Moldovan Leu"
+msgstr "Leu moldau"
+
+#: data/currency/mga.desktop:5
+msgctxt "Name"
+msgid "Malagasy Ariary"
+msgstr "Ariary malgaix"
+
+#: data/currency/mgf.desktop:5
+msgctxt "Name"
+msgid "Malagasy Franc"
+msgstr "Franc malgaix"
+
+#: data/currency/mkd.desktop:5
+msgctxt "Name"
+msgid "Macedonian Denar"
+msgstr "Denar macedoni"
+
+#: data/currency/mlf.desktop:5
+msgctxt "Name"
+msgid "Mali Franc"
+msgstr "Franc de Mali"
+
+#: data/currency/mmk.desktop:5
+msgctxt "Name"
+msgid "Myanma Kyat"
+msgstr "Kyat de Myanmar"
+
+#: data/currency/mnt.desktop:5
+msgctxt "Name"
+msgid "Mongolian Tugrik"
+msgstr "Tugrik de Mongòlia"
+
+#: data/currency/mop.desktop:5
+msgctxt "Name"
+msgid "Macanese Pataca"
+msgstr "Pataca de Macau"
+
+#: data/currency/mro.desktop:5
+msgctxt "Name"
+msgid "Mauritanian Ouguiya"
+msgstr "Ouguiya de Mauritània"
+
+#: data/currency/mtl.desktop:5
+msgctxt "Name"
+msgid "Maltese Lira"
+msgstr "Lira maltesa"
+
+#: data/currency/mur.desktop:5
+msgctxt "Name"
+msgid "Mauritius Rupee"
+msgstr "Rupia mauriciana"
+
+#: data/currency/mvr.desktop:5
+msgctxt "Name"
+msgid "Maldivian Rufiyaa"
+msgstr "Rupia de les Maldives"
+
+#: data/currency/mwk.desktop:5
+msgctxt "Name"
+msgid "Malawian Kwacha"
+msgstr "Kwacha de Malawi"
+
+#: data/currency/mxn.desktop:5
+msgctxt "Name"
+msgid "Mexican Peso"
+msgstr "Peso mexicà"
+
+#: data/currency/mxv.desktop:5
+msgctxt "Name"
+msgid "Mexican Unidad de Inversion"
+msgstr "Unitat d'inversió mexicana"
+
+#: data/currency/myr.desktop:5
+msgctxt "Name"
+msgid "Malaysian Ringgit"
+msgstr "Ringgit de Malàisia"
+
+#: data/currency/mzm.desktop:5 data/currency/mzn.desktop:5
+msgctxt "Name"
+msgid "Mozambican Metical"
+msgstr "Metical de Moçambic"
+
+#: data/currency/nad.desktop:5
+msgctxt "Name"
+msgid "Namibian Dollar"
+msgstr "Dòlar namibià"
+
+#: data/currency/ngn.desktop:5
+msgctxt "Name"
+msgid "Nigerian Naira"
+msgstr "Naira de Nigèria"
+
+#: data/currency/nio.desktop:5
+msgctxt "Name"
+msgid "Nicaraguan Cordoba Oro"
+msgstr "Córdoba Or de Nicaragua"
+
+#: data/currency/nlg.desktop:5
+msgctxt "Name"
+msgid "Netherlands Guilder"
+msgstr "Florí neerlandés"
+
+#: data/currency/nok.desktop:5
+msgctxt "Name"
+msgid "Norwegian Krone"
+msgstr "Corona noruega"
+
+#: data/currency/npr.desktop:5
+msgctxt "Name"
+msgid "Nepalese Rupee"
+msgstr "Rupia nepalesa"
+
+#: data/currency/nzd.desktop:5
+msgctxt "Name"
+msgid "New Zealand Dollar"
+msgstr "Dòlar neozelandés"
+
+#: data/currency/omr.desktop:5
+msgctxt "Name"
+msgid "Omani Rial"
+msgstr "Rial omanita"
+
+#: data/currency/pab.desktop:5
+msgctxt "Name"
+msgid "Panamanian Balboa"
+msgstr "Balboa de Panamà"
+
+#: data/currency/pen.desktop:5
+msgctxt "Name"
+msgid "Peruvian Nuevo Sol"
+msgstr "Nuevo Sol del Perú"
+
+#: data/currency/pgk.desktop:5
+msgctxt "Name"
+msgid "Papua New Guinean Kina"
+msgstr "Kina de Papua Nova Guinea"
+
+#: data/currency/php.desktop:5
+msgctxt "Name"
+msgid "Philippine Peso"
+msgstr "Peso filipí"
+
+#: data/currency/pkr.desktop:5
+msgctxt "Name"
+msgid "Pakistan Rupee"
+msgstr "Rupia pakistanesa"
+
+#: data/currency/pln.desktop:5
+msgctxt "Name"
+msgid "Polish Zloty"
+msgstr "Zloty polonés"
+
+#: data/currency/pte.desktop:5
+msgctxt "Name"
+msgid "Portuguese Escudo"
+msgstr "Escut portugués"
+
+#: data/currency/pyg.desktop:5
+msgctxt "Name"
+msgid "Paraguayan Guarani"
+msgstr "Guaraní de Paraguai"
+
+#: data/currency/qar.desktop:5
+msgctxt "Name"
+msgid "Qatari Riyal"
+msgstr "Rial de Qatar"
+
+#: data/currency/rol.desktop:5
+msgctxt "Name"
+msgid "Romanian Leu A/05"
+msgstr "Leu romanés A/05"
+
+#: data/currency/ron.desktop:5
+msgctxt "Name"
+msgid "Romanian Leu"
+msgstr "Leu romanés"
+
+#: data/currency/rsd.desktop:5
+msgctxt "Name"
+msgid "Serbian Dinar"
+msgstr "Dinar serbi"
+
+#: data/currency/rub.desktop:5
+msgctxt "Name"
+msgid "Russian Ruble"
+msgstr "Ruble rus"
+
+#: data/currency/rur.desktop:5
+msgctxt "Name"
+msgid "Russian Ruble A/97"
+msgstr "Ruble rus A/97"
+
+#: data/currency/rwf.desktop:5
+msgctxt "Name"
+msgid "Rwandan Franc"
+msgstr "Franc de Rwanda"
+
+#: data/currency/sar.desktop:5
+msgctxt "Name"
+msgid "Saudi Riyal"
+msgstr "Rial saudita"
+
+#: data/currency/sbd.desktop:5
+msgctxt "Name"
+msgid "Solomon Islands Dollar"
+msgstr "Dòlar de les Illes Salomó"
+
+#: data/currency/scr.desktop:5
+msgctxt "Name"
+msgid "Seychellois Rupee"
+msgstr "Rupia de les Seychelles"
+
+#: data/currency/sdd.desktop:5
+msgctxt "Name"
+msgid "Sudanese Dinar"
+msgstr "Dinar sudanés"
+
+#: data/currency/sdg.desktop:5
+msgctxt "Name"
+msgid "Sudanese Pound"
+msgstr "Lliura sudanesa"
+
+#: data/currency/sek.desktop:5
+msgctxt "Name"
+msgid "Swedish Krona"
+msgstr "Corona sueca"
+
+#: data/currency/sgd.desktop:5
+msgctxt "Name"
+msgid "Singapore Dollar"
+msgstr "Dòlar de Singapur"
+
+#: data/currency/shp.desktop:5
+msgctxt "Name"
+msgid "Saint Helena Pound"
+msgstr "Lliura de Santa Helena"
+
+#: data/currency/sit.desktop:5
+msgctxt "Name"
+msgid "Slovenian Tolar"
+msgstr "Tolar eslovè"
+
+#: data/currency/skk.desktop:5
+msgctxt "Name"
+msgid "Slovak Koruna"
+msgstr "Corona eslovaca"
+
+#: data/currency/sll.desktop:5
+msgctxt "Name"
+msgid "Sierra Leonean Leone"
+msgstr "Leone de Sierra Leone"
+
+#: data/currency/sos.desktop:5
+msgctxt "Name"
+msgid "Somali Shilling"
+msgstr "Xíling somali"
+
+#: data/currency/srd.desktop:5
+msgctxt "Name"
+msgid "Surinamese Dollar"
+msgstr "Dòlar de Surinam"
+
+#: data/currency/srg.desktop:5
+msgctxt "Name"
+msgid "Surinamese Guilder"
+msgstr "Florí de Surinam"
+
+#: data/currency/ssp.desktop:5
+msgctxt "Name"
+msgid "South Sudanese Pound"
+msgstr "Lliura sud-sudanesa"
+
+#: data/currency/std.desktop:5
+msgctxt "Name"
+msgid "São Tomé and Príncipe Dobra"
+msgstr "Dobra de Sao Tomé i Príncipe"
+
+#: data/currency/svc.desktop:5
+msgctxt "Name"
+msgid "Salvadoran Colon"
+msgstr "Colón salvadorenc"
+
+#: data/currency/syp.desktop:5
+msgctxt "Name"
+msgid "Syrian Pound"
+msgstr "Lliura siriana"
+
+#: data/currency/szl.desktop:5
+msgctxt "Name"
+msgid "Swazi Lilangeni"
+msgstr "Lilangeni de Swazilàndia"
+
+#: data/currency/thb.desktop:5
+msgctxt "Name"
+msgid "Thai Baht"
+msgstr "Baht de Tailàndia"
+
+#: data/currency/tjs.desktop:5
+msgctxt "Name"
+msgid "Tajikistani Somoni"
+msgstr "Somoni de Tadjikistan"
+
+#: data/currency/tmm.desktop:5
+msgctxt "Name"
+msgid "Turkmenistani Old Manat"
+msgstr "Manat antic del Turkmenistan"
+
+#: data/currency/tmt.desktop:5
+msgctxt "Name"
+msgid "Turkmenistani Manat"
+msgstr "Manat del Turkmenistan"
+
+#: data/currency/tnd.desktop:5
+msgctxt "Name"
+msgid "Tunisian Dinar"
+msgstr "Dinar tunisià"
+
+#: data/currency/top.desktop:5
+msgctxt "Name"
+msgid "Tongan Pa'anga"
+msgstr "Pa'anga de Tonga"
+
+#: data/currency/tpe.desktop:5
+msgctxt "Name"
+msgid "Portuguese Timorese Escudo"
+msgstr "Escut de Timor portugués"
+
+#: data/currency/trl.desktop:5
+msgctxt "Name"
+msgid "Turkish Lira A/05"
+msgstr "Lira turca A/05"
+
+#: data/currency/try.desktop:5
+msgctxt "Name"
+msgid "Turkish Lira"
+msgstr "Lira turca"
+
+#: data/currency/ttd.desktop:5
+msgctxt "Name"
+msgid "Trinidad and Tobago Dollar"
+msgstr "Dòlar de Trinitat i Tobago"
+
+#: data/currency/twd.desktop:5
+msgctxt "Name"
+msgid "New Taiwan Dollar"
+msgstr "Nou dòlar de Taiwan"
+
+#: data/currency/tzs.desktop:5
+msgctxt "Name"
+msgid "Tanzanian Shilling"
+msgstr "Xíling tanzà"
+
+#: data/currency/uah.desktop:5
+msgctxt "Name"
+msgid "Ukrainian Hryvnia"
+msgstr "Hrívnia d'Ucraïna"
+
+#: data/currency/ugx.desktop:5
+msgctxt "Name"
+msgid "Ugandan Shilling"
+msgstr "Xíling ugandés"
+
+#: data/currency/usd.desktop:5
+msgctxt "Name"
+msgid "United States Dollar"
+msgstr "Dòlar d'Estats Units"
+
+#: data/currency/usn.desktop:5
+msgctxt "Name"
+msgid "United States Dollar (Next Day)"
+msgstr "Dòlar d'Estats Units (dia següent)"
+
+#: data/currency/uss.desktop:5
+msgctxt "Name"
+msgid "United States Dollar (Same Day)"
+msgstr "Dòlar d'Estats Units (mateix dia)"
+
+#: data/currency/uyu.desktop:5
+msgctxt "Name"
+msgid "Uruguayan Peso"
+msgstr "Peso d'Uruguai"
+
+#: data/currency/uzs.desktop:5
+msgctxt "Name"
+msgid "Uzbekistan Som"
+msgstr "Som d'Uzbekistan"
+
+#: data/currency/veb.desktop:5
+msgctxt "Name"
+msgid "Venezuelan Bolívar Fuerte"
+msgstr "Bolívar fort de Veneçuela"
+
+#: data/currency/vnd.desktop:5
+msgctxt "Name"
+msgid "Vietnamese Dong"
+msgstr "Dong de Vietnam"
+
+#: data/currency/vuv.desktop:5
+msgctxt "Name"
+msgid "Vanuatu Vatu"
+msgstr "Vatu de Vanuatu"
+
+#: data/currency/wst.desktop:5
+msgctxt "Name"
+msgid "Samoan Tala"
+msgstr "Tala de Samoa"
+
+#: data/currency/xaf.desktop:5
+msgctxt "Name"
+msgid "Central African CFA Franc"
+msgstr "Franc CFA d'Àfrica Central"
+
+#: data/currency/xag.desktop:5
+msgctxt "Name"
+msgid "Silver"
+msgstr "Argent"
+
+#: data/currency/xau.desktop:5
+msgctxt "Name"
+msgid "Gold"
+msgstr "Or"
+
+#: data/currency/xcd.desktop:5
+msgctxt "Name"
+msgid "East Caribbean Dollar"
+msgstr "Dòlar del Carib Oriental"
+
+#: data/currency/xof.desktop:5
+msgctxt "Name"
+msgid "West African CFA Franc"
+msgstr "Franc CFA de l'Àfrica Occidental"
+
+#: data/currency/xpd.desktop:5
+msgctxt "Name"
+msgid "Palladium"
+msgstr "Pal·ladi"
+
+#: data/currency/xpf.desktop:5
+msgctxt "Name"
+msgid "CFP Franc"
+msgstr "Franc CFP"
+
+#: data/currency/xpt.desktop:5
+msgctxt "Name"
+msgid "Platinum"
+msgstr "Platí"
+
+#: data/currency/yer.desktop:5
+msgctxt "Name"
+msgid "Yemeni Rial"
+msgstr "Rial iemenita"
+
+#: data/currency/yum.desktop:5
+msgctxt "Name"
+msgid "Yugoslav Dinar"
+msgstr "Dinar iugoslau"
+
+#: data/currency/zar.desktop:5
+msgctxt "Name"
+msgid "South African Rand"
+msgstr "Rand de Sud-àfrica"
+
+#: data/currency/zmk.desktop:5
+msgctxt "Name"
+msgid "Zambian Kwacha"
+msgstr "Kwacha zambià"
+
+#: data/currency/zwd.desktop:5
+msgctxt "Name"
+msgid "Zimbabwean Dollar A/06"
+msgstr "Dòlar de Zimbàbue A/06"
+
+#: data/currency/zwl.desktop:5
+msgctxt "Name"
+msgid "Zimbabwean Dollar"
+msgstr "Dòlar de Zimbàbue"
+
+#: src/kdecore/all_languages.desktop:2
+msgctxt "Name"
+msgid "Afar"
+msgstr "Àfar"
+
+#: src/kdecore/all_languages.desktop:103
+msgctxt "Name"
+msgid "Abkhazian"
+msgstr "Abkhaz"
+
+#: src/kdecore/all_languages.desktop:204
+msgctxt "Name"
+msgid "Avestan"
+msgstr "Avèstic"
+
+#: src/kdecore/all_languages.desktop:304
+msgctxt "Name"
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#: src/kdecore/all_languages.desktop:405
+msgctxt "Name"
+msgid "Amharic"
+msgstr "Amhàric"
+
+#: src/kdecore/all_languages.desktop:506
+msgctxt "Name"
+msgid "Arabic"
+msgstr "Àrab"
+
+#: src/kdecore/all_languages.desktop:607
+msgctxt "Name"
+msgid "Assamese"
+msgstr "Assamés"
+
+#: src/kdecore/all_languages.desktop:708
+msgctxt "Name"
+msgid "Asturian"
+msgstr "Asturià"
+
+#: src/kdecore/all_languages.desktop:783
+msgctxt "Name"
+msgid "Aymara"
+msgstr "Aimara"
+
+#: src/kdecore/all_languages.desktop:884
+msgctxt "Name"
+msgid "Azerbaijani"
+msgstr "Àzeri"
+
+#: src/kdecore/all_languages.desktop:985
+msgctxt "Name"
+msgid "Bashkir"
+msgstr "Baixkir"
+
+#: src/kdecore/all_languages.desktop:1086
+msgctxt "Name"
+msgid "Belarusian"
+msgstr "Bielorús"
+
+#: src/kdecore/all_languages.desktop:1187
+msgctxt "Name"
+msgid "Belarusian (Latin)"
+msgstr "Bielorús (llatí)"
+
+#: src/kdecore/all_languages.desktop:1273
+msgctxt "Name"
+msgid "Bulgarian"
+msgstr "Búlgar"
+
+#: src/kdecore/all_languages.desktop:1374
+msgctxt "Name"
+msgid "Bihari"
+msgstr "Bihari"
+
+#: src/kdecore/all_languages.desktop:1475
+msgctxt "Name"
+msgid "Bislama"
+msgstr "Bislama"
+
+#: src/kdecore/all_languages.desktop:1576
+msgctxt "Name"
+msgid "Bengali"
+msgstr "Bengalí"
+
+#: src/kdecore/all_languages.desktop:1677
+msgctxt "Name"
+msgid "Bengali (India)"
+msgstr "Bengalí (Índia)"
+
+#: src/kdecore/all_languages.desktop:1768
+msgctxt "Name"
+msgid "Tibetan"
+msgstr "Tibetà"
+
+#: src/kdecore/all_languages.desktop:1869
+msgctxt "Name"
+msgid "Breton"
+msgstr "Bretó"
+
+#: src/kdecore/all_languages.desktop:1970
+msgctxt "Name"
+msgid "Bosnian"
+msgstr "Bosnià"
+
+#: src/kdecore/all_languages.desktop:2071
+msgctxt "Name"
+msgid "Catalan"
+msgstr "Català"
+
+#: src/kdecore/all_languages.desktop:2172
+msgctxt "Name"
+msgid "Catalan (Valencian)"
+msgstr "Català (Valencià)"
+
+#: src/kdecore/all_languages.desktop:2246
+msgctxt "Name"
+msgid "Chechen"
+msgstr "Txetxè"
+
+#: src/kdecore/all_languages.desktop:2347
+msgctxt "Name"
+msgid "Chamorro"
+msgstr "Chamorro"
+
+#: src/kdecore/all_languages.desktop:2447
+msgctxt "Name"
+msgid "Corsican"
+msgstr "Cors"
+
+#: src/kdecore/all_languages.desktop:2548
+msgctxt "Name"
+msgid "Crimean Tatar"
+msgstr "Tàtar de Crimea"
+
+#: src/kdecore/all_languages.desktop:2635
+msgctxt "Name"
+msgid "Czech"
+msgstr "Txec"
+
+#: src/kdecore/all_languages.desktop:2736
+msgctxt "Name"
+msgid "Kashubian"
+msgstr "Caixubi"
+
+#: src/kdecore/all_languages.desktop:2827
+msgctxt "Name"
+msgid "Church Slavic"
+msgstr "Eslau eclesiàstic"
+
+#: src/kdecore/all_languages.desktop:2927
+msgctxt "Name"
+msgid "Chuvash"
+msgstr "Txuvaix"
+
+#: src/kdecore/all_languages.desktop:3028
+msgctxt "Name"
+msgid "Welsh"
+msgstr "Gal·lès"
+
+#: src/kdecore/all_languages.desktop:3129
+msgctxt "Name"
+msgid "Danish"
+msgstr "Danés"
+
+#: src/kdecore/all_languages.desktop:3230
+msgctxt "Name"
+msgid "German"
+msgstr "Alemany"
+
+#: src/kdecore/all_languages.desktop:3331
+msgctxt "Name"
+msgid "Lower Sorbian"
+msgstr "Baix sòrab"
+
+#: src/kdecore/all_languages.desktop:3416
+msgctxt "Name"
+msgid "Dzongkha"
+msgstr "Dzongkha"
+
+#: src/kdecore/all_languages.desktop:3516
+msgctxt "Name"
+msgid "Greek"
+msgstr "Grec"
+
+#: src/kdecore/all_languages.desktop:3617
+msgctxt "Name"
+msgid "English"
+msgstr "Anglés"
+
+#: src/kdecore/all_languages.desktop:3718
+msgctxt "Name"
+msgid "British English"
+msgstr "Anglés britànic"
+
+#: src/kdecore/all_languages.desktop:3818
+msgctxt "Name"
+msgid "American English"
+msgstr "Anglés americà"
+
+#: src/kdecore/all_languages.desktop:3917
+msgctxt "Name"
+msgid "Esperanto"
+msgstr "Esperanto"
+
+#: src/kdecore/all_languages.desktop:4018
+msgctxt "Name"
+msgid "Spanish"
+msgstr "Espanyol"
+
+#: src/kdecore/all_languages.desktop:4119
+msgctxt "Name"
+msgid "Estonian"
+msgstr "Estonià"
+
+#: src/kdecore/all_languages.desktop:4220
+msgctxt "Name"
+msgid "Basque"
+msgstr "Basc"
+
+#: src/kdecore/all_languages.desktop:4321
+msgctxt "Name"
+msgid "Farsi (Persian)"
+msgstr "Farsi (Persa)"
+
+#: src/kdecore/all_languages.desktop:4420
+msgctxt "Name"
+msgid "Finnish"
+msgstr "Finés"
+
+#: src/kdecore/all_languages.desktop:4521
+msgctxt "Name"
+msgid "Fijian"
+msgstr "Fijià"
+
+#: src/kdecore/all_languages.desktop:4622
+msgctxt "Name"
+msgid "Faroese"
+msgstr "Feroés"
+
+#: src/kdecore/all_languages.desktop:4722
+msgctxt "Name"
+msgid "French"
+msgstr "Francés"
+
+#: src/kdecore/all_languages.desktop:4823
+msgctxt "Name"
+msgid "Frisian"
+msgstr "Frisó"
+
+#: src/kdecore/all_languages.desktop:4924
+msgctxt "Name"
+msgid "Irish Gaelic"
+msgstr "Gaèlic irlandés"
+
+#: src/kdecore/all_languages.desktop:5018
+msgctxt "Name"
+msgid "Gaelic"
+msgstr "Gaèlic"
+
+#: src/kdecore/all_languages.desktop:5119
+msgctxt "Name"
+msgid "Galician"
+msgstr "Gallec"
+
+#: src/kdecore/all_languages.desktop:5219
+msgctxt "Name"
+msgid "Guarani"
+msgstr "Guaraní"
+
+#: src/kdecore/all_languages.desktop:5320
+msgctxt "Name"
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: src/kdecore/all_languages.desktop:5421
+msgctxt "Name"
+msgid "Manx"
+msgstr "Manx"
+
+#: src/kdecore/all_languages.desktop:5521
+msgctxt "Name"
+msgid "Hausa"
+msgstr "Haussa"
+
+#: src/kdecore/all_languages.desktop:5622
+msgctxt "Name"
+msgid "Hebrew"
+msgstr "Hebreu"
+
+#: src/kdecore/all_languages.desktop:5723
+msgctxt "Name"
+msgid "Hindi"
+msgstr "Hindi"
+
+#: src/kdecore/all_languages.desktop:5824
+msgctxt "Name"
+msgid "Chhattisgarhi"
+msgstr "Chattisgarbi"
+
+#: src/kdecore/all_languages.desktop:5903
+msgctxt "Name"
+msgid "Hiri Motu"
+msgstr "Hiri Motu"
+
+#: src/kdecore/all_languages.desktop:6003
+msgctxt "Name"
+msgid "Croatian"
+msgstr "Croat"
+
+#: src/kdecore/all_languages.desktop:6104
+msgctxt "Name"
+msgid "Upper Sorbian"
+msgstr "Alt sòrab"
+
+#: src/kdecore/all_languages.desktop:6202
+msgctxt "Name"
+msgid "Hungarian"
+msgstr "Hongarés"
+
+#: src/kdecore/all_languages.desktop:6303
+msgctxt "Name"
+msgid "Armenian"
+msgstr "Armeni"
+
+#: src/kdecore/all_languages.desktop:6404
+msgctxt "Name"
+msgid "Herero"
+msgstr "Herero"
+
+#: src/kdecore/all_languages.desktop:6504
+msgctxt "Name"
+msgid "Interlingua"
+msgstr "Interlingua"
+
+#: src/kdecore/all_languages.desktop:6604
+msgctxt "Name"
+msgid "Indonesian"
+msgstr "Indonesi"
+
+#: src/kdecore/all_languages.desktop:6705
+msgctxt "Name"
+msgid "Interlingue"
+msgstr "Interlingue"
+
+#: src/kdecore/all_languages.desktop:6804
+msgctxt "Name"
+msgid "Inupiaq"
+msgstr "Inupiak"
+
+#: src/kdecore/all_languages.desktop:6903
+msgctxt "Name"
+msgid "Ido"
+msgstr "Ido"
+
+#: src/kdecore/all_languages.desktop:7004
+msgctxt "Name"
+msgid "Icelandic"
+msgstr "Islandés"
+
+#: src/kdecore/all_languages.desktop:7105
+msgctxt "Name"
+msgid "Italian"
+msgstr "Italià"
+
+#: src/kdecore/all_languages.desktop:7206
+msgctxt "Name"
+msgid "Inuktitut"
+msgstr "Inuktitut"
+
+#: src/kdecore/all_languages.desktop:7306
+msgctxt "Name"
+msgid "Japanese"
+msgstr "Japonés"
+
+#: src/kdecore/all_languages.desktop:7407
+msgctxt "Name"
+msgid "Javanese"
+msgstr "Javanés"
+
+#: src/kdecore/all_languages.desktop:7508
+msgctxt "Name"
+msgid "Georgian"
+msgstr "Georgià"
+
+#: src/kdecore/all_languages.desktop:7609
+msgctxt "Name"
+msgid "Kikuyu"
+msgstr "Kikuiu"
+
+#: src/kdecore/all_languages.desktop:7710
+msgctxt "Name"
+msgid "Kazakh"
+msgstr "Kazakh"
+
+#: src/kdecore/all_languages.desktop:7811
+msgctxt "Name"
+msgid "Kalaallisut"
+msgstr "Grenlandés"
+
+#: src/kdecore/all_languages.desktop:7910
+msgctxt "Name"
+msgid "Khmer"
+msgstr "Khmer"
+
+#: src/kdecore/all_languages.desktop:8011
+msgctxt "Name"
+msgid "Kannada"
+msgstr "Kanarés"
+
+#: src/kdecore/all_languages.desktop:8112
+msgctxt "Name"
+msgid "Korean"
+msgstr "Coreà"
+
+#: src/kdecore/all_languages.desktop:8213
+msgctxt "Name"
+msgid "Kashmiri"
+msgstr "Caixmiri"
+
+#: src/kdecore/all_languages.desktop:8313
+msgctxt "Name"
+msgid "Kurdish"
+msgstr "Kurd"
+
+#: src/kdecore/all_languages.desktop:8414
+msgctxt "Name"
+msgid "Komi"
+msgstr "Komi"
+
+#: src/kdecore/all_languages.desktop:8514
+msgctxt "Name"
+msgid "Cornish"
+msgstr "Còrnic"
+
+#: src/kdecore/all_languages.desktop:8615
+msgctxt "Name"
+msgid "Kirghiz"
+msgstr "Kirguís"
+
+#: src/kdecore/all_languages.desktop:8716
+msgctxt "Name"
+msgid "Latin"
+msgstr "Llatí"
+
+#: src/kdecore/all_languages.desktop:8817
+msgctxt "Name"
+msgid "Luxembourgish"
+msgstr "Luxemburgués"
+
+#: src/kdecore/all_languages.desktop:8918
+msgctxt "Name"
+msgid "Limburgan"
+msgstr "Limburgués"
+
+#: src/kdecore/all_languages.desktop:9017
+msgctxt "Name"
+msgid "Lingala"
+msgstr "Lingala"
+
+#: src/kdecore/all_languages.desktop:9118
+msgctxt "Name"
+msgid "Lao"
+msgstr "Laosià"
+
+#: src/kdecore/all_languages.desktop:9219
+msgctxt "Name"
+msgid "Lithuanian"
+msgstr "Lituà"
+
+#: src/kdecore/all_languages.desktop:9320
+msgctxt "Name"
+msgid "Latvian"
+msgstr "Letó"
+
+#: src/kdecore/all_languages.desktop:9421
+msgctxt "Name"
+msgid "Maithili"
+msgstr "Maithili"
+
+#: src/kdecore/all_languages.desktop:9503
+msgctxt "Name"
+msgid "Malagasy"
+msgstr "Malgaix"
+
+#: src/kdecore/all_languages.desktop:9603
+msgctxt "Name"
+msgid "Marshallese"
+msgstr "Marshallés"
+
+#: src/kdecore/all_languages.desktop:9703
+msgctxt "Name"
+msgid "Maori"
+msgstr "Maori"
+
+#: src/kdecore/all_languages.desktop:9804
+msgctxt "Name"
+msgid "Macedonian"
+msgstr "Macedoni"
+
+#: src/kdecore/all_languages.desktop:9905
+msgctxt "Name"
+msgid "Malayalam"
+msgstr "Malaiàlam"
+
+#: src/kdecore/all_languages.desktop:10006
+msgctxt "Name"
+msgid "Mongolian"
+msgstr "Mongol"
+
+#: src/kdecore/all_languages.desktop:10107
+msgctxt "Name"
+msgid "Moldavian"
+msgstr "Moldau"
+
+#: src/kdecore/all_languages.desktop:10208
+msgctxt "Name"
+msgid "Marathi"
+msgstr "Marathi"
+
+#: src/kdecore/all_languages.desktop:10309
+msgctxt "Name"
+msgid "Malay"
+msgstr "Malai"
+
+#: src/kdecore/all_languages.desktop:10410
+msgctxt "Name"
+msgid "Maltese"
+msgstr "Maltés"
+
+#: src/kdecore/all_languages.desktop:10511
+msgctxt "Name"
+msgid "Burmese"
+msgstr "Birmà"
+
+#: src/kdecore/all_languages.desktop:10612 src/l10n/nr/country.desktop:2
+msgctxt "Name"
+msgid "Nauru"
+msgstr "Nauruà"
+
+#: src/kdecore/all_languages.desktop:10714
+msgctxt "Name"
+msgid "Norwegian Bokmål"
+msgstr "Noruec bokmål"
+
+#: src/kdecore/all_languages.desktop:10814
+msgctxt "Name"
+msgid "Ndebele, North"
+msgstr "Ndebele septentrional"
+
+#: src/kdecore/all_languages.desktop:10912
+msgctxt "Name"
+msgid "Low Saxon"
+msgstr "Baix saxó"
+
+#: src/kdecore/all_languages.desktop:11010
+msgctxt "Name"
+msgid "Nepali"
+msgstr "Nepalés"
+
+#: src/kdecore/all_languages.desktop:11111
+msgctxt "Name"
+msgid "Ndonga"
+msgstr "Ndonga"
+
+#: src/kdecore/all_languages.desktop:11211
+msgctxt "Name"
+msgid "Dutch"
+msgstr "Holandés"
+
+#: src/kdecore/all_languages.desktop:11312
+msgctxt "Name"
+msgid "Norwegian Nynorsk"
+msgstr "Noruec nynorsk"
+
+#: src/kdecore/all_languages.desktop:11412
+msgctxt "Name"
+msgid "Ndebele, South"
+msgstr "Ndebele meridional"
+
+#: src/kdecore/all_languages.desktop:11511
+msgctxt "Name"
+msgid "Northern Sotho"
+msgstr "Sotho septentrional"
+
+#: src/kdecore/all_languages.desktop:11610
+msgctxt "Name"
+msgid "Navajo"
+msgstr "Navaho"
+
+#: src/kdecore/all_languages.desktop:11709
+msgctxt "Name"
+msgid "Chichewa"
+msgstr "Chewa"
+
+#: src/kdecore/all_languages.desktop:11809
+msgctxt "Name"
+msgid "Occitan"
+msgstr "Occità"
+
+#: src/kdecore/all_languages.desktop:11910
+msgctxt "Name"
+msgid "Oromo"
+msgstr "Oromo"
+
+#: src/kdecore/all_languages.desktop:12010
+msgctxt "Name"
+msgid "Oriya"
+msgstr "Oriya"
+
+#: src/kdecore/all_languages.desktop:12111
+msgctxt "Name"
+msgid "Ossetian"
+msgstr "Osset"
+
+#: src/kdecore/all_languages.desktop:12211
+msgctxt "Name"
+msgid "Punjabi/Panjabi"
+msgstr "Panjabi"
+
+#: src/kdecore/all_languages.desktop:12304
+msgctxt "Name"
+msgid "Pali"
+msgstr "Pali"
+
+#: src/kdecore/all_languages.desktop:12405
+msgctxt "Name"
+msgid "Polish"
+msgstr "Polonés"
+
+#: src/kdecore/all_languages.desktop:12506
+msgctxt "Name"
+msgid "Pushto"
+msgstr "Paixtu"
+
+#: src/kdecore/all_languages.desktop:12605
+msgctxt "Name"
+msgid "Portuguese"
+msgstr "Portugués"
+
+#: src/kdecore/all_languages.desktop:12706
+msgctxt "Name"
+msgid "Brazilian Portuguese"
+msgstr "Portugués brasiler"
+
+#: src/kdecore/all_languages.desktop:12806
+msgctxt "Name"
+msgid "Quechua"
+msgstr "Quítxua"
+
+#: src/kdecore/all_languages.desktop:12907
+msgctxt "Name"
+msgid "Rundi"
+msgstr "Kirundi"
+
+#: src/kdecore/all_languages.desktop:13007
+msgctxt "Name"
+msgid "Romanian"
+msgstr "Romanés"
+
+#: src/kdecore/all_languages.desktop:13108
+msgctxt "Name"
+msgid "Romany"
+msgstr "Romaní"
+
+#: src/kdecore/all_languages.desktop:13203
+msgctxt "Name"
+msgid "Russian"
+msgstr "Rus"
+
+#: src/kdecore/all_languages.desktop:13304
+msgctxt "Name"
+msgid "Kinyarwanda"
+msgstr "Kinyarwanda"
+
+#: src/kdecore/all_languages.desktop:13404
+msgctxt "Name"
+msgid "Sanskrit"
+msgstr "Sànscrit"
+
+#: src/kdecore/all_languages.desktop:13505
+msgctxt "Name"
+msgid "Sardinian"
+msgstr "Sard"
+
+#: src/kdecore/all_languages.desktop:13606
+msgctxt "Name"
+msgid "Sindhi"
+msgstr "Sindhi"
+
+#: src/kdecore/all_languages.desktop:13706
+msgctxt "Name"
+msgid "Northern Sami"
+msgstr "Sami septentrional"
+
+#: src/kdecore/all_languages.desktop:13806
+msgctxt "Name"
+msgid "Sango"
+msgstr "Sango"
+
+#: src/kdecore/all_languages.desktop:13906
+msgctxt "Name"
+msgid "Sinhala"
+msgstr "Singalés"
+
+#: src/kdecore/all_languages.desktop:13986
+msgctxt "Name"
+msgid "Slovak"
+msgstr "Eslovac"
+
+#: src/kdecore/all_languages.desktop:14087
+msgctxt "Name"
+msgid "Slovenian"
+msgstr "Eslovè"
+
+#: src/kdecore/all_languages.desktop:14188
+msgctxt "Name"
+msgid "Samoan"
+msgstr "Samoà"
+
+#: src/kdecore/all_languages.desktop:14288
+msgctxt "Name"
+msgid "Shona"
+msgstr "Shona"
+
+#: src/kdecore/all_languages.desktop:14389
+msgctxt "Name"
+msgid "Somali"
+msgstr "Somali"
+
+#: src/kdecore/all_languages.desktop:14490
+msgctxt "Name"
+msgid "Albanian"
+msgstr "Albanés"
+
+#: src/kdecore/all_languages.desktop:14591
+msgctxt "Name"
+msgid "Serbian"
+msgstr "Serbi"
+
+#: src/kdecore/all_languages.desktop:14692
+msgctxt "Name"
+msgid "Serbian Ijekavian"
+msgstr "Serbi ijekavski"
+
+#: src/kdecore/all_languages.desktop:14765
+msgctxt "Name"
+msgid "Serbian Ijekavian Latin"
+msgstr "Serbi ijekavski llatí"
+
+#: src/kdecore/all_languages.desktop:14838
+msgctxt "Name"
+msgid "Serbian Latin"
+msgstr "Serbi llatí"
+
+#: src/kdecore/all_languages.desktop:14935
+msgctxt "Name"
+msgid "Swati"
+msgstr "Siswati"
+
+#: src/kdecore/all_languages.desktop:15036
+msgctxt "Name"
+msgid "Sotho, Southern"
+msgstr "Sotho sud"
+
+#: src/kdecore/all_languages.desktop:15135
+msgctxt "Name"
+msgid "Sundanese"
+msgstr "Sundanés"
+
+#: src/kdecore/all_languages.desktop:15235
+msgctxt "Name"
+msgid "Swedish"
+msgstr "Suec"
+
+#: src/kdecore/all_languages.desktop:15336
+msgctxt "Name"
+msgid "Swahili"
+msgstr "Swahili"
+
+#: src/kdecore/all_languages.desktop:15437
+msgctxt "Name"
+msgid "Tamil"
+msgstr "Tàmil"
+
+#: src/kdecore/all_languages.desktop:15538
+msgctxt "Name"
+msgid "Telugu"
+msgstr "Telugu"
+
+#: src/kdecore/all_languages.desktop:15639
+msgctxt "Name"
+msgid "Tajik"
+msgstr "Tadjik"
+
+#: src/kdecore/all_languages.desktop:15740
+msgctxt "Name"
+msgid "Thai"
+msgstr "Tai"
+
+#: src/kdecore/all_languages.desktop:15841
+msgctxt "Name"
+msgid "Tigrinya"
+msgstr "Tigrinya"
+
+#: src/kdecore/all_languages.desktop:15942
+msgctxt "Name"
+msgid "Turkmen"
+msgstr "Turcman"
+
+#: src/kdecore/all_languages.desktop:16042
+msgctxt "Name"
+msgid "Tswana"
+msgstr "Tswana"
+
+#: src/kdecore/all_languages.desktop:16142 src/l10n/to/country.desktop:2
+msgctxt "Name"
+msgid "Tonga"
+msgstr "Tonga"
+
+#: src/kdecore/all_languages.desktop:16243
+msgctxt "Name"
+msgid "Turkish"
+msgstr "Turc"
+
+#: src/kdecore/all_languages.desktop:16344
+msgctxt "Name"
+msgid "Tsonga"
+msgstr "Tsonga"
+
+#: src/kdecore/all_languages.desktop:16444
+msgctxt "Name"
+msgid "Tatar"
+msgstr "Tàtar"
+
+#: src/kdecore/all_languages.desktop:16545
+msgctxt "Name"
+msgid "Twi"
+msgstr "Twi"
+
+#: src/kdecore/all_languages.desktop:16644
+msgctxt "Name"
+msgid "Tahitian"
+msgstr "Tahitià"
+
+#: src/kdecore/all_languages.desktop:16744
+msgctxt "Name"
+msgid "Uyghur"
+msgstr "Uigur"
+
+#: src/kdecore/all_languages.desktop:16816
+msgctxt "Name"
+msgid "Ukrainian"
+msgstr "Ucraïnés"
+
+#: src/kdecore/all_languages.desktop:16917
+msgctxt "Name"
+msgid "Urdu"
+msgstr "Urdú"
+
+#: src/kdecore/all_languages.desktop:17018
+msgctxt "Name"
+msgid "Uzbek"
+msgstr "Uzbek"
+
+#: src/kdecore/all_languages.desktop:17119
+msgctxt "Name"
+msgid "Uzbek (Cyrillic)"
+msgstr "Uzbek (ciríl·lic)"
+
+#: src/kdecore/all_languages.desktop:17209
+msgctxt "Name"
+msgid "Venda"
+msgstr "Venda"
+
+#: src/kdecore/all_languages.desktop:17309
+msgctxt "Name"
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+#: src/kdecore/all_languages.desktop:17410
+msgctxt "Name"
+msgid "Volapük"
+msgstr "Volapük"
+
+#: src/kdecore/all_languages.desktop:17508
+msgctxt "Name"
+msgid "Walloon"
+msgstr "Való"
+
+#: src/kdecore/all_languages.desktop:17609
+msgctxt "Name"
+msgid "Wolof"
+msgstr "Wòlof"
+
+#: src/kdecore/all_languages.desktop:17710
+msgctxt "Name"
+msgid "Xhosa"
+msgstr "Xosa"
+
+#: src/kdecore/all_languages.desktop:17810
+msgctxt "Name"
+msgid "KDE Test Language"
+msgstr "Idioma de proves del KDE"
+
+#: src/kdecore/all_languages.desktop:17880
+msgctxt "Name"
+msgid "Yiddish"
+msgstr "Jiddisch"
+
+#: src/kdecore/all_languages.desktop:17981
+msgctxt "Name"
+msgid "Yoruba"
+msgstr "Ioruba"
+
+#: src/kdecore/all_languages.desktop:18081
+msgctxt "Name"
+msgid "Zhuang"
+msgstr "Zhuang"
+
+#: src/kdecore/all_languages.desktop:18180
+msgctxt "Name"
+msgid "Chinese"
+msgstr "Xinés"
+
+#: src/kdecore/all_languages.desktop:18281
+msgctxt "Name"
+msgid "Chinese Simplified"
+msgstr "Xinés simplificat"
+
+#: src/kdecore/all_languages.desktop:18381
+msgctxt "Name"
+msgid "Chinese (Hong Kong)"
+msgstr "Xinés (Hong Kong)"
+
+#: src/kdecore/all_languages.desktop:18479
+msgctxt "Name"
+msgid "Chinese Traditional"
+msgstr "Xinés tradicional"
+
+#: src/kdecore/all_languages.desktop:18579
+msgctxt "Name"
+msgid "Zulu"
+msgstr "Zulu"
+
+#: src/kio/imageformats/qimageio_plugin.desktop:4
+msgctxt "Comment"
+msgid "QImageIOHandler plugin"
+msgstr "Connector del QImageIOHandler"
+
+#: src/kio/kdatatool.desktop:4
+msgctxt "Comment"
+msgid "KDE Data Tool"
+msgstr "Eina per a la gestió de dades per al KDE"
+
+#: src/kio/kfilewrite.desktop:5
+msgctxt "Comment"
+msgid "KFileWrite plugin"
+msgstr "Connector del KFileWrite"
+
+#: src/kio/kscan.desktop:4
+msgctxt "Name"
+msgid "KScan"
+msgstr "KScan"
+
+#: src/kssl/kcm/kcm_ssl.desktop:13
+msgctxt "Name"
+msgid "SSL Preferences"
+msgstr "Preferències SSL"
+
+#: src/kssl/kcm/kcm_ssl.desktop:80
+msgctxt "Comment"
+msgid "SSL Versions and Certificates"
+msgstr "Versions i certificats SSL"
+
+#: src/kssl/kcm/kcm_ssl.desktop:147
+msgctxt "X-KDE-Keywords"
+msgid "SSL,Security,Network,Protocol,Certificates,Encryption,HTTPS"
+msgstr "SSL,Seguretat,Xarxa,Protocol,Certificats,Encriptació,HTTPS"
+
+#: src/l10n/ad/country.desktop:2
+msgctxt "Name"
+msgid "Andorra"
+msgstr "Andorra"
+
+#: src/l10n/ae/country.desktop:2
+msgctxt "Name"
+msgid "United Arab Emirates"
+msgstr "Unió dels Emirats Àrabs"
+
+#: src/l10n/af/country.desktop:2
+msgctxt "Name"
+msgid "Afghanistan"
+msgstr "Afganistan"
+
+#: src/l10n/ag/country.desktop:2
+msgctxt "Name"
+msgid "Antigua and Barbuda"
+msgstr "Antigua i Barbuda"
+
+#: src/l10n/ai/country.desktop:2
+msgctxt "Name"
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: src/l10n/al/country.desktop:2
+msgctxt "Name"
+msgid "Albania"
+msgstr "Albània"
+
+#: src/l10n/am/country.desktop:2
+msgctxt "Name"
+msgid "Armenia"
+msgstr "Armènia"
+
+#: src/l10n/an/country.desktop:2
+msgctxt "Name"
+msgid "Netherlands Antilles"
+msgstr "Antilles Neerlandeses"
+
+#: src/l10n/ao/country.desktop:2
+msgctxt "Name"
+msgid "Angola"
+msgstr "Angola"
+
+#: src/l10n/ar/country.desktop:2
+msgctxt "Name"
+msgid "Argentina"
+msgstr "Argentina"
+
+#: src/l10n/as/country.desktop:2
+msgctxt "Name"
+msgid "American Samoa"
+msgstr "Samoa Americana"
+
+#: src/l10n/at/country.desktop:2
+msgctxt "Name"
+msgid "Austria"
+msgstr "Àustria"
+
+#: src/l10n/au/country.desktop:2
+msgctxt "Name"
+msgid "Australia"
+msgstr "Austràlia"
+
+#: src/l10n/aw/country.desktop:2
+msgctxt "Name"
+msgid "Aruba"
+msgstr "Aruba"
+
+#: src/l10n/ax/country.desktop:2
+msgctxt "Name"
+msgid "Åland Islands"
+msgstr "Illes Aland"
+
+#: src/l10n/az/country.desktop:2
+msgctxt "Name"
+msgid "Azerbaijan"
+msgstr "Azerbaidjan"
+
+#: src/l10n/ba/country.desktop:2
+msgctxt "Name"
+msgid "Bosnia and Herzegovina"
+msgstr "Bòsnia i Hercegovina"
+
+#: src/l10n/bb/country.desktop:2
+msgctxt "Name"
+msgid "Barbados"
+msgstr "Barbados"
+
+#: src/l10n/bd/country.desktop:2
+msgctxt "Name"
+msgid "Bangladesh"
+msgstr "Bangla Desh"
+
+#: src/l10n/be/country.desktop:2
+msgctxt "Name"
+msgid "Belgium"
+msgstr "Bèlgica"
+
+#: src/l10n/bf/country.desktop:2
+msgctxt "Name"
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: src/l10n/bg/country.desktop:2
+msgctxt "Name"
+msgid "Bulgaria"
+msgstr "Bulgària"
+
+#: src/l10n/bh/country.desktop:2
+msgctxt "Name"
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: src/l10n/bi/country.desktop:2
+msgctxt "Name"
+msgid "Burundi"
+msgstr "Burundi"
+
+#: src/l10n/bj/country.desktop:2
+msgctxt "Name"
+msgid "Benin"
+msgstr "Benín"
+
+#: src/l10n/bl/country.desktop:2
+msgctxt "Name"
+msgid "Saint Barthélemy"
+msgstr "Saint Barthélemy"
+
+#: src/l10n/bm/country.desktop:2
+msgctxt "Name"
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: src/l10n/bn/country.desktop:3
+msgctxt "Name"
+msgid "Brunei Darussalam"
+msgstr "Brunei"
+
+#: src/l10n/bo/country.desktop:2
+msgctxt "Name"
+msgid "Bolivia"
+msgstr "Bolívia"
+
+#: src/l10n/br/country.desktop:2
+msgctxt "Name"
+msgid "Brazil"
+msgstr "Brasil"
+
+#: src/l10n/bs/country.desktop:2
+msgctxt "Name"
+msgid "Bahamas"
+msgstr "Bahames"
+
+#: src/l10n/bt/country.desktop:3
+msgctxt "Name"
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: src/l10n/bw/country.desktop:2
+msgctxt "Name"
+msgid "Botswana"
+msgstr "Botswana"
+
+#: src/l10n/by/country.desktop:3
+msgctxt "Name"
+msgid "Belarus"
+msgstr "Bielorússia"
+
+#: src/l10n/bz/country.desktop:2
+msgctxt "Name"
+msgid "Belize"
+msgstr "Belize"
+
+#: src/l10n/ca/country.desktop:5
+msgctxt "Name"
+msgid "Canada"
+msgstr "Canadà"
+
+#: src/l10n/caribbean.desktop:2
+msgctxt "Name"
+msgid "Caribbean"
+msgstr "Carib"
+
+#: src/l10n/cc/country.desktop:2
+msgctxt "Name"
+msgid "Cocos (Keeling) Islands"
+msgstr "Illes Cocos (Keeling)"
+
+#: src/l10n/C/country.desktop:2
+msgctxt "Name"
+msgid "Default"
+msgstr "Omissió"
+
+#: src/l10n/cd/country.desktop:2
+msgctxt "Name"
+msgid "Congo, The Democratic Republic of the"
+msgstr "Congo, República Democràtica del"
+
+#: src/l10n/centralafrica.desktop:2
+msgctxt "Name"
+msgid "Africa, Central"
+msgstr "Àfrica Central"
+
+#: src/l10n/centralamerica.desktop:2
+msgctxt "Name"
+msgid "America, Central"
+msgstr "Amèrica Central"
+
+#: src/l10n/centralasia.desktop:2
+msgctxt "Name"
+msgid "Asia, Central"
+msgstr "Àsia Central"
+
+#: src/l10n/centraleurope.desktop:2
+msgctxt "Name"
+msgid "Europe, Central"
+msgstr "Europa Central"
+
+#: src/l10n/cf/country.desktop:2
+msgctxt "Name"
+msgid "Central African Republic"
+msgstr "República Centreafricana"
+
+#: src/l10n/cg/country.desktop:2
+msgctxt "Name"
+msgid "Congo"
+msgstr "Congo"
+
+#: src/l10n/ch/country.desktop:2
+msgctxt "Name"
+msgid "Switzerland"
+msgstr "Suïssa"
+
+#: src/l10n/ci/country.desktop:2
+msgctxt "Name"
+msgid "Cote d'ivoire"
+msgstr "Costa d'Ivori"
+
+#: src/l10n/ck/country.desktop:2
+msgctxt "Name"
+msgid "Cook islands"
+msgstr "Illes Cook"
+
+#: src/l10n/cl/country.desktop:2
+msgctxt "Name"
+msgid "Chile"
+msgstr "Xile"
+
+#: src/l10n/cm/country.desktop:2
+msgctxt "Name"
+msgid "Cameroon"
+msgstr "Camerun"
+
+#: src/l10n/cn/country.desktop:3
+msgctxt "Name"
+msgid "China"
+msgstr "Xina"
+
+#: src/l10n/co/country.desktop:2
+msgctxt "Name"
+msgid "Colombia"
+msgstr "Colòmbia"
+
+#: src/l10n/cr/country.desktop:2
+msgctxt "Name"
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: src/l10n/cu/country.desktop:2
+msgctxt "Name"
+msgid "Cuba"
+msgstr "Cuba"
+
+#: src/l10n/cv/country.desktop:2
+msgctxt "Name"
+msgid "Cape Verde"
+msgstr "Cap Verd"
+
+#: src/l10n/cx/country.desktop:2
+msgctxt "Name"
+msgid "Christmas Island"
+msgstr "Illa Christmas"
+
+#: src/l10n/cy/country.desktop:2
+msgctxt "Name"
+msgid "Cyprus"
+msgstr "Xipre"
+
+#: src/l10n/cz/country.desktop:2
+msgctxt "Name"
+msgid "Czechia"
+msgstr "Txèquia"
+
+#: src/l10n/de/country.desktop:2
+msgctxt "Name"
+msgid "Germany"
+msgstr "Alemanya"
+
+#: src/l10n/dj/country.desktop:2
+msgctxt "Name"
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: src/l10n/dk/country.desktop:3
+msgctxt "Name"
+msgid "Denmark"
+msgstr "Dinamarca"
+
+#: src/l10n/dm/country.desktop:2
+msgctxt "Name"
+msgid "Dominica"
+msgstr "Dominica"
+
+#: src/l10n/do/country.desktop:2
+msgctxt "Name"
+msgid "Dominican Republic"
+msgstr "República Dominicana"
+
+#: src/l10n/dz/country.desktop:2
+msgctxt "Name"
+msgid "Algeria"
+msgstr "Algèria"
+
+#: src/l10n/eastafrica.desktop:2
+msgctxt "Name"
+msgid "Africa, Eastern"
+msgstr "Àfrica Oriental"
+
+#: src/l10n/eastasia.desktop:2
+msgctxt "Name"
+msgid "Asia, East"
+msgstr "Àsia de l'Est"
+
+#: src/l10n/easteurope.desktop:2
+msgctxt "Name"
+msgid "Europe, Eastern"
+msgstr "Europa de l'Est"
+
+#: src/l10n/ec/country.desktop:2
+msgctxt "Name"
+msgid "Ecuador"
+msgstr "Equador"
+
+#: src/l10n/ee/country.desktop:2
+msgctxt "Name"
+msgid "Estonia"
+msgstr "Estònia"
+
+#: src/l10n/eg/country.desktop:2
+msgctxt "Name"
+msgid "Egypt"
+msgstr "Egipte"
+
+#: src/l10n/eh/country.desktop:2
+msgctxt "Name"
+msgid "Western Sahara"
+msgstr "Sàhara Occidental"
+
+#: src/l10n/er/country.desktop:2
+msgctxt "Name"
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: src/l10n/es/country.desktop:2
+msgctxt "Name"
+msgid "Spain"
+msgstr "Espanya"
+
+#: src/l10n/et/country.desktop:2
+msgctxt "Name"
+msgid "Ethiopia"
+msgstr "Etiòpia"
+
+#: src/l10n/fi/country.desktop:3
+msgctxt "Name"
+msgid "Finland"
+msgstr "Finlàndia"
+
+#: src/l10n/fj/country.desktop:2
+msgctxt "Name"
+msgid "Fiji"
+msgstr "Fiji"
+
+#: src/l10n/fk/country.desktop:2
+msgctxt "Name"
+msgid "Falkland Islands (Malvinas)"
+msgstr "Illes Malvines (Falkland)"
+
+#: src/l10n/fm/country.desktop:2
+msgctxt "Name"
+msgid "Micronesia, Federated States of"
+msgstr "Micronèsia (Estats Federats)"
+
+#: src/l10n/fo/country.desktop:2
+msgctxt "Name"
+msgid "Faroe Islands"
+msgstr "Illes Fèroe"
+
+#: src/l10n/fr/country.desktop:3
+msgctxt "Name"
+msgid "France"
+msgstr "França"
+
+#: src/l10n/ga/country.desktop:2
+msgctxt "Name"
+msgid "Gabon"
+msgstr "Gabon"
+
+#: src/l10n/gb/country.desktop:2
+msgctxt "Name"
+msgid "United Kingdom"
+msgstr "Regne Unit"
+
+#: src/l10n/gd/country.desktop:2
+msgctxt "Name"
+msgid "Grenada"
+msgstr "Grenada"
+
+#: src/l10n/ge/country.desktop:2
+msgctxt "Name"
+msgid "Georgia"
+msgstr "Geòrgia"
+
+#: src/l10n/gf/country.desktop:2
+msgctxt "Name"
+msgid "French Guiana"
+msgstr "Guaiana Francesa"
+
+#: src/l10n/gg/country.desktop:2
+msgctxt "Name"
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: src/l10n/gh/country.desktop:2
+msgctxt "Name"
+msgid "Ghana"
+msgstr "Ghana"
+
+#: src/l10n/gi/country.desktop:2
+msgctxt "Name"
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: src/l10n/gl/country.desktop:2
+msgctxt "Name"
+msgid "Greenland"
+msgstr "Groenlàndia"
+
+#: src/l10n/gm/country.desktop:2
+msgctxt "Name"
+msgid "Gambia"
+msgstr "Gàmbia"
+
+#: src/l10n/gn/country.desktop:2
+msgctxt "Name"
+msgid "Guinea"
+msgstr "Guinea"
+
+#: src/l10n/gp/country.desktop:2
+msgctxt "Name"
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: src/l10n/gq/country.desktop:2
+msgctxt "Name"
+msgid "Equatorial Guinea"
+msgstr "Guinea Equatorial"
+
+#: src/l10n/gr/country.desktop:2
+msgctxt "Name"
+msgid "Greece"
+msgstr "Grècia"
+
+#: src/l10n/gt/country.desktop:2
+msgctxt "Name"
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: src/l10n/gu/country.desktop:2
+msgctxt "Name"
+msgid "Guam"
+msgstr "Guam"
+
+#: src/l10n/gw/country.desktop:2
+msgctxt "Name"
+msgid "Guinea-Bissau"
+msgstr "Guinea Bissau"
+
+#: src/l10n/gy/country.desktop:2
+msgctxt "Name"
+msgid "Guyana"
+msgstr "Guyana"
+
+#: src/l10n/hk/country.desktop:2
+msgctxt "Name"
+msgid "Hong Kong SAR(China)"
+msgstr "Hong Kong (Xina)"
+
+#: src/l10n/hn/country.desktop:2
+msgctxt "Name"
+msgid "Honduras"
+msgstr "Hondures"
+
+#: src/l10n/hr/country.desktop:2
+msgctxt "Name"
+msgid "Croatia"
+msgstr "Croàcia"
+
+#: src/l10n/ht/country.desktop:2
+msgctxt "Name"
+msgid "Haiti"
+msgstr "Haití"
+
+#: src/l10n/hu/country.desktop:2
+msgctxt "Name"
+msgid "Hungary"
+msgstr "Hongria"
+
+#: src/l10n/id/country.desktop:2
+msgctxt "Name"
+msgid "Indonesia"
+msgstr "Indonèsia"
+
+#: src/l10n/ie/country.desktop:2
+msgctxt "Name"
+msgid "Ireland"
+msgstr "Irlanda"
+
+#: src/l10n/il/country.desktop:3
+msgctxt "Name"
+msgid "Israel"
+msgstr "Israel"
+
+#: src/l10n/im/country.desktop:2
+msgctxt "Name"
+msgid "Isle of Man"
+msgstr "Illa de Man"
+
+#: src/l10n/in/country.desktop:2
+msgctxt "Name"
+msgid "India"
+msgstr "Índia"
+
+#: src/l10n/iq/country.desktop:2
+msgctxt "Name"
+msgid "Iraq"
+msgstr "Iraq"
+
+#: src/l10n/ir/country.desktop:2
+msgctxt "Name"
+msgid "Iran"
+msgstr "Iran"
+
+#: src/l10n/is/country.desktop:2
+msgctxt "Name"
+msgid "Iceland"
+msgstr "Islàndia"
+
+#: src/l10n/it/country.desktop:2
+msgctxt "Name"
+msgid "Italy"
+msgstr "Itàlia"
+
+#: src/l10n/je/country.desktop:2
+msgctxt "Name"
+msgid "Jersey"
+msgstr "Jersey"
+
+#: src/l10n/jm/country.desktop:2
+msgctxt "Name"
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: src/l10n/jo/country.desktop:2
+msgctxt "Name"
+msgid "Jordan"
+msgstr "Jordània"
+
+#: src/l10n/jp/country.desktop:2
+msgctxt "Name"
+msgid "Japan"
+msgstr "Japó"
+
+#: src/l10n/ke/country.desktop:2
+msgctxt "Name"
+msgid "Kenya"
+msgstr "Kenya"
+
+#: src/l10n/kg/country.desktop:2
+msgctxt "Name"
+msgid "Kyrgyzstan"
+msgstr "Kirguizistan"
+
+#: src/l10n/kh/country.desktop:2
+msgctxt "Name"
+msgid "Cambodia"
+msgstr "Cambodja"
+
+#: src/l10n/ki/country.desktop:2
+msgctxt "Name"
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: src/l10n/km/country.desktop:2
+msgctxt "Name"
+msgid "Comoros"
+msgstr "Comores"
+
+#: src/l10n/kn/country.desktop:2
+msgctxt "Name"
+msgid "St. Kitts and Nevis"
+msgstr "Saint Kitts i Nevis"
+
+#: src/l10n/kp/country.desktop:2
+msgctxt "Name"
+msgid "North Korea"
+msgstr "Corea del Nord"
+
+#: src/l10n/kr/country.desktop:2
+msgctxt "Name"
+msgid "South Korea"
+msgstr "Corea del Sud"
+
+#: src/l10n/kw/country.desktop:2
+msgctxt "Name"
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: src/l10n/ky/country.desktop:2
+msgctxt "Name"
+msgid "Cayman Islands"
+msgstr "Illes Caiman"
+
+#: src/l10n/kz/country.desktop:2
+msgctxt "Name"
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+#: src/l10n/la/country.desktop:2
+msgctxt "Name"
+msgid "Laos"
+msgstr "Laos"
+
+#: src/l10n/lb/country.desktop:2
+msgctxt "Name"
+msgid "Lebanon"
+msgstr "Líban"
+
+#: src/l10n/lc/country.desktop:2
+msgctxt "Name"
+msgid "St. Lucia"
+msgstr "Saint Lucia"
+
+#: src/l10n/li/country.desktop:2
+msgctxt "Name"
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: src/l10n/lk/country.desktop:2
+msgctxt "Name"
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: src/l10n/lr/country.desktop:2
+msgctxt "Name"
+msgid "Liberia"
+msgstr "Libèria"
+
+#: src/l10n/ls/country.desktop:2
+msgctxt "Name"
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: src/l10n/lt/country.desktop:2
+msgctxt "Name"
+msgid "Lithuania"
+msgstr "Lituània"
+
+#: src/l10n/lu/country.desktop:2
+msgctxt "Name"
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: src/l10n/lv/country.desktop:2
+msgctxt "Name"
+msgid "Latvia"
+msgstr "Letònia"
+
+#: src/l10n/ly/country.desktop:2
+msgctxt "Name"
+msgid "Libya"
+msgstr "Líbia"
+
+#: src/l10n/ma/country.desktop:2
+msgctxt "Name"
+msgid "Morocco"
+msgstr "Marroc"
+
+#: src/l10n/mc/country.desktop:2
+msgctxt "Name"
+msgid "Monaco"
+msgstr "Mònaco"
+
+#: src/l10n/md/country.desktop:2
+msgctxt "Name"
+msgid "Moldova"
+msgstr "Moldàvia"
+
+#: src/l10n/me/country.desktop:3
+msgctxt "Name"
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: src/l10n/mf/country.desktop:2
+msgctxt "Name"
+msgid "Saint Martin"
+msgstr "Saint Martin"
+
+#: src/l10n/mg/country.desktop:2
+msgctxt "Name"
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: src/l10n/mh/country.desktop:2
+msgctxt "Name"
+msgid "Marshall Islands"
+msgstr "Illes Marshall"
+
+#: src/l10n/middleeast.desktop:2
+msgctxt "Name"
+msgid "Middle-East"
+msgstr "Orient Mitjà"
+
+#: src/l10n/mk/country.desktop:3
+msgctxt "Name"
+msgid "Macedonia"
+msgstr "Macedònia"
+
+#: src/l10n/ml/country.desktop:2
+msgctxt "Name"
+msgid "Mali"
+msgstr "Mali"
+
+#: src/l10n/mm/country.desktop:2
+msgctxt "Name"
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: src/l10n/mn/country.desktop:2
+msgctxt "Name"
+msgid "Mongolia"
+msgstr "Mongòlia"
+
+#: src/l10n/mo/country.desktop:2
+msgctxt "Name"
+msgid "Macau SAR(China)"
+msgstr "Macau (Xina)"
+
+#: src/l10n/mp/country.desktop:2
+msgctxt "Name"
+msgid "Northern Mariana Islands"
+msgstr "Illes Marianes Septentrionals"
+
+#: src/l10n/mq/country.desktop:2
+msgctxt "Name"
+msgid "Martinique"
+msgstr "Martinica"
+
+#: src/l10n/mr/country.desktop:2
+msgctxt "Name"
+msgid "Mauritania"
+msgstr "Mauritània"
+
+#: src/l10n/ms/country.desktop:2
+msgctxt "Name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: src/l10n/mt/country.desktop:3
+msgctxt "Name"
+msgid "Malta"
+msgstr "Malta"
+
+#: src/l10n/mu/country.desktop:2
+msgctxt "Name"
+msgid "Mauritius"
+msgstr "Maurici"
+
+#: src/l10n/mv/country.desktop:2
+msgctxt "Name"
+msgid "Maldives"
+msgstr "Maldives"
+
+#: src/l10n/mw/country.desktop:2
+msgctxt "Name"
+msgid "Malawi"
+msgstr "Malawi"
+
+#: src/l10n/mx/country.desktop:2
+msgctxt "Name"
+msgid "Mexico"
+msgstr "Mèxic"
+
+#: src/l10n/my/country.desktop:2
+msgctxt "Name"
+msgid "Malaysia"
+msgstr "Malàisia"
+
+#: src/l10n/mz/country.desktop:2
+msgctxt "Name"
+msgid "Mozambique"
+msgstr "Moçambic"
+
+#: src/l10n/na/country.desktop:2
+msgctxt "Name"
+msgid "Namibia"
+msgstr "Namíbia"
+
+#: src/l10n/nc/country.desktop:2
+msgctxt "Name"
+msgid "New Caledonia"
+msgstr "Nova Caledònia"
+
+#: src/l10n/ne/country.desktop:2
+msgctxt "Name"
+msgid "Niger"
+msgstr "Níger"
+
+#: src/l10n/nf/country.desktop:2
+msgctxt "Name"
+msgid "Norfolk Island"
+msgstr "Illa Norfolk"
+
+#: src/l10n/ng/country.desktop:2
+msgctxt "Name"
+msgid "Nigeria"
+msgstr "Nigèria"
+
+#: src/l10n/ni/country.desktop:2
+msgctxt "Name"
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: src/l10n/nl/country.desktop:3
+msgctxt "Name"
+msgid "Netherlands"
+msgstr "Països Baixos"
+
+#: src/l10n/no/country.desktop:3
+msgctxt "Name"
+msgid "Norway"
+msgstr "Noruega"
+
+#: src/l10n/northafrica.desktop:2
+msgctxt "Name"
+msgid "Africa, Northern"
+msgstr "Àfrica del Nord"
+
+#: src/l10n/northamerica.desktop:2
+msgctxt "Name"
+msgid "America, North"
+msgstr "Amèrica del Nord"
+
+#: src/l10n/northeurope.desktop:2
+msgctxt "Name"
+msgid "Europe, Northern"
+msgstr "Europa del Nord"
+
+#: src/l10n/np/country.desktop:2
+msgctxt "Name"
+msgid "Nepal"
+msgstr "Nepal"
+
+#: src/l10n/nu/country.desktop:2
+msgctxt "Name"
+msgid "Niue"
+msgstr "Niue"
+
+#: src/l10n/nz/country.desktop:3
+msgctxt "Name"
+msgid "New Zealand"
+msgstr "Nova Zelanda"
+
+#: src/l10n/oceania.desktop:2
+msgctxt "Name"
+msgid "Oceania"
+msgstr "Oceania"
+
+#: src/l10n/om/country.desktop:2
+msgctxt "Name"
+msgid "Oman"
+msgstr "Oman"
+
+#: src/l10n/pa/country.desktop:2
+msgctxt "Name"
+msgid "Panama"
+msgstr "Panamà"
+
+#: src/l10n/pe/country.desktop:2
+msgctxt "Name"
+msgid "Peru"
+msgstr "Perú"
+
+#: src/l10n/pf/country.desktop:2
+msgctxt "Name"
+msgid "French Polynesia"
+msgstr "Polinèsia Francesa"
+
+#: src/l10n/pg/country.desktop:2
+msgctxt "Name"
+msgid "Papua New Guinea"
+msgstr "Papua Nova Guinea"
+
+#: src/l10n/ph/country.desktop:2
+msgctxt "Name"
+msgid "Philippines"
+msgstr "Filipines"
+
+#: src/l10n/pk/country.desktop:2
+msgctxt "Name"
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: src/l10n/pl/country.desktop:2
+msgctxt "Name"
+msgid "Poland"
+msgstr "Polònia"
+
+#: src/l10n/pm/country.desktop:2
+msgctxt "Name"
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre i Miquelon"
+
+#: src/l10n/pn/country.desktop:2
+msgctxt "Name"
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: src/l10n/pr/country.desktop:2
+msgctxt "Name"
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: src/l10n/ps/country.desktop:2
+msgctxt "Name"
+msgid "Palestinian Territory"
+msgstr "Territori Palestí"
+
+#: src/l10n/pt/country.desktop:3
+msgctxt "Name"
+msgid "Portugal"
+msgstr "Portugal"
+
+#: src/l10n/pw/country.desktop:2
+msgctxt "Name"
+msgid "Palau"
+msgstr "Palau"
+
+#: src/l10n/py/country.desktop:2
+msgctxt "Name"
+msgid "Paraguay"
+msgstr "Paraguai"
+
+#: src/l10n/qa/country.desktop:2
+msgctxt "Name"
+msgid "Qatar"
+msgstr "Qatar"
+
+#: src/l10n/re/country.desktop:2
+msgctxt "Name"
+msgid "Réunion"
+msgstr "Reunion"
+
+#: src/l10n/ro/country.desktop:2
+msgctxt "Name"
+msgid "Romania"
+msgstr "Romania"
+
+#: src/l10n/rs/country.desktop:3
+msgctxt "Name"
+msgid "Serbia"
+msgstr "Sèrbia"
+
+#: src/l10n/ru/country.desktop:3
+msgctxt "Name"
+msgid "Russia"
+msgstr "Rússia"
+
+#: src/l10n/rw/country.desktop:2
+msgctxt "Name"
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: src/l10n/sa/country.desktop:2
+msgctxt "Name"
+msgid "Saudi Arabia"
+msgstr "Aràbia Saudita"
+
+#: src/l10n/sb/country.desktop:2
+msgctxt "Name"
+msgid "Solomon Islands"
+msgstr "Illes Salomó"
+
+#: src/l10n/sc/country.desktop:2
+msgctxt "Name"
+msgid "Seychelles"
+msgstr "Seychelles"
+
+#: src/l10n/sd/country.desktop:2
+msgctxt "Name"
+msgid "Sudan"
+msgstr "Sudan"
+
+#: src/l10n/se/country.desktop:2
+msgctxt "Name"
+msgid "Sweden"
+msgstr "Suècia"
+
+#: src/l10n/sg/country.desktop:2
+msgctxt "Name"
+msgid "Singapore"
+msgstr "Singapur"
+
+#: src/l10n/sh/country.desktop:2
+msgctxt "Name"
+msgid "Saint Helena"
+msgstr "Saint Helena"
+
+#: src/l10n/si/country.desktop:2
+msgctxt "Name"
+msgid "Slovenia"
+msgstr "Eslovènia"
+
+#: src/l10n/sk/country.desktop:2
+msgctxt "Name"
+msgid "Slovakia"
+msgstr "Eslovàquia"
+
+#: src/l10n/sl/country.desktop:2
+msgctxt "Name"
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: src/l10n/sm/country.desktop:2
+msgctxt "Name"
+msgid "San Marino"
+msgstr "San Marino"
+
+#: src/l10n/sn/country.desktop:2
+msgctxt "Name"
+msgid "Senegal"
+msgstr "Senegal"
+
+#: src/l10n/so/country.desktop:2
+msgctxt "Name"
+msgid "Somalia"
+msgstr "Somàlia"
+
+#: src/l10n/southafrica.desktop:2
+msgctxt "Name"
+msgid "Africa, Southern"
+msgstr "Àfrica del Sud"
+
+#: src/l10n/southamerica.desktop:2
+msgctxt "Name"
+msgid "America, South"
+msgstr "Amèrica del Sud"
+
+#: src/l10n/southasia.desktop:2
+msgctxt "Name"
+msgid "Asia, South"
+msgstr "Àsia del Sud"
+
+#: src/l10n/southeastasia.desktop:2
+msgctxt "Name"
+msgid "Asia, South-East"
+msgstr "Àsia del Sud-est"
+
+#: src/l10n/southeurope.desktop:2
+msgctxt "Name"
+msgid "Europe, Southern"
+msgstr "Europa del Sud"
+
+#: src/l10n/sr/country.desktop:2
+msgctxt "Name"
+msgid "Suriname"
+msgstr "Surinam"
+
+#: src/l10n/ss/country.desktop:2
+msgctxt "Name"
+msgid "South Sudan"
+msgstr "Sudan del Sud"
+
+#: src/l10n/st/country.desktop:2
+msgctxt "Name"
+msgid "Sao Tome and Principe"
+msgstr "Sao Tomé i Príncipe"
+
+#: src/l10n/sv/country.desktop:2
+msgctxt "Name"
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: src/l10n/sy/country.desktop:2
+msgctxt "Name"
+msgid "Syria"
+msgstr "Síria"
+
+#: src/l10n/sz/country.desktop:2
+msgctxt "Name"
+msgid "Swaziland"
+msgstr "Swazilàndia"
+
+#: src/l10n/tc/country.desktop:2
+msgctxt "Name"
+msgid "Turks and Caicos Islands"
+msgstr "Illes Turks i Caicos"
+
+#: src/l10n/td/country.desktop:2
+msgctxt "Name"
+msgid "Chad"
+msgstr "Txad"
+
+#: src/l10n/tg/country.desktop:2
+msgctxt "Name"
+msgid "Togo"
+msgstr "Togo"
+
+#: src/l10n/th/country.desktop:2
+msgctxt "Name"
+msgid "Thailand"
+msgstr "Tailàndia"
+
+#: src/l10n/tj/country.desktop:2
+msgctxt "Name"
+msgid "Tajikistan"
+msgstr "Tadjikistan"
+
+# skip-rule: iso_639-Tokelau
+#: src/l10n/tk/country.desktop:2
+msgctxt "Name"
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: src/l10n/tl/country.desktop:2
+msgctxt "Name"
+msgid "Timor-Leste"
+msgstr "Timor Oriental"
+
+#: src/l10n/tm/country.desktop:2
+msgctxt "Name"
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: src/l10n/tn/country.desktop:2
+msgctxt "Name"
+msgid "Tunisia"
+msgstr "Tunísia"
+
+#: src/l10n/tp/country.desktop:2
+msgctxt "Name"
+msgid "East Timor"
+msgstr "Timor Oriental"
+
+#: src/l10n/tr/country.desktop:2
+msgctxt "Name"
+msgid "Turkey"
+msgstr "Turquia"
+
+#: src/l10n/tt/country.desktop:2
+msgctxt "Name"
+msgid "Trinidad and Tobago"
+msgstr "Trinitat i Tobago"
+
+#: src/l10n/tv/country.desktop:2
+msgctxt "Name"
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: src/l10n/tw/country.desktop:3
+msgctxt "Name"
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: src/l10n/tz/country.desktop:2
+msgctxt "Name"
+msgid "Tanzania, United Republic of"
+msgstr "Tanzània, República Unida de"
+
+#: src/l10n/ua/country.desktop:3
+msgctxt "Name"
+msgid "Ukraine"
+msgstr "Ucraïna"
+
+#: src/l10n/ug/country.desktop:2
+msgctxt "Name"
+msgid "Uganda"
+msgstr "Uganda"
+
+#: src/l10n/us/country.desktop:2
+msgctxt "Name"
+msgid "United States of America"
+msgstr "Estats Units d'Amèrica"
+
+#: src/l10n/uy/country.desktop:2
+msgctxt "Name"
+msgid "Uruguay"
+msgstr "Uruguai"
+
+#: src/l10n/uz/country.desktop:2
+msgctxt "Name"
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: src/l10n/va/country.desktop:2
+msgctxt "Name"
+msgid "Vatican City"
+msgstr "Ciutat del Vaticà"
+
+#: src/l10n/vc/country.desktop:2
+msgctxt "Name"
+msgid "St. Vincent and the Grenadines"
+msgstr "Saint Vincent i les Grenadines"
+
+#: src/l10n/ve/country.desktop:2
+msgctxt "Name"
+msgid "Venezuela"
+msgstr "Veneçuela"
+
+#: src/l10n/vg/country.desktop:2
+msgctxt "Name"
+msgid "Virgin Islands, British"
+msgstr "Illes Verges Britàniques"
+
+#: src/l10n/vi/country.desktop:2
+msgctxt "Name"
+msgid "Virgin Islands, U.S."
+msgstr "Illes Verges Americanes"
+
+#: src/l10n/vn/country.desktop:2
+msgctxt "Name"
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: src/l10n/vu/country.desktop:2
+msgctxt "Name"
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: src/l10n/westafrica.desktop:2
+msgctxt "Name"
+msgid "Africa, Western"
+msgstr "Àfrica Occidental"
+
+#: src/l10n/westeurope.desktop:2
+msgctxt "Name"
+msgid "Europe, Western"
+msgstr "Europa Occidental"
+
+#: src/l10n/wf/country.desktop:2
+msgctxt "Name"
+msgid "Wallis and Futuna"
+msgstr "Wallis i Futuna"
+
+#: src/l10n/ws/country.desktop:3
+msgctxt "Name"
+msgid "Samoa"
+msgstr "Samoa"
+
+#: src/l10n/ye/country.desktop:2
+msgctxt "Name"
+msgid "Yemen"
+msgstr "Iemen"
+
+#: src/l10n/yt/country.desktop:2
+msgctxt "Name"
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: src/l10n/za/country.desktop:3
+msgctxt "Name"
+msgid "South Africa"
+msgstr "Sud-àfrica"
+
+#: src/l10n/zm/country.desktop:2
+msgctxt "Name"
+msgid "Zambia"
+msgstr "Zàmbia"
+
+#: src/l10n/zw/country.desktop:2
+msgctxt "Name"
+msgid "Zimbabwe"
+msgstr "Zimbàbue"
+
+#: src/solid-networkstatus/kded/networkstatus.desktop:2
+msgctxt "Name"
+msgid "Network Status"
+msgstr "Estat de la xarxa"
+
+#: src/solid-networkstatus/kded/networkstatus.desktop:66
+msgctxt "Comment"
+msgid ""
+"Tracks status of network interfaces and provides notification to "
+"applications using the network."
+msgstr ""
+"Fa un seguiment de l'estat de les interfícies de xarxa i proporciona "
+"notificació a les aplicacions usant la xarxa."

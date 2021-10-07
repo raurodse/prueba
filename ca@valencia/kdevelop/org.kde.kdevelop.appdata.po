@@ -1,0 +1,64 @@
+# Translation of org.kde.kdevelop.appdata.po to Catalan (Valencian)
+# Copyright (C) 2014-2017 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdevelop appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2017-04-10 02:42+0200\n"
+"PO-Revision-Date: 2017-04-10 11:05+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.kdevelop.appdata.xml:6
+msgid "KDevelop"
+msgstr "KDevelop"
+
+#. (itstool) path: component/summary
+#: org.kde.kdevelop.appdata.xml:7
+msgid ""
+"Featureful, plugin-extensible IDE for C/C++ and other programming languages"
+msgstr ""
+"És un IDE, extensible amb connectors, amb totes les característiques per a C/"
+"C++ i altres llenguatges de programació."
+
+#. (itstool) path: description/p
+#: org.kde.kdevelop.appdata.xml:9
+msgid ""
+"KDevelop is a Free and Open Source integrated development environment (IDE)."
+msgstr ""
+"El KDevelop és un entorn de desenvolupament integrat (IDE) lliure i de codi "
+"obert."
+
+#. (itstool) path: description/p
+#: org.kde.kdevelop.appdata.xml:10
+msgid ""
+"It provides editing, navigation and debugging features for several "
+"programming languages, as well as integration with multiple build systems "
+"and version-control systems, using a plugin-based architecture."
+msgstr ""
+"Proporciona característiques per a l'edició, navegació i depuració per a "
+"diversos llenguatges de programació, així com la integració amb múltiples "
+"sistemes de construcció i sistemes de control de versions, emprant una "
+"arquitectura basada en connectors."
+
+#. (itstool) path: description/p
+#: org.kde.kdevelop.appdata.xml:11
+msgid ""
+"KDevelop has parser backends for C, C++ and Javascript/QML, with further "
+"external plugins supporting e.g. PHP or Python."
+msgstr ""
+"El KDevelop disposa de dorsals d'analitzador per a C, C ++ i Javascript/QML, "
+"amb altres connectors externs que implementen, p. ex., PHP o Python."

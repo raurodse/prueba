@@ -1,0 +1,367 @@
+# Translation of granatier._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2002-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 2002, 2005.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2003, 2020, 2021.
+# Albert Astals Cid <aacid@kde.org>, 2003, 2004, 2005, 2007, 2008, 2009.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2004, 2005, 2006, 2008, 2010, 2012, 2013, 2015, 2021.
+# Orestes Mas <orestes@tsc.upc.edu>, 2009.
+# Manuel Tortosa <manutortosa@chakra-project.org>, 2009, 2010.
+# Manuel Tortosa Moreno <manutortosa@chakra-project.org>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: granatier desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-19 00:25+0000\n"
+"PO-Revision-Date: 2021-06-23 13:15+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 21.04.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: \n"
+"X-Accelerator-Marker: &\n"
+
+#: arenas/clanbomber_Arena.desktop:2
+msgctxt "Name"
+msgid "Arena"
+msgstr "Arena"
+
+#: arenas/clanbomber_Arena.desktop:52 arenas/clanbomber_Big_Block.desktop:49
+#: arenas/clanbomber_Big_Standard.desktop:44
+#: arenas/clanbomber_Blast_Matrix.desktop:45
+#: arenas/clanbomber_Bloody_Ring.desktop:46
+#: arenas/clanbomber_Boiling_Egg.desktop:48
+#: arenas/clanbomber_Bomb_Attack.desktop:47
+#: arenas/clanbomber_Broken_Heart.desktop:48
+#: arenas/clanbomber_Crammed.desktop:46
+#: arenas/clanbomber_Death_Corridor.desktop:48
+#: arenas/clanbomber_Dilemma.desktop:48 arenas/clanbomber_FearCircle.desktop:47
+#: arenas/clanbomber_FearCircle_Remix.desktop:46
+#: arenas/clanbomber_FireWheels.desktop:47
+#: arenas/clanbomber_Football.desktop:49
+#: arenas/clanbomber_Four_Instance.desktop:45
+#: arenas/clanbomber_Ghostbear.desktop:45
+#: arenas/clanbomber_Hard_Work.desktop:48 arenas/clanbomber_Hole_Run.desktop:45
+#: arenas/clanbomber_Huge_Standard.desktop:45
+#: arenas/clanbomber_Juicy_Lucy.desktop:46 arenas/clanbomber_Kitchen.desktop:48
+#: arenas/clanbomber_Meeting.desktop:50 arenas/clanbomber_MungoBane.desktop:46
+#: arenas/clanbomber_Obstacle_Race.desktop:47
+#: arenas/clanbomber_Overkill.desktop:45
+#: arenas/clanbomber_Prison_Cells.desktop:47
+#: arenas/clanbomber_Redirection.desktop:48
+#: arenas/clanbomber_Sixty_Nine.desktop:47
+#: arenas/clanbomber_Small_Standard.desktop:45
+#: arenas/clanbomber_Snake_Race.desktop:46
+#: arenas/clanbomber_Tiny_Standard.desktop:44
+#: arenas/clanbomber_Whole_Mess.desktop:44
+msgctxt "Description"
+msgid "Clanbomber Import"
+msgstr "Importació del Clanbomber"
+
+#: arenas/clanbomber_Big_Block.desktop:2
+msgctxt "Name"
+msgid "Big Block"
+msgstr "Gran bloc"
+
+#: arenas/clanbomber_Big_Standard.desktop:2
+msgctxt "Name"
+msgid "Clanbomber Big Standard"
+msgstr "Gran estàndard del Clanbomber"
+
+#: arenas/clanbomber_Blast_Matrix.desktop:2
+msgctxt "Name"
+msgid "Blast Matrix"
+msgstr "Matriu explosiva"
+
+#: arenas/clanbomber_Bloody_Ring.desktop:2
+msgctxt "Name"
+msgid "Bloody Ring"
+msgstr "Anell sagnant"
+
+#: arenas/clanbomber_Boiling_Egg.desktop:2
+msgctxt "Name"
+msgid "Boiling Egg"
+msgstr "Ou bullint"
+
+#: arenas/clanbomber_Bomb_Attack.desktop:2
+msgctxt "Name"
+msgid "Bomb Attack"
+msgstr "Bombardeig"
+
+#: arenas/clanbomber_Broken_Heart.desktop:2
+msgctxt "Name"
+msgid "Broken Heart"
+msgstr "Cor trencat"
+
+#: arenas/clanbomber_Crammed.desktop:2
+msgctxt "Name"
+msgid "Crammed"
+msgstr "Amuntegats"
+
+#: arenas/clanbomber_Death_Corridor.desktop:2
+msgctxt "Name"
+msgid "Death Corridor"
+msgstr "El corredor de la mort"
+
+#: arenas/clanbomber_Dilemma.desktop:2
+msgctxt "Name"
+msgid "Dilemma"
+msgstr "Dilema"
+
+#: arenas/clanbomber_FearCircle.desktop:2
+msgctxt "Name"
+msgid "Fear Circle"
+msgstr "Cercle ferotge"
+
+#: arenas/clanbomber_FearCircle_Remix.desktop:2
+msgctxt "Name"
+msgid "Fear Circle Remix"
+msgstr "Remix del cercle ferotge"
+
+#: arenas/clanbomber_FireWheels.desktop:2
+msgctxt "Name"
+msgid "Fire Wheels"
+msgstr "Rodes de foc"
+
+#: arenas/clanbomber_Football.desktop:2
+msgctxt "Name"
+msgid "Football"
+msgstr "Futbol"
+
+#: arenas/clanbomber_Four_Instance.desktop:2
+msgctxt "Name"
+msgid "Four Instance"
+msgstr "Quatre instàncies"
+
+#: arenas/clanbomber_Ghostbear.desktop:2
+msgctxt "Name"
+msgid "Ghostbear"
+msgstr "Ós fantasma"
+
+#: arenas/clanbomber_Hard_Work.desktop:2
+msgctxt "Name"
+msgid "Hard Work"
+msgstr "Treball de valent"
+
+#: arenas/clanbomber_Hole_Run.desktop:2
+msgctxt "Name"
+msgid "Hole Run"
+msgstr "Forat ràpid"
+
+#: arenas/clanbomber_Huge_Standard.desktop:2
+msgctxt "Name"
+msgid "Clanbomber Huge Standard"
+msgstr "Immens estàndard del Clanbomber"
+
+#: arenas/clanbomber_Juicy_Lucy.desktop:2
+msgctxt "Name"
+msgid "Juicy Lucy"
+msgstr "Saborosa Lucy"
+
+#: arenas/clanbomber_Kitchen.desktop:2
+msgctxt "Name"
+msgid "Kitchen"
+msgstr "Gatet"
+
+#: arenas/clanbomber_Meeting.desktop:2
+msgctxt "Name"
+msgid "Meeting"
+msgstr "Trobada"
+
+#: arenas/clanbomber_MungoBane.desktop:2
+msgctxt "Name"
+msgid "Mungo Bane"
+msgstr "La perdició d'en Mungo"
+
+#: arenas/clanbomber_Obstacle_Race.desktop:2
+msgctxt "Name"
+msgid "Obstacle Race"
+msgstr "Carrera d'obstacles"
+
+#: arenas/clanbomber_Overkill.desktop:2
+msgctxt "Name"
+msgid "Overkill"
+msgstr "Rematada"
+
+#: arenas/clanbomber_Prison_Cells.desktop:2
+msgctxt "Name"
+msgid "Prison Cells"
+msgstr "Cel·les de presó"
+
+#: arenas/clanbomber_Redirection.desktop:2
+msgctxt "Name"
+msgid "Redirection"
+msgstr "Redirecció"
+
+#: arenas/clanbomber_Sixty_Nine.desktop:2
+msgctxt "Name"
+msgid "Sixty Nine"
+msgstr "Seixanta-nou"
+
+#: arenas/clanbomber_Small_Standard.desktop:2
+msgctxt "Name"
+msgid "Clanbomber Small Standard"
+msgstr "Petit estàndard del Clanbomber"
+
+#: arenas/clanbomber_Snake_Race.desktop:2
+msgctxt "Name"
+msgid "Snake Race"
+msgstr "Cursa de serps"
+
+#: arenas/clanbomber_Tiny_Standard.desktop:2
+msgctxt "Name"
+msgid "Clanbomber Tiny Standard"
+msgstr "Minúscul estàndard del Clanbomber"
+
+#: arenas/clanbomber_Whole_Mess.desktop:2
+msgctxt "Name"
+msgid "Whole Mess"
+msgstr "Desordre total"
+
+#: arenas/clover.desktop:2
+msgctxt "Name"
+msgid "The four-leaf clover"
+msgstr "El trèvol de quatre fulles"
+
+#: arenas/clover.desktop:44
+msgctxt "Description"
+msgid ""
+"The four-leaf clover is an uncommon variation of the common, three-leaved "
+"clover. According to tradition, such leaves bring good luck to their "
+"finders, especially if found accidentally. According to legend, each leaf "
+"represents something: the first is for hope, the second is for faith, the "
+"third is for love, and the fourth is for luck."
+msgstr ""
+"El trèvol de quatre fulles és una variació poc comuna del trèvol normal de "
+"tres fulles. Segons la tradició, aquestes fulles, porten bona sort als que "
+"els troben, especialment si es troben accidentalment. Segons la llegenda, "
+"cada fulla representa una cosa: la primera és per a l'esperança, la segona "
+"és per a la fe, la tercera és per a l'amor, i la quarta és per a la sort."
+
+#: arenas/crazy.desktop:2
+msgctxt "Name"
+msgid "Crazy"
+msgstr "Bogeria"
+
+#: arenas/crazy.desktop:48
+msgctxt "Description"
+msgid "Crazy Arena"
+msgstr "Camp de batalla boig"
+
+#: arenas/granatier.desktop:2 src/org.kde.granatier.desktop:3
+#: themes/granatier.desktop:2
+msgctxt "Name"
+msgid "Granatier"
+msgstr "Granatier"
+
+#: arenas/granatier.desktop:48
+msgctxt "Description"
+msgid "Default Granatier Arena"
+msgstr "Camp de batalla predeterminat del Granatier"
+
+#: arenas/labyrinth.desktop:2
+msgctxt "Name"
+msgid "Labyrinth"
+msgstr "Laberint"
+
+#: arenas/labyrinth.desktop:52
+msgctxt "Description"
+msgid "Labyrinth Arena"
+msgstr "Camp de batalla laberíntic"
+
+#: arenas/threeofthree.desktop:2
+msgctxt "Name"
+msgid "Three of Three"
+msgstr "Tres de tres"
+
+#: arenas/threeofthree.desktop:48
+msgctxt "Description"
+msgid "Three of Three Arena"
+msgstr "Camp de batalla tres de tres"
+
+#: players/player1.desktop:2
+msgctxt "Name"
+msgid "Player 1"
+msgstr "Jugador 1"
+
+#: players/player1.desktop:49
+msgctxt "Description"
+msgid "This is Player 1"
+msgstr "Aquest és el jugador 1"
+
+#: players/player2.desktop:2
+msgctxt "Name"
+msgid "Player 2"
+msgstr "Jugador 2"
+
+#: players/player2.desktop:49
+msgctxt "Description"
+msgid "This is Player 2"
+msgstr "Aquest és el jugador 2"
+
+#: players/player3.desktop:2
+msgctxt "Name"
+msgid "Player 3"
+msgstr "Jugador 3"
+
+#: players/player3.desktop:48
+msgctxt "Description"
+msgid "This is Player 3"
+msgstr "Aquest és el jugador 3"
+
+#: players/player4.desktop:2
+msgctxt "Name"
+msgid "Player 4"
+msgstr "Jugador 4"
+
+#: players/player4.desktop:48
+msgctxt "Description"
+msgid "This is Player 4"
+msgstr "Aquest és el jugador 4"
+
+#: players/player5.desktop:2
+msgctxt "Name"
+msgid "Player 5"
+msgstr "Jugador 5"
+
+#: players/player5.desktop:48
+msgctxt "Description"
+msgid "This is Player 5"
+msgstr "Aquest és el jugador 5"
+
+#: src/org.kde.granatier.desktop:49
+msgctxt "GenericName"
+msgid "Bomberman clone"
+msgstr "Un clon del Bomberman"
+
+#: themes/clanbomber.desktop:2
+msgctxt "Name"
+msgid "Clanbomber"
+msgstr "Clanbomber"
+
+#: themes/clanbomber.desktop:51
+msgctxt "Description"
+msgid "Clanbomber Theme"
+msgstr "Tema Clanbomber"
+
+#: themes/granatier.desktop:48
+msgctxt "Description"
+msgid "Granatier Theme"
+msgstr "Tema Granatier"
+
+#: themes/waterbomb.desktop:2
+msgctxt "Name"
+msgid "Water Bomb"
+msgstr "Bomba d'aigua"
+
+#: themes/waterbomb.desktop:47
+msgctxt "Description"
+msgid "Water Bomb Theme"
+msgstr "Tema bomba d'aigua"

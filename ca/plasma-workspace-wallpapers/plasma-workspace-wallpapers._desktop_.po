@@ -1,0 +1,159 @@
+# Translation of plasma-workspace-wallpapers._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2014-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2019.
+# Empar Montoro Martín <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-workspace-wallpapers desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-09-13 00:28+0000\n"
+"PO-Revision-Date: 2019-07-22 08:34+0200\n"
+"Last-Translator: Empar Montoro Martín <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 19.04.2\n"
+
+#: Altai/metadata.desktop:2
+msgctxt "Name"
+msgid "Altai"
+msgstr ""
+
+#: Autumn/metadata.desktop:2
+msgctxt "Name"
+msgid "Autumn 5.5"
+msgstr "Tardor 5.5"
+
+#: BytheWater/metadata.desktop:2
+msgctxt "Name"
+msgid "By the water"
+msgstr "Per l'aigua"
+
+#: Canopee/metadata.desktop:2
+msgctxt "Name"
+msgid "Canopée"
+msgstr "Canopée"
+
+#: Cascade/metadata.desktop:2
+msgctxt "Name"
+msgid "Cascade"
+msgstr "Cascade"
+
+#: Cluster/metadata.desktop:2
+msgctxt "Name"
+msgid "Cluster"
+msgstr "Cúmul"
+
+#: ColdRipple/metadata.desktop:2
+msgctxt "Name"
+msgid "Cold Ripple"
+msgstr "Onada de fred"
+
+#: ColorfulCups/metadata.desktop:2
+msgctxt "Name"
+msgid "Colorful Cups"
+msgstr "Tasses de colors"
+
+#: DarkestHour/metadata.desktop:2
+msgctxt "Name"
+msgid "Darkest Hour"
+msgstr "L'hora més fosca"
+
+#: Elarun/metadata.desktop:2
+msgctxt "Name"
+msgid "Elarun"
+msgstr "Elarun"
+
+#: EveningGlow/metadata.desktop:2
+msgctxt "Name"
+msgid "Evening Glow"
+msgstr "Lluentor de capvespre"
+
+#: FallenLeaf/metadata.desktop:2
+msgctxt "Name"
+msgid "Fallen Leaf"
+msgstr "Fulla caiguda"
+
+#: Flow/metadata.desktop:2
+msgctxt "Name"
+msgid "Flow"
+msgstr ""
+
+#: FlyingKonqui/metadata.desktop:2
+msgctxt "Name"
+msgid "Flying Konqui"
+msgstr "Konqui volant"
+
+#: Grey/metadata.desktop:2
+msgctxt "Name"
+msgid "Grey"
+msgstr "Gris"
+
+#: IceCold/metadata.desktop:2
+msgctxt "Name"
+msgid "Ice Cold"
+msgstr ""
+
+#: Kite/metadata.desktop:2
+msgctxt "Name"
+msgid "Kite"
+msgstr "Catxerulo"
+
+#: Kokkini/metadata.desktop:2
+msgctxt "Name"
+msgid "Kokkini"
+msgstr "Kokkini"
+
+#: MilkyWay/metadata.desktop:2
+msgctxt "Name"
+msgid "Milky Way"
+msgstr ""
+
+#: OneStandsOut/metadata.desktop:2
+msgctxt "Name"
+msgid "One Stands Out"
+msgstr "Una que destaca"
+
+#: Opal/metadata.desktop:2
+msgctxt "Name"
+msgid "Opal"
+msgstr "Opal"
+
+#: PastelHills/metadata.desktop:2
+msgctxt "Name"
+msgid "Pastel Hills"
+msgstr "Pastel Hills"
+
+#: Path/metadata.desktop:2
+msgctxt "Name"
+msgid "Path"
+msgstr "Camí"
+
+#: SafeLanding/metadata.desktop:2
+msgctxt "Name"
+msgid "Safe Landing"
+msgstr "Aterratge segur"
+
+#: Shell/metadata.desktop:2
+msgctxt "Name"
+msgid "Shell"
+msgstr ""
+
+#: summer_1am/metadata.desktop:2
+msgctxt "Name"
+msgid "summer 1am"
+msgstr "Estiu a la 1 de la matinada"
+
+#: Volna/metadata.desktop:2
+msgctxt "Name"
+msgid "Volna"
+msgstr ""

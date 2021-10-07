@@ -1,0 +1,158 @@
+# Translation of calligraplan._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2018-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2018, 2019.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: calligraplan desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-09-01 00:27+0000\n"
+"PO-Revision-Date: 2021-08-14 20:29+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 21.07.90\n"
+
+#: src/libs/kernel/plan_schedulerplugin.desktop:2
+msgctxt "Name"
+msgid "Plan Scheduler Plugin"
+msgstr "Connector de planificador del Plan"
+
+#: src/libs/kernel/plan_schedulerplugin.desktop:28
+msgctxt "Comment"
+msgid "A plugin that calculates a project schedule"
+msgstr "Un connector que calcula un planificador de projectes"
+
+#: src/plan/org.kde.calligraplan.desktop:2
+msgctxt "Name"
+msgid "Plan"
+msgstr "Plan"
+
+#: src/plan/org.kde.calligraplan.desktop:29
+#: src/workpackage/org.kde.calligraplanwork.desktop:25
+msgctxt "GenericName"
+msgid "Project Management"
+msgstr "Gestió de projectes"
+
+#: src/plan/planpart.desktop:2
+msgctxt "Name"
+msgid "Calligra Project Management Component"
+msgstr "Component de gestió de projectes del Calligra"
+
+#: src/plan/templates/Simple/8HourDay-40HourWeek.desktop:4
+msgctxt "Name"
+msgid "8 hour day, 40 hour week"
+msgstr "Dia de 8 hores, setmana de 40 hores"
+
+#: src/plan/templates/Simple/Basicproject.desktop:2
+msgctxt "Name"
+msgid "Basic project"
+msgstr "Projecte bàsic"
+
+#: src/plan/templates/Simple/.directory:2
+#: src/workpackage/templates/Simple/.directory:2
+msgctxt "Name"
+msgid "Simple"
+msgstr "Simple"
+
+#: src/plan/templates/Simple/Plain.desktop:4
+msgctxt "Name"
+msgid "Plain"
+msgstr "Normal"
+
+#: src/plugins/filters/icalendar/export/plan_icalendar_export.desktop:6
+msgctxt "Name"
+msgid "Plan iCalendar Export Filter"
+msgstr "Filtre d'exportació iCalendar del Plan"
+
+#: src/plugins/filters/kplato/import/plan_kplato_import.desktop:3
+msgctxt "Name"
+msgid "Plan KPlato Import Filter"
+msgstr "Filtre d'importació del KPlato per al Plan"
+
+#: src/plugins/filters/planner/import/plan_planner_import.desktop:3
+msgctxt "Name"
+msgid "Plan Planner Import Filter"
+msgstr "Filtre d'importació del Planner per al Plan"
+
+#: src/plugins/schedulers/tj/plantjscheduler.desktop:6
+msgctxt "Name"
+msgid "TJ Scheduler"
+msgstr "Planificador TJ"
+
+#: src/plugins/schedulers/tj/plantjscheduler.desktop:31
+msgctxt "Comment"
+msgid "The TaskJuggler scheduler"
+msgstr "El planificador TaskJuggler"
+
+#: src/plugins/scripting/planscripting.desktop:2
+msgctxt "Name"
+msgid "Plan Scripting Plugin"
+msgstr "Connector per a crear scripts del Plan"
+
+#: src/portfolio/calligraplanportfoliopart.desktop:3
+msgctxt "Name"
+msgid "CalligraPlanPortfolioPart"
+msgstr "Part de portafolis del Calligra Plan"
+
+#: src/portfolio/org.kde.calligraplanportfolio.desktop:2
+msgctxt "Name"
+msgid "Plan Portfolio"
+msgstr "Portafolis del Plan"
+
+#: src/portfolio/org.kde.calligraplanportfolio.desktop:18
+msgctxt "GenericName"
+msgid "Project Portfolio Management"
+msgstr "Gestió del portafolis de projectes"
+
+#: src/servicetypes/calligraplan_filter.desktop:4
+msgctxt "Comment"
+msgid "Calligra Filter"
+msgstr "Filtre del Calligra"
+
+#: src/servicetypes/calligraplan_part.desktop:4
+msgctxt "Comment"
+msgid "Calligra Component"
+msgstr "Component del Calligra"
+
+#: src/workpackage/org.kde.calligraplanwork.desktop:2
+msgctxt "Name"
+msgid "Plan WorkPackage Handler"
+msgstr "Gestor de paquets de faena del Plan"
+
+#: src/workpackage/org.kde.calligraplanwork.desktop:51
+msgctxt "Comment"
+msgid "Work Package handler for the Plan project planning tool"
+msgstr ""
+"Gestor de paquets de faena per a l'eina de planificació de projectes Plan"
+
+#: src/workpackage/templates/Simple/Empty.desktop:5
+msgctxt "Name"
+msgid "Empty Document"
+msgstr "Document buit"
+
+#: src/workpackage/templates/Simple/Empty.desktop:31
+msgctxt "Comment"
+msgid "Creates an empty document"
+msgstr "Crea un document buit"
+
+#~ msgctxt "Comment"
+#~ msgid "GUI functionality for Plan"
+#~ msgstr "Funcionalitat d'IGU per al Plan"
+
+#~ msgctxt "Name"
+#~ msgid "RCPS Scheduler"
+#~ msgstr "Planificador RCPS"
+
+#~ msgctxt "Comment"
+#~ msgid "Genetics based Resource Constrained Project Scheduler"
+#~ msgstr ""
+#~ "Recurs de conflictes de planificador de projectes basat en la genètica"

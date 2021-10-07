@@ -1,0 +1,150 @@
+# Translation of org.kde.kontact.appdata.po to Catalan (Valencian)
+# Copyright (C) 2014-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2017, 2018, 2020.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2017, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kontact appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-01-11 02:49+0100\n"
+"PO-Revision-Date: 2021-01-11 11:59+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/developer_name
+#: org.kde.kontact.appdata.xml:6
+msgid "The KDE Community"
+msgstr "La comunitat KDE"
+
+#. (itstool) path: component/name
+#: org.kde.kontact.appdata.xml:7
+msgid "Kontact"
+msgstr "Kontact"
+
+#. (itstool) path: component/summary
+#: org.kde.kontact.appdata.xml:8
+msgid ""
+"Handle all your emails, calendars, contacts and more within a single window"
+msgstr ""
+"Gestiona tots els correus electrònics, calendaris, contactes i més en una "
+"sola finestra"
+
+#. (itstool) path: description/p
+#: org.kde.kontact.appdata.xml:10
+msgid ""
+"Handle your email, calendar, contacts and other personal data with Kontact. "
+"Kontact groups everything together in one place and helps you manage your "
+"communications, organize your day and work with your colleagues."
+msgstr ""
+"Controleu el vostre correu electrònic, calendari, contactes i altres dades "
+"personals amb el Kontact. El Kontact agrupa tot junt en un mateix lloc i "
+"ajuda a gestionar les vostres comunicacions, organitzar el vostre dia i "
+"treballar amb els vostres companys."
+
+#. (itstool) path: description/p
+#: org.kde.kontact.appdata.xml:13
+msgid ""
+"Kontact unifies several personal information management applications into a "
+"single window to give you the best possible experience and boost your "
+"productivity. With Kontact you can use all the tools of our powerful suite "
+"in one place. Unlike proprietary web applications we value your privacy and "
+"support open standards, which is why Kontact gives you full control over "
+"your data. You can of course also access your data offline if you want to."
+msgstr ""
+"El Kontact unifica diverses aplicacions per a la gestió de la informació "
+"personal en una sola finestra per a oferir-vos la millor experiència "
+"possible i així millorar la vostra productivitat. Amb el Kontact podreu usar "
+"totes les eines de la nostra poderosa suite en un sol lloc. A diferència "
+"d'aplicacions web propietàries, nosaltres valorem la vostra privadesa i "
+"implementem els estàndards oberts, de manera que el Kontact vos donarà el "
+"control total de les vostres dades. Per descomptat, si voleu, també podreu "
+"accedir a les vostres dades fora de línia."
+
+#. (itstool) path: description/p
+#: org.kde.kontact.appdata.xml:16
+msgid "Kontact consists of several well-integrated components:"
+msgstr "El Kontact consta de diversos components ben integrats:"
+
+#. (itstool) path: ul/li
+#: org.kde.kontact.appdata.xml:18
+msgid ""
+"KMail - a powerful and feature-rich email client with support for a wide "
+"range of email providers."
+msgstr ""
+"KMail: un client de correu electrònic potent i ric en característiques amb "
+"suport per a una àmplia varietat de proveïdors de correu electrònic."
+
+#. (itstool) path: ul/li
+#: org.kde.kontact.appdata.xml:19
+msgid ""
+"KOrganizer - a calendar and scheduling component of Kontact which is able to "
+"work with NextCloud, Kolab, Google Calendar and other calendaring services."
+msgstr ""
+"KOrganizer: un component de calendari i programació del Kontact, el qual pot "
+"treballar amb el NextCloud, Kolab, Google Calendar i altres serveis de "
+"calendari."
+
+#. (itstool) path: ul/li
+#: org.kde.kontact.appdata.xml:20
+msgid ""
+"KAddressBook - an easy to use contact management tool that can synchronize "
+"contacts with many popular services."
+msgstr ""
+"KAddressBook: una eina per a la gestió dels contactes fàcil d'usar que pot "
+"sincronitzar contactes amb molts serveis populars."
+
+#. (itstool) path: ul/li
+#: org.kde.kontact.appdata.xml:21
+msgid ""
+"Akregator - a news reader with powerful search and archiving functionality."
+msgstr ""
+"Akregator: un lector de notícies amb una potent funcionalitat de cerca i "
+"arxiu."
+
+#. (itstool) path: ul/li
+#: org.kde.kontact.appdata.xml:22
+msgid ""
+"KNotes - a simple program that lets you write the computer equivalent of "
+"sticky notes."
+msgstr ""
+"KNotes: un programa senzill que permet escriure l'equivalent a l'ordinador a "
+"les notes adhesives."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kontact.appdata.xml:33
+msgid "KMail, the email component of Kontact"
+msgstr "El KMail, el component de correu electrònic del Kontact"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kontact.appdata.xml:37
+msgid ""
+"Organize your time, manage events, create todos or schedule meetings with "
+"KOrganizer"
+msgstr ""
+"Organitzeu el vostre temps, gestioneu els esdeveniments, creeu tasques "
+"pendents o programeu reunions amb el KOrganizer"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kontact.appdata.xml:41
+msgid "KAddressBook provides an easy way to manage your contacts"
+msgstr ""
+"El KAddressBook proporciona una manera fàcil de gestionar els vostres "
+"contactes"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kontact.appdata.xml:45
+msgid "Stay on top of the new with Akregator, our news reader"
+msgstr ""
+"Manteniu-vos al corrent de les notícies amb l'Akregator, el nostre lector de "
+"notícies"

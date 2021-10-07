@@ -1,0 +1,64 @@
+# Translation of org.kde.skanpage.appdata.po to Catalan (Valencian)
+# Copyright (C) 2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: skanpage appdata files\n"
+"POT-Creation-Date: 2021-08-03 00:19+0000\n"
+"PO-Revision-Date: 2021-08-03 10:39+0200\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.12.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.skanpage.appdata.xml:11
+msgid "Skanpage"
+msgstr "Skanpage"
+
+#. (itstool) path: component/summary
+#: org.kde.skanpage.appdata.xml:12
+msgid "Simple, multi-page scanning application"
+msgstr "Aplicació senzilla d'escaneig multipàgina"
+
+#. (itstool) path: description/p
+#: org.kde.skanpage.appdata.xml:14
+msgid ""
+"Skanpage is a simple scanning application designed for multi-page scanning "
+"and saving of documents and images."
+msgstr ""
+"L'Skanpage és una aplicació d'escaneig dissenyada per a l'escaneig "
+"multipàgina i per al guardat de documents i imatges."
+
+#. (itstool) path: description/p
+#: org.kde.skanpage.appdata.xml:15
+msgid "Features:"
+msgstr "Característiques:"
+
+#. (itstool) path: ul/li
+#: org.kde.skanpage.appdata.xml:17
+msgid "Scanning from flatbed and ADF scanners"
+msgstr "Escaneig amb escàners de superfície plana i ADF"
+
+#. (itstool) path: ul/li
+#: org.kde.skanpage.appdata.xml:18
+msgid "Configurable options for scanning device"
+msgstr "Opcions configurables per al dispositiu d'escaneig"
+
+#. (itstool) path: ul/li
+#: org.kde.skanpage.appdata.xml:19
+msgid "Reordering, rotation and deletion of scanned pages"
+msgstr "Reordenació, gir i supressió de pàgines escanejades"
+
+#. (itstool) path: ul/li
+#: org.kde.skanpage.appdata.xml:20
+msgid "Saving to multi-page PDF documents and image files"
+msgstr "Guardat en documents PDF multipàgina i fitxers d'imatge"

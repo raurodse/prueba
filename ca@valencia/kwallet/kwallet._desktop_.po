@@ -1,0 +1,81 @@
+# Translation of kwallet._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2000-2014 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 2000, 2004, 2005, 2006.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2002, 2003, 2012, 2014.
+# Albert Astals Cid <aacid@kde.org>, 2004, 2005.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014.
+# Robert Millan <rmh@aybabtu.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kwallet desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-08-08 00:24+0000\n"
+"PO-Revision-Date: 2014-06-22 17:16+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: src/runtime/kwalletd/kwalletd5.desktop:8
+msgctxt "Name"
+msgid "Wallet Server"
+msgstr "Servidor de carteres"
+
+#: src/runtime/kwalletd/kwalletd5.desktop:90
+msgctxt "Comment"
+msgid "Wallet Server"
+msgstr "Servidor de carteres"
+
+#: src/runtime/kwalletd/kwalletd.notifyrc:3
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Wallet"
+msgctxt "Comment"
+msgid "KDE Wallet"
+msgstr "Cartera"
+
+#: src/runtime/kwalletd/kwalletd.notifyrc:33
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Wallet"
+msgctxt "Name"
+msgid "KDE Wallet"
+msgstr "Cartera"
+
+#: src/runtime/kwalletd/kwalletd.notifyrc:65
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Needs password"
+msgctxt "Name"
+msgid "Needs Password"
+msgstr "Cal una contrasenya"
+
+#: src/runtime/kwalletd/kwalletd.notifyrc:95
+msgctxt "Comment"
+msgid "The KDE Wallet Daemon requests a password"
+msgstr "El dimoni de carteres del KDE demana una contrasenya"
+
+#: src/runtime/kwalletd/kwalletd.notifyrc:172
+msgctxt "Name"
+msgid "Sync Failed"
+msgstr "La sincronització ha fallat"
+
+#: src/runtime/kwalletd/kwalletd.notifyrc:222
+msgctxt "Comment"
+msgid "KDE Wallet System failed to sync a wallet file to disk"
+msgstr ""
+"El sistema de carteres del KDE ha fallat en sincronitzar un fitxer de "
+"cartera al disc"
+
+#~ msgctxt "Name"
+#~ msgid "kwalletd"
+#~ msgstr "kwalletd"

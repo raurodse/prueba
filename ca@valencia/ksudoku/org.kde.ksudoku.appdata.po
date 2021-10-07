@@ -1,0 +1,47 @@
+# Translation of org.kde.ksudoku.appdata.po to Catalan (Valencian)
+# Copyright (C) 2015-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2017, 2018.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: ksudoku appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-04-08 03:18+0200\n"
+"PO-Revision-Date: 2020-12-09 11:44+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 20.08.2\n"
+
+#. (itstool) path: component/name
+#: org.kde.ksudoku.appdata.xml:11
+msgid "KSudoku"
+msgstr "KSudoku"
+
+#. (itstool) path: component/summary
+#: org.kde.ksudoku.appdata.xml:12
+msgid "Complete a numeric puzzle with the numbers from one to nine"
+msgstr ""
+"Completeu un trencaclosques numèric amb nombres des de l'ú fins al nou."
+
+#. (itstool) path: description/p
+#: org.kde.ksudoku.appdata.xml:14
+msgid ""
+"KSudoku is a free version of the popular logic game Sudoku developed by the "
+"KDE community. The game is to fill a nine by nine grid with the numbers from "
+"one to nine filling the rows, columns and three by three squares without "
+"repeating a value on them."
+msgstr ""
+"El KSudoku és una versió lliure del popular joc de lògica Sudoku "
+"desenvolupat per la comunitat KDE. El joc consisteix en omplir una "
+"quadrícula de nou per nou amb els nombres des de l'ú fins al nou a les "
+"files, columnes i els quadrats de tres per tres sense repetir cap valor."

@@ -1,0 +1,2644 @@
+# Translation of okular-kde-org_www.po to Catalan (Valencian)
+# Copyright (C) 2018-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2018, 2019, 2020, 2021.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2019, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-okular-kde-org\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-27 02:38+0100\n"
+"PO-Revision-Date: 2021-09-05 11:35+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.12.0\n"
+
+#: config.yaml:0
+msgid "Okular"
+msgstr "Okular"
+
+#: config.yaml:0
+msgid "About"
+msgstr "Quant a"
+
+#: config.yaml:0
+msgid "Donate"
+msgstr "Donatius"
+
+#: content/_index.md:0
+msgid "Okular - The Universal PDF Reader"
+msgstr "Okular - El lector universal de PDF"
+
+#: content/build-it.md:0
+msgid "Compiling Okular from source on Linux"
+msgstr "Compilació de l'Okular a partir del codi font en el Linux"
+
+#: content/build-it.md:0
+msgid "Build It"
+msgstr "Construcció"
+
+#: content/build-it.md:5
+msgid ""
+"<span style=\"background-color:#e8f4fa\">If you are looking for the pre-"
+"compiled packages, visit the [download page](/download/). You can check the "
+"packaging status [here](https://repology.org/project/okular/versions)</span>"
+msgstr ""
+"<span style=\"background-color:#e8f4fa\">Si esteu cercant els paquets "
+"precompilats, visiteu la [pàgina de baixades](/download/). Podreu comprovar "
+"l'estat de l'empaquetament [ací](https://repology.org/project/okular/"
+"versions)</span>"
+
+#: content/build-it.md:7
+msgid ""
+"If you want to compile Okular, you need to have a compilation environment "
+"set up, which, in general, should be provided by your distribution. In case "
+"you want to compile the development version of Okular, please refer to Build "
+"from source at KDE's Community Wiki."
+msgstr ""
+"Si voleu compilar l'Okular, cal tindre establit un entorn de compilació, que "
+"en general, l'hauria de proporcionar la vostra distribució. En cas que "
+"vulgueu compilar la versió de desenvolupament de l'Okular, vegeu la "
+"construcció a partir del codi font al Wiki de la Comunitat KDE."
+
+#: content/build-it.md:9
+msgid "You can download and compile Okular this way:"
+msgstr "Podeu baixar i compilar l'Okular d'aquesta manera:"
+
+# skip-rule: t-acc_obe
+#: content/build-it.md:11
+msgid "`git clone https://invent.kde.org/graphics/okular.git`"
+msgstr "`git clone https://invent.kde.org/graphics/okular.git`"
+
+# skip-rule: t-acc_obe
+#: content/build-it.md:12
+msgid "`cd okular`"
+msgstr "`cd okular`"
+
+# skip-rule: t-acc_obe
+#: content/build-it.md:13
+msgid "`mkdir build`"
+msgstr "`mkdir build`"
+
+# skip-rule: t-acc_obe
+#: content/build-it.md:14
+msgid "`cd build`"
+msgstr "`cd build`"
+
+# skip-rule: t-acc_obe,t-sp_pu
+#: content/build-it.md:15
+msgid "`cmake -DCMAKE_INSTALL_PREFIX=/path/to/your/install/dir ..`"
+msgstr "`cmake -DCMAKE_INSTALL_PREFIX=/path/to/your/install/dir ..`"
+
+# skip-rule: t-acc_obe
+#: content/build-it.md:16
+msgid "`make`"
+msgstr "`make`"
+
+# skip-rule: t-acc_obe
+#: content/build-it.md:17
+msgid "`make install`"
+msgstr "`make install`"
+
+# skip-rule: t-acc_obe
+#: content/build-it.md:19
+msgid ""
+"If you install Okular in a different path than your system install directory "
+"it is possible that you need to run `source build/prefix.sh; okular` so that "
+"the correct Okular instance and libraries are picked up."
+msgstr ""
+"Si instal·leu l'Okular a un camí diferent al directori d'instal·lació del "
+"sistema, és possible que calga executar `source build/prefix.sh; okular` de "
+"manera que se seleccioni la instància correcta de l'Okular i les "
+"biblioteques."
+
+#: content/build-it.md:21
+msgid "Optional packages"
+msgstr "Paquets opcionals"
+
+#: content/build-it.md:23
+msgid ""
+"There are some optional packages you could install in order to have some "
+"more functionalities in Okular. Some might already be packaged for your "
+"distro, but other may not. If you want to avoid any issues, stick to the "
+"packages supported by your distribution"
+msgstr ""
+"Hi ha diversos paquets opcionals que es poden instal·lar per a tindre més "
+"característiques a l'Okular. Alguns podrien estar empaquetats per la vostra "
+"distribució, però altres potser no. Si voleu evitar problemes, quedeu-vos "
+"amb els paquets de la vostra distribució."
+
+#: content/build-it.md:25
+msgid ""
+"Poppler (PDF backend): To compile the PDF backend, you need [the Poppler "
+"library](http://poppler.freedesktop.org), for which the minimum version "
+"required is 0.24"
+msgstr ""
+"Poppler (dorsal de PDF): Per a compilar el dorsal de PDF, cal la [biblioteca "
+"Poppler](http://poppler.freedesktop.org), amb la versió mínima requerida 0.24"
+
+#: content/build-it.md:26
+msgid ""
+"Libspectre: In order to compile and use this PostScipt (PS) backend, you "
+"need libspectre >= 0.2. If your distro does not package it, or the packaged "
+"version is not enough, you can download it [here](http://libspectre."
+"freedesktop.org)"
+msgstr ""
+"Libspectre: Per tal de compilar i usar aquest dorsal de PostScript (PS), cal "
+"la «libspectre» >= 0.2. Si la vostra distribució no l'empaqueta, o la versió "
+"empaquetada no és suficient, podeu baixar-la des d'[ací](https://libspectre."
+"freedesktop.org)."
+
+#: content/build-it.md:27
+msgid ""
+"DjVuLibre: To compile the DjVu backend, you need DjVuLibre >= 3.5.17. As "
+"with Libspectre, you can get it from your distro or [here](http://djvulibre."
+"djvuzone.org)."
+msgstr ""
+"DjVuLibre: Per a compilar el dorsal de DjVu, cal DjVuLibre >= 3.5.17. Com "
+"passa amb la Libspectre, la podeu aconseguir des de la vostra distribució o "
+"[ací](http://djvulibre.djvuzone.org)."
+
+#: content/build-it.md:28
+msgid ""
+"libTIFF: This is required for TIFF/fax support. Currently there is no "
+"minimum required version, so any quite recent version of the library "
+"available from your distro should work. In case of trouble, do not hesitate "
+"to contact the Okular developers."
+msgstr ""
+"libTIFF: Es requereix per a admetre TIFF/fax. Actualment no hi ha cap versió "
+"mínima requerida, així que qualsevol versió bastant recent de la biblioteca "
+"disponible a la vostra distribució hauria de funcionar. En cas de problemes, "
+"no dubteu a contactar amb els desenvolupadors de l'Okular."
+
+#: content/build-it.md:29
+msgid ""
+"libCHM: This is needed to compile the CHM backend. As with libTIFF, there is "
+"no minimum version requirement"
+msgstr ""
+"libCHM: Cal per a compilar el dorsal de CHM. Com passa amb la «libTIFF», no "
+"hi ha cap requisit de versió mínima."
+
+#: content/build-it.md:30
+msgid ""
+"Libepub: If you need EPub support, you can install this library from your "
+"distro or from [sourceforge](http://sourceforge.net/projects/ebook-tools)."
+msgstr ""
+"Libepub: Si cal admetre EPub, podeu instal·lar aquesta biblioteca a partir "
+"de la vostra distribució o des de [SourceForge](http://sourceforge.net/"
+"projects/ebook-tools)."
+
+#: content/build-it.md:32
+msgid "Uninstalling Okular"
+msgstr "Desinstal·lació de l'Okular"
+
+# skip-rule: t-acc_obe
+#: content/build-it.md:34
+msgid ""
+"You can uninstall Okular by running `make uninstall` in your `build` dir. "
+"This will remove the application from your system. It will not remove any "
+"user data you have viewed, created, or modified with Okular."
+msgstr ""
+"L'Okular es pot desinstal·lar executant `make uninstall` al directori "
+"`build`. Això eliminarà l'aplicació del sistema. No eliminarà cap dada que "
+"hàgeu mirat, creat o modificat amb l'Okular."
+
+#: content/contact.md:0
+msgid "Contact"
+msgstr "Contacte"
+
+#: content/contact.md:5
+msgid ""
+"<img src=\"/images/konqi-dev.png\" align=\"right\" alt=\"Konqi, the KDE "
+"mascot\" style=\"height: 200px;\"/>"
+msgstr ""
+"<img src=\"/images/konqi-dev.png\" align=\"right\" alt=\"Konqi, la mascota "
+"de KDE\" style=\"height: 200px;\"/>"
+
+#: content/contact.md:7
+msgid "You can contact the Okular team in many ways:"
+msgstr "Podeu contactar amb l'equip de l'Okular de moltes maneres:"
+
+#: content/contact.md:9
+msgid ""
+"Mailing list: To coordinate okular development, we use the [okular-devel "
+"mailing list](https://mail.kde.org/mailman/listinfo/okular-devel) at kde."
+"org. You can use it to talk about the development of the core application, "
+"and feedback about existent or new backends is appreciated."
+msgstr ""
+"Llista de correu: Per a coordinar el desenvolupament de l'Okular, s'utilitza "
+"la [llista de correu okular-devel](https://mail.kde.org/mailman/listinfo/"
+"okular-devel) a kde.org. Podeu usar-la per a comentar el desenvolupament del "
+"nucli de l'aplicació, però també són benvinguts els comentaris quant als "
+"dorsals existents o nous."
+
+#: content/contact.md:11
+msgid ""
+"IRC: For general chat, we use the IRC [#okular](irc://irc.kde.org/#okular) "
+"and [#kde-devel](irc://irc.kde.org/#kde-devel) on the [Freenode network]"
+"(http://www.freenode.net/). Some of the Okular developers can be found "
+"hanging there."
+msgstr ""
+"IRC: Per al xat general usem l'IRC [#okular](irc://irc.kde.org/#okular) i el "
+"[#kde-devel](irc://irc.kde.org/#kde-devel) a la [xarxa Freenode](http://www."
+"freenode.net/). Podreu trobar alguns dels desenvolupadors de l'Okular que "
+"rondin per allí."
+
+#: content/contact.md:13
+msgid ""
+"Matrix: The aforementioned chat can also be accessed over the Matrix network "
+"via [#okular:kde.org](https://matrix.to/#/#okular:kde.org)."
+msgstr ""
+"Matrix: El xat mencionat abans també es pot accedir des de la xarxa Matrix "
+"mitjançant [#okular:kde.org](https://matrix.to/#/#okular:kde.org)."
+
+#: content/contact.md:15
+msgid ""
+"Forum: If you prefer to use a forum you can use the [Okular forum](http://"
+"forum.kde.org/viewforum.php?f=251) inside the bigger [KDE Community Forums]"
+"(http://forum.kde.org/)."
+msgstr ""
+"Fòrum: Si preferiu usar un fòrum, podeu usar el [fòrum de l'Okular](http://"
+"forum.kde.org/viewforum.php?f=251) dins dels [Fòrums de la Comunitat KDE]"
+"(http://forum.kde.org/)."
+
+#: content/contact.md:17
+msgid ""
+"Bugs and Wishes: Bugs and Wishes should be reported to the [KDE bug tracker]"
+"(https://bugs.kde.org/). If you want to help, you can find a list of top "
+"bugs [here](https://community.kde.org/Okular)."
+msgstr ""
+"Errors i peticions: Els errors i els desitjos s'han de reportar al [seguidor "
+"d'errors de KDE](https://bugs.kde.org). Si voleu ajudar, podreu trobar un "
+"llista dels errors principals [ací](https://community.kde.org/Okular)."
+
+#: content/download.md:0
+msgid ""
+"Okular is available as a precompiled package in a wide range of platforms. "
+"You can check the package status for your Linux distro on the right or keep "
+"reading for info on other operating systems"
+msgstr ""
+"L'Okular està disponible com a paquet precompilat en una gran varietat de "
+"plataformes. Podeu comprovar l'estat del paquet per a la vostra distribució "
+"de Linux de la dreta, o continueu llegint per a informació en altres "
+"sistemes operatius"
+
+#: content/download.md:0
+msgid "Linux"
+msgstr "Linux"
+
+#: content/download.md:0
+msgid "Tux"
+msgstr "Tux"
+
+#: content/download.md:0
+msgid ""
+"Okular is already available on most Linux distributions. You can install it "
+"from the [KDE Software Center](https://apps.kde.org/okular)."
+msgstr ""
+"L'Okular ja està disponible a la majoria de les distribucions de Linux. El "
+"podeu instal·lar des del [Centre de programari de KDE](https://apps.kde.org/"
+"okular)."
+
+#: content/download.md:0
+msgid "Flatpak"
+msgstr "Flatpak"
+
+#: content/download.md:0
+msgid "Flatpak logo"
+msgstr "Logotip del Flatpak"
+
+#: content/download.md:0
+msgid ""
+"You can install the latest [Okular Flatpak](https://flathub.org/apps/details/"
+"org.kde.okular) from Flathub. Experimental Flatpaks with nightly builds of "
+"Okular can be [installed from the KDE Flatpak repository](https://community."
+"kde.org/Guidelines_and_HOWTOs/Flatpak#Applications )."
+msgstr ""
+"Podeu instal·lar el darrer [Flatpak de l'Okular](https://flathub.org/apps/"
+"details/org.kde.okular) des de Flathub. Els Flatpaks experimentals amb les "
+"construccions nocturnes de l'Okular es poden [instal·lar des del repositori "
+"Flatpak de KDE](https://community.kde.org/Guidelines_and_HOWTOs/"
+"Flatpak#Applications )."
+
+#: content/download.md:0
+msgid "Release Sources"
+msgstr "Codi font del llançament"
+
+#: content/download.md:0
+msgid "Ark logo"
+msgstr "Logotip de l'Ark"
+
+#: content/download.md:0
+msgid ""
+"Okular is released regularly as part of KDE Gear. If you want to build from "
+"source, you can check the [Build It section](/build-it)."
+msgstr ""
+"L'Okular es publica amb regularitat com a part de KDE Gear. Si el voleu "
+"construir a partir del codi font, podeu revisar la [secció Construcció](/"
+"build-it)."
+
+#: content/download.md:0
+msgid "Windows"
+msgstr "Windows"
+
+#: content/download.md:0
+msgid "Windows logo"
+msgstr "Logotip del Windows"
+
+#: content/download.md:0
+msgid ""
+"Have a look at the [KDE on Windows initiative](https://community.kde.org/"
+"Windows) for information on how to install KDE Software on Windows. The "
+"stable release is available on the [Microsoft Store](https://www.microsoft."
+"com/store/apps/9n41msq1wnm8). There are also [experimental nightly builds]"
+"(https://binary-factory.kde.org/job/Okular_Nightly_win64/), for which "
+"testing and bug reports would be welcome."
+msgstr ""
+"Doneu una ullada a la [iniciativa de KDE al Windows](https://community.kde."
+"org/Windows) per a informació sobre com instal·lar el programari KDE al "
+"Windows. La publicació estable està disponible a la [Microsoft Store]"
+"(https://www.microsoft.com/store/apps/9n41msq1wnm8). També hi ha "
+"[compilacions nocturnes experimentals](https://binary-factory.kde.org/job/"
+"Okular_Nightly_win64/), per a les quals s'agraeixen les proves i els "
+"informes d'errors."
+
+#: content/download.md:5
+msgid "Installation"
+msgstr "Instal·lació"
+
+#: content/download.md:7
+msgid ""
+"To install Okular follow the instructions of the platform you are using for "
+"how to install software. Most platforms have a graphical installer which can "
+"be used to install software packages. In many cases it will automatically be "
+"opened when clicking the download or install link for your platform."
+msgstr ""
+"Per a instal·lar l'Okular seguiu les instruccions de la plataforma que useu "
+"quant a la instal·lació de programari. La majoria de les plataformes tenen "
+"un instal·lador gràfic que es pot utilitzar per a instal·lar paquets de "
+"programari. En molts casos s'obrirà automàticament en fer clic a l'enllaç de "
+"baixada o instal·lació de la vostra plataforma."
+
+#: content/download.md:9
+msgid ""
+"If you are using Linux, Okular might already be pre-installed on your system "
+"as part of a default selection. If not, you can install it with the package "
+"management tool of your Linux distribution. See its documentation for "
+"details."
+msgstr ""
+"Si empreu el Linux, l'Okular ja podria estar preinstal·lat en el sistema com "
+"a part de la selecció predeterminada. Si no, el podeu instal·lar amb l'eina "
+"de gestió de paquets de la vostra distribució Linux. Vegeu la seua "
+"documentació per als detalls."
+
+#: content/download.md:11
+msgid ""
+"In many cases you will have the opportunity to install Okular in a modular "
+"way, so you can decide to install support for specific formats separately or "
+"install translations for the user interface. Choose the modules according to "
+"your needs and preferences."
+msgstr ""
+"En molts casos tindreu l'oportunitat d'instal·lar l'Okular d'una manera "
+"modular, de manera que podreu decidir instal·lar el funcionament per a "
+"formats específics separadament o instal·lar les traduccions per a la "
+"interfície d'usuari. Trieu el mòduls segons les vostres necessitats i "
+"preferències."
+
+#: content/download.md:13
+msgid "Uninstallation"
+msgstr "Desinstal·lació"
+
+#: content/download.md:15
+msgid ""
+"To uninstall Okular follow the instructions of the package management tool "
+"you have used to install Okular. This will remove the Okular application. It "
+"will not touch data you have viewed, created, or modified with Okular."
+msgstr ""
+"Per a desinstal·lar l'Okular seguiu les instruccions de l'eina de gestió de "
+"paquets que heu usat per a instal·lar l'Okular. Això eliminarà l'aplicació "
+"Okular. No tocarà les dades que heu vist, creat o modificat amb l'Okular."
+
+#: content/faq.md:0
+msgid "Frequently Asked Questions"
+msgstr "Preguntes més freqüents"
+
+# skip-rule: kct-backend
+#: content/faq.md:0
+msgid ""
+"When using Ubuntu, I cannot read CHM and EPub documents, even if I have "
+"okular-extra-backends and libchm1 installed. Why?"
+msgstr ""
+"En usar l'Ubuntu, no puc llegir documents CHM ni EPub, encara que estan "
+"instal·lats «okular-extra-backends» i «libchm1». Perquè?"
+
+#: content/faq.md:0
+msgid ""
+"Ubuntu (thus Kubuntu as well) packages of Okular are compiled without "
+"support for these two formats. The reason is explained in [this](https://"
+"bugs.launchpad.net/kdegraphics/+bug/277007) Launchpad report."
+msgstr ""
+"Els paquets de l'Okular a l'Ubuntu (i també el Kubuntu) estan compilats "
+"sense suport per aquests dos formats. El motiu s'explica en [aquest](https://"
+"bugs.launchpad.net/kdegraphics/+bug/277007) informe del Launchpad."
+
+#: content/faq.md:0
+msgid "Why are the speak options in the Tools menu grayed out?"
+msgstr "Perquè hi ha opcions de veu del menú d'eines en gris?"
+
+#: content/faq.md:0
+msgid ""
+"Because you don't have a speech service on your system. Install the Qt "
+"Speech library and they should be enabled"
+msgstr ""
+"Perquè no hi ha cap servei de veu en aquest sistema. Instal·leu la "
+"biblioteca Speech de les Qt i s'haurien d'activar"
+
+#: content/faq.md:0
+msgid ""
+"Some characters are not rendered and when enabling debug some lines mention "
+"'Missing language pack for xxx'"
+msgstr ""
+"Hi ha caràcters que no es renderitzen i en activar la depuració hi ha línies "
+"que mencionen «Missing language pack for xxx»"
+
+#: content/faq.md:0
+msgid "Install the poppler-data package"
+msgstr "Instal·leu el paquet «poppler-data»"
+
+#: content/formats.md:0
+msgid "Document Format Handlers Status"
+msgstr "Estat dels gestors de format de document"
+
+#: content/formats.md:0
+msgid "Okular supports a wide variety of document formats and use cases."
+msgstr ""
+"L'Okular accepta una gran varietat de formats de documents i casos d'ús."
+
+#: content/formats.md:0
+msgid "Document Format"
+msgstr "Formats de document"
+
+#: content/news/_index.md:0
+msgid "News"
+msgstr "Notícies"
+
+#: content/news/aKademy_2007_Okular_presentation_material_online.md:0
+msgid "aKademy 2007 Okular presentation material online"
+msgstr "Material en línia de la presentació de l'Okular a l'aKademy 2007"
+
+#: content/news/aKademy_2007_Okular_presentation_material_online.md:5
+msgid ""
+"The Okular talk given by Pino Toscano at <a href=\"http://akademy2007.kde.org"
+"\">aKademy 2007</a> is now online. There are both <a href=\"http://"
+"akademy2007.kde.org/conference/slides/okular.pdf\">slides</a> and <a href="
+"\"http://home.kde.org/~akademy07/videos/2-05-Okular:simply_a_document_viewer."
+"ogg\">video</a> available."
+msgstr ""
+"La presentació de l'Okular efectuada pel Pino Toscano a l'<a href=\"http://"
+"akademy2007.kde.org\">aKademy 2007</a> ara està en línia. Hi ha disponible "
+"tant les <a href=\"http://akademy2007.kde.org/conference/slides/okular.pdf"
+"\">diapositives</a> com el <a href=\"http://home.kde.org/~akademy07/"
+"videos/2-05-Okular:simply_a_document_viewer.ogg\">vídeo</a>."
+
+#: content/news/Okular_0.10_released.md:0
+msgid "Okular 0.10 released"
+msgstr "Publicat l'Okular 0.10"
+
+#: content/news/Okular_0.10_released.md:5
+msgid ""
+"The 0.10 version of Okular has been released together with KDE SC 4.4. "
+"Besides general improvements in stability this release sports new/improved "
+"support for both inverse search and forward search linking latex source code "
+"lines with the corresponding locations in dvi and pdf files."
+msgstr ""
+"S'ha publicat la versió 0.10 de l'Okular conjuntament amb la publicació del "
+"KDE SC 4.4. A banda de les millores generals en estabilitat, aquest "
+"publicació aporta un suport nou/millorat per a la cerca inversa i directa "
+"enllaçant les línies del codi font del LaTeX amb les ubicacions "
+"corresponents als fitxers DVI i PDF."
+
+#: content/news/Okular_0.11_released.md:0
+msgid "Okular 0.11 released"
+msgstr "Publicat l'Okular 0.11"
+
+#: content/news/Okular_0.11_released.md:5
+msgid ""
+"The 0.11 version of Okular has been released together with KDE Applications "
+"4.5 release. This release introduce small fixes and features and is a "
+"recommended update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 0.11 de l'Okular conjuntament amb la publicació 4.5 "
+"de les Aplicacions del KDE. Aquesta publicació presenta petites esmenes "
+"d'errors i característiques i és una actualització recomanada per a tothom "
+"que usi l'Okular."
+
+#: content/news/Okular_0.12_released.md:0
+msgid "Okular 0.12 released"
+msgstr "Publicat l'Okular 0.12"
+
+#: content/news/Okular_0.12_released.md:5
+msgid ""
+"The 0.12 version of Okular has been released together with KDE Applications "
+"4.6 release. This release introduce small fixes and features and is a "
+"recommended update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 0.12 de l'Okular conjuntament amb la publicació 4.6 "
+"de les Aplicacions del KDE. Aquesta publicació presenta petites esmenes "
+"d'errors i característiques i és una actualització recomanada per a tothom "
+"que usi l'Okular."
+
+#: content/news/Okular_0.13_released.md:0
+msgid "Okular 0.13 released"
+msgstr "Publicat l'Okular 0.13"
+
+#: content/news/Okular_0.13_released.md:5
+msgid ""
+"The 0.13 version of Okular has been released together with KDE Applications "
+"4.7 release. This release introduce small fixes and features and is a "
+"recommended update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 0.13 de l'Okular conjuntament amb la publicació 4.7 "
+"de les Aplicacions del KDE. Aquesta publicació presenta petites esmenes "
+"d'errors i característiques i és una actualització recomanada per a tothom "
+"que usi l'Okular."
+
+#: content/news/Okular_0.14_released.md:0
+msgid "Okular 0.14 released"
+msgstr "Publicat l'Okular 0.14"
+
+#: content/news/Okular_0.14_released.md:5
+msgid ""
+"The 0.14 version of Okular has been released together with KDE Applications "
+"4.8 release. This release introduces new features like improved text "
+"selection in documents with columns, table selection tool, LaTex rendering "
+"in annotations, improved embedded support (for use in e.g. Kile), better "
+"layouting for faced pages, smarter screensaver/powermanagement handling, "
+"improved page label support, default zoom configuration, improved Landscape "
+"printing, etc. You can find a non complete list of bugs and features in <a "
+"href=\"https://bugs.kde.org/buglist.cgi?query_format=advanced&amp;"
+"short_desc_type=allwordssubstr&amp;short_desc=&amp;product=okular&amp;"
+"long_desc_type=allwordssubstr&amp;long_desc=&amp;"
+"bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;"
+"keywords_type=allwords&amp;keywords=&amp;bug_status=RESOLVED&amp;"
+"bug_status=VERIFIED&amp;bug_status=CLOSED&amp;emailtype1=exact&amp;"
+"email1=&amp;emailtype2=substring&amp;email2=&amp;bugidtype=include&amp;"
+"bug_id=&amp;votes=&amp;chfieldfrom=2010-10-10&amp;chfieldto=Now&amp;"
+"chfield=cf_versionfixedin&amp;chfieldvalue=4.8.0&amp;cmdtype=doit&amp;"
+"order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;"
+"type0-0-0=noop&amp;value0-0-0=\">bugzilla</a>. Okular 0.14 is a recommended "
+"update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 0.14 de l'Okular conjuntament amb la publicació 4.8 "
+"de les Aplicacions del KDE. Aquesta publicació presenta noves "
+"característiques com la selecció millorada de text als documents amb "
+"columnes, l'eina de selecció de taules, renderització del LaTeX en "
+"anotacions, suport millorat de la incrustació (p. ex. per a usar-lo al "
+"Kile), una disposició millor per a pàgines oposades, gestió intel·ligent de "
+"l'estalvi de pantalla/gestió d'energia, suport millorat d'etiquetes de "
+"pàgina, configuració predeterminada del zoom, impressió apaïsada millorada, "
+"etc. Trobareu la llista no completa dels errors i característiques al <a "
+"href=\"https://bugs.kde.org/buglist.cgi?query_format=advanced&amp;"
+"short_desc_type=allwordssubstr&amp;short_desc=&amp;product=okular&amp;"
+"long_desc_type=allwordssubstr&amp;long_desc=&amp;"
+"bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;"
+"keywords_type=allwords&amp;keywords=&amp;bug_status=RESOLVED&amp;"
+"bug_status=VERIFIED&amp;bug_status=CLOSED&amp;emailtype1=exact&amp;"
+"email1=&amp;emailtype2=substring&amp;email2=&amp;bugidtype=include&amp;"
+"bug_id=&amp;votes=&amp;chfieldfrom=2010-10-10&amp;chfieldto=Now&amp;"
+"chfield=cf_versionfixedin&amp;chfieldvalue=4.8.0&amp;cmdtype=doit&amp;"
+"order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;"
+"type0-0-0=noop&amp;value0-0-0=\">bugzilla</a>. L'Okular 0.14 és una "
+"actualització recomanada per a tothom que usi l'Okular."
+
+#: content/news/Okular_0.15_released.md:0
+msgid "Okular 0.15 released"
+msgstr "Publicat l'Okular 0.15"
+
+#: content/news/Okular_0.15_released.md:5
+msgid ""
+"The 0.15 version of Okular has been released together with KDE Applications "
+"4.9 release. This release introduces new features like the ability to store "
+"annotations with PDF documents, more support for PDF movies, multiple "
+"bookmarks per page and some other minor improvements. You can find a non "
+"complete list of bugs and features in <a href=\"https://bugs.kde.org/buglist."
+"cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;"
+"short_desc=&amp;product=okular&amp;long_desc_type=allwordssubstr&amp;"
+"long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;"
+"keywords_type=allwords&amp;keywords=&amp;bug_status=RESOLVED&amp;"
+"bug_status=VERIFIED&amp;bug_status=CLOSED&amp;emailtype1=exact&amp;"
+"email1=&amp;emailtype2=substring&amp;email2=&amp;bugidtype=include&amp;"
+"bug_id=&amp;votes=&amp;chfieldfrom=2010-10-10&amp;chfieldto=Now&amp;"
+"chfield=cf_versionfixedin&amp;chfieldvalue=4.9.0&amp;cmdtype=doit&amp;"
+"order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;"
+"type0-0-0=noop&amp;value0-0-0=\">bugzilla</a>. Okular 0.15 is a recommended "
+"update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 0.15 de l'Okular conjuntament amb la publicació 4.9 "
+"de les Aplicacions del KDE. Aquesta publicació presenta característiques "
+"noves com la capacitat d'emmagatzemar anotacions amb els documents PDF, més "
+"suport per a les pel·lícules PDF, punts múltiples per pàgina i altres "
+"millores secundàries. Trobareu la llista no completa dels errors i "
+"característiques al <a href=\"https://bugs.kde.org/buglist.cgi?"
+"query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=&amp;"
+"product=okular&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;"
+"bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;"
+"keywords_type=allwords&amp;keywords=&amp;bug_status=RESOLVED&amp;"
+"bug_status=VERIFIED&amp;bug_status=CLOSED&amp;emailtype1=exact&amp;"
+"email1=&amp;emailtype2=substring&amp;email2=&amp;bugidtype=include&amp;"
+"bug_id=&amp;votes=&amp;chfieldfrom=2010-10-10&amp;chfieldto=Now&amp;"
+"chfield=cf_versionfixedin&amp;chfieldvalue=4.9.0&amp;cmdtype=doit&amp;"
+"order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;"
+"type0-0-0=noop&amp;value0-0-0=\">bugzilla</a>. L'Okular 0.15 és una "
+"actualització recomanada per a tothom que usi l'Okular."
+
+#: content/news/Okular_0.16_released.md:0
+msgid "Okular 0.16 released"
+msgstr "Publicat l'Okular 0.16"
+
+#: content/news/Okular_0.16_released.md:5
+msgid ""
+"The 0.16 version of Okular has been released together with KDE Applications "
+"4.10 release. This release introduces new features like the ability to zoom "
+"to higher levels in PDF documents, an Active based viewer for your tablet "
+"devices, more support for PDF movies, viewport follows selection, and "
+"annotation editing improvements. Okular 0.16 is a recommended update for "
+"everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 0.16 de l'Okular conjuntament amb la publicació 4.10 "
+"de les Aplicacions del KDE. Aquesta publicació presenta característiques "
+"noves com la capacitat de fer zoom a un nivell més gran als documents PDF, "
+"un visor basat en Active per als dispositius de tauleta, més suport per a "
+"les pel·lícules PDF, l'àrea de visualització segueix la selecció, i millores "
+"a l'edició d'anotacions. L'Okular 0.16 és una actualització recomanada per a "
+"tothom que usi l'Okular."
+
+#: content/news/Okular_0.17_released.md:0
+msgid "Okular 0.17 released"
+msgstr "Publicat l'Okular 0.17"
+
+#: content/news/Okular_0.17_released.md:5
+msgid ""
+"The 0.17 version of Okular has been released together with KDE Applications "
+"4.11 release. This release introduces new features like undo/redo support "
+"for forms and annotations and configurable review tools. Okular 0.17 is a "
+"recommended update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 0.17 de l'Okular conjuntament amb la publicació 4.11 "
+"de les Aplicacions del KDE. Aquesta publicació presenta característiques "
+"noves com la implementació de desfer/refer per als formularis i anotacions, "
+"i eines configurables de revisió. L'Okular 0.17 és una actualització "
+"recomanada per a tothom que usi l'Okular."
+
+#: content/news/Okular_0.18_released.md:0
+msgid "Okular 0.18 released"
+msgstr "Publicat l'Okular 0.18"
+
+#: content/news/Okular_0.18_released.md:5
+msgid ""
+"The 0.18 version of Okular has been released together with KDE Applications "
+"4.12 release. This release introduces new features like audio/video support "
+"in EPub files and also improvements to existing features like searching and "
+"printing. Okular 0.18 is a recommended update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 0.18 de l'Okular conjuntament amb la publicació 4.12 "
+"de les Aplicacions del KDE. Aquesta publicació presenta característiques "
+"noves com la implementació d'àudio/vídeo als fitxers EPub, i també millores "
+"a les característiques existents com la cerca i la impressió. L'Okular 0.18 "
+"és una actualització recomanada per a tothom que usi l'Okular."
+
+#: content/news/Okular_0.19_released.md:0
+msgid "Okular 0.19 released"
+msgstr "Publicat l'Okular 0.19"
+
+#: content/news/Okular_0.19_released.md:5
+msgid ""
+"The 0.19 version of Okular has been released together with KDE Applications "
+"4.13 release. This release introduces new features like tabs support in the "
+"interface, use of DPI screen so that page size matches real paper size, "
+"improvements to the Undo/Redo framework and other features/refinements. "
+"Okular 0.19 is a recommended update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 0.19 de l'Okular conjuntament amb la publicació 4.13 "
+"de les Aplicacions del KDE. Aquesta publicació presenta característiques "
+"noves com l'admissió de pestanyes a la interfície, l'ús de ppp de pantalla "
+"de manera que la mida de la pàgina coincidisca amb la mida real del paper, "
+"millores a l'entorn de treball de Desfer/Refer i altres característiques/"
+"refinaments. L'Okular 0.19 és una actualització recomanada per a tothom que "
+"usi l'Okular."
+
+#: content/news/Okular_0.21_released.md:0
+msgid "Okular 0.21 released"
+msgstr "Publicat l'Okular 0.21"
+
+#: content/news/Okular_0.21_released.md:5
+msgid ""
+"The 0.21 version of Okular has been released together with KDE Applications "
+"14.12 release. This release introduces new features like latex-synctex "
+"reverse searching in dvi and small bugfixes. Okular 0.21 is a recommended "
+"update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 0.21 de l'Okular conjuntament amb la publicació "
+"14.12 de les Aplicacions del KDE. Aquesta publicació presenta "
+"característiques noves com la cerca inversa «latex-synctex» als DVI i "
+"petites esmenes d'errors. L'Okular 0.21 és una actualització recomanada per "
+"a tothom que usi l'Okular."
+
+#: content/news/Okular_0.22_released.md:0
+msgid "Okular 0.22 released"
+msgstr "Publicat l'Okular 0.22"
+
+#: content/news/Okular_0.22_released.md:5
+msgid ""
+"The 0.22 version of Okular has been released together with KDE Applications "
+"15.04 release. Okular 0.22 is a recommended update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 0.22 de l'Okular conjuntament amb la publicació "
+"15.04 de les Aplicacions del KDE. L'Okular 0.22 és una actualització "
+"recomanada per a tothom que usi l'Okular."
+
+#: content/news/Okular_0.23_released.md:0
+msgid "Okular 0.23 released"
+msgstr "Publicat l'Okular 0.23"
+
+#: content/news/Okular_0.23_released.md:5
+msgid ""
+"The 0.23 version of Okular has been released together with KDE Applications "
+"15.08 release. This release introduces support for the Fade transition in "
+"presentation mode as well as some fixes regarding annotations and video "
+"playback. Okular 0.23 is a recommended update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 0.23 de l'Okular conjuntament amb la publicació "
+"15.08 de les Aplicacions del KDE. Aquesta publicació presenta la "
+"implementació de la transició d'esvaïment en el mode presentació, així com "
+"esmenes d'errors relacionades amb les anotacions i la reproducció de vídeo. "
+"L'Okular 0.23 és una actualització recomanada per a tothom que usi l'Okular."
+
+#: content/news/Okular_0.24_released.md:0
+msgid "Okular 0.24 released"
+msgstr "Publicat l'Okular 0.24"
+
+#: content/news/Okular_0.24_released.md:5
+msgid ""
+"The 0.24 version of Okular has been released together with KDE Applications "
+"15.12 release. This release introduces minor bugfixes and features, you can "
+"check the full changelog at <a href='https://www.kde.org/announcements/"
+"fulllog_applications-15.12.0.php#okular'>https://www.kde.org/announcements/"
+"fulllog_applications-15.12.0.php#okular</a>. Okular 0.24 is a recommended "
+"update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 0.24 de l'Okular conjuntament amb la publicació "
+"15.12 de les Aplicacions del KDE. Aquesta publicació presenta petites "
+"esmenes d'errors i millores. Podeu revisar el registre complet de canvis <a "
+"href='https://www.kde.org/announcements/fulllog_applications-15.12.0."
+"php#okular'>https://www.kde.org/announcements/fulllog_applications-15.12.0."
+"php#okular</a>. L'Okular 0.24 és una actualització recomanada per a tothom "
+"que usi l'Okular."
+
+#: content/news/Okular_0.26_released.md:0
+msgid "Okular 0.26 released"
+msgstr "Publicat l'Okular 0.26"
+
+#: content/news/Okular_0.26_released.md:5
+msgid ""
+"The 0.26 version of Okular has been released together with KDE Applications "
+"16.08 release. This release introduces very small changes, you can check the "
+"full changelog at <a href='https://www.kde.org/announcements/"
+"fulllog_applications.php?version=16.08.0#okular'>https://www.kde.org/"
+"announcements/fulllog_applications.php?version=16.08.0#okular</a>. Okular "
+"0.26 is a recommended update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 0.26 de l'Okular conjuntament amb la publicació "
+"16.08 de les Aplicacions del KDE. Aquesta publicació presenta canvis molt "
+"petits. Podeu revisar el registre complet de canvis <a href='https://www.kde."
+"org/announcements/fulllog_applications.php?version=16.08.0#okular'>https://"
+"www.kde.org/announcements/fulllog_applications.php?version=16.08.0#okular</"
+"a>. L'Okular 0.26 és una actualització recomanada per a tothom que usi "
+"l'Okular."
+
+#: content/news/Okular_0.5.81_unstable_snapshot_released.md:0
+msgid "Okular 0.5.81 unstable snapshot released"
+msgstr "Publicat l'Okular 0.5.81 en versió instantània inestable"
+
+#: content/news/Okular_0.5.81_unstable_snapshot_released.md:5
+msgid ""
+"The Okular team is proud to announce the release of a snapshot of Okular "
+"that compiles against the <a href=\"http://dot.kde.org/1162475911/\">Second "
+"KDE 4 Developers Snapshot</a>. This snapshot is not completely functional, "
+"yet, as we have lots of things to polish and finish, but you are free to "
+"test it and provide as much feedback as you want. You can find the snapshot "
+"package at <a href=\"ftp://ftp.kde.org/pub/kde/unstable/apps/KDE4.x/graphics/"
+"okular-0.5.81.tar.bz2\">ftp://ftp.kde.org/pub/kde/unstable/apps/KDE4.x/"
+"graphics/okular-0.5.81.tar.bz2</a>. Have a look at the <a href=\"download.php"
+"\">download</a> page to be sure you have all the necessary libraries."
+msgstr ""
+"L'equip de l'Okular anuncia amb satisfacció la publicació d'una versió "
+"instantània de l'Okular que compila contra la <a href=\"http://dot.kde."
+"org/1162475911/\">Second KDE 4 Developers Snapshot</a>. Aquesta instantània "
+"encara no és completament funcional, ja que hi ha moltes coses per a polir i "
+"finalitzar, però sou lliure de provar-la i proporcionar els comentaris que "
+"vulgueu. Trobareu el paquet de la instantània a <a href=\"ftp://ftp.kde.org/"
+"pub/kde/unstable/apps/KDE4.x/graphics/okular-0.5.81.tar.bz2\">ftp://ftp.kde."
+"org/pub/kde/unstable/apps/KDE4.x/graphics/okular-0.5.81.tar.bz2</a>. Doneu "
+"una ullada a la pàgina de <a href=\"download.php\">baixada</a> per a "
+"assegurar que teniu totes les biblioteques necessàries."
+
+#: content/news/Okular_0.5_unstable_snapshot_released.md:0
+msgid "Okular 0.5 unstable snapshot released"
+msgstr "Publicat l'Okular 0.5 en versió instantània inestable"
+
+#: content/news/Okular_0.5_unstable_snapshot_released.md:5
+msgid ""
+"The Okular team is proud to announce the release of a snapshot of Okular "
+"that compiles against the <a href=\"http://dot.kde.org/1155935483/\">KDE 4 "
+"'Krash' snapshot</a>. This snapshot is still not completely functional as we "
+"have lots of things to polish and finish but you are free to test it and "
+"provide as much feedback as you want. You can find the snapshot package at "
+"<a href=\"ftp://ftp.kde.org/pub/kde/unstable/apps/KDE4.x/graphics/okular-0.5."
+"tar.bz2\">ftp://ftp.kde.org/pub/kde/unstable/apps/KDE4.x/graphics/okular-0.5."
+"tar.bz2</a>. Have a look at the <a href=\"download.php\">download</a> page "
+"to be sure you have all the necessary libraries."
+msgstr ""
+"L'equip de l'Okular anuncia amb satisfacció la publicació d'una versió "
+"instantània de l'Okular que compila contra la <a href=\"http://dot.kde."
+"org/1155935483/\">KDE 4 «Krash» Snapshot</a>. Aquesta instantània encara no "
+"és completament funcional, ja que hi ha moltes coses per a polir i "
+"finalitzar, però sou lliure de provar-la i proporcionar els comentaris que "
+"vulgueu. Trobareu el paquet de la instantània a <a href=\"ftp://ftp.kde.org/"
+"pub/kde/unstable/apps/KDE4.x/graphics/okular-0.5.tar.bz2\">ftp://ftp.kde.org/"
+"pub/kde/unstable/apps/KDE4.x/graphics/okular-0.5.tar.bz2</a>. Doneu una "
+"ullada a la pàgina de <a href=\"download.php\">baixada</a> per a assegurar "
+"que teniu totes les biblioteques necessàries."
+
+#: content/news/Okular_0.6.1_released.md:0
+msgid "Okular 0.6.1 released"
+msgstr "Publicat l'Okular 0.6.1"
+
+#: content/news/Okular_0.6.1_released.md:5
+msgid ""
+"The first maintenance release of the KDE 4.0 series includes Okular 0.6.1. "
+"It includes quite a few bug fixes, including better not redownloading files "
+"when saving, usability improvements, etc. You can read all the fixed issues "
+"at <a href=\"http://www.kde.org/announcements/changelogs/changelog4_0to4_0_1."
+"php#okular\">http://www.kde.org/announcements/changelogs/changelog4_0to4_0_1."
+"php</a>"
+msgstr ""
+"La primera publicació de manteniment de les sèries 4.0 del KDE conté "
+"l'Okular 0.6.1. Inclou diverses esmenes d'errors, incloent una millora per a "
+"no tornar a baixar fitxers en guardar, millores d'usabilitat, etc. Podeu "
+"llegir tots els problemes solucionats a <a href=\"http://www.kde.org/"
+"announcements/changelogs/changelog4_0to4_0_1.php#okular\">http://www.kde.org/"
+"announcements/changelogs/changelog4_0to4_0_1.php</a>"
+
+#: content/news/Okular_0.6.2_released.md:0
+msgid "Okular 0.6.2 released"
+msgstr "Publicat l'Okular 0.6.2"
+
+#: content/news/Okular_0.6.2_released.md:5
+msgid ""
+"The second maintenance release of the KDE 4.0 series includes Okular 0.6.2. "
+"It includes quite a few bug fixes, including more stability when closing a "
+"document, and small fixes for the bookmark system. You can read all the "
+"fixed issues at <a href=\"http://www.kde.org/announcements/changelogs/"
+"changelog4_0_1to4_0_2.php#okular\">http://www.kde.org/announcements/"
+"changelogs/changelog4_0_1to4_0_2.php</a>"
+msgstr ""
+"La segona publicació de manteniment de les sèries 4.0 del KDE conté l'Okular "
+"0.6.2. Inclou diverses esmenes d'errors, incloent més estabilitat en tancar "
+"un document, i petites esmenes al sistema de punts. Podeu llegir tots els "
+"problemes solucionats a <a href=\"http://www.kde.org/announcements/"
+"changelogs/changelog4_0_1to4_0_2.php#okular\">http://www.kde.org/"
+"announcements/changelogs/changelog4_0_1to4_0_2.php</a>"
+
+#: content/news/Okular_0.6.3_released.md:0
+msgid "Okular 0.6.3 released"
+msgstr "Publicat l'Okular 0.6.3"
+
+#: content/news/Okular_0.6.3_released.md:5
+msgid ""
+"The third maintenance release of the KDE 4.0 series includes Okular 0.6.3. "
+"It includes few bug fixes, i.e. a better way to get the text position in a "
+"PDF document, and a couple of fixes for the annotation system, and the table "
+"of contents. You can read all the fixed issues at <a href=\"http://www.kde."
+"org/announcements/changelogs/changelog4_0_2to4_0_3.php#okular\">http://www."
+"kde.org/announcements/changelogs/changelog4_0_2to4_0_3.php</a>"
+msgstr ""
+"La tercera publicació de manteniment de les sèries 4.0 del KDE conté "
+"l'Okular 0.6.3. Inclou esmenes d'errors, com una manera millor d'obtindre la "
+"posició del text a un document PDF, i un parell d'esmenes del sistema "
+"d'anotacions i de la taula de continguts. Podeu llegir tots els problemes "
+"solucionats a <a href=\"http://www.kde.org/announcements/changelogs/"
+"changelog4_0_2to4_0_3.php#okular\">http://www.kde.org/announcements/"
+"changelogs/changelog4_0_2to4_0_3.php</a>"
+
+#: content/news/Okular_0.7.1_released.md:0
+msgid "Okular 0.7.1 released"
+msgstr "Publicat l'Okular 0.7.1"
+
+#: content/news/Okular_0.7.1_released.md:5
+msgid ""
+"The first maintenance release of the KDE 4.1 series includes Okular 0.7.1. "
+"It includes some crash fixes among other minor fixes. You can read all the "
+"fixed issues at <a href=\"http://www.kde.org/announcements/changelogs/"
+"changelog4_1to4_1_1.php#okular\">http://www.kde.org/announcements/changelogs/"
+"changelog4_1to4_1_1.php</a>"
+msgstr ""
+"La primera publicació de manteniment de les sèries 4.1 del KDE conté "
+"l'Okular 0.7.1. Inclou diverses esmenes de fallades entre altres esmenes "
+"petites. Podeu llegir tots els problemes solucionats a <a href=\"http://www."
+"kde.org/announcements/changelogs/changelog4_1to4_1_1.php#okular\">http://www."
+"kde.org/announcements/changelogs/changelog4_1to4_1_1.php</a>"
+
+#: content/news/Okular_0.7.2_released.md:0
+msgid "Okular 0.7.2 released"
+msgstr "Publicat l'Okular 0.7.2"
+
+#: content/news/Okular_0.7.2_released.md:5
+msgid ""
+"The second maintenance release of the KDE 4.1 series includes Okular 0.7.2. "
+"It includes some minor fixes in the TIFF and Comicbook backends and the "
+"change to \"Fit Width\" as default zoom level. You can read all the fixed "
+"issues at <a href=\"http://www.kde.org/announcements/changelogs/"
+"changelog4_1_1to4_1_2.php#okular\">http://www.kde.org/announcements/"
+"changelogs/changelog4_1_1to4_1_2.php</a>"
+msgstr ""
+"La segona publicació de manteniment de les sèries 4.1 del KDE conté l'Okular "
+"0.7.2. Inclou diversos esmenes secundàries als dorsals TIFF i Comicbook i el "
+"canvi a «Ajusta a l'amplària de pàgina»com a nivell de zoom predeterminat. "
+"Podeu llegir tots els problemes solucionats a <a href=\"http://www.kde.org/"
+"announcements/changelogs/changelog4_1_1to4_1_2.php#okular\">http://www.kde."
+"org/announcements/changelogs/changelog4_1_1to4_1_2.php</a>"
+
+#: content/news/Okular_0.7.3_released.md:0
+msgid "Okular 0.7.3 released"
+msgstr "Publicat l'Okular 0.7.3"
+
+#: content/news/Okular_0.7.3_released.md:5
+msgid ""
+"The third maintenance release of the KDE 4.1 series includes Okular 0.7.3. "
+"It includes some minor fixes in the user interface and in the text search. "
+"You can read all the fixed issues at <a href=\"http://www.kde.org/"
+"announcements/changelogs/changelog4_1_2to4_1_3.php#okular\">http://www.kde."
+"org/announcements/changelogs/changelog4_1_2to4_1_3.php</a>"
+msgstr ""
+"La tercera publicació de manteniment de les sèries 4.1 del KDE conté "
+"l'Okular 0.7.3. Inclou diversos esmenes secundàries a la interfície d'usuari "
+"i a la cerca de text. Podeu llegir tots els problemes solucionats a <a href="
+"\"http://www.kde.org/announcements/changelogs/changelog4_1_2to4_1_3."
+"php#okular\">http://www.kde.org/announcements/changelogs/"
+"changelog4_1_2to4_1_3.php</a>"
+
+#: content/news/Okular_0.7_released.md:0
+msgid "Okular 0.7 released"
+msgstr "Publicat l'Okular 0.7"
+
+#: content/news/Okular_0.7_released.md:5
+msgid ""
+"The Okular team is proud to announce a new version of Okular, released as "
+"part of <a href=\"http://www.kde.org/announcements/4.1/\">KDE 4.1</a>. Some "
+"of the new features and improvements include (in random order):"
+msgstr ""
+"L'equip de l'Okular anuncia amb satisfacció una versió nova de l'Okular, "
+"publicada com a part del <a href=\"http://www.kde.org/announcements/4.1/"
+"\">KDE 4.1</a>. Entre les característiques i millores noves s'inclouen (en "
+"ordre aleatori):"
+
+#: content/news/Okular_0.7_released.md:7
+msgid "Possibility to save a PDF document with the changes to the form fields"
+msgstr ""
+"Possibilitat de guardar un document PDF amb els canvis als camps de formulari"
+
+#: content/news/Okular_0.7_released.md:8
+msgid ""
+"Presentation mode: support for more than one screen, and possibility to "
+"disable transitions"
+msgstr ""
+"Mode presentació: permet més d'una pantalla, i possibilitat de desactivar "
+"les transicions"
+
+#: content/news/Okular_0.7_released.md:9
+msgid "The zoom level is stored per-document now"
+msgstr "Ara el nivell de zoom s'emmagatzema per a cada document"
+
+#: content/news/Okular_0.7_released.md:10
+msgid ""
+"Enhanced text-to-speech support, that can be used to read the whole "
+"document, a specific page or the text selection"
+msgstr ""
+"S'ha ampliat el suport per al text-a-veu, que es pot usar per a llegir el "
+"document sencer, una pàgina específica o una selecció de text"
+
+#: content/news/Okular_0.7_released.md:11
+msgid "Backward direction for text search"
+msgstr "Direcció cap arrere per a la cerca de text"
+
+#: content/news/Okular_0.7_released.md:12
+msgid "Improved support for forms"
+msgstr "Suport millorat per als formularis"
+
+#: content/news/Okular_0.7_released.md:13
+msgid ""
+"Preliminary (really basic and most probably incomplete) support for "
+"JavaScript in PDF documents"
+msgstr ""
+"Suport preliminar (realment bàsic i probablement incomplet) per al "
+"JavaScript als documents PDF"
+
+#: content/news/Okular_0.7_released.md:14
+msgid "Support for file attachment annotations"
+msgstr "Suport per a anotacions adjuntes als fitxers"
+
+#: content/news/Okular_0.7_released.md:15
+msgid "Possibility to remove the white border of pages when viewing pages"
+msgstr ""
+"Possibilitat d'eliminar la vora blanca de les pàgines en visualitzar pàgines"
+
+#: content/news/Okular_0.7_released.md:16
+msgid "New backend for EPub documents"
+msgstr "Dorsal nou per a documents EPub"
+
+#: content/news/Okular_0.7_released.md:17
+msgid ""
+"OpenDocument Text backend: support for encrypted documents, list and tables "
+"improvements"
+msgstr ""
+"Dorsal de text en OpenDocument: permet documents encriptats, millores a les "
+"llistes i taules"
+
+#: content/news/Okular_0.7_released.md:18
+msgid ""
+"XPS backend: various loading and rendering improvements, should be much more "
+"usable now"
+msgstr ""
+"Dorsal XPS: diverses millores en carregar i renderitzar, ara hauria de ser "
+"molt més usable"
+
+#: content/news/Okular_0.7_released.md:19
+msgid ""
+"PS backend: various improvements, mainly due to the newer libspectre required"
+msgstr ""
+"Dorsal PS: millores diverses, principalment gràcies a la «libspectre» "
+"requerida més nova"
+
+#: content/news/Okular_0.8.1_released.md:0
+msgid "Okular 0.8.1 released"
+msgstr "Publicat l'Okular 0.8.1"
+
+#: content/news/Okular_0.8.1_released.md:5
+msgid ""
+"The first maintenance release of the KDE 4.2 series includes Okular 0.8.1. "
+"It includes some crash fixes in the CHM and DjVu backends, and minor fixes "
+"in the user interface. You can read all the fixed issues at <a href=\"http://"
+"www.kde.org/announcements/changelogs/changelog4_2to4_2_1.php#okular\">http://"
+"www.kde.org/announcements/changelogs/changelog4_2to4_2_1.php</a>"
+msgstr ""
+"La primera publicació de manteniment de les sèries 4.2 del KDE conté "
+"l'Okular 0.8.1. Inclou diverses esmenes de fallades als dorsals CHM i DjVu, "
+"i petites esmenes a la interfície d'usuari. Podeu llegir tots els problemes "
+"solucionats a <a href=\"http://www.kde.org/announcements/changelogs/"
+"changelog4_2to4_2_1.php#okular\">http://www.kde.org/announcements/changelogs/"
+"changelog4_2to4_2_1.php</a>"
+
+#: content/news/Okular_0.8.2_released.md:0
+msgid "Okular 0.8.2 released"
+msgstr "Publicat l'Okular 0.8.2"
+
+#: content/news/Okular_0.8.2_released.md:5
+msgid ""
+"The second maintenance release of the KDE 4.2 series includes Okular 0.8.2. "
+"It includes better support (hopefully working) for DVI and pdfsync inverse "
+"search, and fixes and small improvements in the presentation mode. You can "
+"read all the fixed issues at <a href=\"http://www.kde.org/announcements/"
+"changelogs/changelog4_2_1to4_2_2.php#okular\">http://www.kde.org/"
+"announcements/changelogs/changelog4_2_1to4_2_2.php</a>"
+msgstr ""
+"La segona publicació de manteniment de les sèries 4.2 del KDE conté l'Okular "
+"0.8.2. Inclou un millor suport (esperem que funcione) per a la cerca inversa "
+"dels DVI i pdfsync, i esmenes i petites millores al mode presentació. Podeu "
+"llegir tots els problemes solucionats a <a href=\"http://www.kde.org/"
+"announcements/changelogs/changelog4_2_1to4_2_2.php#okular\">http://www.kde."
+"org/announcements/changelogs/changelog4_2_1to4_2_2.php</a>"
+
+#: content/news/Okular_0.8.3_released.md:0
+msgid "Okular 0.8.3 released"
+msgstr "Publicat l'Okular 0.8.3"
+
+#: content/news/Okular_0.8.3_released.md:5
+msgid ""
+"The third maintenance release of the KDE 4.2 series includes Okular 0.8.3. "
+"It does not provide much news for Okular, the only relevant change is about "
+"thread more safety when generating page images of XPS document. You can read "
+"all the fixed issues at <a href=\"http://www.kde.org/announcements/"
+"changelogs/changelog4_2_2to4_2_3.php#okular\">http://www.kde.org/"
+"announcements/changelogs/changelog4_2_2to4_2_3.php</a>"
+msgstr ""
+"La tercera publicació de manteniment de les sèries 4.2 del KDE conté "
+"l'Okular 0.8.3. No proporciona moltes novetats per a l'Okular, l'únic canvi "
+"important és aportar més seguretat en generar imatges de pàgines als "
+"documents XPS. Podeu llegir tots els problemes solucionats a <a href="
+"\"http://www.kde.org/announcements/changelogs/changelog4_2_2to4_2_3."
+"php#okular\">http://www.kde.org/announcements/changelogs/"
+"changelog4_2_2to4_2_3.php</a>"
+
+#: content/news/Okular_0.8.4_released.md:0
+msgid "Okular 0.8.4 released"
+msgstr "Publicat l'Okular 0.8.4"
+
+#: content/news/Okular_0.8.4_released.md:5
+msgid ""
+"The forth maintenance release of the KDE 4.2 series includes Okular 0.8.4. "
+"It includes some fixes in OpenDocument Text documents, a couple of crash "
+"fixes, and few small bugs in the interface. You can read all the fixed "
+"issues at <a href=\"http://www.kde.org/announcements/changelogs/"
+"changelog4_2_3to4_2_4.php#okular\">http://www.kde.org/announcements/"
+"changelogs/changelog4_2_3to4_2_4.php</a>"
+msgstr ""
+"La quarta publicació de manteniment de les sèries 4.2 del KDE conté l'Okular "
+"0.8.4. Inclou diverses esmenes als documents de text en OpenDocument, un "
+"parell d'esmenes de fallades, així com esmenes d'errors a la interfície. "
+"Podeu llegir tots els problemes solucionats a <a href=\"http://www.kde.org/"
+"announcements/changelogs/changelog4_2_3to4_2_4.php#okular\">http://www.kde."
+"org/announcements/changelogs/changelog4_2_3to4_2_4.php</a>"
+
+#: content/news/Okular_0.8_released.md:0
+msgid "Okular 0.8 released"
+msgstr "Publicat l'Okular 0.8"
+
+#: content/news/Okular_0.8_released.md:5
+msgid ""
+"The Okular team is proud to announce a new version of Okular, released as "
+"part of <a href=\"http://www.kde.org/announcements/4.2/\">KDE 4.2</a>. Some "
+"of the new features and improvements include (in random order): <ul type="
+"\"disc\"> <li>Add a Document Archiving possibility</li> <li>Start a search "
+"from the current page</li> <li>Preliminar support for videos in PDF "
+"documents</li> <li>Presentation mode improvements: screen saver inhibition, "
+"and black screen mode</li> <li>More stamp annotations</li> <li>Support for "
+"Lilypond's \"point-and-click\" links</li> <li>Editor configuration for "
+"inverse search</li> <li>Export to OpenDocument Text and HTML for ODT, "
+"Fictionbook and EPub backends (requires Qt 4.5)</li> <li>New backend for G3/"
+"G4 fax documents</li> <li>DjVu backend: memory management improvements</li> "
+"<li>OpenDocument Text backend: various improvements</li> <li>... other small "
+"features and fixes</li> </ul> And, of course, many bugs were fixed."
+msgstr ""
+"L'equip de l'Okular anuncia amb satisfacció una versió nova de l'Okular, "
+"publicada com a part del <a href=\"http://www.kde.org/announcements/4.2/"
+"\">KDE 4.2</a>. Entre les característiques i millores noves s'inclouen (en "
+"ordre aleatori): <ul type=\"disc\"> <li>Afig la possibilitat d'arxivat d'un "
+"document</li> <li>Inicia la cerca des de la pàgina actual</li> <li>Suport "
+"preliminar per als vídeos en els documents PDF</li> <li>Millores al mode "
+"presentació: inhibició de l'estalvi de pantalla, i mode pantalla negra</li> "
+"<li>Més anotacions de segell</li> <li>Implementació dels enllaços «apunta i "
+"clic» del Lilypond's</li> <li>Configuració de l'editor per a la cerca "
+"inversa</li> <li>Exportació a text en OpenDocument i HTML per als dorsals "
+"ODT, Fictionbook i EPub (requereix les Qt 4.5)</li> <li>Dorsal nou per als "
+"documents de fax G3/G4</li> <li>Dorsal DjVu: millores a la gestió de la "
+"memòria</li> <li>Dorsal de text en OpenDocument: millores diverses</li> "
+"<li>... altres característiques i esmenes petites</li> </ul> I, per suposat, "
+"s'han esmenat molts errors."
+
+#: content/news/Okular_0.9.4_released.md:0
+msgid "Okular 0.9.4 released"
+msgstr "Publicat l'Okular 0.9.4"
+
+#: content/news/Okular_0.9.4_released.md:5
+msgid ""
+"The forth maintenance release of the KDE 4.3 series includes Okular 0.9.4. "
+"It includes some crash fixes, and few small bug fixes in the interface. You "
+"can read all the fixed issues at <a href=\"http://www.kde.org/announcements/"
+"changelogs/changelog4_3_3to4_3_4.php#okular\">http://www.kde.org/"
+"announcements/changelogs/changelog4_3_3to4_3_4.php</a>"
+msgstr ""
+"La quarta publicació de manteniment de les sèries 4.3 del KDE conté l'Okular "
+"0.9.4. Inclou diverses esmenes de fallades, així com esmenes d'errors a la "
+"interfície. Podeu llegir tots els problemes solucionats a <a href=\"http://"
+"www.kde.org/announcements/changelogs/changelog4_3_3to4_3_4.php#okular"
+"\">http://www.kde.org/announcements/changelogs/changelog4_3_3to4_3_4.php</a>"
+
+#: content/news/Okular_1.0_released.md:0
+msgid "Okular 1.0 released"
+msgstr "Publicat l'Okular 1.0"
+
+#: content/news/Okular_1.0_released.md:5
+msgid ""
+"The 1.0 version of Okular has been released together with KDE Applications "
+"16.12 release. This release is now based in KDE Frameworks 5, you can check "
+"the full changelog at <a href='https://www.kde.org/announcements/"
+"fulllog_applications.php?version=16.12.0#okular'>https://www.kde.org/"
+"announcements/fulllog_applications.php?version=16.12.0#okular</a>. Okular "
+"1.0 is a recommended update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 1.0 de l'Okular conjuntament amb la publicació 16.12 "
+"de les Aplicacions del KDE. Aquesta publicació està basada ara amb els "
+"Frameworks 5. Podeu revisar el registre complet de canvis <a href='https://"
+"www.kde.org/announcements/fulllog_applications.php?"
+"version=16.12.0#okular'>https://www.kde.org/announcements/"
+"fulllog_applications.php?version=16.12.0#okular</a>. L'Okular 1.0 és una "
+"actualització recomanada per a tothom que usi l'Okular."
+
+#: content/news/Okular_1.10_released.md:0
+msgid "Okular 1.10 released"
+msgstr "Publicat l'Okular 1.10"
+
+#: content/news/Okular_1.10_released.md:5
+msgid ""
+"The 1.10 version of Okular has been released. This release introduces "
+"kinetic scrolling, tab management improvements, improvements to the Mobile "
+"UI and various minor fixes and features all over. You can check the full "
+"changelog at <a href='https://kde.org/announcements/changelog-releases.php?"
+"version=20.04.0#okular'>https://kde.org/announcements/changelog-releases.php?"
+"version=20.04.0#okular</a>. Okular 1.10 is a recommended update for everyone "
+"using Okular."
+msgstr ""
+"S'ha publicat la versió 1.10 de l'Okular. Aquesta publicació presenta el "
+"desplaçament cinètic, millores a la gestió de les pestanyes, millores a la "
+"IU mòbil i diverses correccions i característiques secundàries. Podeu "
+"revisar el registre complet de canvis a <a href='https://kde.org/"
+"announcements/changelog-releases.php?version=20.04.0#okular'>https://kde.org/"
+"announcements/changelog-releases.php?version=20.04.0#okular</a>. L'Okular "
+"1.10 és una actualització recomanada per a tothom que usi l'Okular."
+
+#: content/news/Okular_1.11_released.md:0
+msgid "Okular 1.11 released"
+msgstr "Publicat l'Okular 1.11"
+
+#: content/news/Okular_1.11_released.md:5
+msgid ""
+"The 1.11 version of Okular has been released. This release introduces a new "
+"annotation user interface and various minor fixes and features all over. You "
+"can check the full changelog at <a href='https://kde.org/announcements/"
+"changelog-releases.php?version=20.08.0#okular'>https://kde.org/announcements/"
+"changelog-releases.php?version=20.08.0#okular</a>. Okular 1.11 is a "
+"recommended update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 1.11 de l'Okular. Aquesta publicació presenta una "
+"interfície nova d'usuari de les anotacions i diverses correccions i "
+"característiques secundàries. Podeu revisar el registre complet de canvis a "
+"<a href='https://kde.org/announcements/changelog-releases.php?"
+"version=20.08.0#okular'>https://kde.org/announcements/changelog-releases.php?"
+"version=20.08.0#okular</a>. L'Okular 1.11 és una actualització recomanada "
+"per a tothom que usi l'Okular."
+
+#: content/news/Okular_1.1_released.md:0
+msgid "Okular 1.1 released"
+msgstr "Publicat l'Okular 1.1"
+
+#: content/news/Okular_1.1_released.md:5
+msgid ""
+"The 1.1 version of Okular has been released together with KDE Applications "
+"17.04 release. This release introduces annotation resize functionality, "
+"support for automatic calculation of form contents, touch screen "
+"improvements and more! You can check the full changelog at <a href='https://"
+"www.kde.org/announcements/fulllog_applications.php?"
+"version=17.04.0#okular'>https://www.kde.org/announcements/"
+"fulllog_applications.php?version=17.04.0#okular</a>. Okular 1.1 is a "
+"recommended update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 1.1 de l'Okular conjuntament amb la publicació 17.04 "
+"de les Aplicacions del KDE. Aquesta publicació presenta la característica "
+"per a canviar de mida les anotacions, la implementació per a calcular "
+"automàticament el contingut dels formularis, millores per a les pantalles "
+"tàctils i més! Podeu revisar el registre complet de canvis <a href='https://"
+"www.kde.org/announcements/fulllog_applications.php?"
+"version=17.04.0#okular'>https://www.kde.org/announcements/"
+"fulllog_applications.php?version=17.04.0#okular</a>. L'Okular 1.1 és una "
+"actualització recomanada per a tothom que usi l'Okular."
+
+#: content/news/Okular_1.2_released.md:0
+msgid "Okular 1.2 released"
+msgstr "Publicat l'Okular 1.2"
+
+#: content/news/Okular_1.2_released.md:5
+msgid ""
+"The 1.2 version of Okular has been released together with KDE Applications "
+"17.08 release. This release introduces minor bugfixes and improvements. You "
+"can check the full changelog at <a href='https://www.kde.org/announcements/"
+"fulllog_applications.php?version=17.08.0#okular'>https://www.kde.org/"
+"announcements/fulllog_applications.php?version=17.08.0#okular</a>. Okular "
+"1.2 is a recommended update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 1.2 de l'Okular conjuntament amb la publicació 17.08 "
+"de les Aplicacions del KDE. Aquesta publicació presenta petites esmenes "
+"d'errors i millores. Podeu revisar el registre complet de canvis <a "
+"href='https://www.kde.org/announcements/fulllog_applications.php?"
+"version=17.08.0#okular'>https://www.kde.org/announcements/"
+"fulllog_applications.php?version=17.08.0#okular</a>. L'Okular 1.2 és una "
+"actualització recomanada per a tothom que usi l'Okular."
+
+#: content/news/Okular_1.3_released.md:0
+msgid "Okular 1.3 released"
+msgstr "Publicat l'Okular 1.3"
+
+#: content/news/Okular_1.3_released.md:5
+msgid ""
+"The 1.3 version of Okular has been released together with KDE Applications "
+"17.12 release. This release introduces changes to how saving annotations and "
+"form data works, supports partial rendering updates for files that take long "
+"time to render, makes text links interactive on text selection mode, adds a "
+"Share option in the File menu, adds Markdown support and fixes some issues "
+"regarding HiDPI support. You can check the full changelog at <a "
+"href='https://www.kde.org/announcements/fulllog_applications.php?"
+"version=17.12.0#okular'>https://www.kde.org/announcements/"
+"fulllog_applications.php?version=17.12.0#okular</a>. Okular 1.3 is a "
+"recommended update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 1.3 de l'Okular conjuntament amb la publicació 17.12 "
+"de les Aplicacions del KDE. Aquesta publicació presenta canvis en com es "
+"guarden les anotacions i el funcionament de les dades de formularis, admet "
+"actualitzacions parcials de la renderització per a fitxers que triguen en "
+"renderitzar, fa interactius els enllaços de text en mode de selecció de "
+"text, afig l'opció de compartir al menú Fitxer, afig la implementació per al "
+"Markdown i esmena diversos problemes referits a la implementació del HiDPI. "
+"Podeu revisar el registre complet de canvis <a href='https://www.kde.org/"
+"announcements/fulllog_applications.php?version=17.12.0#okular'>https://www."
+"kde.org/announcements/fulllog_applications.php?version=17.12.0#okular</a>. "
+"L'Okular 1.3 és una actualització recomanada per a tothom que usi l'Okular."
+
+#: content/news/Okular_1.4_released.md:0
+msgid "Okular 1.4 released"
+msgstr "Publicat l'Okular 1.4"
+
+#: content/news/Okular_1.4_released.md:5
+msgid ""
+"The 1.4 version of Okular has been released together with KDE Applications "
+"18.04 release. This release introduces improved JavaScript support in PDF "
+"files and supports PDF rendering cancelling, which means that if you have a "
+"complex PDF file and you change the zoom while it's rendering it will cancel "
+"immediately instead of waiting for the render to finish. You can check the "
+"full changelog at <a href='https://www.kde.org/announcements/"
+"fulllog_applications.php?version=18.04.0#okular'>https://www.kde.org/"
+"announcements/fulllog_applications.php?version=18.04.0#okular</a>. Okular "
+"1.4 is a recommended update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 1.4 de l'Okular conjuntament amb la publicació 18.04 "
+"de les Aplicacions del KDE. Aquesta publicació presenta millores a la "
+"implementació de JavaScript en els fitxers PDF i permet la cancel·lació de "
+"la renderització de PDF, el qual vol dir que si teniu un fitxer PDF complex "
+"i canvieu el mentre s'està renderitzant, es cancel·larà immediatament en "
+"lloc d'esperar la finalització de la renderització. Podeu revisar el "
+"registre complet de canvis a <a href='https://www.kde.org/announcements/"
+"fulllog_applications.php?version=18.04.0#okular'>https://www.kde.org/"
+"announcements/fulllog_applications.php?version=18.04.0#okular</a>. L'Okular "
+"1.4 és una actualització recomanada per a tothom que usi l'Okular."
+
+#: content/news/Okular_1.5_released.md:0
+msgid "Okular 1.5 released"
+msgstr "Publicat l'Okular 1.5"
+
+#: content/news/Okular_1.5_released.md:5
+msgid ""
+"The 1.5 version of Okular has been released together with KDE Applications "
+"18.08 release. This release introduces Form improvements among various other "
+"fixes and small features. You can check the full changelog at <a "
+"href='https://www.kde.org/announcements/fulllog_applications.php?"
+"version=18.08.0#okular'>https://www.kde.org/announcements/"
+"fulllog_applications.php?version=18.08.0#okular</a>. Okular 1.5 is a "
+"recommended update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 1.5 de l'Okular conjuntament amb la publicació 18.08 "
+"de les Aplicacions del KDE. Aquesta publicació presenta millores als "
+"formularis entre altres esmenes i petites característiques. Podeu revisar el "
+"registre complet de canvis <a href='https://www.kde.org/announcements/"
+"fulllog_applications.php?version=18.08.0#okular'>https://www.kde.org/"
+"announcements/fulllog_applications.php?version=18.08.0#okular</a>. L'Okular "
+"1.5 és una actualització recomanada per a tothom que usi l'Okular."
+
+#: content/news/Okular_1.6_released.md:0
+msgid "Okular 1.6 released"
+msgstr "Publicat l'Okular 1.6"
+
+#: content/news/Okular_1.6_released.md:5
+msgid ""
+"The 1.6 version of Okular has been released together with KDE Applications "
+"18.12 release. This release introduces the new Typewriter annotation tool "
+"among various other fixes and small features. You can check the full "
+"changelog at <a href='https://www.kde.org/announcements/fulllog_applications-"
+"aether.php?version=18.12.0#okular'>https://www.kde.org/announcements/"
+"fulllog_applications-aether.php?version=18.12.0#okular</a>. Okular 1.6 is a "
+"recommended update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 1.6 de l'Okular conjuntament amb la publicació 18.12 "
+"de les Aplicacions del KDE. Aquesta publicació presenta l'eina d'anotacions "
+"nova de màquina d'escriure, entre altres esmenes i petites característiques. "
+"Podeu revisar el registre complet de canvis <a href='https://www.kde.org/"
+"announcements/fulllog_applications-aether.php?"
+"version=18.12.0#okular'>https://www.kde.org/announcements/"
+"fulllog_applications.php?version=18.12.0#okular</a>. L'Okular 1.6 és una "
+"actualització recomanada per a tothom que usi l'Okular."
+
+#: content/news/Okular_1.8_released.md:0
+msgid "Okular 1.8 released"
+msgstr "Publicat l'Okular 1.8"
+
+#: content/news/Okular_1.8_released.md:5
+msgid ""
+"The 1.8 version of Okular has been released together with KDE Applications "
+"19.08 release. This release introduces the feature of setting Line "
+"Annotation endings among various other fixes and small features. You can "
+"check the full changelog at <a href='https://www.kde.org/announcements/"
+"fulllog_applications-aether.php?version=19.08.0#okular'>https://www.kde.org/"
+"announcements/fulllog_applications-aether.php?version=19.08.0#okular</a>. "
+"Okular 1.8 is a recommended update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 1.8 de l'Okular conjuntament amb la publicació 19.08 "
+"de les Aplicacions del KDE. Aquesta publicació introdueix la característica "
+"per a configurar les finalitzacions de l'anotació de línia entre altres "
+"esmenes i característiques petites. Podeu revisar el registre complet de "
+"canvis <a href='https://www.kde.org/announcements/fulllog_applications-"
+"aether.php?version=19.08.0#okular'>https://www.kde.org/announcements/"
+"fulllog_applications-aether.php?version=19.08.0#okular</a>. L'Okular 1.8 és "
+"una actualització recomanada per a tothom que usi l'Okular."
+
+#: content/news/Okular_1.9_released.md:0
+msgid "Okular 1.9 released"
+msgstr "Publicat l'Okular 1.9"
+
+#: content/news/Okular_1.9_released.md:5
+msgid ""
+"The 1.9 version of Okular has been released. This release introduces cb7 "
+"support for ComicBook archives, improved JavaScript support for PDF files "
+"among various other fixes and small features. You can check the full "
+"changelog at <a href='https://kde.org/announcements/changelog-releases.php?"
+"version=19.12.0#okular'>https://kde.org/announcements/changelog-releases.php?"
+"version=19.12.0#okular</a>. Okular 1.9 is a recommended update for everyone "
+"using Okular."
+msgstr ""
+"S'ha publicat la versió 1.9 de l'Okular. Aquesta publicació presenta el "
+"suport per als arxius de ComicBook «cb7», un suport millorat de JavaScript "
+"per als fitxers PDF, i altres correccions i millores secundàries. Podeu "
+"revisar el registre complet de canvis a <a href='https://kde.org/"
+"announcements/changelog-releases.php?version=19.12.0#okular'>https://kde.org/"
+"announcements/changelog-releases.php?version=19.12.0#okular</a>. L'Okular "
+"1.9 és una actualització recomanada per a tothom que usi l'Okular."
+
+#: content/news/Okular_20.12_released.md:0
+msgid "Okular 20.12 released"
+msgstr "Publicat l'Okular 20.12"
+
+#: content/news/Okular_20.12_released.md:5
+msgid ""
+"The 20.12 version of Okular has been released. This release introduces "
+"various minor fixes and features all over. You can check the full changelog "
+"at <a href='https://kde.org/announcements/changelog-releases.php?"
+"version=20.12.0#okular'>https://kde.org/announcements/changelog-releases.php?"
+"version=20.12.0#okular</a>. Okular 20.12 is a recommended update for "
+"everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 20.12 de l'Okular. Aquest llançament presenta "
+"diverses correccions i característiques secundàries. Podeu revisar el "
+"registre complet de canvis a <a href='https://kde.org/announcements/"
+"changelog-releases.php?version=20.12.0#okular'>https://kde.org/announcements/"
+"changelog-releases.php?version=20.12.0#okular</a>. L'Okular 20.12 és una "
+"actualització recomanada per a tothom que usi l'Okular."
+
+#: content/news/Okular_21.04_released.md:0
+msgid "Okular 21.04 released"
+msgstr "Publicat l'Okular 21.04"
+
+#: content/news/Okular_21.04_released.md:5
+msgid ""
+"The 21.04 version of Okular has been released. This release introduces "
+"Digital Signing of PDF files and various minor fixes and features all over. "
+"You can check the full changelog at <a href='https://kde.org/announcements/"
+"changelogs/releases/21.04.0/#okular'>https://kde.org/announcements/"
+"changelogs/releases/21.04.0/#okular</a>. Okular 21.04 is a recommended "
+"update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 21.04 de l'Okular. Aquest llançament presenta la "
+"signatura digital de fitxers PDF i diverses correccions i característiques "
+"secundaries. Podeu revisar el registre complet de canvis a <a href='https://"
+"kde.org/announcements/changelogs/releases/21.04.0/#okular'>https://kde.org/"
+"announcements/changelogs/releases/21.04.0/#okular</a>. L'Okular 21.04 és una "
+"actualització recomanada per a tothom que usi l'Okular."
+
+#: content/news/Okular_21.08_released.md:0
+msgid "Okular 21.08 released"
+msgstr "Publicat l'Okular 21.08"
+
+#: content/news/Okular_21.08_released.md:5
+msgid ""
+"The 21.08 version of Okular has been released. This release contains various "
+"minor fixes and features all over. You can check the full changelog at <a "
+"href='https://kde.org/announcements/changelogs/gear/21.08.0/#okular'>https://"
+"kde.org/announcements/changelogs/gear/21.08.0/#okular</a>. Okular 21.08 is a "
+"recommended update for everyone using Okular."
+msgstr ""
+"S'ha publicat la versió 21.08 de l'Okular. Aquest llançament conté diverses "
+"correccions i característiques secundaries. Podeu revisar el registre "
+"complet de canvis a <a href='https://kde.org/announcements/changelogs/"
+"gear/21.08.0/#okular'>https://kde.org/announcements/changelogs/gear/21.08.0/"
+"#okular</a>. L'Okular 21.08 és una actualització recomanada per a tothom que "
+"usi l'Okular."
+
+#: content/news/Okular_forums.md:0
+msgid "Okular forums"
+msgstr "Fòrums de l'Okular"
+
+#: content/news/Okular_forums.md:5
+msgid ""
+"We now have a subforum inside the KDE Community Forums. You can find it at "
+"<a href=\"http://forum.kde.org/viewforum.php?f=251\">http://forum.kde.org/"
+"viewforum.php?f=251</a>."
+msgstr ""
+"Ara tenim un subfòrum dins els fòrums de la Comunitat KDE. El trobareu a <a "
+"href=\"http://forum.kde.org/viewforum.php?f=251\">http://forum.kde.org/"
+"viewforum.php?f=251</a>."
+
+#: content/news/Okular_in_kdegraphics.md:0
+msgid "Okular in kdegraphics"
+msgstr "L'Okular al «kdegraphics»"
+
+#: content/news/Okular_in_kdegraphics.md:5
+msgid ""
+"The Okular team is proud to announce Okular is now part of the kdegraphics "
+"module. The next version of Okular will be shipped with KDE 4.0."
+msgstr ""
+"L'equip de l'Okular anuncia amb satisfacció que l'Okular ara és part del "
+"mòdul «kdegraphics». La propera versió de l'Okular es distribuirà amb el KDE "
+"4.0."
+
+#: content/news/Okular_joins_The_Season_of_Usability_project.md:0
+msgid "Okular joins The Season of Usability project"
+msgstr "L'Okular s'uneix al projecte «Season of Usability»"
+
+#: content/news/Okular_joins_The_Season_of_Usability_project.md:5
+msgid ""
+"The Okular team is proud to announce Okular has been one of the applications "
+"selected to participate in the <a href=\"http://www.openusability.org/"
+"season/0607/\">Season of Usability</a> project, run by usability experts at "
+"<a href=\"http://www.openusability.org\">OpenUsability</a>. From here we "
+"want to welcome Sharad Baliyan to the team and thank Florian Graessle and "
+"Pino Toscano for their continued work on improving Okular."
+msgstr ""
+"L'equip de l'Okular anuncia amb satisfacció que l'Okular ha estat una de les "
+"aplicacions seleccionades per a participar en el projecte <a href=\"http://"
+"www.openusability.org/season/0607/\">Season of Usability</a>, organitzat per "
+"experts en usabilitat a <a href=\"http://www.openusability.org"
+"\">OpenUsability</a>. Des d'ací volem donar la benvinguda al Sharad Baliyan "
+"a l'equip i agrair al Florian Graessle i al Pino Toscano per la seua tasca "
+"continuada en millorar l'Okular."
+
+#: i18n/en.yaml:0
+msgid "The Universal Document Viewer"
+msgstr "El visor universal de documents"
+
+#: i18n/en.yaml:0
+msgid ""
+"Multi-platform, fast and packed with features, Okular allows you to read PDF "
+"documents, comics and EPub books, browse images, visualize Markdown "
+"documents, and much more."
+msgstr ""
+"Multiplataforma, ràpid i ple de característiques, l'Okular permet llegir "
+"documents PDF, còmics i llibres EPub, visualitzar imatges, visualitzar "
+"documents Markdown, i molt més."
+
+#: i18n/en.yaml:0
+msgid "Screenshot of Okular"
+msgstr "Captura de pantalla de l'Okular"
+
+#: i18n/en.yaml:0
+msgid ""
+"Illustration from [David Revoy CC-BY-SA-4.0](https://www.peppercarrot.com/)"
+msgstr ""
+"Il·lustració de [David Revoy CC-BY-SA-4.0](https://www.peppercarrot.com/)"
+
+#: i18n/en.yaml:0
+msgid "Download"
+msgstr "Baixada"
+
+#: i18n/en.yaml:0
+msgid "Support for Many Formats"
+msgstr "Admet molts formats"
+
+#: i18n/en.yaml:0
+msgid ""
+"Okular supports many formats, including  PDF, EPub, DjVU and MD for "
+"documents; JPEG, PNG, GIF, Tiff, WebP for images; CBR and CBZ for comics; "
+"and many, many more."
+msgstr ""
+"L'Okular admet molts formats, incloent PDF, EPub, DjVU i MD per a documents; "
+"JPEG, PNG, GIF, Tiff, WebP per a imatges; CBR i CBZ per a còmics; i molts, "
+"molts més."
+
+#: i18n/en.yaml:0
+msgid "See Format Compatibility table"
+msgstr "Vegeu la taula de compatibilitat de formats"
+
+#: i18n/en.yaml:0
+msgid "Advanced User Interface"
+msgstr "Interfície avançada d'usuaris"
+
+#: i18n/en.yaml:0
+msgid ""
+"Okular has a wide range of features that lets you easily manage your "
+"documents."
+msgstr ""
+"L'Okular té una gran varietat de característiques que permeten gestionar amb "
+"facilitat els vostres documents."
+
+#: i18n/en.yaml:0
+msgid "A screenshot from Okular showing its annotation mode."
+msgstr "Una captura de pantalla de l'Okular mostrant el seu mode d'anotació."
+
+#: i18n/en.yaml:0
+msgid "Annotate your PDFs"
+msgstr "Anoteu els PDF"
+
+#: i18n/en.yaml:0
+msgid ""
+"With Okular's 'Annotation mode', you can easily add inline and popup notes, "
+"highlight and underline text, or even add your own text."
+msgstr ""
+"Amb el «Mode d'anotació» de l'Okular es poden afegir fàcilment notes en "
+"línia o emergents, ressaltar o subratllar text, o inclús afegir el vostre "
+"propi text."
+
+#: i18n/en.yaml:0
+msgid "Select and View any Text"
+msgstr "Selecció i visualització de qualsevol text"
+
+#: i18n/en.yaml:0
+msgid ""
+"With Okular's 'Selection mode', you can copy and paste almost anything from "
+"your documents to elsewhere. And, for those times the text you want to read "
+"is too small, you can use the 'Magnifier mode'."
+msgstr ""
+"Amb el «Mode de selecció» de l'Okular podeu copiar i enganxar gairebé "
+"qualsevol cosa des dels documents a qualsevol altre lloc. I per aquelles "
+"vegades que el text que voleu llegir és massa petit, es pot usar el «Mode "
+"ampliador»."
+
+#: i18n/en.yaml:0
+msgid "Okular's 'Selection mode', with text, area and table selection options."
+msgstr ""
+"El «Mode de selecció» de l'Okular, amb opcions de selecció de text, àrea i "
+"taula."
+
+#: i18n/en.yaml:0
+msgid "Okular's 'Text Magnifier' feature."
+msgstr "La característica «Ampliador de text» de l'Okular."
+
+#: i18n/en.yaml:0
+msgid ""
+"Okular's 'Content panel' auto renders a table of contents for a document."
+msgstr ""
+"El «Plafó de contingut» de l'Okular representa automàticament una taula de "
+"contingut dels documents."
+
+#: i18n/en.yaml:0
+msgid ""
+"Okular's 'Thumbnails panel' shows a thumbnail for each page of a document."
+msgstr ""
+"El «Plafó de miniatures» de l'Okular mostra una miniatura de cada pàgina "
+"dels documents."
+
+#: i18n/en.yaml:0
+msgid "Your Content, at a Glance"
+msgstr "El contingut, d'una ullada"
+
+#: i18n/en.yaml:0
+msgid ""
+"Navigating your content is easier than ever. With Okular's 'Thumbnails "
+"panel', you can browse graphically the part of the document you were looking "
+"for. With the 'Content panel', find the chapter you need in all supported "
+"documents."
+msgstr ""
+"La navegació pel contingut és més fàcil que mai. Amb el «Plafó de "
+"miniatures» de l'Okular es pot explorar gràficament la part del document que "
+"esteu cercant. Amb el «Plafó de contingut», trobeu el capítol que necessiteu "
+"en tots els documents acceptats."
+
+#: i18n/en.yaml:0
+msgid "First-class Signature Support"
+msgstr "Suport de primera classe de signatures"
+
+#: i18n/en.yaml:0
+msgid ""
+"You can view and verify digital signatures embedded in PDFs, check if they "
+"are still valid, and detect any modifications since the moment the document "
+"was signed. You can even sign PDFs yourself!"
+msgstr ""
+"Podeu veure i verificar signatures digitals incrustades en els PDF, "
+"comprovar si encara són vàlides, i detectar qualsevol modificació des del "
+"moment que el document es va signar. Inclús podeu signar vós mateix els PDF!"
+
+#: i18n/en.yaml:0
+msgid "Okular showing a signed PDF."
+msgstr "L'Okular mostrant un PDF signat."
+
+#: i18n/en.yaml:0
+msgid "Free Software"
+msgstr "Programari lliure"
+
+#: i18n/en.yaml:0
+msgid ""
+"Okular is released under the [GPLv2+](https://spdx.org/licenses/GPL-2.0-or-"
+"later.html), and is thus fully Free Software. Find the source code including "
+"guidance how to contribute in the [Okular repository on KDE's GitLab]"
+"(https://invent.kde.org/graphics/okular). Okular also fully respects your "
+"privacy, see all details in the [KDE Software Privacy Policy](https://kde."
+"org/privacypolicy-apps/)."
+msgstr ""
+"L'Okular es publica d'acord amb la [GPLv2+](https://spdx.org/licenses/"
+"GPL-2.0-or-later.html), i per tant és programari completament lliure. "
+"Trobareu el codi font incloent-hi una guia de com col·laborar al [repositori "
+"de l'Okular en el GitLab de KDE](https://invent.kde.org/graphics/okular). "
+"L'Okular també respecta completament la vostra privadesa, vegeu tots els "
+"detalls a la [Política de privades del programari de KDE](https://kde.org/"
+"privacypolicy-apps/)."
+
+#: i18n/en.yaml:0
+msgid "Logo for the PDF freedom initiative"
+msgstr "Logotip de la iniciativa per a la llibertat dels PDF"
+
+#: i18n/en.yaml:0
+msgid "Try Okular now!"
+msgstr "Proveu l'Okular ara!"
+
+#: i18n/en.yaml:0
+msgid "Visit the download page."
+msgstr "Visiteu la pàgina de baixades."
+
+#: i18n/en.yaml:0
+msgid "Made by KDE"
+msgstr "Creat per la comunitat KDE"
+
+#: i18n/en.yaml:0
+msgid "Latest News"
+msgstr "Darreres notícies"
+
+#: i18n/en.yaml:0
+msgid "View all Development News"
+msgstr "Veure totes les notícies del desenvolupament"
+
+#: i18n/en.yaml:0
+msgid "Read More"
+msgstr "Llegiu més"
+
+#: i18n/en.yaml:0
+msgid "Features/Formats"
+msgstr "Característiques/Formats"
+
+#: i18n/en.yaml:0
+msgid "PDF"
+msgstr "PDF"
+
+#: i18n/en.yaml:0
+msgid "PS"
+msgstr "PS"
+
+#: i18n/en.yaml:0
+msgid "Tiff"
+msgstr "Tiff"
+
+#: i18n/en.yaml:0
+msgid "ODT"
+msgstr "ODT"
+
+#: i18n/en.yaml:0
+msgid "CHM"
+msgstr "CHM"
+
+#: i18n/en.yaml:0
+msgid "DjVu"
+msgstr "DjVu"
+
+#: i18n/en.yaml:0
+msgid "Images"
+msgstr "Imatges"
+
+#: i18n/en.yaml:0
+msgid "DVI"
+msgstr "DVI"
+
+#: i18n/en.yaml:0
+msgid "XPS"
+msgstr "XPS"
+
+#: i18n/en.yaml:0
+msgid "Fiction Book"
+msgstr "Fiction Book"
+
+#: i18n/en.yaml:0
+msgid "Comic Book"
+msgstr "Comic Book"
+
+#: i18n/en.yaml:0
+msgid "Plucker"
+msgstr "Plucker"
+
+#: i18n/en.yaml:0
+msgid "EPub"
+msgstr "EPub"
+
+#: i18n/en.yaml:0
+msgid "Fax"
+msgstr "Fax"
+
+#: i18n/en.yaml:0
+msgid "Mobipocket"
+msgstr "Mobipocket"
+
+#: i18n/en.yaml:0
+msgid "Main library used"
+msgstr "Biblioteca principal usada"
+
+#: i18n/en.yaml:0
+msgid "[poppler](http://poppler.freedesktop.org)"
+msgstr "[poppler](http://poppler.freedesktop.org)"
+
+#: i18n/en.yaml:0
+msgid "[libspectre](http://libspectre.freedesktop.org)"
+msgstr "[libspectre](http://libspectre.freedesktop.org)"
+
+#: i18n/en.yaml:0
+msgid "[chmlib](http://www.jedrea.com/chmlib)"
+msgstr "[chmlib](http://www.jedrea.com/chmlib)"
+
+#: i18n/en.yaml:0
+msgid "[libTIFF](http://www.remotesensing.org/libtiff)"
+msgstr "[libTIFF](http://www.remotesensing.org/libtiff)"
+
+#: i18n/en.yaml:0
+msgid "[DjVuLibre](http://djvulibre.djvuzone.org)"
+msgstr "[DjVuLibre](http://djvulibre.djvuzone.org)"
+
+#: i18n/en.yaml:0
+msgid "[epub](http://sourceforge.net/projects/ebook-tools)"
+msgstr "[epub](http://sourceforge.net/projects/ebook-tools)"
+
+#: i18n/en.yaml:0
+msgid "Loading"
+msgstr "Càrrega"
+
+#: i18n/en.yaml:0
+msgid "Rendering"
+msgstr "Renderització"
+
+#: i18n/en.yaml:0
+msgid "Document Information"
+msgstr "Informació del document"
+
+#: i18n/en.yaml:0
+msgid "Threaded Rendering"
+msgstr "Renderització en fils"
+
+#: i18n/en.yaml:0
+msgid "TOC"
+msgstr "TOC"
+
+#: i18n/en.yaml:0
+msgid "Font Information"
+msgstr "Informació del tipus de lletra"
+
+#: i18n/en.yaml:0
+msgid "Text Extraction"
+msgstr "Extracció de text"
+
+#: i18n/en.yaml:0
+msgid "Links"
+msgstr "Enllaços"
+
+#: i18n/en.yaml:0
+msgid "Paper Size"
+msgstr "Mida del paper"
+
+#: i18n/en.yaml:0
+msgid "Printing"
+msgstr "Impressió"
+
+#: i18n/en.yaml:0
+msgid "Text Exporting"
+msgstr "Exportació de text"
+
+#: i18n/en.yaml:0
+msgid "Annotations"
+msgstr "Anotacions"
+
+#: i18n/en.yaml:0
+msgid "Other Features"
+msgstr "Altres característiques"
+
+#: i18n/en.yaml:0
+msgid "Forms"
+msgstr "Formularis"
+
+#: i18n/en.yaml:0
+msgid "Inverse Search"
+msgstr "Cerca inversa"
+
+#: i18n/en.yaml:0
+msgid "Document Rights"
+msgstr "Drets del document"
+
+#: i18n/en.yaml:0
+msgid "Embedded Files"
+msgstr "Fitxers incrustats"
+
+#: i18n/en.yaml:0
+msgid "Sounds"
+msgstr "Sons"
+
+#: i18n/en.yaml:0
+msgid "Movies"
+msgstr "Pel·lícules"
+
+#: i18n/en.yaml:0
+msgid "pdfsync, synctex"
+msgstr "pdfsync, synctex"
+
+#: i18n/en.yaml:0
+msgid "Yes"
+msgstr "Sí"
+
+#: i18n/en.yaml:0
+msgid "No"
+msgstr "No"
+
+#: i18n/en.yaml:0
+msgid "Work in Progress"
+msgstr "Treball en curs"
+
+#: i18n/en.yaml:0
+msgid "Search"
+msgstr "Cerca"
+
+#: i18n/en.yaml:0
+msgid "Search Results"
+msgstr "Resultats de la cerca"
+
+#: i18n/en.yaml:0
+msgid "No matches found"
+msgstr "No s'ha trobat cap coincidència"
+
+#~ msgid ""
+#~ "Okular is released under the [GPLv2+](https://spdx.org/licenses/GPL-2.0-"
+#~ "or-later.html), and is thus fully Free Software."
+#~ msgstr ""
+#~ "L'Okular es publica d'acord amb la [GPLv2+](https://spdx.org/licenses/"
+#~ "GPL-2.0-or-later.html), i per tant, és programari completament lliure."
+
+# skip-rule: t-sp_pu,t-acc_obe
+#~ msgid ""
+#~ "1. `git clone https://invent.kde.org/graphics/okular.git` 2. `cd okular` "
+#~ "3. `mkdir build` 4. `cd build` 5. `cmake -DCMAKE_INSTALL_PREFIX=/path/to/"
+#~ "your/install/dir ..` 6. `make` 7. `make install`"
+#~ msgstr ""
+#~ "1. `git clone https://invent.kde.org/graphics/okular.git` 2. `cd okular` "
+#~ "3. `mkdir build` 4. `cd build` 5. `cmake -DCMAKE_INSTALL_PREFIX=/camí/al/"
+#~ "directori/d'instal·lació/dir ..` 6. `make` 7. `make install`"
+
+#~ msgid "LANGUAGE_NAME"
+#~ msgstr "Català"
+
+#~ msgid "Mailing list"
+#~ msgstr "Llista de correu"
+
+#~ msgid ""
+#~ "We have a mailing list to coordinate the Okular development. The mailing "
+#~ "list\n"
+#~ "is <a href='https://mail.kde.org/mailman/listinfo/okular-devel'>okular-"
+#~ "devel</a>\n"
+#~ "and hosted at kde.org."
+#~ msgstr ""
+#~ "Tenim una llista de correu per a coordinar el desenvolupament de "
+#~ "l'Okular.\n"
+#~ "La llista és <a href='https://mail.kde.org/mailman/listinfo/okular-"
+#~ "devel'>okular-devel</a> i està hostatjada a kde.org."
+
+#~ msgid "IRC"
+#~ msgstr "IRC"
+
+#~ msgid ""
+#~ "We have also an IRC channel where talk. The channel is\n"
+#~ "<a href='irc://irc.kde.org/#okular'>#okular</a>, on the\n"
+#~ "<a href='http://www.freenode.net'>Freenode</a> network."
+#~ msgstr ""
+#~ "També tenim un canal d'IRC a on parlar. EL canal és\n"
+#~ "<a href='irc://irc.kde.org/#okular'>#okular</a>, a la\n"
+#~ "xarxa <a href='http://www.freenode.net'>Freenode</a>."
+
+#~ msgid "Usually some of the Okular developers hang there."
+#~ msgstr ""
+#~ "Normalment, diversos desenvolupadors de l'Okular hi estan connectats."
+
+#~ msgid "Forum"
+#~ msgstr "Fòrum"
+
+#~ msgid "Bugs and Wishes"
+#~ msgstr "Errors i desitjos"
+
+#~ msgid "Binary packages"
+#~ msgstr "Paquets executables"
+
+#~ msgid ""
+#~ "The recommended way for end-user installations of Okular is using binary "
+#~ "packages:"
+#~ msgstr ""
+#~ "La manera recomanada per a instal·lacions de l'Okular per a l'usuari "
+#~ "final és usant paquets executables:"
+
+#~ msgid ""
+#~ "For GNU/Linux and the BSDs use the package manager to find the Okular "
+#~ "package (might be part of the broader kdegraphics package) and install it."
+#~ msgstr ""
+#~ "Per a GNU/Linux i els BSD useu el gestor de paquets per a cercar el "
+#~ "paquet Okular (podria ser part del paquet més gran Kdegraphics) i "
+#~ "instal·leu-lo."
+
+#~ msgid ""
+#~ "For macOS have a look at the <a href='https://community.kde.org/Mac'>KDE "
+#~ "on macOS</a> webpage for information on how to install KDE Software on "
+#~ "macOS."
+#~ msgstr ""
+#~ "Per a macOS doneu un cop d'ull a la pàgina web <a href='https://community."
+#~ "kde.org/Mac'>del KDE a macOS</a> per a informació sobre com instal·lar el "
+#~ "programari KDE a macOS."
+
+#~ msgid "Packaging status"
+#~ msgstr "Estat de l'empaquetatge"
+
+#~ msgid ""
+#~ "If you want to compile Okular, you need to have an already set up "
+#~ "compilation environment."
+#~ msgstr ""
+#~ "Si voleu compilar l'Okular, necessitareu tenir configurat l'entorn de "
+#~ "compilació."
+
+#~ msgid ""
+#~ "Distributions should provide development packages usable for compiling "
+#~ "KDE applications."
+#~ msgstr ""
+#~ "Les distribucions haurien de proporcionar els paquets de desenvolupament "
+#~ "usables per a compilar les aplicacions KDE."
+
+#~ msgid ""
+#~ "If you are interested in stable tarballs of Okular visit the\n"
+#~ "<a href='http://download.kde.org/stable/applications/'>KDE Applications "
+#~ "download folder</a> and download the okular tarball."
+#~ msgstr ""
+#~ "Si esteu interessat en els arxius tar de l'Okular visiteu la\n"
+#~ "<a href='http://download.kde.org/stable/applications/'>carpeta de "
+#~ "baixades de les aplicacions KDE</a> i baixeu l'arxiu tar de l'Okular."
+
+#~ msgid ""
+#~ "There are some optional package you could install in order to have some "
+#~ "more functionalities in Okular."
+#~ msgstr ""
+#~ "Hi ha diversos paquets opcionals que podeu instal·lar per tal de tenir "
+#~ "més funcionalitats a l'Okular."
+
+#~ msgid ""
+#~ "Some are already packaged for your distro, but other maybe not. So, if "
+#~ "possible, use the packages your distro ships."
+#~ msgstr ""
+#~ "Ja n'hi ha diversos d'empaquetats per a la vostra distribució, però "
+#~ "altres potser no. Si és possible, useu els paquets que distribueix la "
+#~ "vostra distribució."
+
+#~ msgid "Poppler (PDF backend)"
+#~ msgstr "Poppler (dorsal del PDF)"
+
+#~ msgid "The minimum version required is poppler 0.24"
+#~ msgstr "La versió mínima requerida és el Poppler 0.24"
+
+#~ msgid "Libspectre (PostScript backend)"
+#~ msgstr "Libspectre (dorsal del PostScript)"
+
+#~ msgid ""
+#~ "In order to compile and use the PostScipt (PS) backend, you need "
+#~ "libspectre &gt;= 0.2."
+#~ msgstr ""
+#~ "Per tal de compilar i usar el dorsal de PostScipt (PS), cal la "
+#~ "«libspectre» &gt;= 0.2."
+
+#~ msgid "DjVuLibre (DjVu backend)"
+#~ msgstr "DjVuLibre (dorsal del DjVu)"
+
+#~ msgid "To compile the DjVu backend, you need DjVuLibre &gt;= 3.5.17."
+#~ msgstr "Per a compilar el dorsal de DjVu, cal la DjVuLibre &gt;= 3.5.17."
+
+#~ msgid ""
+#~ "If your distro does not package DjVuLibre, or the packaged version is not "
+#~ "enough, you can download it from <a href='http://djvulibre.djvuzone."
+#~ "org'>http://djvulibre.djvuzone.org</a>."
+#~ msgstr ""
+#~ "Si la vostra distribució no empaqueta la DjVuLibre, o la versió "
+#~ "empaquetada no és suficient, podeu baixar-la des de <a href='http://"
+#~ "djvulibre.djvuzone.org'>http://djvulibre.djvuzone.org</a>."
+
+#~ msgid "libTIFF (TIFF/fax backend)"
+#~ msgstr "libTIFF (dorsal TIFF/fax)"
+
+#~ msgid "libCHM (CHM backend)"
+#~ msgstr "libCHM (dorsal CHM)"
+
+#~ msgid ""
+#~ "libCHM is needed to compile the CHM backend. Currently there is no "
+#~ "minimum required version, so any quite recent version of the library "
+#~ "available from your distro should work. In case of troubles with that, do "
+#~ "not hesitate to contact the <a href='contact.php'>Okular developers</a>."
+#~ msgstr ""
+#~ "Cal la «libCHM» per a compilar el dorsal CHM. Actualment no hi ha cap "
+#~ "versió mínima requerida, així que qualsevol versió bastant recent de la "
+#~ "biblioteca disponible a la vostra distribució hauria de funcionar. En cas "
+#~ "de problemes amb això, no dubteu a contactar amb els <a href='contact."
+#~ "php'>desenvolupadors de l'Okular</a>."
+
+#~ msgid "Libepub (EPub backend)"
+#~ msgstr "Libepub (dorsal EPub)"
+
+#~ msgid ""
+#~ "In order to compile and use the EPub backend, you need the epub library."
+#~ msgstr ""
+#~ "Per tal de compilar i usar el dorsal d'EPub, cal la biblioteca «epub»."
+
+#~ msgid ""
+#~ "If your distro does not package libepub, or the packaged version is not "
+#~ "enough, you can download it from <a href='http://sourceforge.net/projects/"
+#~ "ebook-tools'>http://sourceforge.net/projects/ebook-tools</a>."
+#~ msgstr ""
+#~ "Si la vostra distribució no empaqueta la «libepub», o la versió "
+#~ "empaquetada no és suficient, podeu baixar-la des de <a href='http://"
+#~ "sourceforge.net/projects/ebook-tools'>http://sourceforge.net/projects/"
+#~ "ebook-tools</a>."
+
+#~ msgid "so that the correct Okular instance and libraries are picked up."
+#~ msgstr ""
+#~ "per tal que se seleccioni la instància correcta de l'Okular i les "
+#~ "biblioteques."
+
+#~ msgid "General usage"
+#~ msgstr "Ús general"
+
+#~ msgid "The reason is explained in the following Launchpad report: "
+#~ msgstr "El motius està explicat a l'informe següent del Launchpad: "
+
+#~ msgid "Document Format Handlers"
+#~ msgstr "Gestors de format de document"
+
+#~ msgid ""
+#~ "This page always refers to the stable series of Okular (currently KDE "
+#~ "<b>4.5.x</b>)."
+#~ msgstr ""
+#~ "Aquesta pàgina sempre fa referència a les sèries estables de l'Okular "
+#~ "(actualment KDE <b>4.5.x</b>)."
+
+#~ msgid "What is it?"
+#~ msgstr "Què és?"
+
+#~ msgid ""
+#~ "Okular is a universal document viewer developed by <a href='%1'>KDE</a>. "
+#~ "Okular works on multiple platforms, including but not limited to Linux, "
+#~ "Windows, macOS, *BSD, etc."
+#~ msgstr ""
+#~ "L'Okular és un visor universal de documents desenvolupat per la <a "
+#~ "href='%1'>comunitat KDE</a>. L'Okular funciona en diverses plataformes, "
+#~ "incloent-hi però sense limitar-se a Linux, Windows, macOS, *BSD, etc."
+
+#~ msgid "The last stable release is Okular %1."
+#~ msgstr "La darrera publicació estable és l'Okular %1."
+
+#~ msgid ""
+#~ "Okular combines the excellent functionalities with the versatility of "
+#~ "supporting different kind of documents, like PDF, Postscript, DjVu, CHM, "
+#~ "XPS, ePub and others."
+#~ msgstr ""
+#~ "L'Okular combina funcionalitats excel·lents amb la versatilitat d'admetre "
+#~ "classes diferents de documents, com el PDF, Postscript, DjVu, CHM, XPS, "
+#~ "ePub i altres."
+
+#~ msgid ""
+#~ "The <a href='formats.php'>document format handlers page</a> has a chart "
+#~ "describing in more detail the supported formats and the features "
+#~ "supported in each of them."
+#~ msgstr ""
+#~ "La <a href='formats.php'>pàgina dels gestors de format de document</a> té "
+#~ "un diagrama que descriu amb més detall els formats admesos i les "
+#~ "funcionalitats implementades a cadascun d'ells."
+
+#~ msgid ""
+#~ "If you are interested in contributing to Okular, please <a href='contact."
+#~ "php'>contact us</a>."
+#~ msgstr ""
+#~ "Si esteu interessat en col·laborar amb l'Okular, poseu-vos en <a "
+#~ "href='contact.php'>contacte amb nosaltres</a>."
+
+#~ msgid ""
+#~ "If you do not want or can not contribute, testers are fully welcome, so "
+#~ "follow <a href='download.php'>these instructions</a> to see how to "
+#~ "download and build Okular."
+#~ msgstr ""
+#~ "Si no voleu o no podeu col·laborar, donem la benvinguda a la gent que fa "
+#~ "les proves, així que seguiu <a href='download.php'>aquestes instruccions</"
+#~ "a> per a conèixer com baixar i construir l'Okular."
+
+#~ msgid ""
+#~ "Okular is a <a href='http://pdfreaders.org/' target='_blank'>Free "
+#~ "Software PDF reader</a>."
+#~ msgstr ""
+#~ "L'Okular és un <a href='http://pdfreaders.org/' target='_blank'>lector de "
+#~ "PDF fet amb programari lliure</a>."
+
+#~ msgid "Okular Homepage"
+#~ msgstr "Pàgina web de l'Okular"
+
+#~ msgid "Main"
+#~ msgstr "Principal"
+
+#~ msgid "Format support"
+#~ msgstr "Formats acceptats"
+
+#~ msgid "FAQ"
+#~ msgstr "PMF"
+
+#~ msgid "Team"
+#~ msgstr "Equip"
+
+#~ msgid "Related apps/projects"
+#~ msgstr "Aplicacions/Projectes relacionats"
+
+#~ msgid "December 10, 2020"
+#~ msgstr "10 de desembre de 2020"
+
+#~ msgid "August 13, 2020"
+#~ msgstr "13 d'agost de 2020"
+
+#~ msgid "April 23, 2020"
+#~ msgstr "23 d'abril de 2020"
+
+#~ msgid "December 12, 2019"
+#~ msgstr "12 de desembre de 2019"
+
+#~ msgid "August 15, 2019"
+#~ msgstr "15 d'agost de 2019"
+
+#~ msgid "December 13, 2018"
+#~ msgstr "13 de desembre de 2018"
+
+#~ msgid "August 16, 2018"
+#~ msgstr "16 d'agost de 2018"
+
+#~ msgid "April 19, 2018"
+#~ msgstr "19 d'abril de 2018"
+
+#~ msgid "December 14, 2017"
+#~ msgstr "14 de desembre de 2017"
+
+#~ msgid "August 17, 2017"
+#~ msgstr "17 d'agost de 2017"
+
+#~ msgid "April 20, 2017"
+#~ msgstr "20 d'abril de 2017"
+
+#~ msgid "December 15, 2016"
+#~ msgstr "15 de desembre de 2016"
+
+#~ msgid "August 18, 2016"
+#~ msgstr "18 d'agost de 2016"
+
+#~ msgid "December 16, 2015"
+#~ msgstr "16 de desembre de 2015"
+
+#~ msgid "August 19, 2015"
+#~ msgstr "19 d'agost de 2015"
+
+#~ msgid "April 15, 2015"
+#~ msgstr "15 d'abril de 2015"
+
+#~ msgid "December 17, 2014"
+#~ msgstr "17 de desembre de 2014"
+
+#~ msgid "April 16, 2014"
+#~ msgstr "16 d'abril de 2014"
+
+#~ msgid "December 12, 2013"
+#~ msgstr "12 de desembre de 2013"
+
+#~ msgid "August 16, 2013"
+#~ msgstr "16 d'agost de 2013"
+
+#~ msgid "February 6, 2013"
+#~ msgstr "6 de febrer de 2013"
+
+#~ msgid "October 10, 2012"
+#~ msgstr "10 d'octubre de 2012"
+
+#~ msgid "August 1, 2012"
+#~ msgstr "1 d'agost de 2012"
+
+#~ msgid "January 25, 2012"
+#~ msgstr "25 de gener de 2012"
+
+#~ msgid "July 27, 2011"
+#~ msgstr "27 de juliol de 2011"
+
+#~ msgid "January 26, 2011"
+#~ msgstr "26 de gener de 2011"
+
+#~ msgid "August 10, 2010"
+#~ msgstr "10 d'agost de 2010"
+
+#~ msgid "February 9, 2010"
+#~ msgstr "9 de febrer de 2010"
+
+#~ msgid "December 1, 2009"
+#~ msgstr "1 de desembre de 2009"
+
+#~ msgid "June 3, 2009"
+#~ msgstr "3 de juny de 2009"
+
+#~ msgid "May 6, 2009"
+#~ msgstr "6 de maig de 2009"
+
+#~ msgid "April 2, 2009"
+#~ msgstr "2 d'abril de 2009"
+
+#~ msgid "March 4, 2009"
+#~ msgstr "4 de març de 2009"
+
+#~ msgid "January 27, 2009"
+#~ msgstr "27 de gener de 2009"
+
+#~ msgid "November 4, 2008"
+#~ msgstr "4 de novembre de 2008"
+
+#~ msgid "October 3, 2008"
+#~ msgstr "3 d'octubre de 2008"
+
+#~ msgid "September 3, 2008"
+#~ msgstr "3 de setembre de 2008"
+
+#~ msgid "July 29, 2008"
+#~ msgstr "29 de juliol de 2008"
+
+#~ msgid ""
+#~ "<![CDATA[The Okular team is proud to announce a new version of Okular, "
+#~ "released as part of <a href=\"http://www.kde.org/announcements/4.1/\">KDE "
+#~ "4.1</a>. Some of the new features and improvements include (in random "
+#~ "order):\n"
+#~ "<ul type=\"disc\">\n"
+#~ "\t<li>Possibility to save a PDF document with the changes to the form "
+#~ "fields</li>\n"
+#~ "\t<li>Presentation mode: support for more than one screen, and "
+#~ "possibility to disable transitions</li>\n"
+#~ "\t<li>The zoom level is stored per-document now</li>\n"
+#~ "\t<li>Enhanced text-to-speech support, that can be used to read the whole "
+#~ "document, a specific page or the text selection</li>\n"
+#~ "\t<li>Backward direction for text search</li>\n"
+#~ "\t<li>Improved support for forms</li>\n"
+#~ "\t<li>Preliminary (really basic and most probably incomplete) support for "
+#~ "JavaScript in PDF documents</li>\n"
+#~ "\t<li>Support for file attachment annotations</li>\n"
+#~ "\t<li>Possibility to remove the white border of pages when viewing pages</"
+#~ "li>\n"
+#~ "\t<li>New backend for EPub documents</li>\n"
+#~ "\t<li>OpenDocument Text backend: support for encrypted documents, list "
+#~ "and tables improvements</li>\n"
+#~ "\t<li>XPS backend: various loading and rendering improvements, should be "
+#~ "much more usable now</li>\n"
+#~ "\t<li>PS backend: various improvements, mainly due to the newer "
+#~ "libspectre required</li>\n"
+#~ "\t<li>... other small features</li>\n"
+#~ "</ul>\n"
+#~ "And, of course, many bugs were fixed.]]>"
+#~ msgstr ""
+#~ "<![CDATA[L'equip de l'Okular anuncia amb satisfacció una versió nova de "
+#~ "l'Okular, publicada com a part del <a href=\"http://www.kde.org/"
+#~ "announcements/4.1/\">KDE 4.1</a>. Entre les funcionalitats i millores "
+#~ "noves s'inclouen (en ordre aleatori):\n"
+#~ "<ul type=\"disc\">\n"
+#~ "\t<li>Possibilitat de desar un document PDF amb els canvis als camps de "
+#~ "formulari</li>\n"
+#~ "\t<li>Mode presentació: permet més d'una pantalla, i possibilitat de "
+#~ "desactivar les transicions</li>\n"
+#~ "\t<li>Ara el nivell de zoom s'emmagatzema per a cada document</li>\n"
+#~ "\t<li>S'ha ampliat el suport per al text-a-veu, que es pot usar per a "
+#~ "llegir el document sencer, una pàgina específica o una selecció de text</"
+#~ "li>\n"
+#~ "\t<li>Direcció cap enrere per a la cerca de text</li>\n"
+#~ "\t<li>Suport millorat per als formularis</li>\n"
+#~ "\t<li>Suport preliminar (realment bàsic i probablement incomplet) per al "
+#~ "JavaScript als documents PDF</li>\n"
+#~ "\t<li>Suport per a anotacions adjuntes als fitxers</li>\n"
+#~ "\t<li>Possibilitat d'eliminar la vora blanca de les pàgines en "
+#~ "visualitzar pàgines</li>\n"
+#~ "\t<li>Dorsal nou per a documents EPub</li>\n"
+#~ "\t<li>Dorsal de text en OpenDocument: permet documents encriptats, "
+#~ "millores a les llistes i taules</li>\n"
+#~ "\t<li>Dorsal XPS: diverses millores en carregar i renderitzar, ara hauria "
+#~ "de ser molt més usable</li>\n"
+#~ "\t<li>Dorsal PS: millores diverses, principalment gràcies a la "
+#~ "«libspectre» requerida més nova</li>\n"
+#~ "\t<li>... altres funcionalitats petites</li>\n"
+#~ "</ul>\n"
+#~ "I, per suposat, s'han esmenat molts errors.]]>"
+
+#~ msgid "April 2, 2008"
+#~ msgstr "2 d'abril de 2008"
+
+#~ msgid "March 5, 2008"
+#~ msgstr "5 de març de 2008"
+
+#~ msgid "February 5, 2008"
+#~ msgstr "5 de febrer de 2008"
+
+#~ msgid "Jul 10, 2007"
+#~ msgstr "10 de juliol de 2007"
+
+#~ msgid "Apr 4, 2007"
+#~ msgstr "4 d'abril de 2007"
+
+#~ msgid "Jan 31, 2007"
+#~ msgstr "31 de gener de 2007"
+
+#~ msgid "Nov 2, 2006"
+#~ msgstr "2 de novembre de 2006"
+
+#~ msgid "Aug 27, 2006"
+#~ msgstr "27 d'agost de 2006"
+
+#~ msgid "Some images of Okular &quot;in action&quot;..."
+#~ msgstr "Diverses imatges de l'Okular &quot;en acció&quot;..."
+
+#~ msgid "Backends in action"
+#~ msgstr "Els dorsals en acció"
+
+#~ msgid "Here you can see some of the Okular backends in action on files."
+#~ msgstr ""
+#~ "Aquí podeu veure diversos dorsals de l'Okular en acció sobre els fitxers."
+
+#~ msgid "Extraction of embedded files"
+#~ msgstr "Extracció de fitxers incrustats"
+
+#~ msgid "Word processor-like text selection"
+#~ msgstr "Selecció de text com els processadors de textos"
+
+#~ msgid "Review mode"
+#~ msgstr "Mode de revisió"
+
+# skip-rule: ff-enter
+#~ msgid "Annotations (enter in Tools -> Review)"
+#~ msgstr "Anotacions (entreu a Eines -> Revisió)"
+
+#~ msgid "the Okular developers"
+#~ msgstr "els desenvolupadors de l'Okular"
+
+#~ msgid "Current Okular Team"
+#~ msgstr "Equip actual de l'Okular"
+
+#~ msgid "The current Okular team is formed by:"
+#~ msgstr "L'equip actual de l'Okular està format per:"
+
+#~ msgid "(Current maintainer)"
+#~ msgstr "(Mantenidor actual)"
+
+#~ msgid "Your name here..."
+#~ msgstr "Aquí el vostre nom..."
+
+#~ msgid "Join Okular development!"
+#~ msgstr "Uniu-vos al desenvolupament de l'Okular!"
+
+#~ msgid "Former Okular developers"
+#~ msgstr "Desenvolupadors antics de l'Okular"
+
+#~ msgid "We'd like to thank all the people that worked on Okular in the past:"
+#~ msgstr ""
+#~ "Volem expressar l'agraïment a totes les persones que han treballant a "
+#~ "l'Okular en el passat:"
+
+#~ msgid "(Original Okular creator)"
+#~ msgstr "(Creador original de l'Okular)"
+
+#~ msgid "(Usability expert)"
+#~ msgstr "(Expert en usabilitat)"
+
+#~ msgid "KPDF Developers"
+#~ msgstr "Desenvolupadors del KPDF"
+
+#~ msgid ""
+#~ "We'd like also to thank all the people who worked on <a href='http://kpdf."
+#~ "kde.org'>KPDF</a>:"
+#~ msgstr ""
+#~ "També volem expressar l'agraïment a totes les persones que han treballant "
+#~ "al <a href='http://kpdf.kde.org'>KPDF</a>:"
+
+#~ msgid "Lots of features"
+#~ msgstr "Moltes funcionalitats"
+
+#~ msgid "Compiling Okular"
+#~ msgstr "Compilació de l'Okular"
+
+# skip-rule: kct-textbox
+#~ msgid ""
+#~ "The Poppler backend does not compile. It complains about 'class Poppler::"
+#~ "TextBox' and 'edge'."
+#~ msgstr ""
+#~ "El dorsal del Poppler no compila. Es queixa de la «class Poppler::"
+#~ "TextBox» i de «edge»."
+
+#~ msgid "Do you get an error output similar to"
+#~ msgstr "Si s'obté una sortida d'error similar a"
+
+#~ msgid ""
+#~ "If so, most probably you updated from Poppler 0.6.x or previous to "
+#~ "Poppler 0.8."
+#~ msgstr ""
+#~ "Si és així, probablement s'ha actualitzat des del Poppler 0.6.x o un "
+#~ "versió anterior del Poppler 0.8."
+
+#~ msgid "What you can do is simple:"
+#~ msgstr "Senzillament, podeu fer:"
+
+#~ msgid ""
+#~ "in the build directory of Okular. Then run cmake again, and all should "
+#~ "work as expected."
+#~ msgstr ""
+#~ "al directori de construcció de l'Okular. Després torneu a executar "
+#~ "«cmake», i tot hauria de funcionar com s'espera."
+
+#~ msgid "Okular tells me there are no plugins installed. What can I do?"
+#~ msgstr "L'Okular diu que no hi ha connectors instal·lats. Què puc fer?"
+
+#~ msgid "In a shell set up for your KDE 4 installation, execute the command"
+#~ msgstr ""
+#~ "En un intèrpret d'ordres configurat per la instal·lació del KDE 4, "
+#~ "executeu l'ordre"
+
+#~ msgid "After that, Okular should find its plugins as expected."
+#~ msgstr ""
+#~ "Després d'això, l'Okular hauria de trobar els seus connectors com "
+#~ "s'espera."
+
+#~ msgid "Why the newly added annotations are not in my PDF document?"
+#~ msgstr "Perquè les anotacions afegides noves no són al meu document PDF?"
+
+#~ msgid ""
+#~ "By default, Okular saves annotations in the local data directory\n"
+#~ "for each user. Since KDE 4.9, it's optionally possible to store them "
+#~ "directly in\n"
+#~ "a PDF file by choosing \"File -&gt; Save As...\", so they can be seen in "
+#~ "other\n"
+#~ "PDF viewers."
+#~ msgstr ""
+#~ "De manera predeterminada, l'Okular desa les anotacions al directori local "
+#~ "de dades\n"
+#~ "de cada usuari. Des del KDE 4.9, opcionalment és possible emmagatzemar-"
+#~ "les directament a\n"
+#~ "un fitxer PDF triant «Fitxer -&gt; Desa com...», i per tant es podran "
+#~ "veure an altres\n"
+#~ "visualitzadors de PDF."
+
+#~ msgid ""
+#~ "Note that this feature requires Poppler 0.20 or newer for regular PDF\n"
+#~ "documents. If the PDF document you are annotating is encrypted, this "
+#~ "feature\n"
+#~ "requires Poppler 0.22 or newer."
+#~ msgstr ""
+#~ "Cal tenir en compte que aquesta funcionalitat requereix el Poppler 0.20 o "
+#~ "superior per als documents PDF normals. Si el document PDF que esteu "
+#~ "anotant està encriptat, aquesta funcionalitat requereix el Poppler 0.22 o "
+#~ "superior."
+
+#~ msgid "How can I annotate a document and send it to a friend/colleague/etc?"
+#~ msgstr ""
+#~ "Com puc fer anotacions en un document i enviar-lo a un amic/company/etc.?"
+
+#~ msgid ""
+#~ "Since KDE 4.2, Okular has the \"document archiving\" feature. This is\n"
+#~ "an Okular-specific format for carrying the document plus various "
+#~ "metadata\n"
+#~ "related to it (currently only annotations)."
+#~ msgstr ""
+#~ "Des del KDE 4.2, l'Okular té la funcionalitat «Arxivat de document». "
+#~ "Aquest és un format específic de l'Okular per a transportar metadades més "
+#~ "diverses del document, que estan relacionades amb ell (actualment només "
+#~ "les anotacions)."
+
+#~ msgid ""
+#~ "You can save a \"document archive\" from the open document by choosing "
+#~ "\"File\n"
+#~ "-&gt; Export As -&gt; Document Archive\"."
+#~ msgstr ""
+#~ "Podeu desar un «arxiu del document» des del document obert triant «Fitxer "
+#~ "-&gt; Exporta com a -&gt; Arxiu de document»."
+
+#~ msgid ""
+#~ "To open an Okular document archive, just open it with Okular as it would "
+#~ "be eg\n"
+#~ "a PDF document."
+#~ msgstr ""
+#~ "Per a obrir un arxiu de document de l'Okular, només cal obrir-lo amb "
+#~ "l'Okular com si fos un document PDF, per exemple."
+
+#~ msgid ""
+#~ "If you're annotating a PDF document, you can also save annotations\n"
+#~ "directly in the PDF file (see previous question)"
+#~ msgstr ""
+#~ "Si esteu anotant un document PDF, també podeu desar les anotacions\n"
+#~ "directament en el fitxer PDF (vegeu la pregunta anterior)"

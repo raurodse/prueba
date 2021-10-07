@@ -1,0 +1,62 @@
+# Translation of minuet._json_.po to Catalan (Valencian)
+# Copyright (C) 2016 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: minuet json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-04-06 00:28+0000\n"
+"PO-Revision-Date: 2016-11-19 14:53+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: src/plugins/csoundsoundcontroller/csoundsoundcontroller.json
+msgctxt "Name"
+msgid "CSound-based Audio Controller"
+msgstr "Controlador d'àudio basat en el CSound"
+
+#: src/plugins/fluidsynthsoundcontroller/fluidsynthsoundcontroller.json
+msgctxt "Name"
+msgid "FluidSynth-based Audio Controller"
+msgstr "Controlador d'àudio basat en el FluidSynth"
+
+#: src/plugins/csoundsoundcontroller/csoundsoundcontroller.json
+msgctxt "Description"
+msgid ""
+"This plugin provides Minuet with a CSound-based implementation of sound "
+"controller."
+msgstr ""
+"Aquest connector proporciona el Minuet amb una implementació del dorsal de "
+"so basada en el CSound."
+
+#: src/plugins/fluidsynthsoundcontroller/fluidsynthsoundcontroller.json
+msgctxt "Description"
+msgid ""
+"This plugin provides Minuet with a FluidSynth-based implementation of sound "
+"controller."
+msgstr ""
+"Aquest connector proporciona el Minuet amb una implementació del dorsal de "
+"so basada en el FluidSynth."
+
+#~ msgctxt "Name"
+#~ msgid "Drumstick-based Audio Backend"
+#~ msgstr "Dorsal d'àudio basat en el Drumstick"
+
+#~ msgctxt "Description"
+#~ msgid ""
+#~ "This plugin provides Minuet with a Drumstick-based implementation of "
+#~ "sound backend."
+#~ msgstr ""
+#~ "Aquest connector proporciona el Minuet amb una implementació del dorsal "
+#~ "de so basada en el Drumstick."

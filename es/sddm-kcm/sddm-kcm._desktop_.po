@@ -1,0 +1,114 @@
+# Translation of sddm-kcm._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2014-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2014, 2016, 2017, 2018.
+# Empar Montoro Martín <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: sddm-kcm desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-09-20 00:28+0000\n"
+"PO-Revision-Date: 2019-07-23 12:19+0200\n"
+"Last-Translator: Empar Montoro Martín <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 19.04.2\n"
+
+#: kcm_sddm.actions:2
+msgctxt "Name"
+msgid "SDDM"
+msgstr "SDDM"
+
+#: kcm_sddm.actions:52
+msgctxt "Name"
+msgid "Save Settings"
+msgstr "Guarda la configuració"
+
+#: kcm_sddm.actions:98
+msgctxt "Description"
+msgid "Save Settings in SDDM"
+msgstr "Guarda la configuració en SDDM"
+
+#: kcm_sddm.actions:147
+msgctxt "Name"
+msgid "Install an SDDM theme"
+msgstr "Instal·la un tema d'SDDM"
+
+#: kcm_sddm.actions:191
+msgctxt "Description"
+msgid "Extracts a zip file containing an SDDM theme to the SDDM theme location"
+msgstr ""
+"Extreu un fitxer ZIP que continga un tema d'SDDM en la ubicació de temes "
+"d'SDDM"
+
+#: kcm_sddm.actions:237
+msgctxt "Name"
+msgid "Uninstall an SDDM theme"
+msgstr "Desinstal·la un tema d'SDDM"
+
+#: kcm_sddm.actions:281
+msgctxt "Description"
+msgid "Removes a previously installed SDDM theme"
+msgstr "Elimina un tema d'SDDM instal·lat anteriorment"
+
+#: kcm_sddm.actions:328
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Save Settings"
+msgctxt "Name"
+msgid "Synchronize Settings"
+msgstr "Guarda la configuració"
+
+#: kcm_sddm.actions:365
+msgctxt "Description"
+msgid "Synchronizes user settings with SDDM settings"
+msgstr ""
+
+#: kcm_sddm.actions:405
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Save Settings"
+msgctxt "Name"
+msgid "Reset Settings"
+msgstr "Guarda la configuració"
+
+#: kcm_sddm.actions:442
+msgctxt "Description"
+msgid "Resets SDDM settings so there are not user settings"
+msgstr ""
+
+#: kcm_sddm.desktop:11
+msgctxt "X-KDE-Keywords"
+msgid ""
+"sddm,display manager,themes,login theme,login screen,login skin,login visual,"
+"login look,logout,enter,authentication screen,sync settings,synchronize "
+"settings,session,default session,default user,user uid,login as,authenticate "
+"as,command to shutdown,command to restart"
+msgstr ""
+
+#: kcm_sddm.desktop:30 src/package/metadata.desktop:14
+msgctxt "Name"
+msgid "Login Screen (SDDM)"
+msgstr "Pantalla d'inici de sessió (SDDM)"
+
+#: kcm_sddm.desktop:78 src/package/metadata.desktop:62
+msgctxt "Comment"
+msgid "Configure Login Manager"
+msgstr "Configura el gestor d'accés"
+
+#: sddmtheme.knsrc:4
+msgctxt "Name"
+msgid "Login Screen"
+msgstr "Pantalla d'inici de sessió"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "sddm,display manager,theme"
+#~ msgstr "sddm,gestor de sessions,tema"

@@ -1,0 +1,42 @@
+# Translation of org.kde.kdev-php.metainfo.po to Catalan (Valencian)
+# Copyright (C) 2017-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2017.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdev-php metainfo files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-08-10 02:36+0200\n"
+"PO-Revision-Date: 2020-08-05 23:26+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.04.3\n"
+"X-Accelerator-Marker: &\n"
+
+#. (itstool) path: component/name
+#: org.kde.kdev-php.metainfo.xml:5
+msgid "KDevelop PHP Support"
+msgstr "Implementació de PHP al KDevelop"
+
+#. (itstool) path: component/summary
+#: org.kde.kdev-php.metainfo.xml:6
+msgid "PHP language support for KDevelop"
+msgstr "Implementació del llenguatge PHP al KDevelop"
+
+#. (itstool) path: description/p
+#: org.kde.kdev-php.metainfo.xml:8
+msgid ""
+"Adds PHP support to KDevelop. Includes adding integration with code "
+"highlighting, code completion and documentation links."
+msgstr ""
+"Afig suport de PHP al KDevelop. Afig els «include» per a la integració amb "
+"el ressaltat de codi, compleció de codi i enllaços a la documentació."

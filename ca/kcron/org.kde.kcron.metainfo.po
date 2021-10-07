@@ -1,0 +1,40 @@
+# Translation of org.kde.kcron.metainfo.po to Catalan (Valencian)
+# Copyright (C) 2019 This_file_is_part_of_KDE
+# This file is distributed under same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcron metainfo files\n"
+"POT-Creation-Date: 2019-08-10 02:48+0200\n"
+"PO-Revision-Date: 2019-08-10 18:25+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.07.70\n"
+
+#. (itstool) path: component/name
+#: org.kde.kcron.metainfo.xml:7
+msgid "KCron"
+msgstr "KCron"
+
+#. (itstool) path: component/summary
+#: org.kde.kcron.metainfo.xml:8
+msgid "Task Scheduler"
+msgstr "Planificador de tasques"
+
+#. (itstool) path: description/p
+#: org.kde.kcron.metainfo.xml:10
+msgid ""
+"Task Scheduler is a graphical front end to the standard \"cron\" utility. "
+"With it, commands (or \"tasks\") can be run at specific times, on a certain "
+"day or date, or at specific intervals (time between execution)."
+msgstr ""
+"El planificador de tasques és un frontal gràfic per a la utilitat estàndard "
+"«cron». Amb ella, les ordres (o «tasques») es podran executar en moments "
+"específics, en un dia o data determinats, o en intervals específics (temps "
+"entre les execucions)."

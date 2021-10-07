@@ -1,0 +1,102 @@
+# Translation of klickety._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2002-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 2002, 2005.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2003, 2021.
+# Albert Astals Cid <aacid@kde.org>, 2003, 2004, 2005, 2007, 2008, 2009.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2004, 2005, 2006, 2008, 2010, 2012.
+# Orestes Mas <orestes@tsc.upc.edu>, 2009.
+# Manuel Tortosa <manutortosa@chakra-project.org>, 2009, 2010.
+# Manuel Tortosa Moreno <manutortosa@chakra-project.org>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: klickety desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-12-29 01:48+0000\n"
+"PO-Revision-Date: 2021-07-07 19:57+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 21.04.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: \n"
+"X-Accelerator-Marker: &\n"
+
+#: src/org.kde.klickety.desktop:2
+msgctxt "Name"
+msgid "Klickety"
+msgstr "Klickety"
+
+#: src/org.kde.klickety.desktop:47 src/org.kde.ksame.desktop:72
+msgctxt "GenericName"
+msgid "Board Game"
+msgstr "Joc de taula"
+
+#: src/org.kde.ksame.desktop:2
+msgctxt "Name"
+msgid "SameGame"
+msgstr "SameGame"
+
+#: themes/default.desktop:2
+msgctxt "Name"
+msgid "Classic"
+msgstr "Clàssic"
+
+#: themes/default.desktop:61
+msgctxt "Description"
+msgid "Klickety Classic Theme"
+msgstr "Tema clàssic del Klickety"
+
+#: themes/ksame.desktop:2
+msgctxt "Name"
+msgid "KSame"
+msgstr "KSame"
+
+#: themes/ksame.desktop:46
+msgctxt "Description"
+msgid "Klickety KSame Theme"
+msgstr "Tema KSame del Klickety"
+
+#: themes/ksame_old.desktop:2
+msgctxt "Name"
+msgid "KSame Old"
+msgstr "KSame antic"
+
+#: themes/ksame_old.desktop:45
+msgctxt "Description"
+msgid "Klickety KSame Old Theme"
+msgstr "Tema KSame antic del Klickety"
+
+#~ msgctxt "Comment"
+#~ msgid "Board Game"
+#~ msgstr "Joc de taula"
+
+#~ msgctxt "Name"
+#~ msgid "Game"
+#~ msgstr "Joc"
+
+#~ msgctxt "Comment"
+#~ msgid "Sounds that appear during a game"
+#~ msgstr "Sons que apareixen durant la partida"
+
+#~ msgctxt "Name"
+#~ msgid "Pieces removed"
+#~ msgstr "Peces eliminades"
+
+#~ msgctxt "Comment"
+#~ msgid "Pieces were removed."
+#~ msgstr "S'han eliminat les peces."
+
+#~ msgctxt "Name"
+#~ msgid "Game over"
+#~ msgstr "Fi de la partida"
+
+#~ msgctxt "Comment"
+#~ msgid "Time is up."
+#~ msgstr "S'ha esgotat el temps."

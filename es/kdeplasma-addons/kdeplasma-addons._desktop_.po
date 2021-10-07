@@ -1,0 +1,479 @@
+# Translation of kdeplasma-addons._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2008-2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2008, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018.
+# Joan Maspons <joanmaspons@gmail.com>, 2009.
+# Manuel Tortosa Moreno <manutortosa@gmail.com>, 2009.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015, 2016, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeplasma-addons desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-08-08 00:24+0000\n"
+"PO-Revision-Date: 2019-07-09 09:34+0200\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: applets/comic/comic.knsrc:2
+msgctxt "Name"
+msgid "Comics"
+msgstr "Còmics"
+
+#: desktopswitchers/previews/metadata.desktop:2
+msgctxt "Name"
+msgid "Previews"
+msgstr "Vistes prèvies"
+
+#: desktopswitchers/previews/metadata.desktop:46
+msgctxt "Comment"
+msgid "A desktop switcher layout with previews of the desktops"
+msgstr ""
+"Una disposició del commutador d'escriptori amb vistes prèvies dels "
+"escriptoris"
+
+#: runners/characters/plasma-runner-character_config.desktop:2
+msgctxt "Name"
+msgid "special Characters"
+msgstr "Caràcters especials"
+
+#: runners/dictionary/plasma-runner-dictionary_config.desktop:8
+msgctxt "Name"
+msgid "Dictionary"
+msgstr "Diccionari"
+
+#: runners/dictionary/plasma-runner-dictionary_config.desktop:73
+msgctxt "Comment"
+msgid "Define words"
+msgstr "Defineix mots"
+
+#: runners/spellchecker/plasma-runner-spellchecker_config.desktop:8
+msgctxt "Name"
+msgid "Spell Checker Runner"
+msgstr "Executor del corrector ortogràfic"
+
+#: wallpapers/haenau/metadata.desktop:2
+msgctxt "Name"
+msgid "Haenau"
+msgstr "Haenau"
+
+#: wallpapers/haenau/metadata.desktop:50
+msgctxt "Comment"
+msgid "Haenau wallpaper"
+msgstr "Fons de pantalla Haenau"
+
+#: wallpapers/hunyango/metadata.desktop:2
+msgctxt "Name"
+msgid "Hunyango"
+msgstr "Hunyango"
+
+#: wallpapers/hunyango/metadata.desktop:50
+msgctxt "Comment"
+msgid "Hunyango wallpaper"
+msgstr "Fons de pantalla Hunyango"
+
+#: wallpapers/potd/metadata.desktop:2
+msgctxt "Name"
+msgid "Picture of the Day"
+msgstr "Imatge del dia"
+
+#: wallpapers/potd/metadata.desktop:58
+msgctxt "Comment"
+msgid "A new picture from the Internet each day"
+msgstr "Una imatge nova des d'Internet cada dia"
+
+#: windowswitchers/big_icons/metadata.desktop:2
+msgctxt "Name"
+msgid "Large Icons"
+msgstr "Icones grans"
+
+#: windowswitchers/big_icons/metadata.desktop:47
+msgctxt "Comment"
+msgid "A window switcher layout using large icons to represent the window"
+msgstr ""
+"Una disposició del commutador de finestres que utilitza icones grans per a "
+"representar la finestra"
+
+#: windowswitchers/compact/metadata.desktop:2
+msgctxt "Name"
+msgid "Compact"
+msgstr "Compacte"
+
+#: windowswitchers/compact/metadata.desktop:46
+msgctxt "Comment"
+msgid "A compact window switcher layout"
+msgstr "Una disposició del commutador de finestres compacta"
+
+#: windowswitchers/informative/metadata.desktop:2
+msgctxt "Name"
+msgid "Informative"
+msgstr "Informativa"
+
+#: windowswitchers/informative/metadata.desktop:46
+msgctxt "Comment"
+msgid "An informative window switcher layout including desktop name"
+msgstr ""
+"Una disposició del commutador de finestres informativa que inclou el nom "
+"d'escriptori"
+
+#: windowswitchers/present_windows/metadata.desktop:2
+msgctxt "Name"
+msgid "Grid"
+msgstr "Quadrícula"
+
+#: windowswitchers/present_windows/metadata.desktop:47
+msgctxt "Comment"
+msgid "A Window Switcher layout showing all windows as thumbnails in a grid"
+msgstr ""
+"Una disposició del commutador de finestres que mostra totes les finestres "
+"com a miniatures en una quadrícula"
+
+#: windowswitchers/small_icons/metadata.desktop:2
+msgctxt "Name"
+msgid "Small Icons"
+msgstr "Icones xicotetes"
+
+#: windowswitchers/small_icons/metadata.desktop:47
+msgctxt "Comment"
+msgid "A window switcher layout using small icons to represent the window"
+msgstr ""
+"Una disposició del commutador de finestres que utilitza icones xicotetes per "
+"a representar la finestra"
+
+#: windowswitchers/text/metadata.desktop:2
+msgctxt "Name"
+msgid "Text Only"
+msgstr "Només el text"
+
+#: windowswitchers/text/metadata.desktop:48
+msgctxt "Comment"
+msgid "A window switcher layout only showing window captions"
+msgstr ""
+"Una disposició del commutador de finestres que només mostra els títols de "
+"les finestres"
+
+#: windowswitchers/thumbnail_grid/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Thumbnails"
+msgctxt "Name"
+msgid "Thumbnail Grid"
+msgstr "Miniatures"
+
+#: windowswitchers/thumbnail_grid/metadata.desktop:38
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "A window switcher layout using live thumbnails"
+msgctxt "Comment"
+msgid "A window switcher layout using a small grid of thumbnails"
+msgstr ""
+"Una disposició del commutador de finestres que utilitza miniatures animades"
+
+#: windowswitchers/thumbnails/metadata.desktop:2
+msgctxt "Name"
+msgid "Thumbnails"
+msgstr "Miniatures"
+
+#: windowswitchers/thumbnails/metadata.desktop:47
+msgctxt "Comment"
+msgid "A window switcher layout using live thumbnails"
+msgstr ""
+"Una disposició del commutador de finestres que utilitza miniatures animades"
+
+#~ msgctxt "Name"
+#~ msgid "Activity Pager"
+#~ msgstr "Paginador d'activitats"
+
+#~ msgctxt "Comment"
+#~ msgid "Switch between activities"
+#~ msgstr "Commuta entre activitats"
+
+#~ msgctxt "Name"
+#~ msgid "Binary Clock"
+#~ msgstr "Rellotge binari"
+
+#~ msgctxt "Comment"
+#~ msgid "Time displayed in binary format"
+#~ msgstr "Mostra l'hora en format binari"
+
+#~ msgctxt "Name"
+#~ msgid "Calculator"
+#~ msgstr "Calculadora"
+
+#~ msgctxt "Comment"
+#~ msgid "Calculate simple sums"
+#~ msgstr "Calcula sumes senzilles"
+
+#~ msgctxt "Name"
+#~ msgid "Color Picker"
+#~ msgstr "Selector de color"
+
+#~ msgctxt "Comment"
+#~ msgid "Pick a color from the desktop"
+#~ msgstr "Selecciona un color de l'escriptori"
+
+#~ msgctxt "Name"
+#~ msgid "Comic Strip"
+#~ msgstr "Tira còmica"
+
+#~ msgctxt "Comment"
+#~ msgid "View comic strips from the Internet"
+#~ msgstr "Mostra una tira còmica des d'Internet"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Look up the meaning of words and their translation into different "
+#~ "languages"
+#~ msgstr ""
+#~ "Busca el significat de paraules i la seua traducció en diferents idiomes"
+
+#~ msgctxt "Name"
+#~ msgid "Disk Quota"
+#~ msgstr "Quota de disc"
+
+#~ msgctxt "Comment"
+#~ msgid "Shows details about disk quota"
+#~ msgstr "Mostra els detalls de la quota de disc"
+
+#~ msgctxt "Name"
+#~ msgid "Fifteen Puzzle"
+#~ msgstr "Trencaclosques quinze"
+
+#~ msgctxt "Comment"
+#~ msgid "Put the pieces in order"
+#~ msgstr "Poseu les peces en ordre"
+
+#~ msgctxt "Name"
+#~ msgid "Fuzzy Clock"
+#~ msgstr "Rellotge difús"
+
+#~ msgctxt "Comment"
+#~ msgid "Time displayed in a less precise format"
+#~ msgstr "Mostra l'hora en un format aproximat"
+
+#~ msgctxt "Name"
+#~ msgid "Grouping Plasmoid"
+#~ msgstr "Plasmoide d'agrupació"
+
+#~ msgctxt "Comment"
+#~ msgid "Group Plasma widgets together"
+#~ msgstr "Agrupa els ginys («widgets») de Plasma"
+
+#~ msgctxt "Name"
+#~ msgid "Application Dashboard"
+#~ msgstr "Tauler d'aplicacions"
+
+#~ msgctxt "Comment"
+#~ msgid "A fullscreen application launcher"
+#~ msgstr "Un llançador d'aplicacions a pantalla completa"
+
+#~ msgctxt "Name"
+#~ msgid "Konsole Profiles"
+#~ msgstr "Perfils de Konsole"
+
+#~ msgctxt "Comment"
+#~ msgid "List and launch Konsole profiles"
+#~ msgstr "Llista i llança els perfils de Konsole"
+
+#~ msgctxt "Name"
+#~ msgid "Media Frame"
+#~ msgstr "Marc multimèdia"
+
+#~ msgctxt "Comment"
+#~ msgid "(Picture) Frame"
+#~ msgstr "Marc (fotografies)"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Desktop sticky notes"
+#~ msgctxt "Comment"
+#~ msgid "Desktop sticky note"
+#~ msgstr "Notes adhesives per a l'escriptori"
+
+#~ msgctxt "Name"
+#~ msgid "Quicklaunch"
+#~ msgstr "Quicklaunch"
+
+#~ msgctxt "Comment"
+#~ msgid "Launch your favourite Applications"
+#~ msgstr "Llança les vostres aplicacions preferides"
+
+#~ msgctxt "Name"
+#~ msgid "Quick Share"
+#~ msgstr "Comparteix ràpidament"
+
+#~ msgctxt "Comment"
+#~ msgid "Paste text/images to a remote server"
+#~ msgstr "Apega text/imatges en un servidor remot"
+
+#~ msgctxt "Name"
+#~ msgid "Timer"
+#~ msgstr "Temporitzador"
+
+#~ msgctxt "Comment"
+#~ msgid "Countdown over a specified time period"
+#~ msgstr "Compte arrere durant un període de temps especificat"
+
+#~ msgctxt "Name"
+#~ msgid "User Switcher"
+#~ msgstr "Commutador d'usuaris"
+
+#~ msgctxt "Comment"
+#~ msgid "Quickly switch between different users"
+#~ msgstr "Commuta ràpidament entre diferents usuaris"
+
+#~ msgctxt "Name"
+#~ msgid "Weather Report"
+#~ msgstr "Informe meteorològic"
+
+#~ msgctxt "Comment"
+#~ msgid "Forecast and current conditions"
+#~ msgstr "Previsió i condicions actuals"
+
+#~ msgctxt "Name"
+#~ msgid "Web browser"
+#~ msgstr "Navegador web"
+
+#~ msgctxt "Comment"
+#~ msgid "Add a webpage on your desktop."
+#~ msgstr "Afig una pàgina web a l'escriptori."
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin for Plasma Comic Engine"
+#~ msgstr "Connector per al motor de còmics del plasma"
+
+#~ msgctxt "Name"
+#~ msgid "Comic Strips"
+#~ msgstr "Tires còmiques"
+
+#~ msgctxt "Comment"
+#~ msgid "Online comic strips"
+#~ msgstr "Tires còmiques en línia"
+
+#~ msgctxt "Name"
+#~ msgid "Comic"
+#~ msgstr "Còmic"
+
+#~ msgctxt "Comment"
+#~ msgid "Comic Package Structure"
+#~ msgstr "Estructura de paquet de còmic"
+
+#~ msgctxt "Comment"
+#~ msgid "Data Engine for getting various online Pictures of The Day."
+#~ msgstr "Motor de dades per a accedir a diverses «imatges del dia» en línia."
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin for Plasma PoTD Engine"
+#~ msgstr "Connector per al motor PoTD del plasma"
+
+#~ msgctxt "Name"
+#~ msgid "Special Characters"
+#~ msgstr "Caràcters especials"
+
+#~ msgctxt "Comment"
+#~ msgid "Creates special characters from their hexadecimal codes"
+#~ msgstr "Crea caràcters especials a partir dels seus codis hexadecimals"
+
+#~ msgctxt "Name"
+#~ msgid "Unit Converter"
+#~ msgstr "Convertidor d'unitats"
+
+#~ msgctxt "Comment"
+#~ msgid "Convert values to different units"
+#~ msgstr "Converteix valors a diferents unitats"
+
+#~ msgctxt "Name"
+#~ msgid "Date and Time"
+#~ msgstr "Data i hora"
+
+#~ msgctxt "Comment"
+#~ msgid "The current date and time, locally or in any timezone"
+#~ msgstr "La data i l'hora actuals, localment o en qualsevol zona horària"
+
+#~ msgctxt "Name"
+#~ msgid "Kate Sessions"
+#~ msgstr "Sessions de Kate"
+
+#~ msgctxt "Comment"
+#~ msgid "Matches Kate Sessions"
+#~ msgstr "Correspon amb sessions de Kate"
+
+#~ msgctxt "Comment"
+#~ msgid "Matches Konsole Profiles"
+#~ msgstr "Correspon amb perfils de Konsole"
+
+#~ msgctxt "Name"
+#~ msgid "Spell Checker"
+#~ msgstr "Corrector ortogràfic"
+
+#~ msgctxt "Comment"
+#~ msgid "Check the spelling of a word"
+#~ msgstr "Comprova l'ortografia d'una paraula"
+
+#~ msgctxt "Name"
+#~ msgid "Keyboard Indicator"
+#~ msgstr "Indicador de teclat"
+
+#~ msgctxt "Comment"
+#~ msgid "Shows the state of the keyboard"
+#~ msgstr "Mostra l'estat del teclat"
+
+#~ msgctxt "Name"
+#~ msgid "System Load Viewer"
+#~ msgstr "Visor de la càrrega del sistema"
+
+#~ msgctxt "Comment"
+#~ msgid "Tiny CPU/RAM/Swap monitor"
+#~ msgstr "Xicotet monitor de la CPU/RAM/Memòria d'intercanvi"
+
+#~ msgctxt "Name"
+#~ msgid "TechBase"
+#~ msgstr "TechBase"
+
+#~ msgctxt "Comment"
+#~ msgid "Search on KDE's TechBase"
+#~ msgstr "Busca en la TechBase de KDE"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Documentation"
+#~ msgstr "Documentació de KDE"
+
+#~ msgctxt "Comment"
+#~ msgid "Search on KDE's Userbase"
+#~ msgstr "Busca en la Userbase de KDE"
+
+#~ msgctxt "Name"
+#~ msgid "Wikipedia"
+#~ msgstr "Viquipèdia"
+
+#~ msgctxt "Comment"
+#~ msgid "Search on Wikipedia"
+#~ msgstr "Busca en la Viquipèdia"
+
+#~ msgctxt "Name"
+#~ msgid "Wikitravel"
+#~ msgstr "Wikitravel"
+
+#~ msgctxt "Comment"
+#~ msgid "Search on Wikitravel"
+#~ msgstr "Busca en Wikitravel"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Picture of the Day"
+#~ msgctxt "Name"
+#~ msgid "Picture of The Day"
+#~ msgstr "Imatge del dia"
+
+#~ msgctxt "Name"
+#~ msgid "Notes"
+#~ msgstr "Notes"

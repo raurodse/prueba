@@ -1,0 +1,161 @@
+# Translation of kcm_plymouth.po to Catalan (Valencian)
+# Copyright (C) 2016-2017 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2016, 2017.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: plymouth-kcm\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-08-20 00:22+0000\n"
+"PO-Revision-Date: 2017-01-06 14:09+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 2.0\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Josep Ma. Ferrer"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "txemaq@gmail.com"
+
+#: helper.cpp:33
+#, kde-format
+msgid "No theme specified in helper parameters."
+msgstr "No s'ha especificat cap tema als paràmetres de l'ajudant."
+
+#: helper.cpp:51 helper.cpp:230 helper.cpp:295
+#, kde-format
+msgid "Theme corrupted: .plymouth file not found inside theme."
+msgstr "Tema corrupte: El fitxer «.plymouth» no s'ha trobat dins del tema."
+
+#: helper.cpp:61 helper.cpp:89 helper.cpp:111 helper.cpp:240 helper.cpp:305
+#, kde-format
+msgid "Cannot start update-alternatives."
+msgstr "No s'ha pogut iniciar l'«update-alternatives»."
+
+#: helper.cpp:66 helper.cpp:94 helper.cpp:116 helper.cpp:245 helper.cpp:310
+#, kde-format
+msgid "update-alternatives failed to run."
+msgstr "L'«update-alternatives» ha fallat en executar-se."
+
+#: helper.cpp:76 helper.cpp:102 helper.cpp:124 helper.cpp:253 helper.cpp:318
+#, kde-format
+msgid "update-alternatives returned with error condition %1."
+msgstr "L'«update-alternatives» ha retornat amb la condició d'error %1."
+
+#: helper.cpp:137
+#, kde-format
+msgid "Cannot start initramfs."
+msgstr "No s'ha pogut iniciar l'«initramfs»."
+
+#: helper.cpp:142
+#, kde-format
+msgid "Initramfs failed to run."
+msgstr "L'«initramfs» ha fallat en executar-se."
+
+#: helper.cpp:152
+#, kde-format
+msgid "Initramfs returned with error condition %1."
+msgstr "L'«initramfs» ha retornat amb la condició d'error %1."
+
+#: helper.cpp:279
+#, kde-format
+msgid "Theme folder %1 does not exist."
+msgstr "La carpeta %1 del tema no existeix."
+
+#: helper.cpp:285
+#, kde-format
+msgid "Theme %1 does not exist."
+msgstr "El tema %1 no existeix."
+
+#: kcm.cpp:44
+#, fuzzy, kde-format
+#| msgid "Get New Boot Splash Screens..."
+msgid "Boot Splash Screen"
+msgstr "Obtén pantalles de presentació d'inici noves..."
+
+#: kcm.cpp:45
+#, kde-format
+msgid "Marco Martin"
+msgstr "Marco Martin"
+
+#: kcm.cpp:204 kcm.cpp:224
+#, fuzzy, kde-format
+#| msgid "Unable to authenticate/execute the action: %1, %2"
+msgid "Unable to authenticate/execute the action: %1 (%2)"
+msgstr "No s'ha pogut autenticar/executar l'acció: %1, %2"
+
+#: kcm.cpp:228
+#, kde-format
+msgid "Theme uninstalled successfully."
+msgstr ""
+
+#: kplymouththemeinstaller.cpp:33
+#, kde-format
+msgid "Plymouth theme installer"
+msgstr "Instal·lador de temes del Plymouth"
+
+#: kplymouththemeinstaller.cpp:39
+#, kde-format
+msgid "Install a theme."
+msgstr "Instal·la un tema."
+
+#: kplymouththemeinstaller.cpp:40
+#, kde-format
+msgid "Uninstall a theme."
+msgstr "Desinstal·la un tema."
+
+#: kplymouththemeinstaller.cpp:42
+#, kde-format
+msgid "The theme to install, must be an existing archive file."
+msgstr "El tema a instal·lar, cal que siga un fitxer d'arxiu existent."
+
+#: kplymouththemeinstaller.cpp:114
+#, kde-format
+msgid "Unable to authenticate/execute the action: %1, %2"
+msgstr "No s'ha pogut autenticar/executar l'acció: %1, %2"
+
+#: package/contents/ui/main.qml:17
+#, fuzzy, kde-format
+#| msgid ""
+#| "This module lets you configure the look of the whole workspace with some "
+#| "ready to go presets."
+msgid "This module lets you choose the Plymouth boot splash screen."
+msgstr ""
+"Aquest mòdul vos permetrà configurar l'aspecte de tot l'espai de treball amb "
+"algunes predefinicions a punt per usar."
+
+#: package/contents/ui/main.qml:40
+#, kde-format
+msgid "Uninstall"
+msgstr "Desinstal·la"
+
+#: package/contents/ui/main.qml:72
+#, kde-format
+msgid "Get New Boot Splash Screens..."
+msgstr "Obtén pantalles de presentació d'inici noves..."
+
+#, fuzzy
+#~| msgid "Download New Splash Screens"
+#~ msgid "Download New Boot Splash Screens"
+#~ msgstr "Descarrega pantalles de presentació noves"
+
+#~ msgid "Configure Plymouth Splash Screen"
+#~ msgstr "Configura la pantalla de presentació del Plymouth"
+
+#~ msgid "Select a global splash screen for the system"
+#~ msgstr "Selecciona una pantalla de presentació global pel sistema"

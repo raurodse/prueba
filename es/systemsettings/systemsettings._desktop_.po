@@ -1,0 +1,346 @@
+# Translation of systemsettings._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2000-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 2000, 2004, 2005, 2006.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2002, 2003, 2012, 2014, 2017.
+# Albert Astals Cid <aacid@kde.org>, 2004, 2005.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018.
+# Robert Millan <rmh@aybabtu.com>, 2009.
+# Empar Montoro Martín <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: systemsettings desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-08-30 00:26+0000\n"
+"PO-Revision-Date: 2019-07-23 12:36+0200\n"
+"Last-Translator: Empar Montoro Martín <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 19.04.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: app/kdesystemsettings.desktop:8
+msgctxt "GenericName"
+msgid "KDE System Settings"
+msgstr "Configuració del sistema de KDE"
+
+#: app/kdesystemsettings.desktop:70
+msgctxt "Name"
+msgid "KDE System Settings"
+msgstr "Configuració del sistema de KDE"
+
+#: app/kdesystemsettings.desktop:132 app/systemsettings.desktop:183
+msgctxt "Comment"
+msgid "Configuration tools for your computer"
+msgstr "Eines de configuració per a l'ordinador"
+
+#: app/systemsettings.desktop:11
+msgctxt "GenericName"
+msgid "System Settings"
+msgstr "Configuració del sistema"
+
+#: app/systemsettings.desktop:95
+msgctxt "Name"
+msgid "System Settings"
+msgstr "Configuració del sistema"
+
+#: app/systemsettings.desktop:236
+msgctxt "Name"
+msgid "Global Theme"
+msgstr ""
+
+#: app/systemsettings.desktop:279
+msgctxt "Name"
+msgid "Users"
+msgstr ""
+
+#: app/systemsettings.desktop:322
+msgctxt "Name"
+msgid "Screen Locking"
+msgstr ""
+
+#: app/systemsettings.desktop:364
+msgctxt "Name"
+msgid "Energy Saving"
+msgstr ""
+
+#: app/systemsettings.desktop:407
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Display and Monitor"
+msgctxt "Name"
+msgid "Display Configuration"
+msgstr "Pantalla i monitor"
+
+#: categories/hidden.desktop:7
+msgctxt "Name"
+msgid "Hidden"
+msgstr "Ocult"
+
+#: categories/settings-appearance-color.desktop:9
+msgctxt "Name"
+msgid "Colors"
+msgstr "Colors"
+
+#: categories/settings-appearance.desktop:11
+msgctxt "Name"
+msgid "Appearance"
+msgstr "Aparença"
+
+#: categories/settings-appearance-font.desktop:9
+msgctxt "Name"
+msgid "Fonts"
+msgstr "Tipus de lletres"
+
+#: categories/settings-appearance-icons.desktop:9
+msgctxt "Name"
+msgid "Icons"
+msgstr "Icones"
+
+#: categories/settings-hardware.desktop:9
+msgctxt "Name"
+msgid "Hardware"
+msgstr "Maquinari"
+
+#: categories/settings-hardware-display.desktop:9
+msgctxt "Name"
+msgid "Display and Monitor"
+msgstr "Pantalla i monitor"
+
+#: categories/settings-hardware-display.desktop:76
+msgctxt "Comment"
+msgid "Display Settings"
+msgstr "Configuració de la pantalla"
+
+#: categories/settings-hardware-input.desktop:9
+msgctxt "Name"
+msgid "Input Devices"
+msgstr "Dispositius d'entrada"
+
+#: categories/settings-hardware-multimedia.desktop:9
+msgctxt "Name"
+msgid "Multimedia"
+msgstr "Multimèdia"
+
+#: categories/settings-hardware-peripherals.desktop:9
+msgctxt "Name"
+msgid "Peripherals"
+msgstr "Perifèrics"
+
+#: categories/settings-hardware-powermanagement.desktop:9
+msgctxt "Name"
+msgid "Power Management"
+msgstr "Gestió d'energia"
+
+#: categories/settings-hardware-removable-storage.desktop:8
+msgctxt "Name"
+msgid "Removable Storage"
+msgstr "Emmagatzematge extraïble"
+
+#: categories/settings-network-bluetooth.desktop:9
+msgctxt "Name"
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: categories/settings-network-connectivity.desktop:9
+msgctxt "Name"
+msgid "Connectivity"
+msgstr "Connectivitat"
+
+#: categories/settings-network.desktop:8
+msgctxt "Name"
+msgid "Network"
+msgstr "Xarxa"
+
+#: categories/settings-network-networksettings.desktop:9
+msgctxt "Name"
+msgid "Settings"
+msgstr "Preferències"
+
+#: categories/settings-personalization-accessibility.desktop:8
+msgctxt "Name"
+msgid "Accessibility"
+msgstr "Accessibilitat"
+
+#: categories/settings-personalization-accountdetails.desktop:9
+msgctxt "Name"
+msgid "Account Details"
+msgstr "Detalls del compte"
+
+#: categories/settings-personalization-applications.desktop:9
+msgctxt "Name"
+msgid "Applications"
+msgstr "Aplicacions"
+
+#: categories/settings-personalization.desktop:9
+msgctxt "Name"
+msgid "Personalization"
+msgstr "Personalització"
+
+#: categories/settings-personalization-notification.desktop:9
+msgctxt "Name"
+msgid "Notifications"
+msgstr "Notificacions"
+
+#: categories/settings-personalization-regionalsettings.desktop:9
+msgctxt "Name"
+msgid "Regional Settings"
+msgstr "Paràmetres regionals"
+
+#: categories/settings-root-category.desktop:9
+msgctxt "Name"
+msgid "Root"
+msgstr ""
+
+#: categories/settings-system-administration.desktop:9
+msgctxt "Name"
+msgid "System Administration"
+msgstr "Administració del sistema"
+
+#: categories/settings-workspace.desktop:9
+msgctxt "Name"
+msgid "Workspace"
+msgstr "Espai de treball"
+
+#: categories/settings-workspace-desktopbehavior.desktop:9
+msgctxt "Name"
+msgid "Workspace Behavior"
+msgstr "Comportament de l'espai de treball"
+
+#: categories/settings-workspace-search.desktop:9
+msgctxt "Name"
+msgid "Search"
+msgstr "Busca"
+
+#: categories/settings-workspace-session.desktop:9
+msgctxt "Name"
+msgid "Startup and Shutdown"
+msgstr "Inici i parada"
+
+#: categories/settings-workspace-shortcuts.desktop:9
+msgctxt "Name"
+msgid "Shortcuts"
+msgstr "Dreceres"
+
+#: categories/settings-workspace-windowmanagement.desktop:9
+msgctxt "Name"
+msgid "Window Management"
+msgstr "Gestió de les finestres"
+
+#: categories/systemsettingscategory.desktop:4
+msgctxt "Name"
+msgid "System Settings Category"
+msgstr "Categoria de configuració del sistema"
+
+#: core/systemsettingsexternalapp.desktop:4
+msgctxt "Name"
+msgid "System Settings External Application"
+msgstr "Aplicació externa de configuració del sistema"
+
+#: core/systemsettingsview.desktop:4
+msgctxt "Name"
+msgid "System Settings View"
+msgstr "Vista de la configuració del sistema"
+
+#: icons/settings-icon-view.desktop:6 sidebar/settings-sidebar-view.desktop:6
+msgctxt "X-KDE-Keywords"
+msgid "System Settings"
+msgstr "Configuració del sistema"
+
+#: icons/settings-icon-view.desktop:69
+msgctxt "Name"
+msgid "Icon View"
+msgstr "Vista d'icones"
+
+#: icons/settings-icon-view.desktop:149
+msgctxt "Comment"
+msgid "The KDE 4 icon view style"
+msgstr "L'estil de vista d'icones de KDE 4"
+
+#: sidebar/package/metadata.desktop:2 sidebar/settings-sidebar-view.desktop:69
+msgctxt "Name"
+msgid "Sidebar View"
+msgstr "Vista de la barra lateral"
+
+#: sidebar/package/metadata.desktop:52
+#: sidebar/settings-sidebar-view.desktop:119
+msgctxt "Comment"
+msgid "Categorized sidebar style"
+msgstr "Estil de la barra lateral categoritzat"
+
+#~ msgctxt "Name"
+#~ msgid "Application and System Notifications"
+#~ msgstr "Notificacions de les aplicacions i del sistema"
+
+#~ msgctxt "Name"
+#~ msgid "Application Appearance"
+#~ msgstr "Aparença de les aplicacions"
+
+#~ msgctxt "Name"
+#~ msgid "Workspace Appearance"
+#~ msgstr "Aparença de l'espai de treball"
+
+#~ msgctxt "Comment"
+#~ msgid "Customize the appearance of your desktop"
+#~ msgstr "Personalitza l'aparença de l'escriptori"
+
+#~ msgctxt "Name"
+#~ msgid "Locale"
+#~ msgstr "Configuració regional"
+
+#~ msgctxt "Name"
+#~ msgid "Lost and Found"
+#~ msgstr "Perdut i trobat"
+
+#~ msgctxt "Name"
+#~ msgid "Network and Connectivity"
+#~ msgstr "Xarxa i connectivitat"
+
+#~ msgctxt "Name"
+#~ msgid "Network Settings"
+#~ msgstr "Paràmetres de xarxa"
+
+#~ msgctxt "Name"
+#~ msgid "Permissions"
+#~ msgstr "Permisos"
+
+#~ msgctxt "Name"
+#~ msgid "Personal Information"
+#~ msgstr "Informació personal"
+
+#~ msgctxt "Name"
+#~ msgid "Sharing"
+#~ msgstr "Compartició"
+
+#~ msgctxt "Name"
+#~ msgid "Shortcuts and Gestures"
+#~ msgstr "Dreceres i gestos"
+
+#~ msgctxt "Name"
+#~ msgid "Window Behavior"
+#~ msgstr "Comportament de les finestres"
+
+#~ msgctxt "Name"
+#~ msgid "Workspace Appearance and Behavior"
+#~ msgstr "Aparença i comportament de l'espai de treball"
+
+#~ msgctxt "Name"
+#~ msgid "Application Style"
+#~ msgstr "Estil de l'aplicació"
+
+#~ msgctxt "Name"
+#~ msgid "Tree View"
+#~ msgstr "Vista en arbre"
+
+#~ msgctxt "Comment"
+#~ msgid "A Classic KDE 3 KControl style system settings view."
+#~ msgstr ""
+#~ "Una vista de la configuració del sistema a l'estil clàssic de KControl de "
+#~ "KDE 3."

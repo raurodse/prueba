@@ -1,0 +1,657 @@
+# Translation of kdepim-addons._json_.po to Catalan (Valencian)
+# Copyright (C) 2000-2021 This_file_is_part_of_KDE
+# This file is distributed under same license as the source of its messages in English.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 2000, 2004, 2005, 2006.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2003, 2004, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021.
+# Albert Astals Cid <aacid@kde.org>, 2004, 2005.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2006, 2007, 2008, 2010, 2011, 2012, 2013, 2015, 2016, 2017, 2018, 2019, 2020, 2021.
+# Manuel Tortosa Moreno <manutortosa@chakra-project.org>, 2009, 2010, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-addons json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-26 00:29+0000\n"
+"PO-Revision-Date: 2021-09-13 16:07+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.12.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: akonadi-import-wizard/evolutionv1/evolutionv1importer.json
+msgctxt "Name"
+msgid "Evolution1 Importer"
+msgstr "Importador de l'Evolution"
+
+#: akonadi-import-wizard/evolutionv2/evolutionv2importer.json
+msgctxt "Name"
+msgid "Evolution2 Importer"
+msgstr "Importador de l'Evolution2"
+
+#: akonadi-import-wizard/geary/gearyimporter.json
+msgctxt "Name"
+msgid "Geary Importer"
+msgstr "Importador del Geary"
+
+#: akonadi-import-wizard/mailapp/mailappimporter.json
+msgctxt "Name"
+msgid "MailApp Importer"
+msgstr "Importador del MailApp"
+
+#: akonadi-import-wizard/nylas-mail/nylasmailimporter.json
+msgctxt "Name"
+msgid "Nylas Mail Importer"
+msgstr "Importador del Nylas Mail"
+
+#: akonadi-import-wizard/oe/oeimporter.json
+msgctxt "Name"
+msgid "OE Importer"
+msgstr "Importador de l'OE"
+
+#: akonadi-import-wizard/opera/operaimporter.json
+msgctxt "Name"
+msgid "Opera Importer"
+msgstr "Importador de l'Opera"
+
+#: akonadi-import-wizard/pmail/pmailimporter.json
+msgctxt "Name"
+msgid "PMail Importer"
+msgstr "Importador del PMail"
+
+#: akonadi-import-wizard/thebat/thebatimporter.json
+msgctxt "Name"
+msgid "TheBat Importer"
+msgstr "Importador del TheBat"
+
+#: kaddressbook/importexportplugins/csv/kaddressbook_importexportcsvplugin.json
+msgctxt "Name"
+msgid "Import/Export CSV"
+msgstr "Importa/exporta el CSV"
+
+#: kaddressbook/importexportplugins/gmx/kaddressbook_importexportgmxplugin.json
+msgctxt "Name"
+msgid "Import Export GMX"
+msgstr "Importa/exporta el GMX"
+
+#: kaddressbook/importexportplugins/ldap/kaddressbook_importexportldapplugin.json
+msgctxt "Name"
+msgid "Import/Export LDAP Contacts"
+msgstr "Importa/exporta els contactes LDAP"
+
+#: kaddressbook/importexportplugins/ldif/kaddressbook_importexportldifplugin.json
+msgctxt "Name"
+msgid "Import/Export LDIF"
+msgstr "Importa/exporta el LDIF"
+
+#: kaddressbook/importexportplugins/vcards/kaddressbook_importexportvcardplugin.json
+msgctxt "Name"
+msgid "Import/Export vCard"
+msgstr "Importa/exporta la vCard"
+
+#: kaddressbook/importexportplugins/windows-contacts/kaddressbook_importexportwindowscontactplugin.json
+msgctxt "Name"
+msgid "Import/Export Windows Contact"
+msgstr "Importa/exporta un Contact del Windows"
+
+#: kaddressbook/plugins/checkgravatar/kaddressbook_checkgravatarplugin.json
+msgctxt "Name"
+msgid "Check Gravatar"
+msgstr "Comprova el «Gravatar»"
+
+#: kaddressbook/plugins/mergecontacts/kaddressbook_mergecontactsplugin.json
+msgctxt "Name"
+msgid "Merge Contacts"
+msgstr "Fusiona els contactes"
+
+#: kaddressbook/plugins/searchduplicates/kaddressbook_searchduplicatesplugin.json
+msgctxt "Name"
+msgid "Search Duplicate Contacts"
+msgstr "Cerca els contactes duplicats"
+
+#: kaddressbook/plugins/sendmail/kaddressbook_sendmailplugin.json
+msgctxt "Name"
+msgid "Send Mail"
+msgstr "Envia el correu"
+
+#: kaddressbook/plugins/sendvcards/kaddressbook_sendvcardsplugin.json
+msgctxt "Name"
+msgid "Send vCards"
+msgstr "Envia unes quantes vCard"
+
+#: kmail/checkbeforedeletemailplugins/confirmbeforedeleting/kmail_confirmbeforedeletingplugin.json
+msgctxt "Name"
+msgid "Confirm Before Deleting Emails"
+msgstr "Confirma abans de suprimir els correus electrònics"
+
+#: kmail/editorconvertertextplugins/markdown/plugin/kmail_markdownplugin.json
+msgctxt "Name"
+msgid "Markdown"
+msgstr "Markdown"
+
+#: kmail/editorinitplugins/externalcomposer/kmail_externalcomposereditorplugin.json
+msgctxt "Name"
+msgid "Open external composer"
+msgstr "Obri un editor extern"
+
+#: kmail/editorplugins/autocorrection/kmail_autocorrectioneditorplugin.json
+msgctxt "Name"
+msgid "Autocorrection"
+msgstr "Correcció automàtica"
+
+#: kmail/editorplugins/changecase/kmail_changecaseeditorplugin.json
+msgctxt "Name"
+msgid "Change Case"
+msgstr "Canvia la caixa"
+
+#: kmail/editorplugins/insertemail/kmail_insertemaileditorplugin.json
+msgctxt "Name"
+msgid "Insert Email"
+msgstr "Inserció d'un correu electrònic"
+
+#: kmail/editorplugins/insertshorturl/kmail_insertshorturleditorplugin.json
+msgctxt "Name"
+msgid "Insert Short URL"
+msgstr "Inserció d'un URL curt"
+
+#: kmail/editorplugins/insertshorturl/shorturlengineplugin/isgdshorturlengineplugin/pimcommon_isgdshorturlengineplugin.json
+msgctxt "Name"
+msgid "Is.gd"
+msgstr "Is.gd"
+
+#: kmail/editorplugins/insertshorturl/shorturlengineplugin/tinyurlengineplugin/pimcommon_tinyurlengineplugin.json
+msgctxt "Name"
+msgid "TinyUrl"
+msgstr "TinyUrl"
+
+#: kmail/editorplugins/insertshorturl/shorturlengineplugin/triopabshorturlengineplugin/pimcommon_triopabshorturlengineplugin.json
+msgctxt "Name"
+msgid "to.ly"
+msgstr "to.ly"
+
+#: kmail/editorplugins/insertshorturl/shorturlengineplugin/ur1cashorturlengineplugin/pimcommon_ur1cashorturlengineplugin.json
+msgctxt "Name"
+msgid "Ur1Ca"
+msgstr "Ur1Ca"
+
+#: kmail/editorplugins/insertspecialcharacter/kmail_insertspecialcharactereditorplugin.json
+msgctxt "Name"
+msgid "Insert Special Character"
+msgstr "Inserció d'un caràcter especial"
+
+#: kmail/editorplugins/nonbreakingspace/kmail_nonbreakingspaceeditorplugin.json
+msgctxt "Name"
+msgid "Insert Non Breaking Space"
+msgstr "Inserció d'un espai no divisible"
+
+#: kmail/editorplugins/quicktext/kmail_quicktextplugin.json
+msgctxt "Name"
+msgid "Quick Text"
+msgstr "Text ràpid"
+
+#: kmail/editorplugins/sharetext/kmail_sharetexteditorplugin.json
+msgctxt "Name"
+msgid "Share Text"
+msgstr "Comparteix el text"
+
+#: kmail/editorplugins/zoomtext/kmail_zoomtexteditorplugin.json
+msgctxt "Name"
+msgid "Zoom Text"
+msgstr "Amplia el text"
+
+#: kmail/editorsendcheckplugins/automaticaddcontacts/kmail_automaticaddcontactsplugin.json
+msgctxt "Name"
+msgid "Automatic Add Contacts"
+msgstr "Afig automàticament als contactes"
+
+#: kmail/editorsendcheckplugins/checkbeforesend/kmail_checkbeforesendplugin.json
+msgctxt "Name"
+msgid "Check Before Send"
+msgstr "Comprova abans d'enviar"
+
+#: kmail/editorsendcheckplugins/confirm-address/kmail_confirmaddressplugin.json
+msgctxt "Name"
+msgid "Confirm Address"
+msgstr "Confirma l'adreça"
+
+#: kmail/grammarplugins/grammalecte/plugin/kmail_grammalecteplugin.json
+msgctxt "Name"
+msgid "French Grammar Checker"
+msgstr "Comprova la gramàtica en francés"
+
+#: kmail/grammarplugins/languagetool/plugin/kmail_languagetoolplugin.json
+msgctxt "Name"
+msgid "Grammar Checker (LanguageTool)"
+msgstr "Comprova la gramàtica (LanguageTool)"
+
+#: kmail/plugins/antispamplugin/kmail_antispamplugin.json
+msgctxt "Name"
+msgid "Antispam"
+msgstr "Contra el correu brossa"
+
+#: kmail/plugins/antivirusplugin/kmail_antivirusplugin.json
+msgctxt "Name"
+msgid "Antivirus"
+msgstr "Contra els virus"
+
+#: kmail/plugins/expertplugin/kmail_expertplugin.json
+msgctxt "Name"
+msgid "Expert Plugin"
+msgstr "Connector expert"
+
+#: kmail/plugins/logactivitiesplugin/kmail_logactivitiesplugin.json
+msgctxt "Name"
+msgid "Log Activities"
+msgstr "Registra les activitats"
+
+#: kmailtransport/sendmail/sendmailtransport.json
+msgctxt "Name"
+msgid "SendMail Mail Transport"
+msgstr "Transport de correu SendMail"
+
+#: plugins/customtoolsplugins/translatorplugin/pimcommon_translatorplugin.json
+#: plugins/messageviewerplugins/common/translatorplugin/messageviewer_translatorplugin.json
+msgctxt "Name"
+msgid "Translator"
+msgstr "Traductor"
+
+#: plugins/messageviewerconfigureplugins/dkim-verify/messageviewer_dkimconfigplugin.json
+msgctxt "Name"
+msgid "DKIM Checker"
+msgstr "Verificador del DKIM"
+
+#: plugins/messageviewerconfigureplugins/expireaccounttrashfolder/messageviewer_expireaccounttrashfolderconfigplugin.json
+msgctxt "Name"
+msgid "Expire Trash Folder"
+msgstr "Caducitat de la carpeta paperera"
+
+#: plugins/messageviewerconfigureplugins/foldersettings/messageviewer_folderconfiguresettingsplugin.json
+msgctxt "Name"
+msgid "Folder Settings"
+msgstr "Paràmetres de les carpetes"
+
+#: plugins/messageviewerconfigureplugins/gravatar/messageviewer_gravatarconfigplugin.json
+msgctxt "Name"
+msgid "Gravatar"
+msgstr "Gravatar"
+
+#: plugins/messageviewerheaderplugins/briefheaderstyleplugin/messageviewer_briefheaderstyleplugin.json
+msgctxt "Name"
+msgid "Brief Header Style"
+msgstr "Estil de capçalera breu"
+
+#: plugins/messageviewerheaderplugins/enterpriseheaderstyleplugin/messageviewer_enterpriseheaderstyleplugin.json.cmake
+msgctxt "Name"
+msgid "Enterprise Header Style"
+msgstr "Estil de capçalera corporativa"
+
+#: plugins/messageviewerheaderplugins/fancyheaderstyleplugin/messageviewer_fancyheaderstyleplugin.json
+msgctxt "Name"
+msgid "Fancy Header Style"
+msgstr "Estil de capçalera sofisticada"
+
+#: plugins/messageviewerheaderplugins/grantleeheaderstyleplugin/messageviewer_grantleeheaderstyleplugin.json
+msgctxt "Name"
+msgid "Grantlee Header Style"
+msgstr "Estil de capçalera «Grantlee»"
+
+#: plugins/messageviewerheaderplugins/longheaderstyleplugin/messageviewer_longheaderstyleplugin.json
+msgctxt "Name"
+msgid "Long Header Style"
+msgstr "Estil de capçalera llarga"
+
+#: plugins/messageviewerheaderplugins/standardsheaderstyleplugin/messageviewer_standardsheaderstyleplugin.json
+msgctxt "Name"
+msgid "Standards Header Style"
+msgstr "Estil de capçalera estàndard"
+
+#: plugins/messageviewerplugins/common/expandurlplugin/messageviewer_expandurlplugin.json
+msgctxt "Name"
+msgid "Expand URL"
+msgstr "Expandeix l'URL"
+
+#: plugins/messageviewerplugins/createeventplugin/messageviewer_createeventplugin.json
+msgctxt "Name"
+msgid "Create Event"
+msgstr "Crea un esdeveniment"
+
+#: plugins/messageviewerplugins/createnoteplugin/messageviewer_createnoteplugin.json
+msgctxt "Name"
+msgid "Create Note"
+msgstr "Crea una nota"
+
+#: plugins/messageviewerplugins/createtodoplugin/messageviewer_createtodoplugin.json
+msgctxt "Name"
+msgid "Create Todo"
+msgstr "Crea una tasca pendent"
+
+#: plugins/messageviewerplugins/externalscriptplugin/messageviewer_externalscriptplugin.json
+msgctxt "Name"
+msgid "External Script"
+msgstr "Script extern"
+
+#: plugins/plasma/pimeventsplugin/pimeventsplugin.json
+msgctxt "Name"
+msgid "PIM Events Plugin"
+msgstr "Connector d'esdeveniments del PIM"
+
+#: plugins/templateparser/templateparseremailaddressrequesterakonadi.json
+msgctxt "Name"
+msgid "Email Address Akonadi Requester for Template Parser library"
+msgstr ""
+"Sol·licitant d'adreces de correu electrònic de l'Akonadi per a la biblioteca "
+"del «Template Parser»"
+
+#: plugins/webengineurlinterceptor/adblock/messageviewer_adblockurlinterceptor.json
+msgctxt "Name"
+msgid "Adblock"
+msgstr "Adblock"
+
+#: plugins/webengineurlinterceptor/donottrack/messageviewer_donottrackurlinterceptor.json
+msgctxt "Name"
+msgid "Do Not Track"
+msgstr "No deixis rastre"
+
+#: kaddressbook/importexportplugins/csv/kaddressbook_importexportcsvplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to import/export CSV."
+msgstr "Aquest connector permet importar o exportar els CSV."
+
+#: kaddressbook/importexportplugins/gmx/kaddressbook_importexportgmxplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to import/export GMX."
+msgstr "Aquest connector permet importar o exportar els GMX."
+
+#: kaddressbook/importexportplugins/ldap/kaddressbook_importexportldapplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to import/export LDAP contacts."
+msgstr "Aquest connector permet importar o exportar els contactes LDAP."
+
+#: kaddressbook/importexportplugins/ldif/kaddressbook_importexportldifplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to import/export LDIF."
+msgstr "Aquest connector permet importar o exportar els LDIF."
+
+#: kaddressbook/importexportplugins/vcards/kaddressbook_importexportvcardplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to import/export vCards."
+msgstr "Aquest connector permet importar o exportar les vCard."
+
+#: kaddressbook/importexportplugins/windows-contacts/kaddressbook_importexportwindowscontactplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to import/export Windows Contacts."
+msgstr "Aquest connector permet importar/exportar els contactes de Windows."
+
+#: kaddressbook/plugins/checkgravatar/kaddressbook_checkgravatarplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to check the Gravatar images."
+msgstr "Aquest connector permet comprovar les imatges «Gravatar»."
+
+#: kaddressbook/plugins/mergecontacts/kaddressbook_mergecontactsplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to merge contacts."
+msgstr "Aquest connector permet fusionar contactes."
+
+#: kaddressbook/plugins/searchduplicates/kaddressbook_searchduplicatesplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to search duplicate contacts."
+msgstr "Aquest connector permet cercar contactes duplicats."
+
+#: kaddressbook/plugins/sendmail/kaddressbook_sendmailplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to send email directly to selected contacts."
+msgstr ""
+"Aquest connector permet enviar correus electrònics directament als contactes "
+"seleccionats."
+
+#: kaddressbook/plugins/sendvcards/kaddressbook_sendvcardsplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to send vCard from selected contacts."
+msgstr "Aquest connector permet enviar les vCard dels contactes seleccionats."
+
+#: kmail/checkbeforedeletemailplugins/confirmbeforedeleting/kmail_confirmbeforedeletingplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to check if we want to delete specific email"
+msgstr ""
+"Aquest connector permet comprovar si es vol suprimir un correu electrònic "
+"específic"
+
+#: kmail/editorconvertertextplugins/markdown/plugin/kmail_markdownplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to generate html from markdown language"
+msgstr "Aquest connector permet generar HTML a partir del llenguatge Markdown"
+
+#: kmail/editorinitplugins/externalcomposer/kmail_externalcomposereditorplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to use an external composer."
+msgstr "Aquest connector permet usar un editor extern."
+
+#: kmail/editorplugins/autocorrection/kmail_autocorrectioneditorplugin.json
+msgctxt "Description"
+msgid ""
+"This plugin allows you to autocorrect all text in composer or selected text."
+msgstr ""
+"Aquest connector permet corregir automàticament tot el text a l'editor o el "
+"text seleccionat."
+
+#: kmail/editorplugins/changecase/kmail_changecaseeditorplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to change the case of the selected text."
+msgstr ""
+"Aquest connector permet canviar majúscules/minúscules en el text seleccionat."
+
+#: kmail/editorplugins/insertemail/kmail_insertemaileditorplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to select email and insert it in composer."
+msgstr ""
+"Aquest connector permet seleccionar un correu electrònic i inserir-lo a "
+"l'editor."
+
+#: kmail/editorplugins/insertshorturl/kmail_insertshorturleditorplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to generate a shorter URL."
+msgstr "Aquest connector permet generar un URL més curt."
+
+#: kmail/editorplugins/insertspecialcharacter/kmail_insertspecialcharactereditorplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to insert special character in composer."
+msgstr "Aquest connector permet inserir caràcters especials a l'editor."
+
+#: kmail/editorplugins/nonbreakingspace/kmail_nonbreakingspaceeditorplugin.json
+msgctxt "Description"
+msgid ""
+"This plugin allows you to add non breaking space. It's useful in french "
+"language."
+msgstr ""
+"Aquest connector permet afegir un espai no divisible. És útil en l'idioma "
+"francés."
+
+#: kmail/editorplugins/quicktext/kmail_quicktextplugin.json
+msgctxt "Description"
+msgid ""
+"This plugin allows you to insert special text as attachment name, emails etc."
+msgstr ""
+"Aquest connector permet inserir text especials com a nom d'adjunt, correu "
+"electrònic, etc."
+
+#: kmail/editorplugins/sharetext/kmail_sharetexteditorplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to share text."
+msgstr "Aquest connector permet compartir el text."
+
+#: kmail/editorplugins/zoomtext/kmail_zoomtexteditorplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to change zoom factor in composer."
+msgstr "Aquest connector permet canviar el factor de zoom a l'editor."
+
+#: kmail/editorsendcheckplugins/automaticaddcontacts/kmail_automaticaddcontactsplugin.json
+msgctxt "Description"
+msgid ""
+"This plugin allows you to add automatically email address to addressbook."
+msgstr ""
+"Aquest connector permet afegir automàticament adreces de correu a la "
+"llibreta d'adreces."
+
+#: kmail/editorsendcheckplugins/checkbeforesend/kmail_checkbeforesendplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to check message settings before sending."
+msgstr ""
+"Aquest connector permet comprovar els paràmetres del missatge abans d'enviar-"
+"lo."
+
+#: kmail/editorsendcheckplugins/confirm-address/kmail_confirmaddressplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to check mail before to send it"
+msgstr "Aquest connector permet comprovar el correu abans d'enviar-lo"
+
+#: kmail/grammarplugins/grammalecte/plugin/kmail_grammalecteplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to check grammar in french only."
+msgstr "Aquest connector permet comprovar la gramàtica només en francés."
+
+#: kmail/grammarplugins/languagetool/plugin/kmail_languagetoolplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to check grammar using LanguageTool."
+msgstr ""
+"Aquest connector permet comprovar la gramàtica emprant el LanguageTool."
+
+#: kmail/plugins/antispamplugin/kmail_antispamplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to configure Anti Spam in KMail."
+msgstr "Aquest connector permet comprovar el correu brossa en el KMail."
+
+#: kmail/plugins/antivirusplugin/kmail_antivirusplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to configure Anti Virus in KMail."
+msgstr "Aquest connector permet configurar l'antivirus en el KMail."
+
+#: kmail/plugins/expertplugin/kmail_expertplugin.json
+msgctxt "Description"
+msgid "This plugin activates some expert actions."
+msgstr "Aquest connector activa diverses accions expertes."
+
+#: kmail/plugins/logactivitiesplugin/kmail_logactivitiesplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to log KMail activities."
+msgstr "Aquest connector permet enregistrar les activitats del KMail."
+
+#: plugins/customtoolsplugins/translatorplugin/pimcommon_translatorplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to translate text."
+msgstr "Aquest connector permet traduir el text."
+
+#: plugins/messageviewerconfigureplugins/dkim-verify/messageviewer_dkimconfigplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to configure dkim support."
+msgstr "Aquest connector permet configurar el funcionament del «dkim»."
+
+#: plugins/messageviewerconfigureplugins/expireaccounttrashfolder/messageviewer_expireaccounttrashfolderconfigplugin.json
+msgctxt "Description"
+msgid ""
+"This plugin allows you to configure expire trash folder for each accounts."
+msgstr ""
+"Aquest connector permet configurar la caducitat de la carpeta paperera per "
+"cada compte."
+
+#: plugins/messageviewerconfigureplugins/foldersettings/messageviewer_folderconfiguresettingsplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to configure folder settings."
+msgstr "Aquest connector permet configurar els paràmetres de les carpetes."
+
+#: plugins/messageviewerconfigureplugins/gravatar/messageviewer_gravatarconfigplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to configure gravatar support."
+msgstr "Aquest connector permet configurar el funcionament del «Gravatar»."
+
+#: plugins/messageviewerheaderplugins/briefheaderstyleplugin/messageviewer_briefheaderstyleplugin.json
+msgctxt "Description"
+msgid "This plugin reduces mail header to strict minimum."
+msgstr "Aquest connector redueix la capçalera del correu al mínim estricte."
+
+#: plugins/messageviewerheaderplugins/enterpriseheaderstyleplugin/messageviewer_enterpriseheaderstyleplugin.json.cmake
+msgctxt "Description"
+msgid "This plugin defines a mail header style for enterprise."
+msgstr ""
+"Aquest connector defineix un estil empresarial de capçalera del correu."
+
+#: plugins/messageviewerheaderplugins/fancyheaderstyleplugin/messageviewer_fancyheaderstyleplugin.json
+msgctxt "Description"
+msgid "This plugin provides you a fancy mail header style."
+msgstr ""
+"Aquest connector proporciona un estil sofisticat de capçalera de correu."
+
+#: plugins/messageviewerheaderplugins/grantleeheaderstyleplugin/messageviewer_grantleeheaderstyleplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to use a Grantlee-based mail header style."
+msgstr ""
+"Aquest connector permet usar un estil de capçalera de correu basat en el "
+"«Grantlee»."
+
+#: plugins/messageviewerheaderplugins/longheaderstyleplugin/messageviewer_longheaderstyleplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to show all headers from mail."
+msgstr "Aquest connector permet mostrar totes les capçaleres del correu."
+
+#: plugins/messageviewerheaderplugins/standardsheaderstyleplugin/messageviewer_standardsheaderstyleplugin.json
+msgctxt "Description"
+msgid "This plugin defines the standard mail header style."
+msgstr "Aquest connector defineix l'estil de capçalera de correu estàndard."
+
+#: plugins/messageviewerplugins/common/expandurlplugin/messageviewer_expandurlplugin.json
+msgctxt "Description"
+msgid "This plugin expands URL."
+msgstr "Aquest connector expandeix els URL."
+
+#: plugins/messageviewerplugins/common/translatorplugin/messageviewer_translatorplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to translate selected text."
+msgstr "Aquest connector permet traduir el text seleccionat."
+
+#: plugins/messageviewerplugins/createeventplugin/messageviewer_createeventplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to create an event from a message."
+msgstr "Aquest connector permet crear un esdeveniment a partir d'un missatge."
+
+#: plugins/messageviewerplugins/createnoteplugin/messageviewer_createnoteplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to create a note from a message."
+msgstr "Aquest connector permet crear una nota a partir d'un missatge."
+
+#: plugins/messageviewerplugins/createtodoplugin/messageviewer_createtodoplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to create a todo from a message."
+msgstr ""
+"Aquest connector permet crear una tasca pendent a partir d'un missatge."
+
+#: plugins/messageviewerplugins/externalscriptplugin/messageviewer_externalscriptplugin.json
+msgctxt "Description"
+msgid ""
+"This plugin allows you to use an external script against the message viewer."
+msgstr ""
+"Aquest connector permet usar un script extern contra el visor de missatges."
+
+#: plugins/plasma/pimeventsplugin/pimeventsplugin.json
+msgctxt "Description"
+msgid "Calendar plugin for displaying events from KDE PIM calendars"
+msgstr ""
+"Connector de calendari per a mostrar els esdeveniments des dels calendaris "
+"PIM del KDE"
+
+#: plugins/webengineurlinterceptor/adblock/messageviewer_adblockurlinterceptor.json
+msgctxt "Description"
+msgid "This plugin allows you to block advertising."
+msgstr "Aquest connector permet bloquejar la publicitat."
+
+#: plugins/webengineurlinterceptor/donottrack/messageviewer_donottrackurlinterceptor.json
+msgctxt "Description"
+msgid "This plugin adds support for \"do not track\"."
+msgstr "Aquest connector afig suport per a «no vull ser seguit»."
+
+#: plugins/plasma/pimeventsplugin/pimeventsplugin.json
+msgctxt "Authors Name"
+msgid "Daniel Vrátil"
+msgstr "Daniel Vrátil"

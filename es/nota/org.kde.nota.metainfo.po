@@ -1,0 +1,40 @@
+# Translation of org.kde.nota.metainfo.po to Catalan (Valencian)
+# Copyright (C) 2021 This_file_is_part_of_KDE
+# This file is distributed under same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: nota metainfo files\n"
+"POT-Creation-Date: 2021-05-18 00:17+0000\n"
+"PO-Revision-Date: 2021-05-18 09:46+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#. (itstool) path: screenshot/caption
+#: org.kde.nota.metainfo.xml:10 org.kde.nota.metainfo.xml:20
+msgid "Nota"
+msgstr "Nota"
+
+#. (itstool) path: component/summary
+#: org.kde.nota.metainfo.xml:11
+msgid "Browse, create and edit text files"
+msgstr "Navegueu, creeu, i editeu fitxers de text"
+
+#. (itstool) path: description/p
+#: org.kde.nota.metainfo.xml:13
+msgid "Nota is a simple text editor for desktop and mobile computers."
+msgstr ""
+"El Nota és un editor senzill de text per a ordinadors d'escriptori i mòbils."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.nota.metainfo.xml:26
+msgid "Nota, find dialog"
+msgstr "Nota, diàleg de cerca"

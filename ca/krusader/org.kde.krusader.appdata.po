@@ -1,0 +1,106 @@
+# Translation of org.kde.krusader.appdata.po to Catalan (Valencian)
+# Copyright (C) 2015-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2016, 2017, 2021.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2016, 2018, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: krusader appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2018-12-03 03:05+0100\n"
+"PO-Revision-Date: 2021-06-28 09:51+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.krusader.appdata.xml:6
+msgid "Krusader"
+msgstr "Krusader"
+
+#. (itstool) path: component/summary
+#: org.kde.krusader.appdata.xml:7
+msgid "File Manager"
+msgstr "Gestor de fitxers"
+
+#. (itstool) path: description/p
+#: org.kde.krusader.appdata.xml:9
+msgid ""
+"Krusader is an advanced twin panel (commander style) file manager for KDE "
+"Plasma and other desktops in the *nix world"
+msgstr ""
+"El Krusader és un gestor avançat de fitxers, amb plafons bessons (estil del "
+"«commander») per al Plasma del KDE i altres escriptoris en el món *nix"
+
+#. (itstool) path: description/p
+#: org.kde.krusader.appdata.xml:10
+msgid "Features:"
+msgstr "Característiques:"
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:12
+msgid "Extensive archive handling"
+msgstr "Gestió exhaustiva d'arxius"
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:13
+msgid "Mounted filesystem support"
+msgstr "Permet sistemes de fitxers muntats"
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:14
+msgid "FTP support"
+msgstr "Compatibilitat amb FTP"
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:15
+msgid "Advanced search module"
+msgstr "Mòdul de cerca avançada"
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:16
+msgid "Internal viewer/editor"
+msgstr "Visor/editor intern"
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:17
+msgid "Folder synchronisation"
+msgstr "Sincronització de les carpetes"
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:18
+msgid "File content comparisons"
+msgstr "Comparació del contingut dels fitxers"
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:19
+msgid "Powerful batch renaming"
+msgstr "Procés potent de reanomenament per lots"
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:20
+msgid ""
+"Support for a wide variety of archive formats and can handle other KIO "
+"slaves such as smb or fish."
+msgstr ""
+"Admet una gran varietat de formats d'arxiu i pot gestionar altres esclaus "
+"KIO com el «smb» o el «fish»."
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:21
+msgid "Completely customizable and very user friendly"
+msgstr "Es pot personalitzar completament i és fàcil d'emprar"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.krusader.appdata.xml:29
+msgid "File management in Krusader"
+msgstr "Gestió de fitxers en el Krusader"

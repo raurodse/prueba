@@ -1,0 +1,755 @@
+# Translation of kmahjongg._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2002-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 2002, 2005.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2003, 2020.
+# Albert Astals Cid <aacid@kde.org>, 2003, 2004, 2005, 2007, 2008, 2009.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2004, 2005, 2006, 2008, 2010, 2012, 2015, 2018.
+# Orestes Mas <orestes@tsc.upc.edu>, 2009.
+# Manuel Tortosa <manutortosa@chakra-project.org>, 2009, 2010.
+# Manuel Tortosa Moreno <manutortosa@chakra-project.org>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: kmahjongg desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-19 00:25+0000\n"
+"PO-Revision-Date: 2020-07-22 11:06+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.04.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: \n"
+"X-Accelerator-Marker: &\n"
+
+#: layouts/4_winds.desktop:2
+msgctxt "Name"
+msgid "4 Winds"
+msgstr "4 vents"
+
+#: layouts/4_winds.desktop:49
+msgctxt "Description"
+msgid "A layout resembling a fortress"
+msgstr "Una disposició semblant a una fortalesa"
+
+#: layouts/alien.desktop:2
+msgctxt "Name"
+msgid "Alien"
+msgstr "Alien"
+
+#: layouts/alien.desktop:50
+msgctxt "Description"
+msgid "A humanoid made up of Mahjongg tiles"
+msgstr "Fitxes del Mahjongg fetes amb humanoides"
+
+#: layouts/altar.desktop:2
+msgctxt "Name"
+msgid "Altar"
+msgstr "Altar"
+
+#: layouts/altar.desktop:48
+msgctxt "Description"
+msgid "An elevated surface with stairs and columns aside"
+msgstr "Una superfície elevada amb escales i columnes al costat"
+
+#: layouts/arena.desktop:2
+msgctxt "Name"
+msgid "Arena"
+msgstr "Arena"
+
+#: layouts/arena.desktop:51
+msgctxt "Description"
+msgid "Circular-aligned seats around a performance area"
+msgstr "Seients alineats circularment al voltant d'una àrea d'acompliment"
+
+#: layouts/arrow.desktop:2
+msgctxt "Name"
+msgid "Arrow"
+msgstr "Fletxa"
+
+#: layouts/arrow.desktop:53
+msgctxt "Description"
+msgid "A big arrow pointing in the right direction"
+msgstr "Una gran fletxa apuntant cap a la dreta"
+
+#: layouts/atlantis.desktop:2
+msgctxt "Name"
+msgid "Atlantis"
+msgstr "Atlantis"
+
+#: layouts/atlantis.desktop:50
+msgctxt "Description"
+msgid "The starship-city from Stargate Atlantis"
+msgstr "La nau-ciutat de l'Stargate Atlantis"
+
+#: layouts/aztec.desktop:2
+msgctxt "Name"
+msgid "Aztec"
+msgstr "Asteca"
+
+#: layouts/aztec.desktop:49
+msgctxt "Description"
+msgid "A layout resembling Aztec buildings"
+msgstr "Una disposició semblant a una construcció asteca"
+
+#: layouts/balance.desktop:2
+msgctxt "Name"
+msgid "Balance"
+msgstr "Balanç"
+
+#: layouts/balance.desktop:52
+msgctxt "Description"
+msgid "Time to weight every decision carefully!"
+msgstr "Temps per a totes les decisions de pes amb molta precaució!"
+
+#: layouts/bat.desktop:2
+msgctxt "Name"
+msgid "Bat"
+msgstr "Ratpenat"
+
+#: layouts/bat.desktop:49
+msgctxt "Description"
+msgid "A bat-shaped layout"
+msgstr "Una disposició amb forma de ratpenat"
+
+#: layouts/bug.desktop:2
+msgctxt "Name"
+msgid "Bug"
+msgstr "Cuca"
+
+#: layouts/bug.desktop:49
+msgctxt "Description"
+msgid "The bug. Let us take it apart!"
+msgstr "La cuca. Deixa-la a banda!"
+
+#: layouts/castle2.desktop:2
+msgctxt "Name"
+msgid "Castle View"
+msgstr "Vista del castell"
+
+#: layouts/castle2.desktop:47
+msgctxt "Description"
+msgid "A castle as viewed from one side"
+msgstr "Un castell vist des d'una cara"
+
+#: layouts/castle.desktop:2
+msgctxt "Name"
+msgid "Castle"
+msgstr "Castell"
+
+#: layouts/castle.desktop:49
+msgctxt "Description"
+msgid "Vista-styled castle layout"
+msgstr "Disposició amb la forma d'un castell"
+
+#: layouts/cat.desktop:2
+msgctxt "Name"
+msgid "Cat"
+msgstr "Gat"
+
+#: layouts/cat.desktop:50
+msgctxt "Description"
+msgid "Vista-styled cat layout"
+msgstr "Disposició amb la forma d'un gat"
+
+#: layouts/chains.desktop:2
+msgctxt "Name"
+msgid "Chains"
+msgstr "Cadenes"
+
+#: layouts/chains.desktop:49
+msgctxt "Description"
+msgid "Four chains making up a single structure"
+msgstr "Quatre cadenes que formen una estructura única"
+
+#: layouts/checkered.desktop:2
+msgctxt "Name"
+msgid "Checkered"
+msgstr "Escacada"
+
+#: layouts/checkered.desktop:45
+msgctxt "Description"
+msgid "What if the chess board was not square?"
+msgstr "Què passa si el tauler d'escacs no és quadrat?"
+
+#: layouts/chip.desktop:2
+msgctxt "Name"
+msgid "Chip"
+msgstr "Xip"
+
+#: layouts/chip.desktop:47
+msgctxt "Description"
+msgid "An electronic component with many connectors"
+msgstr "Un component electrònic amb molts connectors"
+
+#: layouts/clubs.desktop:2
+msgctxt "Name"
+msgid "Clubs"
+msgstr "Trèvols"
+
+#: layouts/clubs.desktop:48
+msgctxt "Description"
+msgid "A layout resembling a multitude of card clubs"
+msgstr "Un disseny semblant a un gran nombre de trèvols de cartes"
+
+#: layouts/columns.desktop:2
+msgctxt "Name"
+msgid "Columns"
+msgstr "Columnes"
+
+#: layouts/columns.desktop:53
+msgctxt "Description"
+msgid "A circular arena covered with columns of varying height"
+msgstr "Un escenari circular cobert amb columnes d'alçària variable"
+
+#: layouts/crab.desktop:2
+msgctxt "Name"
+msgid "Crab"
+msgstr "Cranc"
+
+#: layouts/crab.desktop:50
+msgctxt "Description"
+msgid "Vista-styled crab layout"
+msgstr "Disposició amb la forma d'un cranc"
+
+#: layouts/cross.desktop:2
+msgctxt "Name"
+msgid "Cross"
+msgstr "Creu"
+
+#: layouts/cross.desktop:51
+msgctxt "Description"
+msgid "A six-ended cross resembling the Cyrillic letter Zh"
+msgstr "Una creu de sis puntes semblant a la lletra ciríl·lica Zh"
+
+#: layouts/default.desktop:2
+msgctxt "Name"
+msgid "Default"
+msgstr "Predeterminat"
+
+#: layouts/default.desktop:62
+msgctxt "Description"
+msgid "Default KMahjongg game layout"
+msgstr "Disposició predeterminada de KMahjongg"
+
+#: layouts/dragon.desktop:2
+msgctxt "Name"
+msgid "Dragon"
+msgstr "Drac"
+
+#: layouts/dragon.desktop:52
+msgctxt "Description"
+msgid "Vista-styled dragon layout"
+msgstr "Disposició amb la forma d'un drac"
+
+#: layouts/eagle.desktop:2
+msgctxt "Name"
+msgid "Eagle"
+msgstr "Àguila"
+
+#: layouts/eagle.desktop:51
+msgctxt "Description"
+msgid "A large carnivore bird in Mahjongg tiles"
+msgstr "Un gran ocell carnívor a les fitxes del Mahjongg"
+
+#: layouts/enterprise.desktop:2
+msgctxt "Name"
+msgid "Enterprise"
+msgstr "Enterprise"
+
+#: layouts/enterprise.desktop:50
+msgctxt "Description"
+msgid "A layout for Star Trek fans"
+msgstr "Una disposició per als trekkies"
+
+#: layouts/explosion.desktop:2
+msgctxt "Name"
+msgid "Explosion"
+msgstr "Explosió"
+
+#: layouts/explosion.desktop:69
+msgctxt "Description"
+msgid "Something has exploded. Collect the pieces."
+msgstr "Alguna cosa ha explotat. Recull les peces."
+
+#: layouts/flowers.desktop:2
+msgctxt "Name"
+msgid "Flowers"
+msgstr "Flors"
+
+#: layouts/flowers.desktop:70
+msgctxt "Description"
+msgid "A layout consisting of six flowers"
+msgstr "Una disposició que consta de sis flors"
+
+#: layouts/future.desktop:2
+msgctxt "Name"
+msgid "Future"
+msgstr "Futur"
+
+#: layouts/future.desktop:51
+msgctxt "Description"
+msgid "An abstract image resembling an asterisk"
+msgstr "Una imatge abstracta que sembla un asterisc"
+
+#: layouts/galaxy.desktop:2
+msgctxt "Name"
+msgid "Galaxy"
+msgstr "Galàxia"
+
+#: layouts/galaxy.desktop:51
+msgctxt "Description"
+msgid "Diversely sized piles of matter"
+msgstr "Piles de matèria de diverses mides"
+
+#: layouts/garden.desktop:2
+msgctxt "Name"
+msgid "Garden"
+msgstr "Jardí"
+
+#: layouts/garden.desktop:51
+msgctxt "Description"
+msgid "Regular patterns resembling a classical garden"
+msgstr "Formes regulars que semblen un jardí clàssic"
+
+#: layouts/girl.desktop:2
+msgctxt "Name"
+msgid "Girl"
+msgstr "Noia"
+
+#: layouts/girl.desktop:50
+msgctxt "Description"
+msgid "A layout resembling a girl's face"
+msgstr "Una disposició semblant a la cara d'una noia"
+
+#: layouts/glade.desktop:2
+msgctxt "Name"
+msgid "Glade"
+msgstr "Clariana"
+
+#: layouts/glade.desktop:47
+msgctxt "Description"
+msgid "A small piece of empty space surrounded by a forest"
+msgstr "Un petit tros d'espai buit envoltat d'un bosc"
+
+#: layouts/grid.desktop:2
+msgctxt "Name"
+msgid "Grid"
+msgstr "Graella"
+
+#: layouts/grid.desktop:53
+msgctxt "Description"
+msgid "A rectangular grid of varying height"
+msgstr "Una graella rectangular d'alçària variable"
+
+#: layouts/helios.desktop:2
+msgctxt "Name"
+msgid "Helios"
+msgstr "Helios"
+
+#: layouts/helios.desktop:48
+msgctxt "Description"
+msgid "The greek Sun god's sign"
+msgstr "El signe del deu grec del sol"
+
+#: layouts/hole.desktop:2
+msgctxt "Name"
+msgid "Hole"
+msgstr "Forat"
+
+#: layouts/hole.desktop:48 layouts/time_tunnel.desktop:48
+msgctxt "Description"
+msgid "A pyramid with a hole in the middle"
+msgstr "Una piràmide amb un forat al mig"
+
+#: layouts/inner_circle.desktop:2
+msgctxt "Name"
+msgid "Inner Circle"
+msgstr "Cercle interior"
+
+#: layouts/inner_circle.desktop:46
+msgctxt "Description"
+msgid "Concentric boxes with openings pointing in opposite directions"
+msgstr "Quadres concèntrics amb obertures apuntant en direccions oposades"
+
+#: layouts/key.desktop:2
+msgctxt "Name"
+msgid "Key"
+msgstr "Clau"
+
+#: layouts/key.desktop:52
+msgctxt "Description"
+msgid "A large key made of Mahjongg tiles"
+msgstr "Fitxes del Mahjongg fetes de grans claus"
+
+#: layouts/km.desktop:2
+msgctxt "Name"
+msgid "KM"
+msgstr "KM"
+
+#: layouts/km.desktop:50
+msgctxt "Description"
+msgid "Letters K and M. Do you have your favourite extension for that?"
+msgstr "Lletres K i M. Tens la teva ampliació favorita per a això?"
+
+#: layouts/labyrinth.desktop:2
+msgctxt "Name"
+msgid "Labyrinth"
+msgstr "Laberint"
+
+#: layouts/labyrinth.desktop:51
+msgctxt "Description"
+msgid "A complex yet symmetric labyrinth"
+msgstr "Un complex laberint encara que simètric"
+
+#: layouts/mask.desktop:2
+msgctxt "Name"
+msgid "Mask"
+msgstr "Màscara"
+
+#: layouts/mask.desktop:51
+msgctxt "Description"
+msgid "A scary embossed pagan mask"
+msgstr "Una màscara pagana amb un relleu terrorífic"
+
+#: layouts/maya.desktop:2
+msgctxt "Name"
+msgid "Maya"
+msgstr "Maia"
+
+#: layouts/maya.desktop:48
+msgctxt "Description"
+msgid "A layout resembling Maya pyramids"
+msgstr "Una disposició semblant a una piràmide Maia"
+
+#: layouts/maze.desktop:2
+msgctxt "Name"
+msgid "Maze"
+msgstr "Gran laberint"
+
+#: layouts/maze.desktop:50
+msgctxt "Description"
+msgid "An extremely twisted maze. Beware of minotaurs!"
+msgstr "Un laberint recaragolat. Compte amb els minotaures!"
+
+#: layouts/mesh.desktop:2
+msgctxt "Name"
+msgid "Mesh"
+msgstr "Malla"
+
+#: layouts/mesh.desktop:47
+msgctxt "Description"
+msgid "An interweaved structure made up of Mahjongg tiles"
+msgstr "Una estructura entrellaçada feta de peces del Mahjongg"
+
+#: layouts/moth.desktop:2
+msgctxt "Name"
+msgid "Moth"
+msgstr "Arna"
+
+#: layouts/moth.desktop:46
+msgctxt "Description"
+msgid "A layout representing a small flying insect"
+msgstr "Una disposició que representa un petit insecte volador"
+
+#: layouts/order.desktop:2
+msgctxt "Name"
+msgid "Order"
+msgstr "Ordre"
+
+#: layouts/order.desktop:51
+msgctxt "Description"
+msgid "A cross with thick ends"
+msgstr "Una creu amb extrems gruixuts"
+
+#: layouts/pattern.desktop:2
+msgctxt "Name"
+msgid "Pattern"
+msgstr "Patró"
+
+#: layouts/pattern.desktop:51
+msgctxt "Description"
+msgid "A mysterious pattern atop rectangular blocks"
+msgstr "Un misteriós patró fet de blocs rectangulars"
+
+#: layouts/penta.desktop:2
+msgctxt "Name"
+msgid "Penta"
+msgstr "Penta"
+
+#: layouts/penta.desktop:48
+msgctxt "Description"
+msgid "A fortress with five towers"
+msgstr "Una fortalesa amb cinc torres"
+
+#: layouts/pillars.desktop:2
+msgctxt "Name"
+msgid "Pillars"
+msgstr "Pilars"
+
+#: layouts/pillars.desktop:47
+msgctxt "Description"
+msgid "A couple of vertical pillars supporting a flat surface"
+msgstr "Un grup de pilars verticals que suporten una superfície plana"
+
+#: layouts/pirates.desktop:2
+msgctxt "Name"
+msgid "Pirates"
+msgstr "Pirates"
+
+#: layouts/pirates.desktop:48
+msgctxt "Description"
+msgid "A sailing boat under the sun"
+msgstr "Un vaixell de vela sota el sol"
+
+#: layouts/pyramid.desktop:2
+msgctxt "Name"
+msgid "Pyramid"
+msgstr "Piràmide"
+
+#: layouts/pyramid.desktop:59
+msgctxt "Description"
+msgid "Can you tear the pyramid apart?"
+msgstr "Podeu arrencar la piràmide?"
+
+#: layouts/rocket.desktop:2
+msgctxt "Name"
+msgid "Rocket"
+msgstr "Coet"
+
+#: layouts/rocket.desktop:47
+msgctxt "Description"
+msgid "A rocket for you to launch off the board"
+msgstr "Un coet per a llançar-te fora del tauler"
+
+#: layouts/shield.desktop:2
+msgctxt "Name"
+msgid "Shield"
+msgstr "Escut"
+
+#: layouts/shield.desktop:47
+msgctxt "Description"
+msgid "A shield and a sword made up of Mahjongg tiles"
+msgstr "Fitxes del Mahjongg fetes d'escuts i espases"
+
+#: layouts/spider.desktop:2
+msgctxt "Name"
+msgid "Spider"
+msgstr "Aranya"
+
+#: layouts/spider.desktop:49
+msgctxt "Description"
+msgid "Vista-styled spider layout"
+msgstr "Disposició amb la forma d'una aranya"
+
+#: layouts/squares.desktop:2
+msgctxt "Name"
+msgid "Squares"
+msgstr "Quadrats"
+
+#: layouts/squares.desktop:50
+msgctxt "Description"
+msgid "Concentric squares of alterating height"
+msgstr "Quadrats concèntrics d'alçària alterada"
+
+#: layouts/squaring.desktop:2
+msgctxt "Name"
+msgid "Squaring"
+msgstr "Quadratura"
+
+#: layouts/squaring.desktop:47
+msgctxt "Description"
+msgid "Who said squares are flat?"
+msgstr "Qui ha dit que els quadrats són plans?"
+
+#: layouts/stadion.desktop:2
+msgctxt "Name"
+msgid "Stadion"
+msgstr "Estadi"
+
+#: layouts/stadion.desktop:47
+msgctxt "Description"
+msgid "A layout representing a football field"
+msgstr "Una disposició que representa un petit estadi de futbol"
+
+#: layouts/stairs.desktop:2
+msgctxt "Name"
+msgid "Stairs"
+msgstr "Escales"
+
+#: layouts/stairs.desktop:50
+msgctxt "Description"
+msgid "A staircase for those who dislike taking the same path twice"
+msgstr ""
+"Una escala per als que no els agrada prendre el mateix camí dues vegades"
+
+#: layouts/star.desktop:2
+msgctxt "Name"
+msgid "Star"
+msgstr "Estrella"
+
+#: layouts/star.desktop:52
+msgctxt "Description"
+msgid "An asterisk-shaped embossed layout"
+msgstr "Una disposició amb forma d'asterisc amb relleu"
+
+#: layouts/star_ship.desktop:2
+msgctxt "Name"
+msgid "Star Ship"
+msgstr "Nau estel·lar"
+
+#: layouts/star_ship.desktop:47
+msgctxt "Description"
+msgid "A sci-fi space transport"
+msgstr "Un transport de l'espai de ciència-ficció"
+
+#: layouts/stax.desktop:2
+msgctxt "Name"
+msgid "Stacks"
+msgstr "Piles"
+
+#: layouts/stax.desktop:52
+msgctxt "Description"
+msgid "Difficult layout with stacks of tiles"
+msgstr "Disposició difícil amb piles de fitxes"
+
+#: layouts/swirl.desktop:2
+msgctxt "Name"
+msgid "Swirl"
+msgstr "Remolí"
+
+#: layouts/swirl.desktop:52
+msgctxt "Description"
+msgid "A spiral with thick ends"
+msgstr "Una espiral amb extrems gruixuts"
+
+#: layouts/temple.desktop:2
+msgctxt "Name"
+msgid "Temple"
+msgstr "Temple"
+
+#: layouts/temple.desktop:50
+msgctxt "Description"
+msgid "A temple-shaped layout"
+msgstr "Una disposició amb forma de temple"
+
+#: layouts/theatre.desktop:2
+msgctxt "Name"
+msgid "Theatre"
+msgstr "Teatre"
+
+#: layouts/theatre.desktop:48
+msgctxt "Description"
+msgid "A rectangular building with empty space in the middle"
+msgstr "Una construcció rectangular amb un espai buit al mig"
+
+#: layouts/the_door.desktop:2
+msgctxt "Name"
+msgid "The Door"
+msgstr "La porta"
+
+#: layouts/the_door.desktop:48
+msgctxt "Description"
+msgid "A doorway through a pyramid-shaped wall"
+msgstr "Una entrada a través d'una paret amb forma de piràmide"
+
+#: layouts/time_tunnel.desktop:2
+msgctxt "Name"
+msgid "Time Tunnel"
+msgstr "El túnel del temps"
+
+#: layouts/tomb.desktop:2
+msgctxt "Name"
+msgid "Tomb"
+msgstr "Tomba"
+
+#: layouts/tomb.desktop:47
+msgctxt "Description"
+msgid "Fans of Lara Croft may start digging"
+msgstr "Els fans de Lara Croft poden començar a cavar"
+
+#: layouts/totem.desktop:2
+msgctxt "Name"
+msgid "Totem"
+msgstr "Totem"
+
+#: layouts/totem.desktop:50
+msgctxt "Description"
+msgid "A T-shaped embossed object with a hole"
+msgstr "Un objecte amb forma de T i relleu amb un forat"
+
+#: layouts/tower.desktop:2
+msgctxt "Name"
+msgid "Tower"
+msgstr "Torre"
+
+#: layouts/tower.desktop:57
+msgctxt "Description"
+msgid "Remove the towers"
+msgstr "Elimina les torres"
+
+#: layouts/triangle.desktop:2
+msgctxt "Name"
+msgid "Triangle"
+msgstr "Triangle"
+
+#: layouts/triangle.desktop:60
+msgctxt "Description"
+msgid "Triangular pyramid"
+msgstr "Piràmide triangular"
+
+#: layouts/up&down.desktop:2
+msgctxt "Name"
+msgid "Up&Down"
+msgstr "Amunt i avall"
+
+#: layouts/up&down.desktop:48
+msgctxt "Description"
+msgid "Have you ever tried to represent waves in rectangular blocks?"
+msgstr "Has intentat mai representar ones amb blocs rectangulars?"
+
+#: layouts/Vi.desktop:2
+msgctxt "Name"
+msgid "Vi"
+msgstr "Vi"
+
+#: layouts/Vi.desktop:47
+msgctxt "Description"
+msgid "A V-shaped layout with thick lower corners"
+msgstr "Una disposició amb forma de V amb cantonades primes"
+
+#: layouts/well.desktop:2
+msgctxt "Name"
+msgid "Well"
+msgstr "Pou"
+
+#: layouts/well.desktop:47
+msgctxt "Description"
+msgid "A rectangular well with stairs at all sides"
+msgstr "Un pou rectangular amb escales a totes les cares"
+
+#: layouts/X_shaped.desktop:2
+msgctxt "Name"
+msgid "X-shaped"
+msgstr "Forma de X"
+
+#: layouts/X_shaped.desktop:45
+msgctxt "Description"
+msgid "A large letter X made of mahjongg tiles"
+msgstr "Fitxes del Mahjongg fetes de grans lletres X"
+
+#: org.kde.kmahjongg.desktop:2
+msgctxt "Name"
+msgid "KMahjongg"
+msgstr "KMahjongg"
+
+#: org.kde.kmahjongg.desktop:72
+msgctxt "GenericName"
+msgid "Mahjongg Solitaire"
+msgstr "Solitari Mahjongg"

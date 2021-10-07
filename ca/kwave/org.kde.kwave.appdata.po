@@ -1,0 +1,57 @@
+# Translation of org.kde.kwave.appdata.po to Catalan (Valencian)
+# Copyright (C) 2015-2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2015, 2018.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: kwave appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2018-11-08 03:55+0100\n"
+"PO-Revision-Date: 2018-10-29 12:01+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.kwave.appdata.xml:6
+msgid "Kwave"
+msgstr "Kwave"
+
+#. (itstool) path: component/summary
+#: org.kde.kwave.appdata.xml:7
+msgid "Kwave is a sound editor built on KDE Frameworks 5"
+msgstr "El Kwave és un editor de so construït amb els Frameworks 5 del KDE"
+
+#. (itstool) path: description/p
+#: org.kde.kwave.appdata.xml:9
+msgid ""
+"With Kwave you can record, play back, import and edit many sorts of audio "
+"files including multi channel files."
+msgstr ""
+"Amb el Kwave podeu enregistrar, escoltar, importar i editar molts tipus de "
+"fitxers d'àudio inclosos els fitxers multicanal."
+
+#. (itstool) path: description/p
+#: org.kde.kwave.appdata.xml:12
+msgid ""
+"Kwave includes some plugins to transform audio files in several ways and "
+"presents a graphical view with a complete zoom- and scroll capability."
+msgstr ""
+"El Kwave inclou alguns connectors per a transformar els fitxers d'àudio de "
+"diverses formes, i presenta una vista gràfica amb un capacitat de zoom i "
+"desplaçament complets."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kwave.appdata.xml:21
+msgid "Kwave in action"
+msgstr "El Kwave en acció"

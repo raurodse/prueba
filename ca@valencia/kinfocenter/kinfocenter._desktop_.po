@@ -1,0 +1,416 @@
+# Translation of kinfocenter._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2000-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 2000, 2004, 2005, 2006.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2002, 2003, 2012, 2015, 2016.
+# Albert Astals Cid <aacid@kde.org>, 2004, 2005.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2018, 2019.
+# Robert Millan <rmh@aybabtu.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kinfocenter desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-09-17 00:25+0000\n"
+"PO-Revision-Date: 2019-07-09 11:56+0200\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: Categories/basicinformation.desktop:8
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Device Information"
+msgctxt "Name"
+msgid "Basic Information"
+msgstr "Informació dels dispositius"
+
+#: Categories/detailedinformation.desktop:8
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Device Information"
+msgctxt "Name"
+msgid "Detailed Information"
+msgstr "Informació dels dispositius"
+
+#: Categories/deviceinfocategory.desktop:8
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "USB Devices"
+msgctxt "Name"
+msgid "Devices"
+msgstr "Dispositius USB"
+
+#: Categories/graphicalinfocategory.desktop:8
+msgctxt "Name"
+msgid "Graphics"
+msgstr ""
+
+#: Categories/kinfocentercategory.desktop:4
+msgctxt "Name"
+msgid "KInfoCenter Category"
+msgstr "Categoria de KInfoCenter"
+
+#: Categories/lostfoundcategory.desktop:8
+msgctxt "Name"
+msgid "Lost And Found"
+msgstr "Perdut i trobat"
+
+#: Categories/networkinfocategory.desktop:8
+msgctxt "Name"
+msgid "Network"
+msgstr ""
+
+#: kcontrol/menus/kinfocenter.directory:3
+msgctxt "Name"
+msgid "Information"
+msgstr "Informació"
+
+#: Modules/about-distro/src/about-distro.desktop:13
+#, fuzzy
+#| msgctxt "X-KDE-Keywords"
+#| msgid "information,distribution,distro,system,kernel,qt,kde"
+msgctxt "X-KDE-Keywords"
+msgid "about,info,information,distribution,distro,system,kernel,qt,kde"
+msgstr "informació,distribució,distro,sistema,nucli,qt,kde"
+
+#: Modules/about-distro/src/about-distro.desktop:53
+#: Modules/about-distro/src/package/metadata.desktop:14
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "About System"
+msgctxt "Name"
+msgid "About this System"
+msgstr "Quant al sistema"
+
+#: Modules/about-distro/src/about-distro.desktop:80
+#: Modules/about-distro/src/package/metadata.desktop:42
+msgctxt "Comment"
+msgid "Information About This System"
+msgstr "Informació quant a aquest sistema"
+
+#: Modules/cpu/kcm_cpu.desktop:15 Modules/cpu/package/metadata.desktop:14
+msgctxt "Name"
+msgid "CPU"
+msgstr ""
+
+#: Modules/cpu/kcm_cpu.desktop:39 Modules/cpu/package/metadata.desktop:38
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Device Information"
+msgctxt "Comment"
+msgid "Advanced CPU Information"
+msgstr "Informació dels dispositius"
+
+#: Modules/cpu/kcm_cpu.desktop:63 Modules/cpu/package/metadata.desktop:62
+msgctxt "X-KDE-Keywords"
+msgid "cpu,amd,intel,arm,instructions,cores,architecture,byte order"
+msgstr ""
+
+#: Modules/devinfo/devinfo.desktop:13
+msgctxt "Name"
+msgid "Device Viewer"
+msgstr "Visor de dispositius"
+
+#: Modules/devinfo/devinfo.desktop:78
+msgctxt "Comment"
+msgid "Device Viewer"
+msgstr "Visor de dispositius"
+
+#: Modules/devinfo/devinfo.desktop:143
+msgctxt "X-KDE-Keywords"
+msgid "device,devices,disk,drive,processor,cpu"
+msgstr "dispositiu,dispositius,disc,unitat,processador,cpu"
+
+#: Modules/energy/kcm_energyinfo.desktop:10
+msgctxt "Name"
+msgid "Energy"
+msgstr ""
+
+#: Modules/energy/kcm_energyinfo.desktop:46
+msgctxt "Comment"
+msgid "Energy Consumption Statistics"
+msgstr "Estadístiques del consum d'energia"
+
+#: Modules/energy/kcm_energyinfo.desktop:94
+msgctxt "X-KDE-Keywords"
+msgid "Battery,Energy,Statistics,History,Power"
+msgstr "Bateria,Energia,Estadístiques,Historial,Potència"
+
+#: Modules/energy/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Energy Information"
+msgstr "Informació de l'energia"
+
+#: Modules/energy/package/metadata.desktop:48
+msgctxt "Comment"
+msgid "Statistics about energy consumption"
+msgstr "Estadístiques quant al consum d'energia"
+
+#: Modules/info/dma.desktop:14
+msgctxt "Name"
+msgid "DMA-Channels"
+msgstr "Canals DMA"
+
+#: Modules/info/dma.desktop:106
+msgctxt "Comment"
+msgid "DMA information"
+msgstr "Informació de DMA"
+
+#: Modules/info/dma.desktop:199
+msgctxt "X-KDE-Keywords"
+msgid "dma,DMA-Channels,System Information"
+msgstr "dma,Canals DMA,Informació del sistema"
+
+#: Modules/info/ioports.desktop:14
+msgctxt "Name"
+msgid "IO-Ports"
+msgstr "Ports E/S"
+
+#: Modules/info/ioports.desktop:107
+msgctxt "Comment"
+msgid "IO-port information"
+msgstr "Informació dels ports E/S"
+
+#: Modules/info/ioports.desktop:201
+msgctxt "X-KDE-Keywords"
+msgid "IO,I/O,IO-Ports,I/O-Ports,Ports,IO-Range,I/O-Range,System Information"
+msgstr ""
+"ES,E/S,Ports ES,Ports E/S,Ports,Interval ES,Interval E/S,Informació del "
+"sistema"
+
+#: Modules/info/xserver.desktop:13
+msgctxt "Name"
+msgid "X-Server"
+msgstr "Servidor X"
+
+#: Modules/info/xserver.desktop:107
+msgctxt "Comment"
+msgid "X-Server information"
+msgstr "Informació del servidor X"
+
+#: Modules/info/xserver.desktop:200
+msgctxt "X-KDE-Keywords"
+msgid "X,X-Server,XServer,XFree86,Display,VideoCard,System Information"
+msgstr ""
+"X,Servidor X,XServer,XFree86,Pantalla,Targeta de vídeo,Informació del sistema"
+
+#: Modules/interrupts/kcm_interrupts.desktop:14
+#: Modules/interrupts/package/metadata.desktop:14
+msgctxt "Name"
+msgid "Interrupts"
+msgstr "Interrupcions"
+
+#: Modules/interrupts/kcm_interrupts.desktop:107
+#: Modules/interrupts/package/metadata.desktop:107
+msgctxt "Comment"
+msgid "Interrupt information"
+msgstr "Informació de les interrupcions"
+
+#: Modules/interrupts/kcm_interrupts.desktop:200
+#: Modules/interrupts/package/metadata.desktop:200
+msgctxt "X-KDE-Keywords"
+msgid "Interrupts,IRQ,System Information"
+msgstr "Interrupcions,IRQ,Informació del sistema"
+
+#: Modules/memory/kcm_memory.desktop:13
+msgctxt "Name"
+msgid "Memory"
+msgstr "Memòria"
+
+#: Modules/memory/kcm_memory.desktop:108
+msgctxt "Comment"
+msgid "Memory information"
+msgstr "Informació de la memòria"
+
+#: Modules/memory/kcm_memory.desktop:201
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Memory,RAM,Virtual memory,Physical memory,Shared memory,Swap,System "
+"Information"
+msgstr ""
+"Memòria,RAM,Memòria virtual,Memòria física,Memòria compartida,Swap,"
+"Intercanvi,Informació del sistema"
+
+#: Modules/nics/kcm_nic.desktop:12
+msgctxt "Name"
+msgid "Network Interfaces"
+msgstr "Interfícies de xarxa"
+
+#: Modules/nics/kcm_nic.desktop:106
+msgctxt "Comment"
+msgid "Network interface information"
+msgstr "Informació de la interfície de xarxa"
+
+#: Modules/nics/package/metadata.desktop:4
+msgctxt "Name"
+msgid "NIC"
+msgstr ""
+
+#: Modules/opengl/opengl.desktop:12
+msgctxt "Name"
+msgid "OpenGL"
+msgstr "OpenGL"
+
+#: Modules/opengl/opengl.desktop:104
+msgctxt "Comment"
+msgid "OpenGL information"
+msgstr "Informació OpenGL"
+
+#: Modules/opengl/opengl.desktop:197
+msgctxt "X-KDE-Keywords"
+msgid ""
+"OpenGL,DRI,GLX,3D,VideoCard,Hardware Acceleration,Graphics,X,X11,Xserver,X-"
+"Server,XFree86,Display"
+msgstr ""
+"OpenGL,DRI,GLX,3D,Targeta de vídeo,Acceleració per a maquinari,Gràfics,X,X11,"
+"Xserver,Servidor X,XFree86,Pantalla"
+
+#: Modules/pci/kcm_pci.desktop:12
+msgctxt "Name"
+msgid "PCI"
+msgstr "PCI"
+
+#: Modules/pci/kcm_pci.desktop:106
+msgctxt "Comment"
+msgid "PCI information"
+msgstr "Informació de PCI"
+
+#: Modules/pci/kcm_pci.desktop:199
+msgctxt "X-KDE-Keywords"
+msgid "PCI,PCI-Devices,PCI-Bus,System Information"
+msgstr "PCI,Dispositius PCI,Bus PCI,Informació del sistema"
+
+#: Modules/samba/package/metadata.desktop:4 Modules/samba/smbstatus.desktop:12
+msgctxt "Name"
+msgid "Samba Status"
+msgstr "Estat de Samba"
+
+#: Modules/samba/smbstatus.desktop:106
+msgctxt "Comment"
+msgid "Samba status monitor"
+msgstr "Controlador de l'estat de Samba"
+
+#: Modules/samba/smbstatus.desktop:199
+msgctxt "X-KDE-Keywords"
+msgid "SMB,SAMBA,Windows network,LAN,System Information"
+msgstr "SMB,SAMBA,Xarxa Windows,LAN,Informació del sistema"
+
+#: Modules/usbview/kcmusb.desktop:12
+msgctxt "Name"
+msgid "USB Devices"
+msgstr "Dispositius USB"
+
+#: Modules/usbview/kcmusb.desktop:106
+msgctxt "Comment"
+msgid "USB devices attached to this computer"
+msgstr "Dispositius USB connectats a aquest ordinador"
+
+#: Modules/usbview/kcmusb.desktop:191
+msgctxt "X-KDE-Keywords"
+msgid "USB,devices,viewer,control"
+msgstr "USB,dispositius,visor,control"
+
+#: Modules/view1394/kcmview1394.desktop:12
+msgctxt "Name"
+msgid "IEEE 1394 Devices"
+msgstr "Dispositius IEEE 1394"
+
+#: Modules/view1394/kcmview1394.desktop:105
+msgctxt "Comment"
+msgid "Attached IEEE 1394 devices"
+msgstr "Dispositius IEEE 1394 connectats"
+
+#: Modules/view1394/kcmview1394.desktop:191
+msgctxt "X-KDE-Keywords"
+msgid "1394,Firewire,devices,viewer,control"
+msgstr "1394,Firewire,dispositius,visor,control"
+
+#: Modules/vulkan/kcm_vulkan.desktop:15
+#: Modules/vulkan/package/metadata.desktop:18
+msgctxt "Name"
+msgid "Vulkan"
+msgstr ""
+
+#: Modules/vulkan/kcm_vulkan.desktop:39
+#: Modules/vulkan/package/metadata.desktop:42
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Graphical Information"
+msgctxt "Comment"
+msgid "Vulkan graphics API information"
+msgstr "Informació gràfica"
+
+#: Modules/vulkan/kcm_vulkan.desktop:63
+#: Modules/vulkan/package/metadata.desktop:66
+msgctxt "X-KDE-Keywords"
+msgid "Vulkan,VideoCard,Hardware Acceleration,Graphics"
+msgstr ""
+
+#: Modules/wayland/kcm_wayland.desktop:15
+#: Modules/wayland/package/metadata.desktop:14
+msgctxt "Name"
+msgid "Wayland"
+msgstr "Wayland"
+
+#: Modules/wayland/kcm_wayland.desktop:64
+#: Modules/wayland/package/metadata.desktop:63
+msgctxt "Comment"
+msgid "Information about the Wayland Compositor"
+msgstr "Informació quant al compositor Wayland"
+
+#: Modules/wayland/kcm_wayland.desktop:113
+#: Modules/wayland/package/metadata.desktop:112
+msgctxt "X-KDE-Keywords"
+msgid "Wayland,Compositor,Display,System Information"
+msgstr "Wayland,Compositor,Pantalla,Informació del sistema"
+
+#: org.kde.kinfocenter.desktop:9
+msgctxt "Name"
+msgid "Info Center"
+msgstr "Centre d'informació"
+
+#: org.kde.kinfocenter.desktop:55
+msgctxt "GenericName"
+msgid "Info Center"
+msgstr "Centre d'informació"
+
+#: org.kde.kinfocenter.desktop:147
+msgctxt "Comment"
+msgid "Centralized and convenient overview of system information"
+msgstr "Resum centralitzat i pràctic de la informació del sistema"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Information"
+#~ msgctxt "Name"
+#~ msgid "System Information"
+#~ msgstr "Informació"
+
+#~ msgctxt "Name"
+#~ msgid "File Indexer Monitor"
+#~ msgstr "Monitor de l'indexador de fitxers"
+
+#~ msgctxt "Comment"
+#~ msgid "Monitor State of File Indexer"
+#~ msgstr "Monitor de l'estat de l'indexador de fitxers"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Baloo,File,Index,Monitor"
+#~ msgstr "Baloo,Fitxer,Índex,Monitor"
+
+#~ msgctxt "Comment"
+#~ msgid "File Index Monitor"
+#~ msgstr "Monitor de l'índex de fitxers"
+
+#~ msgctxt "Name"
+#~ msgid "Network Information"
+#~ msgstr "Informació de la xarxa"

@@ -1,0 +1,86 @@
+# Translation of org.kde.kdiff3.appdata.po to Catalan (Valencian)
+# Copyright (C) 2018-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2018, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdiff3 appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-08 02:17+0200\n"
+"PO-Revision-Date: 2020-06-08 09:35+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.12.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.kdiff3.appdata.xml:6
+msgid "KDiff3"
+msgstr "KDiff3"
+
+#. (itstool) path: component/summary
+#: org.kde.kdiff3.appdata.xml:7
+msgid "A file and folder comparison and merge tool"
+msgstr "Una eina per a la comparació i fusió de fitxers i carpetes"
+
+#. (itstool) path: description/p
+#: org.kde.kdiff3.appdata.xml:10
+msgid "KDiff3 is a file and folder diff and merge tool which"
+msgstr ""
+"El KDiff3 és una eina per a la comparació i fusionat de fitxers i carpetes"
+
+#. (itstool) path: ul/li
+#: org.kde.kdiff3.appdata.xml:12
+msgid "compares and merges two or three text input files or folders,"
+msgstr "compara i fusiona dos o tres fitxers o carpetes des de l'entrada,"
+
+#. (itstool) path: ul/li
+#: org.kde.kdiff3.appdata.xml:13
+msgid "shows the differences line by line and character by character(!),"
+msgstr "mostra les diferències línia per línia i caràcter per caràcter!,"
+
+#. (itstool) path: ul/li
+#: org.kde.kdiff3.appdata.xml:14
+msgid "provides an automatic merge-facility,"
+msgstr "proporciona la facilitat del fusionat automàtic,"
+
+#. (itstool) path: ul/li
+#: org.kde.kdiff3.appdata.xml:15
+msgid "has an editor for comfortable solving of merge-conflicts,"
+msgstr "té un editor per a la solució còmoda dels conflictes de fusionat,"
+
+#. (itstool) path: ul/li
+#: org.kde.kdiff3.appdata.xml:16
+msgid "provides network transparency via KIO,"
+msgstr "proporciona transparència de xarxa a través del KIO,"
+
+#. (itstool) path: ul/li
+#: org.kde.kdiff3.appdata.xml:17
+msgid "has options to highlight or hide changes in white-space or comments,"
+msgstr ""
+"té opcions per a ressaltar o ocultar els canvis en els espais en blanc o els "
+"comentaris,"
+
+#. (itstool) path: ul/li
+#: org.kde.kdiff3.appdata.xml:18
+msgid "supports Unicode, UTF-8 and other file encodings,"
+msgstr "admet Unicode, UTF-8 i altres codificacions de fitxer,"
+
+#. (itstool) path: ul/li
+#: org.kde.kdiff3.appdata.xml:19
+msgid "prints differences,"
+msgstr "imprimeix les diferències,"
+
+#. (itstool) path: ul/li
+#: org.kde.kdiff3.appdata.xml:20
+msgid "supports version control keyword and history merging."
+msgstr ""
+"admet la paraula clau per al control de versions i un historial de les "
+"fusions."

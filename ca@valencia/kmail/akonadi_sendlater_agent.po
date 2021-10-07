@@ -1,0 +1,199 @@
+# Translation of akonadi_sendlater_agent.po to Catalan (Valencian)
+# Copyright (C) 2013-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2013, 2014, 2015, 2016, 2017, 2019, 2020, 2021.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2014, 2015, 2018, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kmail\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-21 00:17+0000\n"
+"PO-Revision-Date: 2021-09-12 21:01+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 20.12.0\n"
+
+#: sendlaterconfiguredialog.cpp:29
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure"
+msgstr "Configuració"
+
+#: sendlaterconfiguredialog.cpp:47
+#, kde-format
+msgid "Send Later Agent"
+msgstr "Agent d'enviament més tard"
+
+#: sendlaterconfiguredialog.cpp:49
+#, kde-format
+msgid "Send emails later agent."
+msgstr "Agent d'enviament de correus més tard."
+
+#: sendlaterconfiguredialog.cpp:51
+#, kde-format
+msgid "Copyright (C) 2013-2021 Laurent Montel"
+msgstr "Copyright (C) 2013-2021 Laurent Montel"
+
+#: sendlaterconfiguredialog.cpp:53
+#, kde-format
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#: sendlaterconfiguredialog.cpp:53
+#, kde-format
+msgid "Maintainer"
+msgstr "Mantenidor"
+
+#: sendlaterconfiguredialog.cpp:56
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Antoni Bella"
+
+#: sendlaterconfiguredialog.cpp:56
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "antonibella5@yahoo.com"
+
+#: sendlaterconfigurewidget.cpp:56
+#, kde-format
+msgid "To"
+msgstr "A"
+
+#: sendlaterconfigurewidget.cpp:56
+#, kde-format
+msgid "Subject"
+msgstr "Assumpte"
+
+#: sendlaterconfigurewidget.cpp:56
+#, kde-format
+msgid "Send around"
+msgstr "Envia al voltant de"
+
+#: sendlaterconfigurewidget.cpp:56
+#, kde-format
+msgid "Recurrent"
+msgstr "Recurrència"
+
+#: sendlaterconfigurewidget.cpp:58
+#, kde-format
+msgid "Message Id"
+msgstr "ID del missatge"
+
+#: sendlaterconfigurewidget.cpp:69
+#, kde-format
+msgid "No messages waiting..."
+msgstr "No hi ha missatges en espera..."
+
+#: sendlaterconfigurewidget.cpp:92
+#, kde-format
+msgid "Send now"
+msgstr "Envia ara"
+
+#: sendlaterconfigurewidget.cpp:95
+#, kde-format
+msgid "Delete"
+msgstr "Suprimeix"
+
+#: sendlaterconfigurewidget.cpp:156
+#, kde-format
+msgid "Yes"
+msgstr "Sí"
+
+#: sendlaterconfigurewidget.cpp:156
+#, kde-format
+msgid "No"
+msgstr "No"
+
+#: sendlaterconfigurewidget.cpp:201
+#, kde-format
+msgid "Do you want to delete the selected item?"
+msgid_plural "Do you want to delete the selected items?"
+msgstr[0] "Suprimeixo l'element seleccionat?"
+msgstr[1] "Suprimeixo els elements seleccionats?"
+
+#: sendlaterconfigurewidget.cpp:202
+#, kde-format
+msgid "Remove items"
+msgstr "Elimina els elements"
+
+#: sendlaterconfigurewidget.cpp:208
+#, kde-format
+msgid "Do you want to remove the messages as well?"
+msgstr "Voleu eliminar també els missatges?"
+
+#: sendlaterconfigurewidget.cpp:208
+#, kde-format
+msgid "Remove messages"
+msgstr "Elimina els missatges"
+
+#: sendlaterjob.cpp:55 sendlaterjob.cpp:58
+#, kde-format
+msgid "Not message found."
+msgstr "No s'ha trobat el missatge."
+
+#: sendlaterjob.cpp:66
+#, kde-format
+msgid "No message found."
+msgstr "No s'ha trobat el missatge."
+
+#: sendlaterjob.cpp:75
+#, kde-format
+msgid "Error during fetching message."
+msgstr "Error mentre s'obtenia el missatge."
+
+#: sendlaterjob.cpp:81
+#, kde-format
+msgid "Cannot fetch message. %1"
+msgstr "No s'ha pogut obtindre el missatge. %1"
+
+#: sendlaterjob.cpp:86
+#, kde-format
+msgid "We can't create transport"
+msgstr "No s'ha pogut crear el transport"
+
+#: sendlaterjob.cpp:93
+#, kde-format
+msgid "Message is not a real message"
+msgstr "El missatge no és un missatge real"
+
+#: sendlaterjob.cpp:100
+#, kde-format
+msgid "Cannot send message."
+msgstr "No s'ha pogut enviar el missatge."
+
+#: sendlaterjob.cpp:131
+#, kde-format
+msgid "Message sent"
+msgstr "El missatge s'ha enviat"
+
+#: sendlatermanager.cpp:190
+#, kde-format
+msgid "An error was found. Do you want to resend it?"
+msgstr "S'ha trobat un error. Voleu tornar-lo a enviar?"
+
+#: sendlatermanager.cpp:190
+#, kde-format
+msgid "Error found"
+msgstr "S'ha trobat un error"
+
+#. i18n: ectx: property (text), widget (QPushButton, modifyItem)
+#: ui/sendlaterconfigurewidget.ui:31
+#, kde-format
+msgid "Modify..."
+msgstr "Modifica..."
+
+#. i18n: ectx: property (text), widget (QPushButton, removeItem)
+#: ui/sendlaterconfigurewidget.ui:38
+#, kde-format
+msgid "Remove"
+msgstr "Elimina"

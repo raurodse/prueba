@@ -1,0 +1,47 @@
+# Translation of org.kde.wacomtablet.metainfo.po to Catalan (Valencian)
+# Copyright (C) 2017-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2017, 2018, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: wacomtablet metainfo files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2018-03-21 03:23+0100\n"
+"PO-Revision-Date: 2021-09-02 18:09+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.12.0\n"
+"X-Accelerator-Marker: &\n"
+
+#. (itstool) path: component/name
+#: org.kde.wacomtablet.metainfo.xml:6
+msgid "KDE Wacom tablet module"
+msgstr "Mòdul del KDE de tauletes Wacom"
+
+#. (itstool) path: component/summary
+#: org.kde.wacomtablet.metainfo.xml:7
+msgid "Configuration GUI for graphical tablets"
+msgstr "IGU de configuració per a tauletes gràfiques"
+
+#. (itstool) path: description/p
+#: org.kde.wacomtablet.metainfo.xml:9
+msgid ""
+"Wacom tablet module provides tablet section for System Settings and a "
+"background daemon that configures connected tablets."
+msgstr ""
+"El mòdul de tauletes Wacom proporciona la secció tauletes per a "
+"l'Arranjament del sistema i un dimoni en segon pla que configura les "
+"tauletes connectades."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.wacomtablet.metainfo.xml:17
+msgid "Settings window."
+msgstr "Finestra de paràmetres."

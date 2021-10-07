@@ -1,0 +1,146 @@
+# Translation of org.kde.choqok.appdata.po to Catalan (Valencian)
+# Copyright (C) 2014-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2020.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2016, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: choqok appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2017-01-05 03:45+0100\n"
+"PO-Revision-Date: 2020-07-09 20:08+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 20.07.70\n"
+
+#. (itstool) path: component/name
+#: org.kde.choqok.appdata.xml:6
+msgid "Choqok"
+msgstr "Choqok"
+
+#. (itstool) path: component/summary
+#: org.kde.choqok.appdata.xml:7
+msgid "Micro-blogging client"
+msgstr "Client de microblogs"
+
+#. (itstool) path: description/p
+#: org.kde.choqok.appdata.xml:9
+msgid ""
+"Choqok is a micro-blogging client which supports Twitter.com, GNU Social, "
+"Pump.io and Friendica services."
+msgstr ""
+"El Choqok és un client de microblogs que admet els serveis de Twitter.com, "
+"GNU Social, Pump.io i Friendica."
+
+#. (itstool) path: description/p
+#: org.kde.choqok.appdata.xml:12
+msgid "Features:"
+msgstr "Característiques:"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:14
+msgid "Supporting Twitter.com micro-blogging service"
+msgstr "Permet el servei de microblog Twitter.com"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:15
+msgid "Supporting self hosted Pump.io services"
+msgstr "Permet els serveis Pump.io auto hostatjats"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:16
+msgid "Supporting self hosted GNU social service"
+msgstr "Permet el servei social de la GNU auto hostatjat"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:17
+msgid "Supporting self hosted Friendica services"
+msgstr "Permet els serveis Friendica auto hostatjats"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:18
+msgid "Supporting User + His/Her Friends time-lines"
+msgstr "Permet les línies de temps Usuari + Vós i els vostres amics"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:19
+msgid "Supporting @Reply time-lines"
+msgstr "Permet les línies de temps @Resposta"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:20
+msgid "Support for send and receive direct messages"
+msgstr "Permet enviar i rebre missatges directes"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:21
+msgid "Support medium upload using external services (Flickr, Imageshack,...)"
+msgstr ""
+"Permet la pujada de medis usant serveis externs (Flickr, Imageshack, ...)"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:22
+msgid "Supporting Multiple Accounts simultaneously"
+msgstr "Permet múltiples comptes simultanis"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:23
+msgid "Supporting search APIs for all services"
+msgstr "Permet les API de cerca per a tots els serveis"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:24
+msgid "KWallet integration"
+msgstr "Integració amb el KWallet"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:25
+msgid "Ability to make a quick tweet with global shortcuts (Ctrl+Meta+T)"
+msgstr ""
+"La capacitat per a fer un «tweet» ràpid amb dreceres globals (Ctrl+Meta+T)"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:26
+msgid ""
+"Ability to notify user about new statuses text, with KNotification or "
+"Libnotify"
+msgstr ""
+"La capacitat per a notificar a l'usuari sobre el nou estat del text, amb "
+"KNotification o Libnotify"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:27
+msgid ""
+"Support for shortening urls with more than 30 characters (shorten on paste)"
+msgstr "Permet escurçar els URL amb més de 30 caràcters (escurça en enganxar)"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:28
+msgid "Support for configuring status lists appearance"
+msgstr "Permet configurar l'aparença de les llistes d'estat"
+
+#~ msgid "Twitpic.com integration"
+#~ msgstr "Integració amb Twitpic.com"
+
+#~ msgid ""
+#~ "Supporting Identi.ca micro-blogging service (Using its Twitter compatible "
+#~ "API)"
+#~ msgstr ""
+#~ "Implementació del servei de micro-blog Identi.ca (usant la seva API "
+#~ "compatible amb Twitter)"
+
+#~ msgid ""
+#~ "Supporting self hosted Laconica websites (Using its Twitter compatible "
+#~ "API)"
+#~ msgstr ""
+#~ "Implementació pels llocs web allotjats a Laconica (usant la seva API "
+#~ "compatible amb Twitter)"

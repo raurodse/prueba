@@ -1,0 +1,38 @@
+# Translation of org.kde.ffmpegthumbs.metainfo.po to Catalan (Valencian)
+# Copyright (C) 2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: ffmpegthumbs metainfo files\n"
+"POT-Creation-Date: 2019-08-09 03:11+0200\n"
+"PO-Revision-Date: 2019-08-09 21:00+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.07.70\n"
+
+#. (itstool) path: component/name
+#: org.kde.ffmpegthumbs.metainfo.xml:9
+msgid "FFmpeg Thumbnailer"
+msgstr "Generador de miniatures amb FFmpeg"
+
+#. (itstool) path: component/summary
+#: org.kde.ffmpegthumbs.metainfo.xml:10
+msgid "Video thumbnail generator using FFmpeg"
+msgstr "Generador de miniatures de vídeo amb FFmpeg"
+
+#. (itstool) path: description/p
+#: org.kde.ffmpegthumbs.metainfo.xml:12
+msgid ""
+"FFmpeg Thumbnailer is a video thumbnail generator for KDE file managers."
+msgstr ""
+"El Generador de miniatures amb FFmpeg és un generador de miniatures de vídeo "
+"per als gestors de fitxers del KDE."

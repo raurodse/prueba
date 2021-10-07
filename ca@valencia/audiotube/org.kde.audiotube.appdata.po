@@ -1,0 +1,44 @@
+# Translation of org.kde.audiotube.appdata.po to Catalan (Valencian)
+# Copyright (C) 2021 This_file_is_part_of_KDE
+# This file is distributed under same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: audiotube appdata files\n"
+"POT-Creation-Date: 2021-09-01 00:20+0000\n"
+"PO-Revision-Date: 2021-05-21 12:06+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 21.04.1\n"
+
+#. (itstool) path: component/name
+#: org.kde.audiotube.appdata.xml:9
+msgid "AudioTube"
+msgstr "AudioTube"
+
+#. (itstool) path: component/summary
+#: org.kde.audiotube.appdata.xml:10
+msgid "Convergent YouTube Music client"
+msgstr "Client convergent per a la música de YouTube"
+
+#. (itstool) path: component/developer_name
+#: org.kde.audiotube.appdata.xml:13
+msgid "KDE Community"
+msgstr "La comunitat KDE"
+
+#. (itstool) path: description/p
+#: org.kde.audiotube.appdata.xml:36
+msgid ""
+"AudioTube can search YouTube Music, list albums and artists, play "
+"automatically generated playlists, albums and allows to put your own "
+"playlist together."
+msgstr ""
+"L'AudioTube pot cercar música a YouTube, llistar àlbums i artistes, "
+"reproduir llistes de reproducció generades automàticament, àlbums i permet "
+"crear la vostra pròpia llista de reproducció."

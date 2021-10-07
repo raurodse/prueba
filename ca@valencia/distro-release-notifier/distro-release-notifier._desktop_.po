@@ -1,0 +1,41 @@
+# Translation of distro-release-notifier._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2018-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2018, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: distro-release-notifier desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-08-23 00:28+0000\n"
+"PO-Revision-Date: 2020-11-13 00:34+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.08.2\n"
+
+#: src/distro-release-notifier.desktop:13
+msgctxt "Name"
+msgid "Operating System Release Notifier"
+msgstr "Notificador del llançament del sistema operatiu"
+
+#: src/distro-release-notifier.desktop:46
+msgctxt "Comment"
+msgid "Checks for new system releases and notifies when available"
+msgstr ""
+"Comprova si hi ha algun llançament nou del sistema i notifica quan està "
+"disponible"
+
+#~ msgctxt "Name"
+#~ msgid "distroreleasenotifier"
+#~ msgstr "distroreleasenotifier"
+
+#~ msgctxt "GenericName"
+#~ msgid "A Simple KDE Application"
+#~ msgstr "Una aplicació senzilla per al KDE"

@@ -1,0 +1,309 @@
+# Translation of kmymoney._json_.po to Catalan (Valencian)
+# Copyright (C) 2019-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2019.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kmymoney json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-07-15 00:28+0000\n"
+"PO-Revision-Date: 2021-07-15 17:25+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 21.04.3\n"
+"X-Accelerator-Marker: &\n"
+
+#: kmymoney/plugins/checkprinting/checkprinting.json.cmake
+msgctxt "Name"
+msgid "Check printing"
+msgstr "Impressió de xecs"
+
+#: kmymoney/plugins/csv/export/csvexporter.json.cmake
+msgctxt "Name"
+msgid "CSV Exporter"
+msgstr "Exportador a CSV"
+
+#: kmymoney/plugins/csv/import/csvimporter.json.cmake
+msgctxt "Name"
+msgid "CSV Importer"
+msgstr "Importador de CSV"
+
+#: kmymoney/plugins/gnc/import/gncimporter.json.cmake
+msgctxt "Name"
+msgid "GNC Importer"
+msgstr "Importador de GNC"
+
+#: kmymoney/plugins/ibanbicdata/ibanbicdata.json.cmake
+msgctxt "Name"
+msgid "IBAN/BIC Data"
+msgstr "Dades IBAN i BIC"
+
+#: kmymoney/plugins/icalendar/export/icalendarexporter.json.cmake
+msgctxt "Name"
+msgid "iCalendar"
+msgstr "iCalendar"
+
+#: kmymoney/plugins/kbanking/kbanking.json.cmake
+msgctxt "Name"
+msgid "KBanking"
+msgstr "KBanking"
+
+#: kmymoney/plugins/ofx/import/ofximporter.json.cmake
+msgctxt "Name"
+msgid "OFX Importer"
+msgstr "Importador d'OFX"
+
+#: kmymoney/plugins/onlinejobpluginmockup/onlinejobpluginmockup.json.cmake
+msgctxt "Name"
+msgid "onlinejobpluginmockup"
+msgstr "onlinejobpluginmockup"
+
+#: kmymoney/plugins/onlinetasks/sepa/kmymoney-sepaorders.json.cmake
+msgctxt "Name"
+msgid "SEPA orders"
+msgstr "Ordres SEPA"
+
+#: kmymoney/plugins/qif/export/qifexporter.json.cmake
+msgctxt "Name"
+msgid "QIF Exporter"
+msgstr "Exportador a QIF"
+
+#: kmymoney/plugins/qif/import/qifimporter.json.cmake
+msgctxt "Name"
+msgid "QIF Importer"
+msgstr "Importador de QIF"
+
+#: kmymoney/plugins/reconciliationreport/reconciliationreport.json.cmake
+msgctxt "Name"
+msgid "Reconciliation report"
+msgstr "Informe de conciliació"
+
+#: kmymoney/plugins/sql/sqlstorage.json.cmake
+msgctxt "Name"
+msgid "SQL Storage"
+msgstr "Emmagatzematge SQL"
+
+#: kmymoney/plugins/views/budget/budgetview.json.cmake
+msgctxt "Name"
+msgid "Budget view"
+msgstr "Vista de pressupost"
+
+#: kmymoney/plugins/views/forecast/forecastview.json.cmake
+msgctxt "Name"
+msgid "Forecast view"
+msgstr "Vista de la previsió"
+
+#: kmymoney/plugins/views/onlinejoboutbox/onlinejoboutboxview.json.cmake
+msgctxt "Name"
+msgid "Online job outbox view"
+msgstr "Vista en línia de la safata d'eixida dels treballs"
+
+#: kmymoney/plugins/views/reports/reportsview.json.cmake
+msgctxt "Name"
+msgid "Reports view"
+msgstr "Vista dels informes"
+
+#: kmymoney/plugins/woob/woob.json.cmake
+msgctxt "Name"
+msgid "Woob"
+msgstr "Woob"
+
+#: kmymoney/plugins/xml/xmlstorage.json.cmake
+msgctxt "Name"
+msgid "XML Storage"
+msgstr "Emmagatzematge XML"
+
+#: kmymoney/plugins/checkprinting/checkprinting.json.cmake
+msgctxt "Description"
+msgid "Provides the capability to print checks"
+msgstr "Proporciona la capacitat d'imprimir xecs"
+
+#: kmymoney/plugins/csv/export/csvexporter.json.cmake
+msgctxt "Description"
+msgid "Add CSV exporting to KMyMoney"
+msgstr "Afig l'exportació a CSV al KMyMoney"
+
+#: kmymoney/plugins/csv/import/csvimporter.json.cmake
+msgctxt "Description"
+msgid "Add CSV importing to KMyMoney"
+msgstr "Afig la importació des de CSV al KMyMoney"
+
+#: kmymoney/plugins/gnc/import/gncimporter.json.cmake
+msgctxt "Description"
+msgid "Add GnuCash importing to KMyMoney"
+msgstr "Afig la importació des del GnuCash al KMyMoney"
+
+#: kmymoney/plugins/ibanbicdata/ibanbicdata.json.cmake
+msgctxt "Description"
+msgid "Adds predefined IBAN/BIC numbers to KMyMoney"
+msgstr "Afig números IBAN/BIC predefinits al KMyMoney"
+
+#: kmymoney/plugins/icalendar/export/icalendarexporter.json.cmake
+msgctxt "Description"
+msgid "Exports schedules to iCalendar files"
+msgstr "Exporta les planificacions a fitxers iCalendar"
+
+#: kmymoney/plugins/kbanking/kbanking.json.cmake
+msgctxt "Description"
+msgid "Add HBCI/FinTs, OFX and PayPal online banking to KMyMoney"
+msgstr "Afig la banca en línia HBCI/FinTs, OFX i PayPal al KMyMoney"
+
+#: kmymoney/plugins/ofx/import/ofximporter.json.cmake
+msgctxt "Description"
+msgid "Add OFX importing to KMyMoney"
+msgstr "Afig la importació des d'OFX al KMyMoney"
+
+#: kmymoney/plugins/onlinejobpluginmockup/onlinejobpluginmockup.json.cmake
+msgctxt "Description"
+msgid ""
+"If mapped to an account, it pretends it could handle all onlineTasks (for "
+"developers only)."
+msgstr ""
+"Si es fa el vincle amb un compte, intenta que es puguen gestionar totes les "
+"tasques en línia (només per als desenvolupadors)."
+
+#: kmymoney/plugins/onlinetasks/sepa/kmymoney-sepaorders.json.cmake
+msgctxt "Description"
+msgid "Order types for single european payment area (SEPA) orders"
+msgstr ""
+"Tipus d'ordres per a les ordres de l'àrea única europea de pagaments "
+"«SEPA» (Single European Payment Area)"
+
+#: kmymoney/plugins/qif/export/qifexporter.json.cmake
+msgctxt "Description"
+msgid "Add QIF exporting to KMyMoney"
+msgstr "Afig l'exportació a QIF al KMyMoney"
+
+#: kmymoney/plugins/qif/import/qifimporter.json.cmake
+msgctxt "Description"
+msgid "Add QIF importing to KMyMoney"
+msgstr "Afig la importació des de QIF al KMyMoney"
+
+#: kmymoney/plugins/reconciliationreport/reconciliationreport.json.cmake
+msgctxt "Description"
+msgid ""
+"Creates a report after each reconciliation containing data about the "
+"reconciliation process"
+msgstr ""
+"Crea un informe després de cada conciliació que conté dades del procés de "
+"conciliació"
+
+#: kmymoney/plugins/sql/sqlstorage.json.cmake
+msgctxt "Description"
+msgid "Adds SQL storage support to KMyMoney"
+msgstr "Afig la implementació de l'emmagatzematge en SQL al KMyMoney"
+
+#: kmymoney/plugins/views/budget/budgetview.json.cmake
+msgctxt "Description"
+msgid "Adds budget view to KMyMoney"
+msgstr "Afig la vista del pressupost al KMyMoney"
+
+#: kmymoney/plugins/views/forecast/forecastview.json.cmake
+msgctxt "Description"
+msgid "Adds forecast view to KMyMoney"
+msgstr "Afig la vista de la previsió al KMyMoney"
+
+#: kmymoney/plugins/views/onlinejoboutbox/onlinejoboutboxview.json.cmake
+msgctxt "Description"
+msgid "Adds online job outbox view to KMyMoney"
+msgstr "Afig la vista de la safata d'eixida dels treballs en línia al KMyMoney"
+
+#: kmymoney/plugins/views/reports/reportsview.json.cmake
+msgctxt "Description"
+msgid "Adds reports view to KMyMoney"
+msgstr "Afig la vista dels informes al KMyMoney"
+
+#: kmymoney/plugins/woob/woob.json.cmake
+msgctxt "Description"
+msgid "Plugin for Woob"
+msgstr "Connector per al Woob"
+
+#: kmymoney/plugins/xml/xmlstorage.json.cmake
+msgctxt "Description"
+msgid "Adds XML storage support to KMyMoney"
+msgstr "Afig la implementació de l'emmagatzematge en XML al KMyMoney"
+
+#: kmymoney/plugins/checkprinting/checkprinting.json.cmake
+#: kmymoney/plugins/icalendar/export/icalendarexporter.json.cmake
+#: kmymoney/plugins/reconciliationreport/reconciliationreport.json.cmake
+msgctxt "Authors Name"
+msgid "Cristian Oneț"
+msgstr "Cristian Oneț"
+
+#: kmymoney/plugins/csv/export/csvexporter.json.cmake
+msgctxt "Authors Name"
+msgid "Allan Anderson"
+msgstr "Allan Anderson"
+
+#: kmymoney/plugins/csv/import/csvimporter.json.cmake
+msgctxt "Authors Name"
+msgid "Allan Anderson,Łukasz Wojniłowicz"
+msgstr "Allan Anderson,Łukasz Wojniłowicz"
+
+#: kmymoney/plugins/gnc/import/gncimporter.json.cmake
+#: kmymoney/plugins/qif/export/qifexporter.json.cmake
+#: kmymoney/plugins/qif/import/qifimporter.json.cmake
+msgctxt "Authors Name"
+msgid "Michael Edwardes"
+msgstr "Michael Edwardes"
+
+#: kmymoney/plugins/ibanbicdata/ibanbicdata.json.cmake
+#: kmymoney/plugins/views/onlinejoboutbox/onlinejoboutboxview.json.cmake
+msgctxt "Authors Name"
+msgid "Christian Dávid"
+msgstr "Christian Dávid"
+
+#: kmymoney/plugins/kbanking/kbanking.json.cmake
+msgctxt "Authors Name"
+msgid "Martin Preuss,Thomas Baumgart,Christian Dávid"
+msgstr "Martin Preuss,Thomas Baumgart,Christian Dávid"
+
+#: kmymoney/plugins/ofx/import/ofximporter.json.cmake
+msgctxt "Authors Name"
+msgid "Ace Jones,Thomas Baumgart"
+msgstr "Ace Jones,Thomas Baumgart"
+
+#: kmymoney/plugins/onlinejobpluginmockup/onlinejobpluginmockup.json.cmake
+#: kmymoney/plugins/onlinetasks/sepa/kmymoney-sepaorders.json.cmake
+msgctxt "Authors Name"
+msgid "Christian David"
+msgstr "Christian David"
+
+#: kmymoney/plugins/sql/sqlstorage.json.cmake
+msgctxt "Authors Name"
+msgid "Tony Bloomfield,Łukasz Wojniłowicz"
+msgstr "Tony Bloomfield,Łukasz Wojniłowicz"
+
+#: kmymoney/plugins/views/budget/budgetview.json.cmake
+msgctxt "Authors Name"
+msgid "Darren Gould"
+msgstr "Darren Gould"
+
+#: kmymoney/plugins/views/forecast/forecastview.json.cmake
+#: kmymoney/plugins/views/reports/reportsview.json.cmake
+msgctxt "Authors Name"
+msgid "Alvaro Soliverez,Łukasz Wojniłowicz"
+msgstr "Alvaro Soliverez,Łukasz Wojniłowicz"
+
+#: kmymoney/plugins/woob/woob.json.cmake
+msgctxt "Authors Name"
+msgid "Romain Bignon"
+msgstr "Romain Bignon"
+
+#: kmymoney/plugins/xml/xmlstorage.json.cmake
+msgctxt "Authors Name"
+msgid "Kevin Tambascio,Thomas Baumgart,Ace Jones,Łukasz Wojniłowicz"
+msgstr "Kevin Tambascio,Thomas Baumgart,Ace Jones,Łukasz Wojniłowicz"
+
+#~ msgctxt "Name"
+#~ msgid "Weboob"
+#~ msgstr "Weboob"

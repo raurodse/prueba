@@ -1,0 +1,148 @@
+# Translation of org.kde.dolphin.appdata.po to Catalan (Valencian)
+# Copyright (C) 2014-2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2014, 2015, 2016.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2016, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: dolphin appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-18 00:21+0000\n"
+"PO-Revision-Date: 2018-10-26 14:57+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.dolphin.appdata.xml:6
+msgid "Dolphin"
+msgstr "Dolphin"
+
+#. (itstool) path: component/summary
+#: org.kde.dolphin.appdata.xml:7
+msgid "File Manager"
+msgstr "Gestor de fitxers"
+
+#. (itstool) path: description/p
+#: org.kde.dolphin.appdata.xml:9
+msgid ""
+"Dolphin is KDE's file manager that lets you navigate and browse the contents "
+"of your hard drives, USB sticks, SD cards, and more. Creating, moving, or "
+"deleting files and folders is simple and fast."
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.dolphin.appdata.xml:10
+msgid ""
+"Dolphin contains plenty of productivity features that will save you time. "
+"The multiple tabs and split view features allow navigating multiple folders "
+"at the same time, and you can easily drag and drop files between views to "
+"move or copy them. Dolphin's right-click menu provides with many quick "
+"actions that let you compress, share, and duplicate files, among many other "
+"things. You can also add your own custom actions."
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.dolphin.appdata.xml:11
+msgid ""
+"Dolphin is very lightweight, but at the same time, you can adapt it to your "
+"specific needs. This means that you can carry out your file management "
+"exactly the way you want to. Dolphin supports three different view modes: a "
+"classic grid view of all the files, a more detailed view, and a tree view. "
+"You can also configure most of Dolphin's behavior."
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.dolphin.appdata.xml:12
+msgid ""
+"Dolphin can display files and folders from many Internet cloud services and "
+"other remote machines as if they were right there on your desktop."
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.dolphin.appdata.xml:13
+msgid ""
+"Dolphin also comes with an integrated terminal that allows you to run "
+"commands on the current folder. You can extend the capabilities of Dolphin "
+"even further with powerful plugins to adapt it to your workflow. You can use "
+"the git integration plugin to interact with git repositories, or the "
+"Nextcloud plugin to synchronize your files online, and much more."
+msgstr ""
+
+#. (itstool) path: screenshot/caption
+#: org.kde.dolphin.appdata.xml:21
+msgid "File management in Dolphin"
+msgstr "Gestió de fitxers al Dolphin"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.dolphin.appdata.xml:25
+msgid "Embedded Terminal in Dolphin"
+msgstr ""
+
+#. (itstool) path: screenshot/caption
+#: org.kde.dolphin.appdata.xml:29
+msgid "Dolphin lets you configure your file manager exactly how you want"
+msgstr ""
+
+#~ msgid ""
+#~ "Dolphin is a lightweight file manager. It has been designed with ease of "
+#~ "use and simplicity in mind, while still allowing flexibility and "
+#~ "customisation. This means that you can do your file management exactly "
+#~ "the way you want to do it."
+#~ msgstr ""
+#~ "El Dolphin és un gestor de fitxers lleuger. S'ha dissenyat pensant a "
+#~ "facilitar el seu ús i que siga simple, permetent la flexibilitat i la "
+#~ "personalització. Això vol dir que podeu fer la gestió dels vostres "
+#~ "fitxers de la manera exacta com ho vulgueu fer."
+
+#~ msgid "Features:"
+#~ msgstr "Característiques:"
+
+#~ msgid ""
+#~ "Navigation (or breadcrumb) bar for URLs, allowing you to quickly navigate "
+#~ "through the hierarchy of files and folders."
+#~ msgstr ""
+#~ "Barra de navegació (o fil d'Ariadna) pels URL, permetent una navegació "
+#~ "ràpida per la jerarquia dels fitxers i carpetes."
+
+#~ msgid ""
+#~ "Supports several different kinds of view styles and properties and allows "
+#~ "you to configure the view exactly how you want it."
+#~ msgstr ""
+#~ "Accepta diferents classes diverses d'estils de visualització i propietats "
+#~ "i vos permet configurar la visualització exactament com la vulgueu."
+
+#~ msgid ""
+#~ "Split view, allowing you to easily copy or move files between locations."
+#~ msgstr ""
+#~ "Divisió de visualització, permetent copiar o moure fitxers fàcilment "
+#~ "entre les ubicacions."
+
+#~ msgid ""
+#~ "Additional information and shortcuts are available as dock-able panels, "
+#~ "allowing you to move them around freely and display exactly what you want."
+#~ msgstr ""
+#~ "Hi ha informació addicional i dreceres disponibles com a plafons que es "
+#~ "poden acoblar, permetent moure'ls lliurement i mostrar exactament el què "
+#~ "vulgueu."
+
+#~ msgid "Multiple tab support"
+#~ msgstr "Admet pestanyes múltiples"
+
+#~ msgid "Informational dialogues are displayed in an unobtrusive way."
+#~ msgstr "Els diàlegs informatius es mostren d'una manera no molesta."
+
+#~ msgid "Undo/redo support"
+#~ msgstr "Admet desfer/refer"
+
+#~ msgid "Transparent network access through the KIO system."
+#~ msgstr "Accés transparent a la xarxa a través del sistema KIO."

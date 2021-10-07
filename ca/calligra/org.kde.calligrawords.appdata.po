@@ -1,0 +1,74 @@
+# Translation of org.kde.calligrawords.appdata.po to Catalan (Valencian)
+# Copyright (C) 2014-2016 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2014, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: calligra appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2018-08-16 13:04+0200\n"
+"PO-Revision-Date: 2016-07-20 21:26+0200\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 1.5\n"
+
+#. (itstool) path: component/name
+#: org.kde.calligrawords.appdata.xml:6
+msgid "Calligra Words"
+msgstr "Words del Calligra"
+
+#. (itstool) path: component/summary
+#: org.kde.calligrawords.appdata.xml:7
+msgid "Word Processor"
+msgstr "Processador de textos"
+
+#. (itstool) path: description/p
+#: org.kde.calligrawords.appdata.xml:9
+msgid ""
+"Words is an intuitive word processor and desktop publisher application. With "
+"it, you can create informative and attractive documents with pleasure and "
+"ease."
+msgstr ""
+"El Words és una aplicació intuïtiva de procés de textos i de publicació "
+"d'escriptori. Amb ella es poden crear documents informatius i atractius amb "
+"satisfacció i facilitat."
+
+#. (itstool) path: description/p
+#: org.kde.calligrawords.appdata.xml:13
+msgid "Features:"
+msgstr "Característiques:"
+
+#. (itstool) path: ul/li
+#: org.kde.calligrawords.appdata.xml:15
+msgid "Frame-based editing"
+msgstr "Edició basada en marcs"
+
+#. (itstool) path: ul/li
+#: org.kde.calligrawords.appdata.xml:16
+msgid "Allows embedding of Documents"
+msgstr "Permet incrustar documents"
+
+#. (itstool) path: ul/li
+#: org.kde.calligrawords.appdata.xml:17
+msgid "Customization of user interface"
+msgstr "Personalització de la interfície d'usuari"
+
+#. (itstool) path: ul/li
+#: org.kde.calligrawords.appdata.xml:18
+msgid "Includes all features expected from a modern word processor"
+msgstr ""
+"Inclou totes les funcionalitats esperades d'un processador de textos modern"
+
+#. (itstool) path: ul/li
+#: org.kde.calligrawords.appdata.xml:19
+msgid "ODT (Open Document Text) support"
+msgstr "Admet ODT (Open Document Text)"

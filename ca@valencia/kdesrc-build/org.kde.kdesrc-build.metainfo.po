@@ -1,0 +1,187 @@
+# Translation of org.kde.kdesrc-build.metainfo.po to Catalan (Valencian)
+# Copyright (C) 2019-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2019, 2020.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdesrc-build metainfo files\n"
+"POT-Creation-Date: 2019-08-09 02:51+0200\n"
+"PO-Revision-Date: 2020-12-02 23:38+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.kdesrc-build.metainfo.xml:6
+msgid "kdesrc-build"
+msgstr "kdesrc-build"
+
+#. (itstool) path: component/summary
+#: org.kde.kdesrc-build.metainfo.xml:7
+msgid ""
+"Tool to allow you to easily build KDE software from its source repositories"
+msgstr ""
+"Eina que permet construir amb facilitat el programari KDE des dels seus "
+"repositoris d'origen"
+
+#. (itstool) path: description/p
+#: org.kde.kdesrc-build.metainfo.xml:9
+msgid ""
+"kdesrc-build is a tool to allow you to easily build KDE from its source "
+"repositories."
+msgstr ""
+"El kdesrc-build és una eina que permet construir amb facilitat el KDE des "
+"dels seus repositoris d'origen."
+
+#. (itstool) path: description/p
+#: org.kde.kdesrc-build.metainfo.xml:10
+msgid "Features:"
+msgstr "Característiques:"
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:12
+msgid ""
+"Will automatically checkout and update the KDE source code from its source "
+"repository. Both Subversion and git repository types are supported."
+msgstr ""
+"Comprovarà i actualitzarà automàticament el codi font del KDE des del seu "
+"repositori d'origen. Admet tant els tipus de repositori de Subversion com "
+"els Git."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:13
+msgid ""
+"Integrates with the KDE source code infrastructure to automatically build "
+"modules in the required order, and using the appropriate branch."
+msgstr ""
+"S'integra amb la infraestructura de codi font del KDE per a construir "
+"automàticament els mòduls en l'ordre requerit, i usant la branca adequada."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:14
+msgid ""
+"Easily supports building specific branches, tags, or even revisions of a "
+"module (or all of KDE software)."
+msgstr ""
+"Admet fer amb facilitat la creació de branques, etiquetes o fins i tot "
+"revisions específiques d'un mòdul (o de tot el programari KDE)."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:15
+msgid ""
+"Supports many build systems. It's even possible to build many non-KDE "
+"software projects in a pinch (for instance, CMake can be built from its own "
+"git sources if your distribution does not have CMake packages)."
+msgstr ""
+"Admet molts sistemes de construcció. En cas de necessitat, fins i tot és "
+"possible construir molts projectes de programari que no són del KDE (per "
+"exemple, el CMake es pot construir des del codi font de Git si la vostra "
+"distribució no té paquets per al CMake)."
+
+# skip-rule: kct-snapshot
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:16
+msgid ""
+"Supports speedy initial checkouts of modules (KDE Git projects only) by "
+"using the snapshots already available on the KDE project network."
+msgstr ""
+"Admet comprovacions inicials ràpides dels mòduls (només projectes Git del "
+"KDE) mitjançant l'ús d'instantànies ja disponibles a la xarxa de projectes "
+"del KDE."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:17
+msgid ""
+"Supports a \"dry run\" mode (the --pretend) option so that you can "
+"experiment with different settings non-destructively."
+msgstr ""
+"Admet una opció (--pretend), la qual fa el mode «simulacre» («dry run»), de "
+"manera que pugueu experimentar amb diferents opcions de configuració de "
+"forma no destructiva."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:18
+msgid ""
+"kdesrc-build can download modules (both initial checkout and updates) even "
+"while building modules that have already been updated."
+msgstr ""
+"El kdesrc-build pot descarregar els mòduls (comprovació inicial i "
+"actualitzacions) fins i tot mentre construeix els mòduls que ja s'han "
+"actualitzat."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:19
+msgid ""
+"kdesrc-build supports uninstalling modules (manually, or prior to installing "
+"an already-installed module) in order to keep the install directory clean. "
+"Note that this feature requires CMake support and is still experimental."
+msgstr ""
+"El kdesrc-build admet la desinstal·lació dels mòduls (manualment o abans "
+"d'instal·lar un mòdul ja instal·lat) per a mantindre net el directori "
+"d'instal·lació. Recordeu que aquesta característica requereix suport de "
+"CMake i encara és experimental."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:20
+msgid ""
+"kdesrc-build logs everything for easy perusal later, that way you can "
+"determine why things went wrong if a build fails. kdesrc-build automatically "
+"creates symlinks for easy access to the last log (log/latest). color-coding "
+"of the output (which can be turned off)."
+msgstr ""
+"El kdesrc-build ho enregistra tot per a una lectura fàcil posterior, "
+"d'aquesta manera podreu determinar perquè les coses han eixit malament si "
+"falla una construcció. El kdesrc-build crearà automàticament enllaços "
+"simbòlics per a facilitar l'accés a l'últim registre (log/latest). "
+"Codificant amb colors l'eixida (el qual es pot desactivar)."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:22
+msgid ""
+"Has support for building the Qt Project's Qt library, which is a "
+"prerequisite for KDE software. kdesrc-build is very customizable. You can "
+"control most options down to a module-by-module basis if you so desire, "
+"including configure-flags, CMake flags, and your C++ flags during "
+"compilation. Instead of trying to remember what configure line you used, you "
+"can set it once and forget it."
+msgstr ""
+"Admet construir la biblioteca de les Qt del Projecte Qt, el qual és un "
+"requisit previ per al programari KDE. El kdesrc-build és molt "
+"personalitzable. Podreu controlar la majoria de les opcions fins a una base "
+"de fer mòdul per mòdul, si així ho voleu, incloent indicadors de "
+"configuració, indicadors de CMake i els vostres indicadors de C++ durant la "
+"compilació. En lloc d'intentar recordar quina línia de configuració havíeu "
+"usat, podreu configurar-la un cop i oblidar-la."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:24
+msgid ""
+"Extensive documentation. Feel free to let me know if you need something "
+"explained (e-mail address at bottom), or contact the kde-devel mailing list."
+msgstr ""
+"Disposa d'una àmplia documentació. Trobeu-vos lliure d'avisar-me si "
+"necessiteu que vos expliqui alguna cosa (l'adreça de correu electrònic es "
+"troba a la part inferior) o poseu-vos amb la llista de correu de kde-devel."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:25
+msgid ""
+"A detailed sample configuration file is included, usually you can just copy "
+"it to ~/.kdesrc-buildrc and be done with it."
+msgstr ""
+"S'inclou un detallat fitxer de configuració d'exemple, normalment podreu "
+"copiar-lo a ~/.kdesrc-buildrc i llest."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:26
+msgid "Much more!"
+msgstr "Molt més!"

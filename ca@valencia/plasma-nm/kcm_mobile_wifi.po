@@ -1,0 +1,298 @@
+# Translation of kcm_mobile_wifi.po to Catalan (Valencian)
+# Copyright (C) 2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-nm\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-08-28 00:19+0000\n"
+"PO-Revision-Date: 2019-07-04 13:39+0200\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Josep Ma. Ferrer"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "txemaq@gmail.com"
+
+#: package/contents/ui/ConnectDialog.qml:136
+#, kde-format
+msgid "Invalid input."
+msgstr ""
+
+#: package/contents/ui/ConnectionItemDelegate.qml:107
+#, fuzzy, kde-format
+#| msgid "Connection Editor"
+msgid "Connect to"
+msgstr "Editor de connexions"
+
+#: package/contents/ui/main.qml:82
+#, kde-format
+msgid "Wi-Fi is disabled"
+msgstr ""
+
+#: package/contents/ui/main.qml:86
+#, fuzzy, kde-format
+#| msgid "Enable Wi-Fi"
+msgid "Enable"
+msgstr "Habilita el wifi"
+
+#: package/contents/ui/main.qml:96
+#, kde-format
+msgid "Disable Wi-Fi"
+msgstr "Inhabilita el wifi"
+
+#: package/contents/ui/main.qml:102
+#, fuzzy, kde-format
+#| msgid "Add custom connection"
+msgid "Add Custom Connection"
+msgstr "Afig una connexió personalitzada"
+
+#: package/contents/ui/main.qml:108
+#, fuzzy, kde-format
+#| msgid "Saved Connections"
+msgid "Show Saved Connections"
+msgstr "Connexions guardades"
+
+#: package/contents/ui/NetworkSettings.qml:14
+#, fuzzy, kde-format
+#| msgid "Add custom connection"
+msgid "Add new Connection"
+msgstr "Afig una connexió personalitzada"
+
+#: package/contents/ui/NetworkSettings.qml:34
+#, kde-format
+msgid "Save"
+msgstr "Guarda"
+
+#: package/contents/ui/NetworkSettings.qml:44
+#, kde-format
+msgid "General"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:49
+#, fuzzy, kde-format
+#| msgid "SSID"
+msgid "SSID:"
+msgstr "SSID"
+
+#: package/contents/ui/NetworkSettings.qml:58
+#, fuzzy, kde-format
+#| msgid "Hide this network"
+msgid "Hidden Network:"
+msgstr "Oculta aquesta xarxa"
+
+#: package/contents/ui/NetworkSettings.qml:64
+#, kde-format
+msgid "Security"
+msgstr "Seguretat"
+
+#: package/contents/ui/NetworkSettings.qml:70
+#, fuzzy, kde-format
+msgid "Security type:"
+msgstr "Seguretat"
+
+#: package/contents/ui/NetworkSettings.qml:79
+#, kde-format
+msgid "None"
+msgstr "Cap"
+
+#: package/contents/ui/NetworkSettings.qml:80
+#, kde-format
+msgid "WEP Key"
+msgstr "Clau WEP"
+
+#: package/contents/ui/NetworkSettings.qml:81
+#, kde-format
+msgid "Dynamic WEP"
+msgstr "WEP dinàmica"
+
+#: package/contents/ui/NetworkSettings.qml:82
+#, kde-format
+msgid "WPA/WPA2 Personal"
+msgstr "WPA/WPA2 personal"
+
+#: package/contents/ui/NetworkSettings.qml:83
+#, kde-format
+msgid "WPA/WPA2 Enterprise"
+msgstr "WPA/WPA2 corporativa"
+
+#: package/contents/ui/NetworkSettings.qml:108
+#, fuzzy, kde-format
+msgid "Password:"
+msgstr "Contrasenya..."
+
+#: package/contents/ui/NetworkSettings.qml:116
+#, fuzzy, kde-format
+msgid "Authentication:"
+msgstr "Autenticació"
+
+#: package/contents/ui/NetworkSettings.qml:119
+#, kde-format
+msgid "TLS"
+msgstr "TLS"
+
+#: package/contents/ui/NetworkSettings.qml:119
+#, kde-format
+msgid "LEAP"
+msgstr "LEAP"
+
+#: package/contents/ui/NetworkSettings.qml:119
+#, kde-format
+msgid "FAST"
+msgstr "FAST"
+
+#: package/contents/ui/NetworkSettings.qml:120
+#, kde-format
+msgid "Tunneled TLS"
+msgstr "TLS en túnel"
+
+#: package/contents/ui/NetworkSettings.qml:121
+#, kde-format
+msgid "Protected EAP"
+msgstr "EAP protegit"
+
+#: package/contents/ui/NetworkSettings.qml:130
+#, kde-format
+msgid "IP settings"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:136
+#, kde-format
+msgid "Automatic"
+msgstr "Automàtica"
+
+#: package/contents/ui/NetworkSettings.qml:136
+#, kde-format
+msgid "Manual"
+msgstr "Manual"
+
+#: package/contents/ui/NetworkSettings.qml:146
+#, fuzzy, kde-format
+msgid "IP Address:"
+msgstr "Adreça IP"
+
+#: package/contents/ui/NetworkSettings.qml:158
+#, fuzzy, kde-format
+msgid "Gateway:"
+msgstr "Passarel·la"
+
+#: package/contents/ui/NetworkSettings.qml:170
+#, fuzzy, kde-format
+msgid "Network prefix length:"
+msgstr "Longitud del prefix de xarxa"
+
+#: package/contents/ui/NetworkSettings.qml:183
+#, kde-format
+msgid "DNS:"
+msgstr ""
+
+#: package/contents/ui/PasswordField.qml:13
+#, fuzzy, kde-format
+msgid "Password…"
+msgstr "Contrasenya..."
+
+#: wifisettings.cpp:32
+#, fuzzy, kde-format
+#| msgid "Configure Wi-Fi networks"
+msgid "Wi-Fi networks"
+msgstr "Configura les xarxes Wi-Fi"
+
+#: wifisettings.cpp:33
+#, kde-format
+msgid "Martin Kacej"
+msgstr "Martin Kacej"
+
+#, fuzzy
+#~| msgid "Cancel"
+#~ msgctxt "@action:button"
+#~ msgid "Cancel"
+#~ msgstr "Cancel·la"
+
+#~ msgid "Password..."
+#~ msgstr "Contrasenya..."
+
+#~ msgid "Create Hotspot"
+#~ msgstr "Crea un punt d'accés wifi"
+
+#, fuzzy
+#~| msgid "Wi-fi hotspot"
+#~ msgid "Wi-Fi Hotspot"
+#~ msgstr "Punt d'accés wifi"
+
+#~ msgid "Configure"
+#~ msgstr "Configura"
+
+#~ msgid "SSID"
+#~ msgstr "SSID"
+
+#~ msgid "My Hotspot"
+#~ msgstr "El meu punt d'accés wifi"
+
+#~ msgid "Hide this network"
+#~ msgstr "Oculta aquesta xarxa"
+
+#~ msgid "Protect hotspot with WPA2/PSK password"
+#~ msgstr "Protegeix el punt d'accés wifi amb una contrasenya WPA2/PSK"
+
+#~ msgid "Save Hotspot configuration"
+#~ msgstr "Guarda la configuració del punt d'accés wifi"
+
+#, fuzzy
+#~| msgid "Disable Wi-Fi"
+#~ msgid "Disable Wi-Fi Hotspot"
+#~ msgstr "Inhabilita el wifi"
+
+#, fuzzy
+#~| msgid "Enable Wi-Fi"
+#~ msgid "Enable Wi-Fi Hotspot"
+#~ msgstr "Habilita el wifi"
+
+#~ msgid "Hotspot is inactive"
+#~ msgstr "El punt d'accés wifi està inactiu"
+
+#~ msgid "Not possible to start Access point."
+#~ msgstr "No és possible iniciar el punt d'accés."
+
+#~ msgid "Access point running: %1"
+#~ msgstr "Punt d'accés en execució: %1"
+
+#~ msgid "No suitable configuration found."
+#~ msgstr "No s'ha trobat cap configuració adequada."
+
+#~ msgid "Access point available: %1"
+#~ msgstr "Punt d'accés disponible: %1"
+
+#~ msgid "Connection Name"
+#~ msgstr "Nom de la connexió"
+
+#~ msgid "(Unchanged)"
+#~ msgstr "(Sense canvis)"
+
+#~ msgid "Delete connection %1 from device?"
+#~ msgstr "Voleu suprimir la connexió %1 del dispositiu?"
+
+#~ msgid "Delete"
+#~ msgstr "Suprimeix"
+
+#~ msgid "Saved networks"
+#~ msgstr "Xarxes guardades"
+
+#~ msgid "Available networks"
+#~ msgstr "Xarxes disponibles"

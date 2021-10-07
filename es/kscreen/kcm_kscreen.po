@@ -1,0 +1,432 @@
+# Translation of kcm_kscreen.po to Catalan (Valencian)
+# Copyright (C) 2014-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2014, 2015, 2018, 2019.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015, 2016, 2017, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: kscreen\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-09-15 00:20+0000\n"
+"PO-Revision-Date: 2019-07-03 13:40+0200\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Josep Ma. Ferrer"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "txemaq@gmail.com"
+
+#: kcm.cpp:42
+#, kde-format
+msgid "Display Configuration"
+msgstr "Configuració de la pantalla"
+
+#: kcm.cpp:44
+#, kde-format
+msgid "Manage and configure monitors and displays"
+msgstr ""
+
+#: kcm.cpp:46
+#, kde-format
+msgid "Copyright © 2019 Roman Gilg"
+msgstr ""
+
+#: kcm.cpp:47
+#, kde-format
+msgid "Roman Gilg"
+msgstr ""
+
+#: kcm.cpp:47
+#, kde-format
+msgid "Developer"
+msgstr ""
+
+#: output_model.cpp:74
+#, kde-format
+msgid "%1 Hz"
+msgstr "%1 Hz"
+
+#: output_model.cpp:537
+#, kde-format
+msgctxt "Width x height (aspect ratio)"
+msgid "%1x%2 (%3:%4)"
+msgstr ""
+
+#: output_model.cpp:615
+#, kde-format
+msgid "None"
+msgstr ""
+
+#: output_model.cpp:622
+#, kde-format
+msgid "Replicated by other output"
+msgstr ""
+
+#: package/contents/ui/main.qml:34
+#, fuzzy, kde-format
+#| msgid "Are you sure you want to disable all outputs?"
+msgid ""
+"Are you sure you want to disable all outputs? This might render the device "
+"unusable."
+msgstr "Segur que voleu desactivar totes les eixides?"
+
+#: package/contents/ui/main.qml:40
+#, fuzzy, kde-format
+#| msgid "&Disable All Outputs"
+msgid "Disable All Outputs"
+msgstr "&Desactiva totes les eixides"
+
+#: package/contents/ui/main.qml:52
+#, fuzzy, kde-format
+#| msgid "No kscreen backend found. Please check your kscreen installation."
+msgid "No KScreen backend found. Please check your KScreen installation."
+msgstr "No s'ha trobat el dorsal kscreen, comproveu la vostra instal·lació."
+
+#: package/contents/ui/main.qml:60
+#, kde-format
+msgid "Outputs could not be saved due to error."
+msgstr ""
+
+#: package/contents/ui/main.qml:68
+#, fuzzy, kde-format
+#| msgid "Scaling changes will come into effect after restart"
+msgid "New global scale applied. Change will come into effect after restart."
+msgstr "Els canvis en l'escala entraran en vigor després de reiniciar"
+
+#: package/contents/ui/main.qml:83
+#, fuzzy, kde-format
+#| msgid "Display Configuration"
+msgid "Display configuration reverted."
+msgstr "Configuració de la pantalla"
+
+#: package/contents/ui/main.qml:92
+#, fuzzy, kde-format
+#| msgid "Display Configuration"
+msgid "Keep display configuration?"
+msgstr "Configuració de la pantalla"
+
+#: package/contents/ui/main.qml:110
+#, kde-format
+msgid "Will revert to previous configuration in %1 second."
+msgid_plural "Will revert to previous configuration in %1 seconds."
+msgstr[0] ""
+msgstr[1] ""
+
+#: package/contents/ui/main.qml:121
+#, kde-format
+msgid "&Keep"
+msgstr ""
+
+#: package/contents/ui/main.qml:136
+#, kde-format
+msgid "&Revert"
+msgstr ""
+
+#: package/contents/ui/main.qml:160
+#, kde-format
+msgid "A new output has been added. Settings have been reloaded."
+msgstr ""
+
+#: package/contents/ui/main.qml:162
+#, kde-format
+msgid "An output has been removed. Settings have been reloaded."
+msgstr ""
+
+#: package/contents/ui/Orientation.qml:12
+#, kde-format
+msgid "Orientation:"
+msgstr "Orientació:"
+
+#: package/contents/ui/Orientation.qml:26
+#: package/contents/ui/OutputPanel.qml:105
+#: package/contents/ui/OutputPanel.qml:134
+#, fuzzy, kde-format
+#| msgid "Auto"
+msgid "Automatic"
+msgstr "Automàtic"
+
+#: package/contents/ui/Orientation.qml:35
+#, kde-format
+msgid "Only when in tablet mode"
+msgstr ""
+
+#: package/contents/ui/Orientation.qml:44
+#, kde-format
+msgid "Manual"
+msgstr ""
+
+#: package/contents/ui/Output.qml:143
+#, kde-format
+msgid "Replicas"
+msgstr ""
+
+#: package/contents/ui/OutputPanel.qml:22
+#, kde-format
+msgid "Enabled"
+msgstr "Habilitada"
+
+#: package/contents/ui/OutputPanel.qml:29
+#, fuzzy, kde-format
+#| msgid "Primary display:"
+msgid "Primary"
+msgstr "Pantalla primària:"
+
+#: package/contents/ui/OutputPanel.qml:36
+#, kde-format
+msgid "Resolution:"
+msgstr "Resolució:"
+
+#: package/contents/ui/OutputPanel.qml:50
+#, kde-format
+msgid "Scale:"
+msgstr "Escala:"
+
+#: package/contents/ui/OutputPanel.qml:79 package/contents/ui/Panel.qml:108
+#, fuzzy, kde-format
+#| msgctxt "Scale multiplier, show everything at 1 times normal scale"
+#| msgid "1x"
+msgctxt "Global scale factor expressed in percentage form"
+msgid "%1%"
+msgstr "1x"
+
+#: package/contents/ui/OutputPanel.qml:91
+#, kde-format
+msgid "Refresh rate:"
+msgstr "Freqüència de refresc:"
+
+#: package/contents/ui/OutputPanel.qml:100
+#, kde-format
+msgid "Adaptive sync:"
+msgstr ""
+
+#: package/contents/ui/OutputPanel.qml:103
+#, kde-format
+msgid "Never"
+msgstr ""
+
+#: package/contents/ui/OutputPanel.qml:104
+#, kde-format
+msgid "Always"
+msgstr ""
+
+#: package/contents/ui/OutputPanel.qml:116
+#, kde-format
+msgid "Overscan:"
+msgstr ""
+
+#: package/contents/ui/OutputPanel.qml:131
+#, kde-format
+msgid "RGB Range:"
+msgstr ""
+
+#: package/contents/ui/OutputPanel.qml:135
+#, kde-format
+msgid "Full"
+msgstr ""
+
+#: package/contents/ui/OutputPanel.qml:136
+#, kde-format
+msgid "Limited"
+msgstr ""
+
+#: package/contents/ui/OutputPanel.qml:147
+#, kde-format
+msgid "Replica of:"
+msgstr ""
+
+#: package/contents/ui/Panel.qml:19
+#, kde-format
+msgid "Device:"
+msgstr ""
+
+#: package/contents/ui/Panel.qml:72
+#, kde-format
+msgid "Global scale:"
+msgstr ""
+
+#: package/contents/ui/Panel.qml:129
+#, kde-format
+msgid ""
+"The global scale factor is limited to multiples of 6.25% to minimize visual "
+"glitches in applications using the X11 windowing system."
+msgstr ""
+
+#: package/contents/ui/Panel.qml:141
+#, kde-format
+msgid "Save displays' properties:"
+msgstr ""
+
+#: package/contents/ui/Panel.qml:147
+#, kde-format
+msgid "For any display arrangement"
+msgstr ""
+
+#: package/contents/ui/Panel.qml:154
+#, kde-format
+msgid "For only this specific display arrangement"
+msgstr ""
+
+#: package/contents/ui/RotationButton.qml:50
+#, kde-format
+msgid "90° Clockwise"
+msgstr "90° en sentit horari"
+
+#: package/contents/ui/RotationButton.qml:54
+#, kde-format
+msgid "Upside Down"
+msgstr "Cap per avall"
+
+#: package/contents/ui/RotationButton.qml:58
+#, kde-format
+msgid "90° Counterclockwise"
+msgstr "90° en sentit antihorari"
+
+#: package/contents/ui/RotationButton.qml:63
+#, kde-format
+msgid "No Rotation"
+msgstr "Sense gir"
+
+#: package/contents/ui/Screen.qml:52
+#, kde-format
+msgid "Drag screens to re-arrange them"
+msgstr ""
+
+#: package/contents/ui/Screen.qml:65
+#, fuzzy, kde-format
+#| msgid "Identify outputs"
+msgid "Identify"
+msgstr "Identificació d'eixides"
+
+#~ msgid "Maintainer"
+#~ msgstr "Mantenidor"
+
+#, fuzzy
+#~| msgctxt "@title:window"
+#~| msgid "Disable All Outputs"
+#~ msgid "Disable all outputs"
+#~ msgstr "Desactiva totes les eixides"
+
+#~ msgid "Configuration for displays"
+#~ msgstr "Configuració per a les pantalles"
+
+#~ msgid "Tip: Hold Ctrl while dragging a display to disable snapping"
+#~ msgstr ""
+#~ "Consell: Premeu Ctrl en arrossegar una pantalla per desactivar "
+#~ "l'ajustament de finestres"
+
+#~ msgid "Warning: There are no active outputs!"
+#~ msgstr "Avís: No hi ha cap eixida activa."
+
+#~ msgid "Your system only supports up to %1 active screen"
+#~ msgid_plural "Your system only supports up to %1 active screens"
+#~ msgstr[0] "Aquest sistema només permet fins a %1 pantalla activa"
+#~ msgstr[1] "Aquest sistema només permet fins a %1 pantalles actives"
+
+#~ msgid "Unified Outputs"
+#~ msgstr "Eixides unificades"
+
+#~ msgid "Laptop Screen"
+#~ msgstr "Pantalla de portàtil"
+
+#~ msgid "(c), 2012-2013 Daniel Vrátil"
+#~ msgstr "(c), 2012-2013 Daniel Vrátil"
+
+#~ msgid "Daniel Vrátil"
+#~ msgstr "Daniel Vrátil"
+
+#~ msgid "&Reconfigure"
+#~ msgstr "&Reconfigura"
+
+#~ msgid ""
+#~ "Sorry, your configuration could not be applied.\n"
+#~ "\n"
+#~ "Common reasons are that the overall screen size is too big, or you "
+#~ "enabled more displays than supported by your GPU."
+#~ msgstr ""
+#~ "No es pot aplicar aquesta configuració.\n"
+#~ "\n"
+#~ "El motiu més normal és que la mida de la pantalla siga massa gran, o que "
+#~ "hàgeu activat més pantalles que les que permet la GPU."
+
+#~ msgctxt "@title:window"
+#~ msgid "Unsupported Configuration"
+#~ msgstr "Configuració no permesa"
+
+#~ msgid "KCM Test App"
+#~ msgstr "Aplicació de prova de KCM"
+
+#~ msgid "Unify Outputs"
+#~ msgstr "Eixides unificades"
+
+#~ msgid "Scale Display"
+#~ msgstr "Escala de la pantalla:"
+
+#~ msgid "Display:"
+#~ msgstr "Pantalla:"
+
+#~ msgctxt "Scale multiplier, show everything at 2 times normal scale"
+#~ msgid "2x"
+#~ msgstr "2x"
+
+#~ msgid "Retention of values"
+#~ msgstr "Retenció de valors"
+
+#~ msgid "Save as new global values for this display."
+#~ msgstr "Guarda com a valors globals nous per a aquesta pantalla."
+
+#~ msgid "Save values only for display in this specific configuration."
+#~ msgstr ""
+#~ "Guarda els valors només per a la pantalla amb aquesta configuració "
+#~ "específica."
+
+#~ msgid "No available resolutions"
+#~ msgstr "Les resolucions no estan disponibles"
+
+#~ msgid "Screen Scaling"
+#~ msgstr "Escalat de la pantalla"
+
+#~ msgid "Tab 1"
+#~ msgstr "Pestanya 1"
+
+#~ msgid "Group Box"
+#~ msgstr "Grup de caselles"
+
+#~ msgid "Radio button"
+#~ msgstr "Botó d'opció"
+
+#~ msgid "Checkbox"
+#~ msgstr "Casella de selecció"
+
+#~ msgid "Button"
+#~ msgstr "Botó"
+
+#~ msgid "Combobox"
+#~ msgstr "Quadre combinat"
+
+#~ msgid "Tab 2"
+#~ msgstr "Pestanya 2"
+
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgid "No Primary Output"
+#~ msgstr "No hi ha cap eixida primària"
+
+#~ msgid "Break Unified Outputs"
+#~ msgstr "Interromp les eixides unificades"

@@ -1,0 +1,960 @@
+# Translation of kate-editor-org.po to Catalan (Valencian)
+# Copyright (C) 2019-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2019, 2020, 2021.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-kate-editor-org\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-06 02:32+0200\n"
+"PO-Revision-Date: 2021-05-04 13:32+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: config.yaml:0
+msgid "Kate"
+msgstr "Kate"
+
+#: config.yaml:0
+msgid "Kate is a modern text editor built on the KDE Frameworks and Qt."
+msgstr ""
+"El Kate és un editor modern de text construït amb els Frameworks de KDE i "
+"les Qt."
+
+#: config.yaml:0
+msgid "Build It"
+msgstr "Construeix"
+
+#: config.yaml:0
+msgid "Blog"
+msgstr "Blog"
+
+#: config.yaml:0
+msgid "Posts"
+msgstr "Missatges"
+
+#: config.yaml:0
+msgid "Categories"
+msgstr "Categories"
+
+#: config.yaml:0
+msgid "Tags"
+msgstr "Etiquetes"
+
+#: config.yaml:0
+msgid "More"
+msgstr "Més"
+
+#: config.yaml:0
+msgid "Get Help"
+msgstr "Obtén ajuda"
+
+#: config.yaml:0
+msgid "Join Us"
+msgstr "Uniu-vos"
+
+#: config.yaml:0
+msgid "VI Mode"
+msgstr "Mode del Vi"
+
+#: config.yaml:0
+msgid "The Team"
+msgstr "L'equip"
+
+#: config.yaml:0
+msgid "Merge Requests"
+msgstr "Sol·licituds de fusionat"
+
+#: config.yaml:0 content/about-kate.en.md:34
+msgid "Syntax Highlighting"
+msgstr "Ressaltat de sintaxi"
+
+#: config.yaml:0
+msgid "Color Themes"
+msgstr "Temes de color"
+
+#: content/_index.en.md:0
+msgid "Kate - Get an Edge in Editing"
+msgstr "Kate - Obteniu l'últim en edició"
+
+#: content/_index.en.md:0
+msgid "Get an Edge in Editing"
+msgstr "Obteniu l'últim en edició"
+
+#: content/about-kate.en.md:0
+msgid "Christoph Cullmann"
+msgstr "Christoph Cullmann"
+
+#: content/about-kate.en.md:5
+msgid "Application Features"
+msgstr "Característiques de l'aplicació"
+
+#: content/about-kate.en.md:7
+msgid ""
+"![Screenshot showing Kate window splitting feature and terminal plugin](/"
+"images/kate-window.png)"
+msgstr ""
+"![Captura de pantalla que mostra la característica de la finestra dividida i "
+"un connector de terminal](/images/kate-window.png)"
+
+#: content/about-kate.en.md:9
+msgid ""
+"View and edit multiple documents at the same time, by splitting horizontally "
+"and vertically the window"
+msgstr ""
+"Vista i edició de múltiples documents a la vegada, dividint la finestra "
+"horitzontalment i verticalment"
+
+# skip-rule: kct-embed
+#: content/about-kate.en.md:10
+msgid ""
+"Lot of plugins: [Embedded terminal](https://konsole.kde.org), SQL plugin, "
+"build plugin, GDB plugin, Replace in Files, and more"
+msgstr ""
+"Molts connectors: [Terminal incrustat](https://konsole.kde.org), connector "
+"SQL, connector de construcció, connector del GDB, Substitució a fitxers, i "
+"més"
+
+#: content/about-kate.en.md:11
+msgid "Multi-document interface (MDI)"
+msgstr "Interfície multidocument (MDI)"
+
+#: content/about-kate.en.md:12
+msgid "Session support"
+msgstr "Suport de sessions"
+
+#: content/about-kate.en.md:14
+msgid "General Features"
+msgstr "Característiques generals"
+
+#: content/about-kate.en.md:16
+msgid ""
+"![Screenshot showing Kate search and replace feature](/images/kate-search-"
+"replace.png)"
+msgstr ""
+"![Captura de pantalla que mostra la característica de cerca i substitució](/"
+"images/kate-search-replace.png)"
+
+#: content/about-kate.en.md:18
+msgid "Encoding support (Unicode and lots of others)"
+msgstr "Implementació de la codificació (Unicode i molts altres)"
+
+#: content/about-kate.en.md:19
+msgid "Bi-directional text rendering support"
+msgstr "Implementació de la Representació de text bidireccional"
+
+#: content/about-kate.en.md:20
+msgid "Line ending support (Windows, Unix, Mac), including auto detection"
+msgstr ""
+"Implementació del final de línia (Windows, Unix, Mac), incloent la detecció "
+"automàtica"
+
+#: content/about-kate.en.md:21
+msgid "Network transparency (open remote files)"
+msgstr "Transparència de xarxa (obri fitxers remots)"
+
+#: content/about-kate.en.md:22
+msgid "Extensible through scripting"
+msgstr "Ampliable a través de la creació de scripts"
+
+#: content/about-kate.en.md:24
+msgid "Advanced Editor Features"
+msgstr "Característiques avançades d'edició"
+
+#: content/about-kate.en.md:26
+msgid ""
+"![Screenshot of Kate border with line number and bookmark](/images/kate-"
+"border.png)"
+msgstr ""
+"![Captura de pantalla de la vora del Kate amb el número de línia i un punt](/"
+"images/kate-border.png)"
+
+#: content/about-kate.en.md:28
+msgid "Bookmarking system (also supported: break points etc.)"
+msgstr "Sistema de punts (també s'admeten: punts de ruptura, etc.)"
+
+#: content/about-kate.en.md:29
+msgid "Scroll bar marks"
+msgstr "Marques de barra de desplaçament"
+
+#: content/about-kate.en.md:30
+msgid "Line modification indicators"
+msgstr "Indicadors de modificació de línia"
+
+#: content/about-kate.en.md:31
+msgid "Line numbers"
+msgstr "Números de línies"
+
+#: content/about-kate.en.md:32
+msgid "Code folding"
+msgstr "Plegat de codi"
+
+#: content/about-kate.en.md:36
+msgid ""
+"![Screenshot of Kate syntax highlighting features](/images/kate-syntax.png)"
+msgstr ""
+"![Captura de pantalla de les característiques de ressaltat de sintaxi del "
+"Kate](/images/kate-syntax.png)"
+
+#: content/about-kate.en.md:38
+msgid "Highlighting support for over 300 languages"
+msgstr "El ressaltat de sintaxi admet més de 300 llenguatges"
+
+#: content/about-kate.en.md:39
+msgid "Bracket matching"
+msgstr "Concordança de parèntesis"
+
+#: content/about-kate.en.md:40
+msgid "Smart on-the-fly spell checking"
+msgstr "Verificació ortogràfica al vol intel·ligent"
+
+#: content/about-kate.en.md:41
+msgid "Highlighting of selected words"
+msgstr "Ressaltat de paraules seleccionades"
+
+#: content/about-kate.en.md:43
+msgid "Programming Features"
+msgstr "Característiques de programació"
+
+#: content/about-kate.en.md:45
+msgid ""
+"![Screenshot of Kate programming features](/images/kate-programming.png)"
+msgstr ""
+"![Captura de pantalla de les característiques de programació](/images/kate-"
+"programming.png)"
+
+#: content/about-kate.en.md:47
+msgid "Scriptable auto indentation"
+msgstr "Sagnat automàtic amb creació de scripts"
+
+#: content/about-kate.en.md:48
+msgid "Smart comment and uncomment handling"
+msgstr "Gestió intel·ligent de comentaris i descomentaris"
+
+#: content/about-kate.en.md:49
+msgid "Auto completion with argument hints"
+msgstr "Compleció automàtica amb consells d'arguments"
+
+#: content/about-kate.en.md:50
+msgid "Vi input mode"
+msgstr "Mode d'entrada del Vi"
+
+#: content/about-kate.en.md:51
+msgid "Rectangular block selection mode"
+msgstr "Mode de selecció de bloc rectangular"
+
+#: content/about-kate.en.md:53
+msgid "Search & Replace"
+msgstr "Cerca i substitució"
+
+#: content/about-kate.en.md:55
+msgid ""
+"![Screenshot of Kate incremental search feature](/images/kate-search.png)"
+msgstr ""
+"![Captura de pantalla de la característica de cerca incremental del Kate](/"
+"images/kate-search.png)"
+
+#: content/about-kate.en.md:57
+msgid "Incremental search, also known as &#8220;find as you type&#8221;"
+msgstr "Cerca incremental, també coneguda com «cerca en teclejar»"
+
+#: content/about-kate.en.md:58
+msgid "Support for multiline search & replace"
+msgstr "Permet la cerca i substitució multilínia"
+
+#: content/about-kate.en.md:59
+msgid "Regular expression support"
+msgstr "Admet expressions regulars"
+
+#: content/about-kate.en.md:60
+msgid "Search & replace in multiple opened files or files on disk"
+msgstr "Cerca i substitució en fitxers múltiples oberts o fitxers del disc"
+
+#: content/about-kate.en.md:62
+msgid "Backup and Restore"
+msgstr "Còpia de seguretat i restauració"
+
+#: content/about-kate.en.md:64
+msgid ""
+"![Screenshot of Kate recover from crash feature](/images/kate-crash.png)"
+msgstr ""
+"![Captura de pantalla de la característica de recuperació d'una fallada del "
+"Kate](/images/kate-crash.png)"
+
+#: content/about-kate.en.md:66
+msgid "Backups on save"
+msgstr "Còpia de seguretat en guardar"
+
+#: content/about-kate.en.md:67
+msgid "Swap files to recover data on system crash"
+msgstr ""
+"Fitxers d'intercanvi per a recuperar les dades en cas de fallada del sistema"
+
+#: content/about-kate.en.md:68
+msgid "Undo / redo system"
+msgstr "Sistema de desfer/refer"
+
+#: content/get-it.en.md:0
+msgid "Get Kate"
+msgstr "Obteniu el Kate"
+
+#: content/get-it.en.md:0
+msgid "Install Kate"
+msgstr "Instal·leu el Kate"
+
+#: content/get-it.en.md:0
+msgid "via Discover"
+msgstr "A través del Discover"
+
+#: content/get-it.en.md:0
+msgid "Install Kate via Discover or other AppStream application stores"
+msgstr ""
+"Instal·lau el Kate a través del Discover o altres botigues d'aplicacions "
+"AppStream"
+
+#: content/get-it.en.md:0
+msgid "Install KWrite"
+msgstr "Instal·leu el KWrite"
+
+#: content/get-it.en.md:0
+msgid "Install KWrite via Discover or other AppStream application stores"
+msgstr ""
+"Instal·lau el KWrite a través del Discover o altres botigues d'aplicacions "
+"AppStream"
+
+#: content/get-it.en.md:7
+msgid "Linux & Unices"
+msgstr "Linux i Unixs"
+
+#: content/get-it.en.md:9
+msgid ""
+"Install [Kate](https://apps.kde.org/en/kate) or [KWrite](https://apps.kde."
+"org/en/kwrite) from [your distribution](https://kde.org/distributions/)"
+msgstr ""
+"Instal·leu el [Kate](https://apps.kde.org/ca/kate) o el [KWrite](https://"
+"apps.kde.org/ca/kwrite) des de la [vostra distribució](https://www.kde.org/"
+"ca/distributions/)"
+
+#: content/get-it.en.md:13
+msgid ""
+"These buttons only works with [Discover](https://apps.kde.org/en/discover) "
+"and other AppStream application stores, such as [GNOME Software](https://"
+"wiki.gnome.org/Apps/Software). You can also use your distribution's package "
+"manager, such as [Muon](https://apps.kde.org/en/muon) or [Synaptic](https://"
+"wiki.debian.org/Synaptic)."
+msgstr ""
+"Aquests botons només funcionen amb el [Discover](https://apps.kde.org/ca/"
+"discover) o amb altres botigues d'aplicacions AppStream, com la [GNOME "
+"Software](https://wiki.gnome.org/Apps/Software). També podeu usar el gestor "
+"de paquets de la vostra distribució, com el [Muon](https://apps.kde.org/ca/"
+"muon) o el [Synaptic](https://wiki.debian.org/Synaptic)."
+
+#: content/get-it.en.md:17
+msgid "[Kate's Snap package in Snapcraft](https://snapcraft.io/kate)"
+msgstr "El [paquet Snap del Kate a Snapcraft](https://snapcraft.io/kate)"
+
+#: content/get-it.en.md:19
+msgid "Get Kate on the Snap store"
+msgstr "Obteniu el Kate des de la botiga Snap"
+
+#: content/get-it.en.md:21
+msgid ""
+"[Kate's release (64bit) AppImage package](https://binary-factory.kde.org/job/"
+"Kate_Release_appimage/) *"
+msgstr ""
+"[Paquet AppImage de llançament del Kate (64bits)](https://binary-factory.kde."
+"org/job/Kate_Release_appimage/) *"
+
+#: content/get-it.en.md:22
+msgid ""
+"[Kate's nightly (64bit) AppImage package](https://binary-factory.kde.org/job/"
+"Kate_Nightly_appimage/) **"
+msgstr ""
+"[Paquet AppImage nocturn del Kate (64bits)](https://binary-factory.kde.org/"
+"job/Kate_Nightly_appimage/) **"
+
+#: content/get-it.en.md:23
+msgid "[Build it](/build-it/#linux) from source."
+msgstr "[Construïu-lo](/build-it/#linux) a partir del codi font."
+
+#: content/get-it.en.md:29
+msgid "Windows"
+msgstr "Windows"
+
+#: content/get-it.en.md:31
+msgid ""
+"[Kate in the Microsoft Store](https://www.microsoft.com/store/"
+"apps/9NWMW7BB59HW)"
+msgstr ""
+"El [Kate a la Microsoft Store](https://www.microsoft.com/store/"
+"apps/9NWMW7BB59HW)"
+
+#: content/get-it.en.md:33
+msgid "Get Kate from the Microsoft store"
+msgstr "Obteniu el Kate des de la botiga Microsoft"
+
+#: content/get-it.en.md:35
+msgid "[Kate via Chocolatey](https://chocolatey.org/packages/kate)"
+msgstr "El [Kate via Chocolatey](https://chocolatey.org/packages/kate)"
+
+#: content/get-it.en.md:36
+msgid ""
+"[Kate release (64bit) installer](https://binary-factory.kde.org/view/Windows"
+"%2064-bit/job/Kate_Release_win64/) *"
+msgstr ""
+"L'[instal·lador del llançament del Kate (64bits)](https://binary-factory.kde."
+"org/view/Windows%2064-bit/job/Kate_Release_win64/) *"
+
+#: content/get-it.en.md:37
+msgid ""
+"[Kate nightly (64bit) installer](https://binary-factory.kde.org/view/Windows"
+"%2064-bit/job/Kate_Nightly_win64/) **"
+msgstr ""
+"L'[instal·lador de la versió nocturna del Kate (64bits)](https://binary-"
+"factory.kde.org/view/Windows%2064-bit/job/Kate_Nightly_win64/) **"
+
+#: content/get-it.en.md:38
+msgid "[Build it](/build-it/#windows) from source."
+msgstr "[Construïu-lo](/build-it/#windows) a partir del codi font."
+
+#: content/get-it.en.md:44
+msgid "macOS"
+msgstr "macOS"
+
+#: content/get-it.en.md:46
+msgid ""
+"[Kate release installer](https://binary-factory.kde.org/view/MacOS/job/"
+"Kate_Release_macos/) *"
+msgstr ""
+"L'[instal·lador del llançament del Kate](https://binary-factory.kde.org/view/"
+"MacOS/job/Kate_Release_macos/) *"
+
+#: content/get-it.en.md:47
+msgid ""
+"[Kate nightly installer](https://binary-factory.kde.org/view/MacOS/job/"
+"Kate_Nightly_macos/) **"
+msgstr ""
+"L'[instal·lador de la versió nocturna del Kate](https://binary-factory.kde."
+"org/view/MacOS/job/Kate_Nightly_macos/) **"
+
+#: content/get-it.en.md:48
+msgid "[Build it](/build-it/#mac) from source."
+msgstr "[Construïu-lo](/build-it/#mac) a partir del codi font."
+
+#: content/get-it.en.md:56
+msgid ""
+"**About the releases:** <br> [Kate](https://apps.kde.org/en/kate) and "
+"[KWrite](https://apps.kde.org/en/kwrite) are part of [KDE Applications]"
+"(https://apps.kde.org), which are [released typically 3 times a year en-"
+"masse](https://community.kde.org/Schedules). The [text editing](https://api."
+"kde.org/frameworks/ktexteditor/html/) and the [syntax highlighting](https://"
+"api.kde.org/frameworks/syntax-highlighting/html/) engines are provided by "
+"[KDE Frameworks](https://kde.org/announcements/kde-frameworks-5.0/), which "
+"is [updated monthly](https://community.kde.org/Schedules/Frameworks). New "
+"releases are announced [here](https://kde.org/announcements/)."
+msgstr ""
+"**Quant als llançaments:** <br>El [Kate](https://apps.kde.org/ca/kate) i el "
+"[KWrite](https://apps.kde.org/ca/kwrite) són part de les [aplicacions KDE]"
+"(https://apps.kde.org/ca), que es [publiquen normalment 3 vegades a l'any de "
+"forma completa](https://community.kde.org/Schedules). El [motor d'edició de "
+"text](https://api.kde.org/frameworks/ktexteditor/html/) i el [ressaltat de "
+"sintaxi](https://api.kde.org/frameworks/syntax-highlighting/html/) estan "
+"proporcionats pels [Frameworks de KDE](https://kde.org/ca/announcements/kde-"
+"frameworks-5.0/), que s'[actualitzen mensualment](https://community.kde.org/"
+"Schedules/Frameworks). Els llançaments nous s'anuncien [ací](https://kde.org/"
+"ca/announcements/)."
+
+#: content/get-it.en.md:58
+msgid ""
+"\\* The **release** packages contain the latest version of Kate and KDE "
+"Frameworks."
+msgstr ""
+"\\* Els paquets del **llançament** contenen la última versió del Kate i dels "
+"Frameworks de KDE."
+
+#: content/get-it.en.md:60
+msgid ""
+"\\*\\* The **nightly** packages are automatically compiled daily from source "
+"code, therefore they may be unstable and contain bugs or incomplete "
+"features. These are only recommended for testing purposes."
+msgstr ""
+"\\*\\* Els paquets **nocturns** es compilen automàticament cada dia a partir "
+"del codi font, i per tant, poden ser inestables i poden haver-hi errors o "
+"funcionalitats incompletes. Només són recomanats amb la finalitat de fer "
+"proves."
+
+#: content/mascot.md:0
+msgid "Kate's Mascot"
+msgstr "Mascota del Kate"
+
+#: content/mascot.md:5
+msgid ""
+"Kate's mascot, Kate the Cyber Woodpecker, was designed by [Tyson Tan]"
+"(https://www.tysontan.com/)."
+msgstr ""
+"La mascota del Kate, Kate el Ciberpicot («Cyber Woodpecker»), fou dissenyat "
+"per [Tyson Tan](https://www.tysontan.com/)."
+
+#: content/mascot.md:7
+msgid ""
+"The current evolution of our mascot was first unveiled [in April 2021](/"
+"post/2021/2021-04-28-lets-welcome-kate-the-cyber-woodpecker/)."
+msgstr ""
+"L'evolució actual de la nostra mascota es va donar a conèixer per primer cop "
+"[l'Abril de 2021](/post/2021/2021-04-28-lets-welcome-kate-the-cyber-"
+"woodpecker/)."
+
+#: content/mascot.md:9
+msgid "Kate the Cyber Woodpecker"
+msgstr "Kate el Ciberpicot"
+
+#: content/mascot.md:11
+msgid ""
+"![Kate the Cyber Woodpecker](/images/mascot/"
+"electrichearts_20210103_kate_normal.png)"
+msgstr ""
+"![Kate el Ciberpicot](/images/mascot/electrichearts_20210103_kate_normal.png)"
+
+#: content/mascot.md:13
+msgid "Version without footer text"
+msgstr "Versió sense text al peu"
+
+#: content/mascot.md:15
+msgid ""
+"![Kate the Cyber Woodpecker - Without Text](/images/mascot/"
+"electrichearts_20210103_kate_notext.png)"
+msgstr ""
+"![Kate el Ciberpicot - Sense text](/images/mascot/"
+"electrichearts_20210103_kate_notext.png)"
+
+#: content/mascot.md:17
+msgid "Version without background"
+msgstr "Versió sense fons"
+
+#: content/mascot.md:19
+msgid ""
+"![Kate the Cyber Woodpecker - Without Background](/images/mascot/"
+"electrichearts_20210103_kate_transparent.png)"
+msgstr ""
+"![Kate el Ciberpicot - Sense fons](/images/mascot/"
+"electrichearts_20210103_kate_transparent.png)"
+
+#: content/mascot.md:21
+msgid "Licensing"
+msgstr "Llicències"
+
+#: content/mascot.md:23
+msgid "For the licensing, to quote Tyson:"
+msgstr "Per a les llicències, i citant a Tyson:"
+
+#: content/mascot.md:27
+msgid ""
+"I hereby donate the new Kate the Cyber Woodpecker to Kate Editor project. "
+"The artworks are dual licensed under LGPL (or whatever the same as Kate "
+"Editor) and Creative Commons BY-SA. In this way you don't need to ask me for "
+"permission before using/modifying the mascot."
+msgstr ""
+"Jo dono el «Kate the Cyber Woodpecker» al projecte de l'editor Kate. Els "
+"treballs artístics tenen la llicència dual segons la LGPL (o la mateixa que "
+"l'editor Kate) i la Creative Commons BY-SA. D'aquesta manera no m'heu de "
+"demanar permís abans d'usar/modificar la mascota."
+
+#: content/mascot.md:29
+msgid "Kate the Cyber Woodpecker's design history"
+msgstr "Història del disseny de Kate el Ciberpicot («Cyber Woodpecker»)"
+
+#: content/mascot.md:33
+msgid ""
+"I asked Tyson if I can share the intermediate versions we exchanged to show "
+"the evolution and he agreed and even wrote some short summaries about the "
+"individual steps. This includes the initial mascot and the icon that fit "
+"into this design evolution. I therefore just quote what he wrote about the "
+"different steps below."
+msgstr ""
+"Vaig demanar a Tyson si podia compartir les versions intermèdies que vàrem "
+"intercanviar per a mostrar l'evolució i ell hi estigué d'acord, inclús va "
+"escriure resums curts dels passos individuals. Això inclou la mascota "
+"inicial i les icones que s'ajusten en aquesta evolució del disseny. Per "
+"tant, a sota citarem el que va escriure quant als diferents passos."
+
+#: content/mascot.md:35
+msgid "2014 - Kate the Woodpecker"
+msgstr "2014 - Kate el Ciberpicot"
+
+#: content/mascot.md:37
+msgid ""
+"![2014 version - Kate the Woodpecker](/images/mascot/history/"
+"Kate_editor_mascot_woodpecker.png)"
+msgstr ""
+"![Versió de 2014 - Kate el Ciberpicot](/images/mascot/history/"
+"Kate_editor_mascot_woodpecker.png)"
+
+#: content/mascot.md:44
+msgid ""
+"The 2014 version was done perhaps during my lowest point as an artist. I had "
+"not been drawing much in years, and was on the verge of giving up "
+"completely. There were some interesting ideas in this version, namely the {} "
+"brackets on her chest, and the color scheme inspired by doxygen code "
+"highlighting. However, the execution was very simplistic -- at that time, I "
+"deliberately stop using any fancy techniques to expose my inadequate base "
+"skills. In the followed years, I would be going through an arduous process "
+"to rebuild my broken, self-taught art foundation from the ground up. I'm "
+"grateful that the Kate team still kept this one on their website for many "
+"years."
+msgstr ""
+"La versió de 2014 potser es va fer durant el meu moment més baix com a "
+"artista. No havia dibuixat gaire en els darrers anys, i estava a punt "
+"d'abandonar-ho completament. Hi havia algunes idees interessants en aquesta "
+"versió, com les claus {} del seu pit, i l'esquema de color inspirat en el "
+"ressaltat de codi del Doxygen. Tanmateix, l'execució era molt senzilla -- en "
+"aquell moment vaig deixar d'emprar deliberadament qualsevol tècnica "
+"sofisticada que fes evident els meus coneixements bàsics inadequats. Els "
+"anys següents vaig seguir un laboriós procés per a reconstruir la base "
+"artística autodidacta des del principi. Agraeixo a l'equip del Kate que "
+"encara mantinguin aquesta versió en el seu lloc web durant molt anys."
+
+#: content/mascot.md:46
+msgid "2020 - The new Kate icon"
+msgstr "2020 - La icona nova del Kate"
+
+#: content/mascot.md:48
+msgid "![2020 - The new Kate icon](/images/mascot/history/kate-3000px.png)"
+msgstr ""
+"![2020 - La icona nova del Kate](/images/mascot/history/kate-3000px.png)"
+
+#: content/mascot.md:55
+msgid ""
+"The new Kate icon was the only time I attempted real vector art. It was at "
+"that time I began to develop some faint artistic sense. I had no previous "
+"experience of icon design, there was zero discipline like math-guided "
+"proportion. Every shape and curve was tweaked using my instinct as an "
+"artist. The concept was very simple: it's a bird shaped like the letter \"K"
+"\", and it has to be sharp. The bird was chunkier until Christoph pointed it "
+"out, I later turned it into a more sleek shape."
+msgstr ""
+"La icona nova del Kate ha estat la única vegada que he intentat un gràfic "
+"vectorial real. Fou en aquell moment que vaig començar a desenvolupar un "
+"feble sentit artístic. No tenia cap experiència prèvia en el disseny "
+"d'icones, no hi havia cap formació en la proporció basada en matemàtiques. "
+"Cada forma i cada corba es van retocar usant el meu instint com a artista. "
+"El concepte era molt senzill: és un ocell en forma de la lletra «K», i cal "
+"que siga angulós. L'ocell era més cepat fins que en Christoph ho va "
+"advertir, i després el vaig retocar per fer un forma més pulcra."
+
+#: content/mascot.md:57
+msgid "2021 - Mascot sketch"
+msgstr "2021 - Esbós de la mascota"
+
+#: content/mascot.md:59
+msgid ""
+"![2021 version - Sketch of the new mascot](/images/mascot/history/"
+"electrichearts_20210103_kate_sketch.png)"
+msgstr ""
+"![Versió de 2021 - Esbós de la mascota nova](/images/mascot/history/"
+"electrichearts_20210103_kate_sketch.png)"
+
+#: content/mascot.md:61
+msgid ""
+"In this initial sketch, I was tempted to ditch the robotic concept and just "
+"draw a cute good looking bird instead."
+msgstr ""
+"En aquest esbós inicial, vaig estar temptat de desfer-me del concepte "
+"robòtic i dibuixar en el seu lloc només un ocell bonic i agradable."
+
+#: content/mascot.md:63
+msgid "2021 - Mascot design"
+msgstr "2021 - Disseny de la mascota"
+
+#: content/mascot.md:65
+msgid ""
+"![2021 version - Redesign of the new mascot](/images/mascot/history/"
+"electrichearts_20210103_kate_design.png)"
+msgstr ""
+"![Versió de 2021- Redisseny de la mascota nova](/images/mascot/history/"
+"electrichearts_20210103_kate_design.png)"
+
+#: content/mascot.md:69
+msgid ""
+"Kate's mascot re-design resumed after I finished drawing the new splash "
+"picture for the upcoming Krita 5.0. I was able to push myself to do more "
+"each time I attempted a new picture at that time, so I was determined to "
+"keep the robotic concept. Although the proportion was off, the mech design "
+"elements was more or less coined in this one."
+msgstr ""
+"Vaig reprendre el redisseny de la mascota del Kate després de finalitzar el "
+"dibuix de la imatge nova de la pantalla de presentació per al proper Krita "
+"5.0. Podia forçar-me a fer més cada vegada que intentava una imatge nova a "
+"la vegada, de manera que estava decidit a mantindre el concepte robòtic. "
+"Encara que no hi havia proporcions, els elements mecànics de disseny ja "
+"estaven més o menys ideats."
+
+#: content/mascot.md:71
+msgid "2021 - Final Mascot"
+msgstr "2021 - Mascota final"
+
+#: content/mascot.md:73
+msgid ""
+"![2021 version - Final Kate the Cyber Woodpecker](/images/mascot/"
+"electrichearts_20210103_kate_normal.png)"
+msgstr ""
+"![Versió de 2021 - Kate el Ciberpicot final](/images/mascot/"
+"electrichearts_20210103_kate_normal.png)"
+
+#: content/mascot.md:79
+msgid ""
+"The proportion was adjusted after Christoph pointed it out. The pose was "
+"adjusted to feel more comfortable. The wings were re-drawn after studying on "
+"real bird wings. A cool-looking, detailed keyboard was hand-drawn to "
+"emphasize the main usage of the application. An abstract background was "
+"added with a proper 2D typography design. The general idea is: unmistakably "
+"cutting edge and artificial, but also unmistakably full of life and humanity."
+msgstr ""
+"La proporció es va ajustar després que Christoph ho assenyalés. La postura "
+"es va retocar per a fer-la més comfortable. Es van redibuixar les ales "
+"després d'estudiar les ales dels ocells reals. Es va dibuixar a mà un teclat "
+"atractiu detallat per a emfatitzar l'ús principal de l'aplicació. Es va "
+"afegir un fons abstracte amb un disseny tipogràfic 2D apropiat. La idea "
+"general és: inequívocament innovador i artificial, però també inequívocament "
+"ple de vida i humanitat."
+
+#: i18n/en.yaml:0
+msgid "Also available in:"
+msgstr "També disponible en:"
+
+#: i18n/en.yaml:0
+msgid "Get it"
+msgstr "Obteniu-lo"
+
+#: i18n/en.yaml:0
+msgid "Features"
+msgstr "Característiques"
+
+#: i18n/en.yaml:0
+msgid "Kate is a Feature-Packed Text Editor"
+msgstr "El Kate és un editor de text amb paquets de funcionalitats"
+
+#: i18n/en.yaml:0
+msgid ""
+"Kate is packed with features that will make it easier for you to view and "
+"edit all your text files. Kate lets you to edit and view many files at the "
+"same time, both in tabs and split views, and comes with a wide variety of "
+"plugins, including an embedded terminal that lets you launch console "
+"commands directly from Kate, powerful search and replace plugins, and a "
+"preview plugin that can show you what your MD, HTML and even SVG will look "
+"like."
+msgstr ""
+"El Kate està empaquetat amb funcionalitats que faciliten veure i editar tots "
+"els fitxers de text. El Kate permet editar i veure molts fitxers a la "
+"vegada, en pestanyes i vistes dividides, i es distribueix amb una gran "
+"varietat de connectors, incloent un terminal incrustat que permet llançar "
+"ordres de consola directament des del Kate, connectors potents de cerca i "
+"substitució, i un connector de vista prèvia que permet mostrar com es veuran "
+"els MD, HTML i també SVG."
+
+#: i18n/en.yaml:0
+msgid "All Features"
+msgstr "Totes les funcionalitats"
+
+#: i18n/en.yaml:0
+msgid "Make Your Code Pretty With [Syntax Highlighting](/syntax)"
+msgstr "Feu el codi més bonic amb el [ressaltat de sintaxi](/syntax)"
+
+#: i18n/en.yaml:0
+msgid ""
+"Kate supports highlighting for over 300 languages making it easier to read "
+"code in almost all programming languages. Kate also understands how brackets "
+"works and will help you navigate inside complex code blocks hierarchies. On-"
+"the-fly spellchecking is also included and will help you check your text "
+"before publishing."
+msgstr ""
+"El Kate permet el ressaltat per a més de 300 llenguatges, facilitant la "
+"lectura de codi en gairebé qualsevol llenguatge de programació. El Kate "
+"també entén com funcionen els parèntesi i ajuda a navegar per dins de les "
+"jerarquies de blocs de codi complex. També s'inclou la verificació "
+"ortogràfica al vol, que ajuda a comprovar el text abans de la publicació."
+
+#: i18n/en.yaml:0
+msgid "Screenshot of Kate with syntax highlighting"
+msgstr "Captura de pantalla del Kate amb ressaltat de sintaxi"
+
+#: i18n/en.yaml:0
+msgid "Screenshot of Kate syntax chooser"
+msgstr "Captura de pantalla del selector de sintaxi del Kate"
+
+#: i18n/en.yaml:0
+msgid "Work on Complex Projects Efficiently"
+msgstr "Treballeu amb eficiència en projectes complexos"
+
+#: i18n/en.yaml:0
+msgid ""
+"Work on multiple files at the same time with split views. Use the project "
+"sidebar to navigate your project directory structures and use Kate's smart "
+"tabs to quickly access your recently opened documents. The powerful search "
+"and replace tool lets you quickly search inside your entire projects."
+msgstr ""
+"Treballeu amb diversos fitxers a la vegada amb vistes dividides. Useu la "
+"barra lateral del projecte per a navegar per les estructures de directoris "
+"del projecte i useu les pestanyes intel·ligents del Kate per a accedir "
+"ràpidament als documents oberts recentment. La potent eina de cerca i "
+"substitució permet cercar ràpidament dins de projectes sencers."
+
+#: i18n/en.yaml:0
+msgid "Screenshot of Kate search and replace tool"
+msgstr "Captura de pantalla de l'eina de cerca i substitució del Kate"
+
+#: i18n/en.yaml:0
+msgid "Screenshot of Kate project sidebar"
+msgstr "Captura de pantalla de la barra lateral del Kate"
+
+#: i18n/en.yaml:0
+msgid "Develop your Next Application with Kate"
+msgstr "Desenvolupeu la propera aplicació amb el Kate"
+
+#: i18n/en.yaml:0
+msgid ""
+"Kate is the perfect tool for programming as it includes autocompletion for "
+"many languages with the help of the [Language Server Protocol (LSP)](https://"
+"microsoft.github.io/language-server-protocol/). The editor has been "
+"optimized for editing code and provide scriptable auto indentation, VI input "
+"mode, rectangular block selection mode, smart comment and uncomment handling "
+"and much more."
+msgstr ""
+"El Kate és l'eina perfecta per a programar ja que inclou la compleció "
+"automàtica per a molts llenguatges amb l'ajuda del [Protocol de servidor de "
+"Llenguatge o Language Server Protocol (LSP)](https://microsoft.github.io/"
+"language-server-protocol/). L'editor s'ha optimitzat per a l'edició de codi "
+"i proporciona un sagnat automàtic amb creació de scripts, mode d'entrada del "
+"Vi, mode de selecció rectangular de blocs, gestió intel·ligent de comentar i "
+"descomentar i molt més."
+
+#: i18n/en.yaml:0
+msgid "Plugins"
+msgstr "Connectors"
+
+#: i18n/en.yaml:0
+msgid ""
+"Kate contains many plugins installed by defaults, making it more powerful "
+"than any other text editor. Use the integrated terminal emulator to run "
+"commands directly from Kate, execute SQL queries with the SQL extension, use "
+"GDB to debug your program, build projects with just one click, and much, "
+"much more."
+msgstr ""
+"El Kate conté molts connectors instal·lats de manera predeterminada, fent-lo "
+"més potent que qualsevol altre editor de text. Useu l'emulador de terminal "
+"integrat per a executar ordres directament des del Kate, executeu consultes "
+"SQL amb l'extensió de l'SQL, useu el GDB per a depurar un programa, "
+"construïu projecte amb només un clic, i molt, molt més."
+
+#: i18n/en.yaml:0
+msgid "Konsole inside Kate"
+msgstr "El Konsole dins del Kate"
+
+#: i18n/en.yaml:0
+msgid "News"
+msgstr "Notícies"
+
+#: i18n/en.yaml:0
+msgid "View all news"
+msgstr "Mostra totes les notícies"
+
+#: i18n/en.yaml:0
+msgid "Available for Linux, Windows and macOS"
+msgstr "Disponible per al Linux, Windows i macOS"
+
+#~ msgid "LANGUAGE_NAME"
+#~ msgstr "Català"
+
+#~ msgid ""
+#~ "[Kate's Flatpak package in Flathub](https://flathub.org/apps/details/org."
+#~ "kde.kate)"
+#~ msgstr ""
+#~ "El [paquet Flatpak del Kate a Flathub](https://flathub.org/apps/details/"
+#~ "org.kde.kate)"
+
+#~ msgid "Download Kate on Flathub"
+#~ msgstr "Baixa el Kate del Flathub"
+
+#~ msgid "Impressum"
+#~ msgstr "Impressum"
+
+#~ msgid "VI mode"
+#~ msgstr "Mode del Vi"
+
+#~ msgid "Features Articles"
+#~ msgstr "Articles destacats"
+
+# skip-rule: kct-button
+#~ msgid ""
+#~ "button-kate-title=\"Install Kate\" button-kate-subtitle=\"via Discover\" "
+#~ "button-kate-alt=\"Install Kate via Discover or other AppStream "
+#~ "application stores\""
+#~ msgstr ""
+#~ "button-kate-title=\"Instal·leu el Kate\" button-kate-subtitle=\"amb el "
+#~ "Discover\" button-kate-alt=\"Instal·leu el Kate amb el Discover o altres "
+#~ "botigues d'aplicacions AppStream\""
+
+# skip-rule: kct-button
+#~ msgid ""
+#~ "button-kwrite-title=\"Install KWrite\" button-kwrite-subtitle=\"via "
+#~ "Discover\" button-kwrite-alt=\"Install KWrite via Discover or other "
+#~ "AppStream application stores\""
+#~ msgstr ""
+#~ "button-kwrite-title=\"Instal·leu el KWrite\" button-kwrite-subtitle=\"amb "
+#~ "el Discover\" button-kwrite-alt=\"Instal·leu el KWrite amb el Discover o "
+#~ "altres botigues d'aplicacions AppStream\""
+
+#~ msgid ">}}"
+#~ msgstr ">}}"
+
+#~ msgid "About"
+#~ msgstr "Quant a"
+
+#~ msgid "KatePart"
+#~ msgstr "KatePart"
+
+#~ msgid ""
+#~ "Kate is a multi-document editor part of [KDE](https://kde.org) since "
+#~ "release 2.2. Being a [KDE applications](https://kde.org/applications), "
+#~ "Kate ships with network transparency, as well as integration with the "
+#~ "outstanding features of KDE. Choose it for viewing HTML sources from "
+#~ "konqueror, editing configuration files, writing new applications or any "
+#~ "other text editing task. You still need just one running instance of "
+#~ "Kate. [Learn more...](/about/)"
+#~ msgstr ""
+#~ "El Kate és un editor multidocument que forma part del [KDE](https://kde."
+#~ "org) des del llançament 2.2. En ser una [aplicació del KDE](https://kde."
+#~ "org/applications), el Kate es distribueix amb transparència de xarxa, i "
+#~ "també amb integració amb les característiques excepcionals del KDE. Trieu-"
+#~ "lo per a visualitzar codi font HTML des del Konqueror, editar fitxers de "
+#~ "configuració, escriure aplicacions noves o qualsevol altra tasca d'edició "
+#~ "de text. Només necessitareu una instància del Kate en execució. [Vegeu "
+#~ "més...](/about/)"
+
+#~ msgid ""
+#~ "![Screenshot of Kate showing multiple documents and the building terminal "
+#~ "emulator](/images/kate-window.png)"
+#~ msgstr ""
+#~ "![Captura de pantalla del Kate que mostra diversos documents i l'emulador "
+#~ "de terminal integrat](/images/kate-window.png)"
+
+#~ msgid "/sass/get-it.scss"
+#~ msgstr "/sass/get-it.scss"
+
+#~ msgid "BLOG"
+#~ msgstr "Blog"
+
+#~ msgid "MORE"
+#~ msgstr "Més"
+
+#~ msgid "ABOUT"
+#~ msgstr "Quant a"

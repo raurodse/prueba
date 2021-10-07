@@ -1,0 +1,37 @@
+# Translation of org.kde.washipad.appdata.po to Catalan (Valencian)
+# Copyright (C) 2020 This_file_is_part_of_KDE
+# This file is distributed under same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: washipad appdata files\n"
+"POT-Creation-Date: 2020-01-03 03:34+0100\n"
+"PO-Revision-Date: 2020-01-03 12:25+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.03.70\n"
+
+#. (itstool) path: component/name
+#: org.kde.washipad.appdata.xml:6
+msgid "WashiPad"
+msgstr "WashiPad"
+
+#. (itstool) path: component/summary
+#: org.kde.washipad.appdata.xml:7
+msgid "Minimalist Sketchnoting Application"
+msgstr "Aplicació d'esbós minimalista"
+
+#. (itstool) path: description/p
+#: org.kde.washipad.appdata.xml:9
+msgid ""
+"WashiPad is a minimalist sketchnoting application meant to be used with a "
+"graphic tablet."
+msgstr ""
+"El WashiPad és una aplicació d'esbós minimalista dissenyada per a ser "
+"emprada amb una tauleta gràfica."

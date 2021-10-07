@@ -1,0 +1,291 @@
+# Translation of ktp-common-internals._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2012-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2012, 2013, 2014.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2016, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: ktp-common-internals desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-19 00:26+0000\n"
+"PO-Revision-Date: 2020-07-26 18:07+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.04.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: data/ktelepathy.notifyrc:3
+msgctxt "Name"
+msgid "Instant messaging"
+msgstr "Missatgeria instantània"
+
+#: data/ktelepathy.notifyrc:49
+msgctxt "Comment"
+msgid "Instant messaging"
+msgstr "Missatgeria instantània"
+
+#: data/ktelepathy.notifyrc:97
+msgctxt "Name"
+msgid "Group"
+msgstr "Grup"
+
+#: data/ktelepathy.notifyrc:145
+msgctxt "Comment"
+msgid "The group where the contact resides"
+msgstr "El grup a on resideix el contacte"
+
+#: data/ktelepathy.notifyrc:193
+msgctxt "Name"
+msgid "Contact"
+msgstr "Contacte"
+
+#: data/ktelepathy.notifyrc:241
+msgctxt "Comment"
+msgid "The specified contact"
+msgstr "El contacte especificat"
+
+#: data/ktelepathy.notifyrc:289
+msgctxt "Name"
+msgid "Class"
+msgstr "Classe"
+
+#: data/ktelepathy.notifyrc:337
+msgctxt "Comment"
+msgid "The message class"
+msgstr "La classe del missatge"
+
+#: data/ktelepathy.notifyrc:388
+msgctxt "Name"
+msgid "Instant messaging error"
+msgstr "Error de la missatgeria instantània"
+
+#: data/ktelepathy.notifyrc:433
+msgctxt "Comment"
+msgid "An error occurred within instant messaging"
+msgstr "S'ha produït un error en la missatgeria instantània"
+
+#: data/ktelepathy.notifyrc:483
+msgctxt "Name"
+msgid "Instant messaging info message"
+msgstr "Missatge informatiu de la missatgeria instantània"
+
+#: data/ktelepathy.notifyrc:528
+msgctxt "Comment"
+msgid "A general info message from instant messaging"
+msgstr "Un missatge informatiu general de la missatgeria instantània"
+
+#: data/ktelepathy.notifyrc:580
+msgctxt "Name"
+msgid "Incoming Message"
+msgstr "Missatge entrant"
+
+#: data/ktelepathy.notifyrc:628
+msgctxt "Comment"
+msgid "An incoming message has been received"
+msgstr "S'ha rebut un missatge entrant"
+
+#: data/ktelepathy.notifyrc:681
+msgctxt "Name"
+msgid "Incoming Message in Active Chat"
+msgstr "Missatge entrant en un xat actiu"
+
+#: data/ktelepathy.notifyrc:727
+msgctxt "Comment"
+msgid "An incoming message in the active chat window has been received"
+msgstr "S'ha rebut un missatge entrant a la finestra de xat activa"
+
+#: data/ktelepathy.notifyrc:778
+msgctxt "Name"
+msgid "Incoming Message in Group Chat"
+msgstr "Missatge entrant en un xat de grup"
+
+#: data/ktelepathy.notifyrc:819
+msgctxt "Comment"
+msgid "An incoming message has been received in a group chat"
+msgstr "S'ha rebut un missatge entrant en un xat de grup"
+
+#: data/ktelepathy.notifyrc:867
+msgctxt "Name"
+msgid "Incoming Message in Active Group Chat"
+msgstr "Missatge entrant en un xat de grup actiu"
+
+#: data/ktelepathy.notifyrc:908
+msgctxt "Comment"
+msgid "An incoming message in the active group chat window has been received"
+msgstr "S'ha rebut un missatge entrant a la finestra activa d'un xat de grup"
+
+#: data/ktelepathy.notifyrc:956
+msgctxt "Name"
+msgid "Outgoing Message"
+msgstr "Missatge eixint"
+
+#: data/ktelepathy.notifyrc:1002
+msgctxt "Comment"
+msgid "An outgoing message has been sent"
+msgstr "S'ha enviat un missatge eixint"
+
+#: data/ktelepathy.notifyrc:1054
+msgctxt "Name"
+msgid "Highlight in Group Chat"
+msgstr "Ressaltat al xat de grup"
+
+#: data/ktelepathy.notifyrc:1095
+msgctxt "Comment"
+msgid "A highlighted message has been received in a group chat"
+msgstr "S'ha rebut un missatge ressaltat en un xat de grup"
+
+#: data/ktelepathy.notifyrc:1141
+msgctxt "Name"
+msgid "Highlight in Active Group Chat"
+msgstr "Ressaltat en un xat de grup actiu"
+
+#: data/ktelepathy.notifyrc:1182
+msgctxt "Comment"
+msgid "A highlighted message has been received in the active group chat window"
+msgstr ""
+"S'ha rebut un missatge ressaltat en una finestra activa d'un xat de grup"
+
+#: data/ktelepathy.notifyrc:1228
+msgctxt "Name"
+msgid "Message Dropped"
+msgstr "Missatge descartat"
+
+#: data/ktelepathy.notifyrc:1274
+msgctxt "Comment"
+msgid "A message was filtered by the Privacy Plugin"
+msgstr "El connector de privadesa ha filtrat un missatge"
+
+#: data/ktelepathy.notifyrc:1323
+msgctxt "Name"
+msgid "Service Message"
+msgstr "Missatge de servei"
+
+#: data/ktelepathy.notifyrc:1370
+msgctxt "Comment"
+msgid "A service message has been received (e.g. authorization request)"
+msgstr "S'ha rebut un missatge de servei (p. ex. una petició d'autorització)"
+
+#: data/ktelepathy.notifyrc:1423
+msgctxt "Name"
+msgid "New incoming chat"
+msgstr "Xat entrant nou"
+
+#: data/ktelepathy.notifyrc:1468
+msgctxt "Comment"
+msgid "A new instant message has been received"
+msgstr "S'ha rebut un missatge instantani nou"
+
+#: data/ktelepathy.notifyrc:1518
+msgctxt "Name"
+msgid "Incoming file transfer"
+msgstr "Transferència de fitxer entrant"
+
+#: data/ktelepathy.notifyrc:1563
+msgctxt "Comment"
+msgid "An incoming file transfer request has been received"
+msgstr "S'ha rebut una sol·licitud de transferència de fitxer entrant"
+
+#: data/ktelepathy.notifyrc:1613
+msgctxt "Name"
+msgid "Incoming call"
+msgstr "Trucada entrant"
+
+#: data/ktelepathy.notifyrc:1659
+msgctxt "Comment"
+msgid "An incoming audio/video call request has been received"
+msgstr "S'ha rebut una sol·licitud de trucada entrant d'àudio/vídeo"
+
+#: data/ktelepathy.notifyrc:1712
+msgctxt "Name"
+msgid "Chatstyle Install Request"
+msgstr "Sol·licitud d'instal·lació d'un estil de xat"
+
+#: data/ktelepathy.notifyrc:1762
+msgctxt "Name"
+msgid "Chatstyle Installed Successfully"
+msgstr "L'estil de xat s'ha instal·lat correctament."
+
+#: data/ktelepathy.notifyrc:1812
+msgctxt "Name"
+msgid "Chatstyle Installation Failed"
+msgstr "Ha fallat la instal·lació de l'estil de xat"
+
+#: data/ktelepathy.notifyrc:1861
+msgctxt "Name"
+msgid "Emoticonset Install Request"
+msgstr "Sol·licitud d'instal·lació d'un joc d'emoticones"
+
+#: data/ktelepathy.notifyrc:1910
+msgctxt "Name"
+msgid "Emoticonset Installed Successfully"
+msgstr "El joc d'emoticones s'ha instal·lat correctament"
+
+#: data/ktelepathy.notifyrc:1960
+msgctxt "Name"
+msgid "Emoticonset Installation failed"
+msgstr "Ha fallat la instal·lació del joc d'emoticones"
+
+#: data/ktelepathy.notifyrc:2008
+msgctxt "Name"
+msgid "Contact status changed"
+msgstr "L'estat d'un contacte ha canviat"
+
+#: data/ktelepathy.notifyrc:2052
+msgctxt "Comment"
+msgid "A contact has changed their status"
+msgstr "Un contacte ha canviat el seu estat"
+
+#: data/ktelepathy.notifyrc:2100
+msgctxt "Name"
+msgid "File renamed for sending with Google Talk"
+msgstr "Reanomena el fitxer per a enviar-lo amb el Google Talk"
+
+#: data/ktelepathy.notifyrc:2140
+msgctxt "Comment"
+msgid "An outgoing file with forbidden extension .exe or .ini has been renamed"
+msgstr ""
+"S'ha reanomenat un fitxer eixint amb una extensió prohibida .exe o .ini"
+
+#: KTp/Logger/ktp_logger_plugin.desktop:4
+msgctxt "Comment"
+msgid "KTp Logger Plugin"
+msgstr "Connector de registre del KTp"
+
+#: KTp/Logger/plugins/tplogger/ktploggerplugin_tplogger.desktop.cmake:2
+msgctxt "Name"
+msgid "Telepathy Logger plugin"
+msgstr "Connector de registre del Telepathy"
+
+#: KTp/Logger/plugins/tplogger/ktploggerplugin_tplogger.desktop.cmake:42
+msgctxt "Comment"
+msgid "Provides integration with Telepathy Logger"
+msgstr ""
+"Aquest connector proporciona integració amb l'enregistrador del Telepathy"
+
+#~ msgctxt "Name"
+#~ msgid "Buzz/Nudge"
+#~ msgstr "Truca/Avisa"
+
+#~ msgctxt "Comment"
+#~ msgid "A contact has sent you a buzz/nudge"
+#~ msgstr "Un contacte us ha enviat una trucada/avís."
+
+#~ msgctxt "Name"
+#~ msgid "Nepomuk Telepathy Service"
+#~ msgstr "Servei Nepomuk del Telepathy"
+
+#~ msgctxt "Comment"
+#~ msgid "A Nepomuk service that imports Telepathy data"
+#~ msgstr "Un servei Nepomuk que importa dades del Telepathy"
+
+#~ msgctxt "Name"
+#~ msgid "Highlight"
+#~ msgstr "Ressaltat"

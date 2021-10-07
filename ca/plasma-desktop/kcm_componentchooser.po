@@ -1,0 +1,278 @@
+# Translation of kcm5_componentchooser.po to Catalan (Valencian)
+# Copyright (C) 2002-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 2002, 2004, 2005, 2006.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2003, 2014, 2016, 2017, 2019.
+# Albert Astals Cid <aacid@kde.org>, 2005.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2007, 2008, 2009, 2010, 2011, 2016, 2017.
+# Alfredo vicente <alviboi@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-26 00:19+0000\n"
+"PO-Revision-Date: 2019-07-05 11:26+0200\n"
+"Last-Translator: Alfredo vicente <alviboi@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 19.04.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sebastià Pla i Sanz,Antoni Bella"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sps@sastia.com,antonibella5@yahoo.com"
+
+#. i18n: ectx: label, entry (browserApplication), group (General)
+#: browser_settings.kcfg:9
+#, kde-format
+msgid "Default web browser"
+msgstr ""
+
+#: componentchooser.cpp:73 componentchooserterminal.cpp:74
+#, kde-format
+msgid "Other…"
+msgstr ""
+
+#: componentchooserbrowser.cpp:18
+#, kde-format
+msgid "Select default browser"
+msgstr ""
+
+#: componentchooseremail.cpp:19
+#, fuzzy, kde-format
+#| msgid "Use a different &email client:"
+msgid "Select default e-mail client"
+msgstr "Utilitza un cli&ent de correu diferent:"
+
+#: componentchooserfilemanager.cpp:14
+#, fuzzy, kde-format
+#| msgid "Select preferred email client:"
+msgid "Select default file manager"
+msgstr "Seleccioneu el client de correu preferit:"
+
+#: componentchooserterminal.cpp:24
+#, fuzzy, kde-format
+#| msgid "Select preferred terminal application:"
+msgid "Select default terminal emulator"
+msgstr "Seleccioneu l'aplicació de terminal preferida:"
+
+#: kcm_componentchooser.cpp:27
+#, kde-format
+msgctxt "@title"
+msgid "Default Applications"
+msgstr ""
+
+#: kcm_componentchooser.cpp:32
+#, kde-format
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#: kcm_componentchooser.cpp:33
+#, kde-format
+msgid "Méven Car"
+msgstr ""
+
+#: kcm_componentchooser.cpp:34
+#, kde-format
+msgid "Tobias Fella"
+msgstr ""
+
+#: package/contents/ui/main.qml:16
+#, kde-format
+msgid "Web browser:"
+msgstr ""
+
+#: package/contents/ui/main.qml:24
+#, kde-format
+msgid "File manager:"
+msgstr ""
+
+#: package/contents/ui/main.qml:32
+#, kde-format
+msgid "Email client:"
+msgstr ""
+
+#: package/contents/ui/main.qml:40
+#, fuzzy, kde-format
+#| msgid "Select preferred terminal application:"
+msgid "Terminal emulator:"
+msgstr "Seleccioneu l'aplicació de terminal preferida:"
+
+#~ msgid "Unknown"
+#~ msgstr "Desconegut"
+
+#~ msgid "Component Chooser"
+#~ msgstr "Selector de component"
+
+#~ msgid "(c), 2002 Joseph Wenninger"
+#~ msgstr "(c), 2002 Joseph Wenninger"
+
+#~ msgid ""
+#~ "Choose from the list below which component should be used by default for "
+#~ "the %1 service."
+#~ msgstr ""
+#~ "De la llista de baix trieu quin component s'hauria d'usar per defecte per "
+#~ "al servei %1."
+
+#~ msgid ""
+#~ "<qt>You changed the default component of your choice, do want to save "
+#~ "that change now ?</qt>"
+#~ msgstr ""
+#~ "<qt>Heu canviat el component per defecte escollit, voleu guardar el canvi "
+#~ "ara?</qt>"
+
+#~ msgid "No description available"
+#~ msgstr "No hi ha cap descripció disponible"
+
+#~ msgid ""
+#~ "Here you can change the component program. Components are programs that "
+#~ "handle basic tasks, like the terminal emulator, the text editor and the "
+#~ "email client. Different KDE applications sometimes need to invoke a "
+#~ "console emulator, send a mail or display some text. To do so "
+#~ "consistently, these applications always call the same components. You can "
+#~ "choose here which programs these components are."
+#~ msgstr ""
+#~ "Ací podeu canviar el programa component. Els components són programes que "
+#~ "gestionen tasques bàsiques, tal com l'emulació de terminal, l'edició de "
+#~ "text i el client de correu electrònic. A vegades es requereixen diverses "
+#~ "aplicacions KDE per a invocar a un emulador de consola, enviar un correu "
+#~ "o mostrar algun text. Per a fer que açò siga consistent, aquestes "
+#~ "aplicacions cridaran els mateixos components. Ací podreu triar quins "
+#~ "seran aquests components."
+
+#~ msgid "Default Component"
+#~ msgstr "Component per defecte"
+
+#~ msgid ""
+#~ "<qt>\n"
+#~ "<p>This list shows the configurable component types. Click the component "
+#~ "you want to configure.</p>\n"
+#~ "<p>In this dialog you can change KDE default components. Components are "
+#~ "programs that handle basic tasks, like the terminal emulator, the text "
+#~ "editor and the email client. Different KDE applications sometimes need to "
+#~ "invoke a console emulator, send a mail or display some text. To do so "
+#~ "consistently, these applications always call the same components. Here "
+#~ "you can select which programs these components are.</p>\n"
+#~ "</qt>"
+#~ msgstr ""
+#~ "<qt>\n"
+#~ "<p>Aquesta llista mostra els tipus de components configurables. Cliqueu "
+#~ "en el component que voleu configurar.</p>\n"
+#~ "<p>En aquest diàleg podeu canviar els components per defecte de KDE. Els "
+#~ "components són programes que gestionen tasques bàsiques, tal com "
+#~ "l'emulació de terminal, l'edició de text i el client de correu "
+#~ "electrònic. A vegades, diverses aplicacions de KDE requereixen invocar un "
+#~ "emulador de consola, enviar un correu o mostrar algun text. Per a fer que "
+#~ "açò siga consistent, aquestes aplicacions sempre cridaran els mateixos "
+#~ "components. Ací podreu triar quins seran aquests components.</p>\n"
+#~ "</qt>"
+
+#~ msgid "<qt>Open <b>http</b> and <b>https</b> URLs</qt>"
+#~ msgstr "<qt>Obri els URL <b>http</b> i <b>https</b></qt>"
+
+#~ msgid "in an application based on the contents of the URL"
+#~ msgstr "en una aplicació basada en el contingut de l'URL"
+
+#~ msgid "in the following application:"
+#~ msgstr "a l'aplicació següent:"
+
+#~ msgid "with the following command:"
+#~ msgstr "amb l'ordre següent:"
+
+#~ msgid "..."
+#~ msgstr "..."
+
+#~ msgid "Select preferred Web browser application:"
+#~ msgstr "Seleccioneu l'aplicació de navegador web preferida:"
+
+#~ msgid "Kmail is the standard Mail program for the Plasma desktop."
+#~ msgstr "Kmail és el programa estàndard per al correu a l'escriptori Plasma."
+
+#~ msgid "&Use KMail as preferred email client"
+#~ msgstr "&Usa KMail com a client de correu preferit"
+
+#~ msgid "Select this option if you want to use any other mail program."
+#~ msgstr ""
+#~ "Seleccioneu aquesta opció si desitgeu emprar un altre programa de correu."
+
+#~ msgid ""
+#~ "Optional placeholders: <ul> <li>%t: Recipient's address</li> <li>%s: "
+#~ "Subject</li> <li>%c: Carbon Copy (CC)</li> <li>%b: Blind Carbon Copy "
+#~ "(BCC)</li> <li>%B: Template body text</li> <li>%A: Attachment </li> <li>"
+#~ "%u: Full mailto: URL </li></ul>"
+#~ msgstr ""
+#~ "Variables de substitució opcionals: <ul><li>%t: Adreça del receptor</li> "
+#~ "<li>%s: Assumpte</li> <li>%c: Còpia (CC)</li> <li>%b: Còpia cega (BCC)</"
+#~ "li> <li>%B: Plantilla del text del cos</li> <li>%A: Adjunt </li> <li>%u: "
+#~ "«Envia a» sencer: URL </li> </ul>"
+
+#~ msgid ""
+#~ "Press this button to select your favorite email client. Please note that "
+#~ "the file you select has to have the executable attribute set in order to "
+#~ "be accepted.<br/> You can also use several placeholders which will be "
+#~ "replaced with the actual values when the email client is called:<ul> <li>"
+#~ "%t: Recipient's address</li> <li>%s: Subject</li> <li>%c: Carbon Copy "
+#~ "(CC)</li> <li>%b: Blind Carbon Copy (BCC)</li> <li>%B: Template body "
+#~ "text</li> <li>%A: Attachment </li> </ul>"
+#~ msgstr ""
+#~ "Premeu aquest botó per a seleccionar el vostre client de correu preferit. "
+#~ "Tingueu present que el fitxer que seleccioneu ha de tindre l'atribut "
+#~ "executable per tal de ser acceptat.<br/> També podeu usar diverses "
+#~ "variables que se substituiran amb els valors reals quan es cride el "
+#~ "client de correu:<ul> <li>%t: Adreça del destinatari</li> <li>%s: "
+#~ "Assumpte</li> <li>%c: Còpia (CC)</li> <li>%b: Còpia cega (BCC)</li> <li>"
+#~ "%B: Plantilla del text del cos</li> <li>%A: Adjunt </li> </ul>"
+
+#~ msgid "Click here to browse for the mail program file."
+#~ msgstr "Cliqueu ací per a buscar el fitxer del programa de correu."
+
+#~ msgid ""
+#~ "Activate this option if you want the selected email client to be executed "
+#~ "in a terminal (e.g. <em>Konsole</em>)."
+#~ msgstr ""
+#~ "Activeu aquesta opció si voleu que el client de correu seleccionat "
+#~ "s'execute en un terminal (p. ex. <em>Konsole</em>)."
+
+#~ msgid "&Run in terminal"
+#~ msgstr "Executa en un &terminal"
+
+#~ msgid "Browse directories using the following file manager:"
+#~ msgstr "Visualitza els directoris usant el gestor de fitxers següent:"
+
+#~ msgid "Other: click Add... in the dialog shown here:"
+#~ msgstr "Altres: cliqueu Afig... en el diàleg que es mostra ací:"
+
+#~ msgid "&Use Konsole as terminal application"
+#~ msgstr "&Utilitza Konsole com a aplicació del terminal"
+
+#~ msgid "Use a different &terminal program:"
+#~ msgstr "Utilitza un programa de &terminal diferent:"
+
+#~ msgid ""
+#~ "Press this button to select your favorite terminal client. Please note "
+#~ "that the file you select has to have the executable attribute set in "
+#~ "order to be accepted.<br/> Also note that some programs that utilize "
+#~ "Terminal Emulator will not work if you add command line arguments "
+#~ "(Example: konsole -ls)."
+#~ msgstr ""
+#~ "Premeu aquest botó per a seleccionar el vostre client de terminal "
+#~ "preferit. Tingueu present que el fitxer que seleccioneu ha de tindre "
+#~ "establit l'atribut executable per tal de ser acceptat.<br/> Tingueu "
+#~ "present també que alguns programes que utilitzen Terminal Emulator no "
+#~ "funcionaran si afegiu arguments de línia d'ordres (exemple: konsole -ls)."
+
+#~ msgid "Click here to browse for terminal program."
+#~ msgstr "Cliqueu ací per a buscar el programa de terminal."

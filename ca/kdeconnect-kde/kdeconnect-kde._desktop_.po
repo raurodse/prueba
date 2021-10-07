@@ -1,0 +1,270 @@
+# Translation of kdeconnect-kde._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2014-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015, 2016, 2017, 2018, 2019, 2021.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2014, 2015, 2017, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-kde desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-09-14 00:28+0000\n"
+"PO-Revision-Date: 2021-09-09 09:23+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 21.08.0\n"
+
+#: app/org.kde.kdeconnect.app.desktop:2
+#: daemon/org.kde.kdeconnect.daemon.desktop.cmake:11
+#: kcm/kcm_kdeconnect.desktop:13 plasmoid/package/metadata.desktop:2
+#: plugins/kdeconnect.notifyrc:3
+msgctxt "Name"
+msgid "KDE Connect"
+msgstr "KDE Connect"
+
+#: app/org.kde.kdeconnect.app.desktop:49
+msgctxt "GenericName"
+msgid "Device Synchronization"
+msgstr "Sincronització de dispositius"
+
+#: app/org.kde.kdeconnect.app.desktop:92
+msgctxt "Comment"
+msgid "Make all your devices one"
+msgstr "Fa que tots els vostres dispositius siguen un"
+
+#: data/kdeconnect-dde.desktop:7 data/kdeconnect-thunar.desktop:7
+msgctxt "Name"
+msgid "Send via KDE Connect"
+msgstr "Envia a través del KDE Connect"
+
+#: data/org.kde.kdeconnect_open.desktop:2
+msgctxt "GenericName"
+msgid "Open on connected device via KDE Connect"
+msgstr "Obri al dispositiu connectat a través del KDE Connect"
+
+#: data/org.kde.kdeconnect_open.desktop:39
+msgctxt "Name"
+msgid "Open on connected device via KDE Connect"
+msgstr "Obri al dispositiu connectat a través del KDE Connect"
+
+#: data/org.kde.kdeconnect_open.desktop:76
+msgctxt "Comment"
+msgid "Open on a connected device using KDE Connect"
+msgstr "Obri a un dispositiu connectat usant el KDE Connect"
+
+#: indicator/org.kde.kdeconnect.nonplasma.desktop:2
+msgctxt "Name"
+msgid "KDE Connect Indicator"
+msgstr "Indicador del KDE Connect"
+
+#: indicator/org.kde.kdeconnect.nonplasma.desktop:41
+msgctxt "Comment"
+msgid "Display information about your devices"
+msgstr "Mostra la informació dels vostres dispositius"
+
+#: kcm/kcm_kdeconnect.desktop:61
+msgctxt "Comment"
+msgid "Connect and sync your devices"
+msgstr "Connecta i sincronitza els vostres dispositius"
+
+#: kcm/kcm_kdeconnect.desktop:106
+msgctxt "X-KDE-Keywords"
+msgid ""
+"network,kde connect,connect,phone,sync,mobile,android,ios,send files,share "
+"files,transfer files,receive files,devices,device,synchronization,calls,"
+"telephone,smartphone,contacts,sms,phone notifications,control volume,system "
+"volume,ringtone,play sound,presentation,take picture,take photo,shared "
+"clipboard,conectivity monitor,remote input,remote mouse,remote keyboard,"
+"mpris,phone integration,commands,lock device,multimedia control,sftp,browse "
+"phone,share"
+msgstr ""
+"xarxa,kde connect,connecta,telèfon,sincronitza,mòbil,android,ios,envia "
+"fitxers,comparteix fitxers,transfereix fitxers,rep fitxers,dispositius,"
+"dispositiu,sincronització,trucades,telèfon,telèfon intel·ligent,contactes,"
+"sms,notificacions de telèfon,control del volum,volum del sistema,to de la "
+"trucada,reprodueix so,presentació,pren una imatge,pren una fotografia,"
+"comparteix el porta-retalls,connectivitat del monitor,entrada remota,ratolí "
+"remot,teclat remot,mpris,integració del telèfon,ordres,bloqueja el "
+"dispositiu,control multimèdia,sftp,explora el telèfon,comparteix"
+
+#: plasmoid/package/metadata.desktop:49
+msgctxt "Comment"
+msgid "Show notifications from your devices using KDE Connect"
+msgstr ""
+"Mostra les notificacions dels vostres dispositius emprant el KDE Connect"
+
+#: plugins/findthisdevice/kdeconnect_findthisdevice_config.desktop:8
+msgctxt "Name"
+msgid "Find This Device plugin settings"
+msgstr "Configuració del connector Cerca aquest dispositiu"
+
+#: plugins/kdeconnect.notifyrc:50
+msgctxt "Comment"
+msgid "Notifications from your devices"
+msgstr "Notificacions dels vostres dispositius"
+
+#: plugins/kdeconnect.notifyrc:96
+msgctxt "Name"
+msgid "Pairing Request"
+msgstr "Sol·licitud d'aparellament"
+
+#: plugins/kdeconnect.notifyrc:141
+msgctxt "Comment"
+msgid "Pairing request received from a device"
+msgstr "Les sol·licituds d'aparellament rebudes des d'un dispositiu"
+
+#: plugins/kdeconnect.notifyrc:186
+msgctxt "Name"
+msgid "Incoming Call"
+msgstr "Trucada entrant"
+
+#: plugins/kdeconnect.notifyrc:231
+msgctxt "Comment"
+msgid "Someone is calling you"
+msgstr "Algú vos està trucant"
+
+#: plugins/kdeconnect.notifyrc:279
+msgctxt "Name"
+msgid "Missed Call"
+msgstr "Trucada perduda"
+
+#: plugins/kdeconnect.notifyrc:324
+msgctxt "Comment"
+msgid "You have a missed call"
+msgstr "Teniu una trucada perduda"
+
+#: plugins/kdeconnect.notifyrc:373
+msgctxt "Name"
+msgid "Battery Low"
+msgstr "Bateria baixa"
+
+#: plugins/kdeconnect.notifyrc:416
+msgctxt "Comment"
+msgid "Your battery is in low state"
+msgstr "La bateria està baixa"
+
+#: plugins/kdeconnect.notifyrc:465
+msgctxt "Name"
+msgid "Ping Received"
+msgstr "S'ha rebut un ping"
+
+#: plugins/kdeconnect.notifyrc:510
+msgctxt "Comment"
+msgid "Ping received"
+msgstr "S'ha rebut un ping"
+
+#: plugins/kdeconnect.notifyrc:559
+msgctxt "Name"
+msgid "Generic Notification"
+msgstr "Notificació genèrica"
+
+#: plugins/kdeconnect.notifyrc:603
+msgctxt "Comment"
+msgid "Notification received"
+msgstr "Notificació rebuda"
+
+#: plugins/kdeconnect.notifyrc:653
+msgctxt "Name"
+msgid "Remote Lock Successful"
+msgstr "Bloqueig remot amb èxit"
+
+#: plugins/kdeconnect.notifyrc:680
+msgctxt "Comment"
+msgid "Remote lock successful"
+msgstr "Bloqueig remot amb èxit"
+
+#: plugins/kdeconnect.notifyrc:710
+msgctxt "Name"
+msgid "Remote Lock Failure"
+msgstr "Ha fallat el bloqueig remot"
+
+#: plugins/kdeconnect.notifyrc:737
+msgctxt "Comment"
+msgid "Remote lock failed"
+msgstr "Ha fallat el bloqueig remot"
+
+#: plugins/pausemusic/kdeconnect_pausemusic_config.desktop:8
+msgctxt "Name"
+msgid "Pause Music plugin settings"
+msgstr "Configuració del connector Pausa a la música"
+
+#: plugins/runcommand/kdeconnect_runcommand_config.desktop:8
+msgctxt "Name"
+msgid "Run Command plugin settings"
+msgstr "Configuració del connector Executa ordres"
+
+#: plugins/sendnotifications/kdeconnect_sendnotifications_config.desktop:8
+msgctxt "Name"
+msgid "Notification synchronization plugin settings"
+msgstr "Configuració del connector Sincronitza les notificacions"
+
+#: plugins/share/kdeconnect_share_config.desktop:8
+msgctxt "Name"
+msgid "Share plugin settings"
+msgstr "Configuració del connector Compartició"
+
+#: runners/findmyphone/plasma-runner-kdeconnect-findmyphone.desktop:2
+msgctxt "Name"
+msgid " Find my device"
+msgstr " Troba el meu dispositiu"
+
+#: runners/findmyphone/plasma-runner-kdeconnect-findmyphone.desktop:38
+msgctxt "Comment"
+msgid "Ring connected devices"
+msgstr "Fa sonar als dispositius connectats"
+
+#: runners/remotecommands/plasma-runner-kdeconnect-remotecommands.desktop:2
+msgctxt "Name"
+msgid "Run command"
+msgstr "Executa una ordre"
+
+#: runners/remotecommands/plasma-runner-kdeconnect-remotecommands.desktop:38
+msgctxt "Comment"
+msgid "Run commands on connected devices"
+msgstr "Executa les ordres als dispositius connectats"
+
+#: settings/org.kde.kdeconnect.settings.desktop:6
+msgctxt "Name"
+msgid "KDE Connect Settings"
+msgstr "Arranjament del KDE Connect"
+
+#: settings/org.kde.kdeconnect.settings.desktop:50
+msgctxt "GenericName"
+msgid "Connect and sync your devices"
+msgstr "Connecta i sincronitza els vostres dispositius"
+
+#: smsapp/org.kde.kdeconnect.sms.desktop:2
+msgctxt "Name"
+msgid "KDE Connect SMS"
+msgstr "SMS del KDE Connect"
+
+#: smsapp/org.kde.kdeconnect.sms.desktop:40
+msgctxt "GenericName"
+msgid "SMS"
+msgstr "SMS"
+
+#: smsapp/org.kde.kdeconnect.sms.desktop:78
+msgctxt "Comment"
+msgid "Text Messaging"
+msgstr "Missatgeria de text"
+
+#: urlhandler/org.kde.kdeconnect.handler.desktop:2
+msgctxt "Name"
+msgid "KDE Connect URL Handler"
+msgstr "Gestor d'URL del KDE Connect"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Network,Android,Devices"
+#~ msgstr "Xarxa,Android,Dispositius"
+
+#~ msgctxt "Name"
+#~ msgid "KDEConnect Plugin"
+#~ msgstr "Connector del KDE Connect"

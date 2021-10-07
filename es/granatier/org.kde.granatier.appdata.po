@@ -1,0 +1,47 @@
+# Translation of org.kde.granatier.appdata.po to Catalan (Valencian)
+# Copyright (C) 2014-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2014, 2018.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: granatier appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-02-16 02:23+0100\n"
+"PO-Revision-Date: 2020-07-10 17:33+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 20.07.70\n"
+
+#. (itstool) path: component/name
+#: org.kde.granatier.appdata.xml:6
+msgid "Granatier"
+msgstr "Granatier"
+
+#. (itstool) path: component/summary
+#: org.kde.granatier.appdata.xml:7
+msgid "Bomberman clone"
+msgstr "Un clon del Bomberman"
+
+#. (itstool) path: description/p
+#: org.kde.granatier.appdata.xml:9
+msgid ""
+"Granatier is a clone of the classic Bomberman game, inspired by the work of "
+"the Clanbomber clone."
+msgstr ""
+"El Granatier és un clon del joc Bomberman clàssic, inspirat en el treball "
+"del clon Clanbomber."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.granatier.appdata.xml:19
+msgid "Playing Granatier"
+msgstr "Jugant al Granatier"

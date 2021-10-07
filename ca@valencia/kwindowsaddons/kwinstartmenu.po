@@ -1,0 +1,153 @@
+# Translation of kwinstartmenu.po to Catalan (Valencian)
+# Copyright (C) 2008-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2008, 2009, 2010, 2011, 2021.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kwindowsaddons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:19+0200\n"
+"PO-Revision-Date: 2021-09-06 19:10+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.12.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Josep Ma. Ferrer"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "txemaq@gmail.com"
+
+#: main.cpp:39
+#, kde-format
+msgid "kwinstartmenu"
+msgstr "kwinstartmenu"
+
+#: main.cpp:40
+#, kde-format
+msgid "An application to create/update or remove Windows Start Menu entries"
+msgstr ""
+"Una aplicació per a crear/actualitzar o eliminar entrades en el menú d'inici "
+"de Windows"
+
+#: main.cpp:42
+#, kde-format
+msgid "(C) 2008-2011 Ralf Habacker"
+msgstr "(C) 2008-2011 Ralf Habacker"
+
+#: main.cpp:46
+#, kde-format
+msgid "remove installed start menu entries"
+msgstr "Elimina les entrades instal·lades en el menú d'inici"
+
+#: main.cpp:47
+#, kde-format
+msgid "install start menu entries"
+msgstr "Instal·la les entrades al menú d'inici"
+
+#: main.cpp:48
+#, kde-format
+msgid "update start menu entries"
+msgstr "Actualitza les entrades en el menú d'inici"
+
+#: main.cpp:49
+#, kde-format
+msgid "remove start menu entries from unused kde installation"
+msgstr ""
+"Elimina les entrades en el menú d'inici d'una instal·lació no usada del KDE"
+
+#: main.cpp:51
+#, kde-format
+msgid "query root path of start menu entries"
+msgstr "Consulta el camí arrel de les entrades del menú d'inici"
+
+#: main.cpp:53
+#, kde-format
+msgid "use categories for start menu entries (default)"
+msgstr "Usa categories per a les entrades en el menú d'inici (per defecte)"
+
+#: main.cpp:54
+#, kde-format
+msgid "don't use categories for start menu entries"
+msgstr "No usis categories per a les entrades en el menú d'inici"
+
+#: main.cpp:55
+#, kde-format
+msgid "query current value of categories in start menu"
+msgstr "Consulta el valor actual de les categories en el menú d'inici"
+
+#: main.cpp:57
+#, kde-format
+msgid "set custom string for root start menu entry"
+msgstr ""
+"Defineix textos personalitzats per a les entrades principals en el menú "
+"d'inici"
+
+#: main.cpp:60
+#, kde-format
+msgid "remove custom string from root start menu entry"
+msgstr ""
+"Elimina els textos personalitzats per a les entrades principals en el menú "
+"d'inici"
+
+#: main.cpp:61
+#, kde-format
+msgid "query current value of root start menu entry custom string"
+msgstr ""
+"Consulta el valor actual del text personalitzat per a les entrades "
+"principals en el menú d'inici"
+
+#: main.cpp:63
+#, kde-format
+msgid "set custom name string for root start menu entry"
+msgstr ""
+"Defineix textos personalitzats per a les entrades principals en el menú "
+"d'inici"
+
+#: main.cpp:64
+#, kde-format
+msgid "remove custom name string from root start menu entry"
+msgstr ""
+"Elimina els noms personalitzats per a les entrades principals en el menú "
+"d'inici"
+
+#: main.cpp:65
+#, kde-format
+msgid "query current value of start menu entry custom name string"
+msgstr ""
+"Consulta el valor actual del text personalitzat per a les entrades "
+"principals en el menú d'inici"
+
+#: main.cpp:67
+#, kde-format
+msgid "set custom version string for root start menu entry"
+msgstr ""
+"Defineix cadenes personalitzades de versió per a les entrades principals en "
+"el menú d'inici"
+
+#: main.cpp:68
+#, kde-format
+msgid "remove custom version string from root start menu entry"
+msgstr ""
+"Elimina les cadenes personalitzades de versió per a les entrades principals "
+"en el menú d'inici"
+
+#: main.cpp:69
+#, kde-format
+msgid "query current value of root start menu entry version string"
+msgstr ""
+"Consulta el valor actual de les cadenes personalitzades de versió de les "
+"entrades principals en el menú d'inici"

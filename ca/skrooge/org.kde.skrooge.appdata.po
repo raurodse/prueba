@@ -1,0 +1,141 @@
+# Translation of org.kde.skrooge.appdata.po to Catalan (Valencian)
+# Copyright (C) 2015-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2018, 2019, 2020, 2021.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2017, 2018, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: skrooge appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-20 00:17+0000\n"
+"PO-Revision-Date: 2021-09-05 21:18+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 20.12.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.skrooge.appdata.xml:12
+msgid "Skrooge"
+msgstr "Skrooge"
+
+#. (itstool) path: component/summary
+#: org.kde.skrooge.appdata.xml:13
+msgid "Single-entry bookkeeping for home use"
+msgstr "Comptabilitat d'entrada única per a ús particular"
+
+#. (itstool) path: description/p
+#: org.kde.skrooge.appdata.xml:15
+msgid ""
+"Skrooge is a personal finance manager powered by KDE that aims to be simple "
+"and intuitive. Skrooge allows you to keep track of your expenses and income, "
+"categorize them, and build reports of them."
+msgstr ""
+"L'Skrooge és un gestor de les finances personals desenvolupat pel KDE, que "
+"té l'objectiu de ser senzill i intuïtiu. L'Skrooge permet registrar els "
+"ingressos i les despeses, categoritzar-les i fer-ne informes."
+
+#. (itstool) path: description/p
+#: org.kde.skrooge.appdata.xml:16
+msgid "Features:"
+msgstr "Característiques:"
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:18
+msgid "QIF, CSV, SKROOGE, KMYMONEY import/export"
+msgstr "Importació/exportació de QIF, CSV, SKROOGE, KMYMONEY"
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:19
+msgid ""
+"Microsoft Money, OFX, QFX, MT940, GNUCASH, GRISBI, HOMEBANK and MONEY "
+"MANAGER EX import"
+msgstr ""
+"Importació del Microsoft Money, OFX, QFX, MT940, GNUCASH, GRISBI, HOMEBANK i "
+"MONEY MANAGER EX"
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:20
+msgid "Advanced Graphical Reports"
+msgstr "Informes gràfics avançats"
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:21
+msgid "Multiple tabs to help you organize your work"
+msgstr "Múltiples pestanyes vos ajuden a organitzar el treball"
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:22
+msgid "Infinite undo/redo (even after the file was closed !)"
+msgstr "Desfer/refer infinits (inclús després de tancar el fitxer!)"
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:23
+msgid "Instant filtering on operations and reports"
+msgstr "Filtratge instantani d'operacions i informes"
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:24
+msgid "Infinite category levels"
+msgstr "Nivells infinits de categories"
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:25
+msgid "Mass update of operations"
+msgstr "Actualització massiva d'operacions"
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:26
+msgid "Scheduled operations"
+msgstr "Operacions planificades"
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:27
+msgid "Track refund of your expenses"
+msgstr "Seguiment del reemborsament de les despeses"
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:28
+msgid "Automatically process operations based on search conditions"
+msgstr "Procés automàtic d'operacions basat en les condicions de cerca"
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:29
+msgid "Multiple currencies"
+msgstr "Múltiples divises"
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:30
+msgid "Budget"
+msgstr "Pressupost"
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:31
+msgid "Dashboard"
+msgstr "Tauler"
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:32
+msgid "Advice"
+msgstr "Consells"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.skrooge.appdata.xml:40
+msgid "The default screenshot"
+msgstr "La captura de pantalla predeterminada"
+
+#. (itstool) path: component/developer_name
+#: org.kde.skrooge.appdata.xml:48
+msgid "Stephane MANKOWSKI"
+msgstr "Stephane MANKOWSKI"
+
+#~ msgid "Personal Finances"
+#~ msgstr "Finances personals"

@@ -1,0 +1,160 @@
+# Translation of org.kde.ktorrent.appdata.po to Catalan (Valencian)
+# Copyright (C) 2017-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2017, 2020, 2021.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2017, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: ktorrent appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-08-23 00:19+0000\n"
+"PO-Revision-Date: 2021-09-05 13:00+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 20.12.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.ktorrent.appdata.xml:6
+msgid "KTorrent"
+msgstr "KTorrent"
+
+#. (itstool) path: component/summary
+#: org.kde.ktorrent.appdata.xml:7
+msgid "BitTorrent Client"
+msgstr "Client de BitTorrent"
+
+#. (itstool) path: description/p
+#: org.kde.ktorrent.appdata.xml:9
+msgid ""
+"KTorrent is a BitTorrent application by KDE which allows you to download "
+"files using the BitTorrent protocol. It enables you to run multiple torrents "
+"at the same time and comes with extended features to make it a full-featured "
+"client for BitTorrent."
+msgstr ""
+"El KTorrent és una aplicació de BitTorrent creada per la comunitat KDE que "
+"vos permetrà descarregar fitxers utilitzant el protocol BitTorrent. Permet "
+"executar múltiples torrent alhora i ve amb característiques esteses per a "
+"fer-lo un client complet per a BitTorrent."
+
+#. (itstool) path: description/p
+#: org.kde.ktorrent.appdata.xml:14
+msgid "Features:"
+msgstr "Característiques:"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:16
+msgid "Queuing of torrents"
+msgstr "Cua dels torrent"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:17
+msgid "Global and per torrent speed limits"
+msgstr "Límits de la velocitat global i per torrent"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:18
+msgid "Previewing of certain file types, build in (video and audio)"
+msgstr ""
+"Vista prèvia de certs tipus de fitxer, integrada en construir (vídeo i àudio)"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:19
+msgid "Importing of partially or fully downloaded files"
+msgstr "Importació de fitxers descarregats parcialment o del tot"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:20
+msgid "File prioritization for multi-file torrents"
+msgstr "Priorització de fitxers per als torrent amb múltiples fitxers"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:21
+msgid "Selective downloading for multi-file torrents"
+msgstr "Descàrrega selectiva per als torrent amb múltiples fitxers"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:22
+msgid ""
+"Kick/ban peers with an additional IP Filter dialog for list/edit purposes"
+msgstr ""
+"Expulsa/veta els parells amb un diàleg de filtre d'IP addicional per a "
+"finalitats de llista/edició"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:23
+msgid "UDP tracker support"
+msgstr "Suport del seguidor UDP"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:24
+msgid "Support for private trackers and torrents"
+msgstr "Suport per als seguidors i torrent privats"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:25
+msgid "Support for µTorrent's peer exchange"
+msgstr "Suport per a l'intercanvi entre parells de µTorrent"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:26
+msgid "Support for protocol encryption (compatible with Azureus)"
+msgstr "Suport per a l'encriptatge del protocol (compatible amb Azureus)"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:27
+msgid "Support for creating trackerless torrents"
+msgstr "Suport per a la creació de torrent sense seguidors"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:28
+msgid "Support for distributed hash tables (DHT, the Mainline version)"
+msgstr ""
+"Suport per a taules de resum distribuïdes (DHT, la versió de la línia "
+"principal)"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:29
+msgid ""
+"Support for UPnP to automatically forward ports on a LAN with dynamic "
+"assigned hosts"
+msgstr ""
+"Suport per a UPnP per a desviar automàticament els ports de la LAN amb "
+"assignació dinàmica de màquines"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:30
+msgid "Support for webseeds"
+msgstr "Suport per a sembradors web"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:31
+msgid "System tray integration"
+msgstr "Integració amb la safata del sistema"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:32
+msgid "Tracker authentication support"
+msgstr "Suport d'autenticació del seguidor"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:33
+msgid "Connection through a proxy"
+msgstr "Connexió a través d'un servidor intermediari"
+
+#. (itstool) path: description/p
+#: org.kde.ktorrent.appdata.xml:35
+msgid ""
+"In addition to the built-in functionalities, there are some plugins "
+"available for KTorrent."
+msgstr ""
+"Addicionalment a les funcionalitats integrades en construir, hi ha alguns "
+"connectors disponibles per al KTorrent."

@@ -1,0 +1,267 @@
+# Translation of ksudoku._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2002-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 2002, 2005.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2003, 2020.
+# Albert Astals Cid <aacid@kde.org>, 2003, 2004, 2005, 2007, 2008, 2009.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2004, 2005, 2006, 2008, 2010, 2012, 2013, 2015, 2017, 2021.
+# Orestes Mas <orestes@tsc.upc.edu>, 2009.
+# Manuel Tortosa <manutortosa@chakra-project.org>, 2009, 2010.
+# Manuel Tortosa Moreno <manutortosa@chakra-project.org>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: ksudoku desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-07-25 00:24+0000\n"
+"PO-Revision-Date: 2021-09-05 14:32+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.12.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: \n"
+"X-Accelerator-Marker: &\n"
+
+#: src/gui/org.kde.ksudoku.desktop:2
+msgctxt "Name"
+msgid "KSudoku"
+msgstr "KSudoku"
+
+#: src/gui/org.kde.ksudoku.desktop:59
+msgctxt "GenericName"
+msgid "Sudoku Game"
+msgstr "Joc de Sudoku"
+
+#: src/gui/org.kde.ksudoku.desktop:112
+msgctxt "Comment"
+msgid "KSudoku, Sudoku game & more by KDE"
+msgstr "KSudoku, joc de Sudoku i més, creat per la comunitat KDE"
+
+#: src/shapes/4x4.desktop:2
+msgctxt "Name"
+msgid "4x4"
+msgstr "4x4"
+
+#: src/shapes/4x4.desktop:62
+msgctxt "Description"
+msgid "4x4 shape puzzle"
+msgstr "Trencaclosques amb forma de 4x4"
+
+#: src/shapes/6x6.desktop:2
+msgctxt "Name"
+msgid "6x6"
+msgstr "6x6"
+
+#: src/shapes/6x6.desktop:47
+msgctxt "Description"
+msgid "6x6 puzzle with rectangular blocks"
+msgstr "Un trencaclosques de 6x6 amb blocs rectangulars"
+
+#: src/shapes/Aztec.desktop:2
+msgctxt "Name"
+msgid "Aztec"
+msgstr "Asteca"
+
+#: src/shapes/Aztec.desktop:52
+msgctxt "Description"
+msgid "Jigsaw variant shaped like an Aztec pyramid"
+msgstr "Variant Jigsaw en forma de piràmide asteca"
+
+#: src/shapes/DoubleRoxdoku.desktop:2
+msgctxt "Name"
+msgid "Double Roxdoku"
+msgstr "Roxdoku doble"
+
+#: src/shapes/DoubleRoxdoku.desktop:45
+msgctxt "Description"
+msgid "Three-dimensional puzzle with two interlocking 3x3x3 cubes"
+msgstr "Trencaclosques tridimensional amb dos cubs entrellaçats 3x3x3"
+
+#: src/shapes/Jigsaw.desktop:2
+msgctxt "Name"
+msgid "Jigsaw"
+msgstr "Jigsaw"
+
+#: src/shapes/Jigsaw.desktop:55
+msgctxt "Description"
+msgid "Jigsaw shape puzzle"
+msgstr "Trencaclosques amb forma Jigsaw"
+
+# Segons la Viqupèdia, el Killer també es conneix com Addoku
+#: src/shapes/Killer_4x4.desktop:2
+msgctxt "Name"
+msgid "Tiny Killer"
+msgstr "Addoku/Tiny Killer"
+
+#: src/shapes/Killer_4x4.desktop:35
+msgctxt "Description"
+msgid "4x4 Sudoku, but cages must add to totals shown"
+msgstr "Sudoku 4x4, però les caixes s'han d'afegir als totals mostrats"
+
+#: src/shapes/Killer_9x9.desktop:2
+msgctxt "Name"
+msgid "Killer Sudoku"
+msgstr "Killer Sudoku"
+
+#: src/shapes/Killer_9x9.desktop:36
+msgctxt "Description"
+msgid "Classic Sudoku, but cages must add to totals shown"
+msgstr "Sudoku clàssic, però les caixes s'han d'afegir als totals mostrats"
+
+#: src/shapes/Mathdoku_4x4.desktop:2
+msgctxt "Name"
+msgid "Mathdoku 101"
+msgstr "Mathdoku 101"
+
+#: src/shapes/Mathdoku_4x4.desktop:36
+msgctxt "Description"
+msgid "Size 4x4 grid, with calculated cages"
+msgstr "Mida de quadrícula 4x4, amb caixes calculades"
+
+#: src/shapes/Mathdoku_Settable.desktop:2
+msgctxt "Name"
+msgid "Mathdoku - Settable Size"
+msgstr "Mathdoku - Mida definible"
+
+#: src/shapes/Mathdoku_Settable.desktop:35
+msgctxt "Description"
+msgid "Size 3x3 to 9x9 grid, with calculated cages"
+msgstr "Mida de quadrícula 3x3 a 9x9, amb caixes calculades"
+
+#: src/shapes/Nonomino.desktop:2
+msgctxt "Name"
+msgid "Nonomino 9x9"
+msgstr "Nonominó 9x9"
+
+#: src/shapes/Nonomino.desktop:45
+msgctxt "Description"
+msgid "Jigsaw variant with irregularly shaped Nonomino blocks"
+msgstr "Variant Jigsaw amb forma de blocs nonominó irregulars"
+
+#: src/shapes/Pentomino.desktop:2
+msgctxt "Name"
+msgid "Pentomino 5x5"
+msgstr "Pentominó 5x5"
+
+#: src/shapes/Pentomino.desktop:46
+msgctxt "Description"
+msgid "Jigsaw variant with irregularly shaped Pentomino blocks"
+msgstr "Variant Jigsaw amb forma de blocs pentominó irregulars"
+
+#: src/shapes/RoxdokuTwin.desktop:2
+msgctxt "Name"
+msgid "Roxdoku Twin"
+msgstr "Roxdoku bessó"
+
+#: src/shapes/RoxdokuTwin.desktop:44
+msgctxt "Description"
+msgid "Three-dimensional puzzle with two 3x3x3 cubes which share a corner"
+msgstr ""
+"Trencaclosques tridimensional amb dos cubs 3x3x3 que comparteixen una "
+"cantonada"
+
+#: src/shapes/Samurai.desktop:2
+msgctxt "Name"
+msgid "Samurai"
+msgstr "Samurai"
+
+#: src/shapes/Samurai.desktop:56
+msgctxt "Description"
+msgid "Samurai shape puzzle"
+msgstr "Trencaclosques amb forma de Samurai"
+
+#: src/shapes/SamuraiRoxdoku.desktop:2
+msgctxt "Name"
+msgid "Samurai Roxdoku"
+msgstr "Roxdoku samurai"
+
+#: src/shapes/SamuraiRoxdoku.desktop:45
+msgctxt "Description"
+msgid "Samurai three-dimensional puzzle with nine 3x3x3 cubes"
+msgstr "Trencaclosques samurai tridimensional amb nou cubs 3x3x3"
+
+#: src/shapes/Sohei.desktop:2
+msgctxt "Name"
+msgid "Sohei"
+msgstr "Sohei"
+
+#: src/shapes/Sohei.desktop:47
+msgctxt "Description"
+msgid "Sohei puzzle with four overlapping 9x9 squares"
+msgstr "Trencaclosques sohei amb quatre quadrats sobreposats de 9x9"
+
+#: src/shapes/Tetromino.desktop:2
+msgctxt "Name"
+msgid "Tetromino 4x4"
+msgstr "Tetrominó 4x4"
+
+#: src/shapes/Tetromino.desktop:46
+msgctxt "Description"
+msgid "Jigsaw with Tetromino blocks (Tetris pieces)"
+msgstr "Jigsaw amb blocs tetrominó (peces de Tetris)"
+
+#: src/shapes/TinySamurai.desktop:2
+msgctxt "Name"
+msgid "Tiny Samurai"
+msgstr "Petit samurai"
+
+#: src/shapes/TinySamurai.desktop:55
+msgctxt "Description"
+msgid "A smaller samurai puzzle"
+msgstr "Un trencaclosques samurai petit"
+
+#: src/shapes/Windmill.desktop:2
+msgctxt "Name"
+msgid "Windmill"
+msgstr "Moli de vent"
+
+#: src/shapes/Windmill.desktop:47
+msgctxt "Description"
+msgid "Windmill puzzle with five overlapping 9x9 squares"
+msgstr "Trencaclosques moli de vent amb cinc quadrats sobreposats de 9x9"
+
+#: src/shapes/XSudoku.desktop:2
+msgctxt "Name"
+msgid "XSudoku"
+msgstr "XSudoku"
+
+#: src/shapes/XSudoku.desktop:55
+msgctxt "Description"
+msgid "XSudoku shape puzzle"
+msgstr "Trencaclosques amb forma XSudoku"
+
+#: src/themes/abstraction.desktop:2
+msgctxt "Name"
+msgid "Abstraction"
+msgstr "Abstracció"
+
+#: src/themes/abstraction.desktop:47
+msgctxt "Description"
+msgid "A ksudoku theme with abstract artwork."
+msgstr "Un tema del KSudoku amb treball artístic abstracte."
+
+#: src/themes/default.desktop:2
+msgctxt "Name"
+msgid "ksudoku_egyptian"
+msgstr "ksudoku_egipci"
+
+#: src/themes/default.desktop:45
+msgctxt "Description"
+msgid "KSudoku egyptian style theme"
+msgstr "Tema d'estil egipci del KSudoku"
+
+#: src/themes/ksudoku_scrible.desktop:2
+msgctxt "Name"
+msgid "Scribble"
+msgstr "Scribble"
+
+#: src/themes/ksudoku_scrible.desktop:56
+msgctxt "Description"
+msgid "KSudoku Scribble theme for KDE 4"
+msgstr "Tema Scribble per al KSudoku per al KDE 4"

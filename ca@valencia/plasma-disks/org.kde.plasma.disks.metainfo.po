@@ -1,0 +1,49 @@
+# Translation of org.kde.plasma.disks.metainfo.po to Catalan (Valencian)
+# Copyright (C) 2020 This_file_is_part_of_KDE
+# This file is distributed under same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-disks metainfo files\n"
+"POT-Creation-Date: 2020-08-29 02:26+0200\n"
+"PO-Revision-Date: 2020-08-29 13:18+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.plasma.disks.metainfo.xml:11
+msgid "Plasma Disks"
+msgstr "Plasma Disks"
+
+#. (itstool) path: component/summary
+#: org.kde.plasma.disks.metainfo.xml:12
+msgid "Hard disk health monitoring for KDE Plasma"
+msgstr "Monitoratge de l'estat dels disc durs per al Plasma del KDE"
+
+#. (itstool) path: description/p
+#: org.kde.plasma.disks.metainfo.xml:14
+msgid ""
+"Plasma Disks monitors S.M.A.R.T. data of disks and alerts the user when "
+"signs of imminent failure appear."
+msgstr ""
+"El Plasma Disks controla les dades S.M.A.R.T. dels discs i alerta l'usuari "
+"quan apareixen signes de fallada imminent."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.plasma.disks.metainfo.xml:19
+msgid "The Plasma Disks Info Center module showing the state of devices."
+msgstr ""
+"El mòdul del Centre d'informació dels discs del Plasma que mostra l'estat "
+"dels dispositius."
+
+#. (itstool) path: component/developer_name
+#: org.kde.plasma.disks.metainfo.xml:24
+msgid "Harald Sitter &lt;sitter@kde.org&gt;"
+msgstr "Harald Sitter &lt;sitter@kde.org&gt;"

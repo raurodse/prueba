@@ -1,0 +1,48 @@
+# Translation of org.kde.kasts.appdata.po to Catalan (Valencian)
+# Copyright (C) 2021 This_file_is_part_of_KDE
+# This file is distributed under same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kasts appdata files\n"
+"POT-Creation-Date: 2021-06-12 00:18+0000\n"
+"PO-Revision-Date: 2021-05-28 10:41+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 21.04.1\n"
+
+#. (itstool) path: component/name
+#: org.kde.kasts.appdata.xml:9
+msgid "Kasts"
+msgstr "Kasts"
+
+#. (itstool) path: component/summary
+#: org.kde.kasts.appdata.xml:10
+msgid "Podcast application for mobile devices"
+msgstr "Aplicació de podcast per a dispositius mòbils"
+
+#. (itstool) path: component/developer_name
+#: org.kde.kasts.appdata.xml:15
+msgid "The KDE Community"
+msgstr "La comunitat KDE"
+
+#. (itstool) path: description/p
+#: org.kde.kasts.appdata.xml:17
+msgid "Kasts is a mobile podcast application"
+msgstr "El Kasts és una aplicació de podcast per a mòbil"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kasts.appdata.xml:29
+msgid "Kasts feed list on the desktop"
+msgstr "Llista de fonts del Kasts a l'escriptori"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kasts.appdata.xml:33
+msgid "Kasts on a phone"
+msgstr "Kasts a un telèfon"

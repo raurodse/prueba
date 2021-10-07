@@ -1,0 +1,108 @@
+# Translation of print-manager._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2012-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2012, 2015, 2019.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2015, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: print-manager desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-09-08 00:31+0000\n"
+"PO-Revision-Date: 2019-04-02 19:46+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: add-printer/org.kde.kde-add-printer.desktop:2
+msgctxt "Name"
+msgid "Add Printer"
+msgstr "Afig una impressora"
+
+#: add-printer/org.kde.kde-add-printer.desktop:47
+msgctxt "Comment"
+msgid "Tool for adding new printers"
+msgstr "Eina per afegir impressores noves"
+
+#: configure-printer/org.kde.ConfigurePrinter.desktop:2
+msgctxt "Name"
+msgid "Configure Printer"
+msgstr "Configuració de la impressora"
+
+#: configure-printer/org.kde.ConfigurePrinter.desktop:47
+msgctxt "Comment"
+msgid "Configure your printer"
+msgstr "Configura la impressora"
+
+#: plasmoid/package/metadata.desktop:2
+#: printer-manager-kcm/kcm_printer_manager.desktop:13
+msgctxt "Name"
+msgid "Printers"
+msgstr "Impressores"
+
+#: plasmoid/package/metadata.desktop:58
+msgctxt "Comment"
+msgid "List print jobs and manage them"
+msgstr "Llista i gestiona els treballs de la impressió"
+
+#: printer-manager-kcm/kcm_printer_manager.desktop:70
+msgctxt "Comment"
+msgid "Configure your printers"
+msgstr "Configura les impressores"
+
+#: printer-manager-kcm/kcm_printer_manager.desktop:122
+msgctxt "X-KDE-Keywords"
+msgid ""
+"printers,print,paper,cups,ink,printing,impression,remote printer,internet "
+"printer,network printer,ipps,hp jetdirect,ldp,ldr,cups-brf,cups brf,virtual "
+"braille brf printer,share printer"
+msgstr ""
+
+#: print-manager-kded/printmanager.desktop:9
+msgctxt "Name"
+msgid "Print Manager"
+msgstr "Gestor de la impressió"
+
+#: print-manager-kded/printmanager.desktop:61
+msgctxt "Comment"
+msgid "Inform when a new printer is detected, and print problems"
+msgstr ""
+"Informa quan es detecta una impressora nova, dels problemes de la impressió"
+
+#: print-manager-kded/printmanager.notifyrc:3
+msgctxt "Name"
+msgid "Printer Management"
+msgstr "Gestió de la impressió"
+
+#: print-manager-kded/printmanager.notifyrc:41
+msgctxt "Comment"
+msgid "Notifies when a new printer is detected"
+msgstr "Notifica quan es detecta una impressora nova"
+
+#: print-manager-kded/printmanager.notifyrc:93
+msgctxt "Name"
+msgid "A New Printer was detected"
+msgstr "S'ha detectat una impressora nova"
+
+#: print-manager-kded/printmanager.notifyrc:149
+msgctxt "Name"
+msgid "The New Printer was added"
+msgstr "S'ha afegit la impressora nova"
+
+#: printqueue/org.kde.PrintQueue.desktop:2
+msgctxt "Name"
+msgid "Print Queue"
+msgstr "Cua de la impressió"
+
+#: printqueue/org.kde.PrintQueue.desktop:46
+msgctxt "Comment"
+msgid "View the print jobs"
+msgstr "Visualitza els treballs de la impressió"

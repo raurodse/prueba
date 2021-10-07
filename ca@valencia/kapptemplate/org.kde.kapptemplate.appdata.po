@@ -1,0 +1,86 @@
+# Translation of org.kde.kapptemplate.appdata.po to Catalan (Valencian)
+# Copyright (C) 2014-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2014, 2015, 2019.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2015, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kapptemplate appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-06-06 03:08+0200\n"
+"PO-Revision-Date: 2020-07-11 23:33+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 20.04.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.kapptemplate.appdata.xml:6
+msgid "KAppTemplate"
+msgstr "KAppTemplate"
+
+#. (itstool) path: component/summary
+#: org.kde.kapptemplate.appdata.xml:7
+msgid "App Code Template Generator"
+msgstr "Generador de plantilles de codi d'aplicació"
+
+#. (itstool) path: description/p
+#: org.kde.kapptemplate.appdata.xml:9
+msgid ""
+"KAppTemplate is an application to start development quickly using existing "
+"templates providing basic repeatedly written code and a proper structure."
+msgstr ""
+"El KAppTemplate és una aplicació per a iniciar ràpidament el desenvolupament "
+"usant les plantilles existents que proporcionen codi bàsic escrit i una "
+"estructura adequada."
+
+#. (itstool) path: description/p
+#: org.kde.kapptemplate.appdata.xml:13
+msgid "Features:"
+msgstr "Característiques:"
+
+#. (itstool) path: ul/li
+#: org.kde.kapptemplate.appdata.xml:15
+msgid "Templates for C++, Ruby, Python and PHP"
+msgstr "Plantilles per a C++, Ruby, Python i PHP"
+
+#. (itstool) path: ul/li
+#: org.kde.kapptemplate.appdata.xml:16
+msgid "Categories"
+msgstr "Categories"
+
+#. (itstool) path: ul/li
+#: org.kde.kapptemplate.appdata.xml:17
+msgid "Templates for different build-systems and frameworks"
+msgstr "Plantilles per a sistemes de construcció i marcs de treball diferents"
+
+#. (itstool) path: ul/li
+#: org.kde.kapptemplate.appdata.xml:18
+msgid ""
+"Templates especially for KDE-development (plugins for Plasma, QtQuick, "
+"KTextEditor, KRunner, Akonadi)"
+msgstr ""
+"Plantilles pel desenvolupament del KDE especialment (connectors pel Plasma, "
+"QtQuick, KTextEditor, KRunner, Akonadi)"
+
+#. (itstool) path: ul/li
+#: org.kde.kapptemplate.appdata.xml:19
+msgid ""
+"It is easy to create new templates using space holders and a simple CMake-"
+"command"
+msgstr ""
+"És fàcil crear plantilles noves usant espais variables i una ordre CMake "
+"senzilla"
+
+#. (itstool) path: ul/li
+#: org.kde.kapptemplate.appdata.xml:20
+msgid "Integrated into KDevelop"
+msgstr "S'integra en el KDevelop"

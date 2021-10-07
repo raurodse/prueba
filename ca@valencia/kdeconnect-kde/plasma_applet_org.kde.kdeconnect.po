@@ -1,0 +1,176 @@
+# Translation of plasma_applet_org.kde.kdeconnect.po to Catalan (Valencian)
+# Copyright (C) 2014-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2018, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-kde\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-07-25 00:16+0000\n"
+"PO-Revision-Date: 2021-07-15 17:22+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 21.04.3\n"
+
+#: package/contents/ui/Battery.qml:26
+#, kde-format
+msgid "%1% charging"
+msgstr "%1% de càrrega"
+
+#: package/contents/ui/Battery.qml:26
+#, kde-format
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/Battery.qml:26
+#, kde-format
+msgid "No info"
+msgstr "Sense informació"
+
+#: package/contents/ui/Connectivity.qml:41
+#, kde-format
+msgid "Unknown"
+msgstr "Desconeguda"
+
+#: package/contents/ui/Connectivity.qml:51
+#, kde-format
+msgid "No signal"
+msgstr "Sense senyal"
+
+#: package/contents/ui/DeviceDelegate.qml:51
+#, kde-format
+msgid "File Transfer"
+msgstr "Transferència de fitxers"
+
+#: package/contents/ui/DeviceDelegate.qml:52
+#, kde-format
+msgid "Drop a file to transfer it onto your phone."
+msgstr "Deixeu anar un fitxer per a transferir-lo al telèfon."
+
+#: package/contents/ui/DeviceDelegate.qml:123
+#, kde-format
+msgctxt "Battery charge percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/DeviceDelegate.qml:145
+#, kde-format
+msgid "Please choose a file"
+msgstr "Per favor, seleccioneu un fitxer"
+
+#: package/contents/ui/DeviceDelegate.qml:154
+#, kde-format
+msgid "Share file"
+msgstr "Comparteix el fitxer"
+
+#: package/contents/ui/DeviceDelegate.qml:169
+#, kde-format
+msgid "Ring my phone"
+msgstr "Fes sonar el meu telèfon"
+
+#: package/contents/ui/DeviceDelegate.qml:187
+#, kde-format
+msgid "Browse this device"
+msgstr "Navega per aquest dispositiu"
+
+#: package/contents/ui/DeviceDelegate.qml:204
+#, kde-format
+msgid "SMS Messages"
+msgstr "Missatges SMS"
+
+#: package/contents/ui/DeviceDelegate.qml:225
+#, kde-format
+msgid "Remote Keyboard"
+msgstr "Teclat remot"
+
+#: package/contents/ui/DeviceDelegate.qml:241
+#, kde-format
+msgid "Notifications:"
+msgstr "Notificacions:"
+
+#: package/contents/ui/DeviceDelegate.qml:248
+#, kde-format
+msgid "Dismiss all notifications"
+msgstr "Descarta totes les notificacions"
+
+#: package/contents/ui/DeviceDelegate.qml:284
+#, kde-format
+msgid "Reply"
+msgstr "Respon"
+
+#: package/contents/ui/DeviceDelegate.qml:293
+#, kde-format
+msgid "Dismiss"
+msgstr "Refusa"
+
+#: package/contents/ui/DeviceDelegate.qml:310
+#, kde-format
+msgid "Run command"
+msgstr "Executa una ordre"
+
+#: package/contents/ui/DeviceDelegate.qml:318
+#, kde-format
+msgid "Add command"
+msgstr "Afig una ordre"
+
+#: package/contents/ui/FullRepresentation.qml:58
+#, kde-format
+msgid "No paired devices"
+msgstr "No hi ha cap dispositiu aparellat"
+
+#: package/contents/ui/FullRepresentation.qml:58
+#, kde-format
+msgid "Paired device is unavailable"
+msgid_plural "All paired devices are unavailable"
+msgstr[0] "El dispositiu aparellat no està disponible"
+msgstr[1] "No hi ha disponible cap dels dispositius aparellats"
+
+#: package/contents/ui/FullRepresentation.qml:60
+#, kde-format
+msgid "Install KDE Connect on your Android device to integrate it with Plasma!"
+msgstr ""
+"Instal·leu el KDE Connect al dispositiu Android per a integrar-lo amb el "
+"Plasma!"
+
+#: package/contents/ui/FullRepresentation.qml:64
+#, kde-format
+msgid "Pair a Device..."
+msgstr "Aparella un dispositiu..."
+
+#: package/contents/ui/FullRepresentation.qml:64
+#, kde-format
+msgid "Configure..."
+msgstr "Configura..."
+
+#: package/contents/ui/FullRepresentation.qml:76
+#, kde-format
+msgid "Install from Google Play"
+msgstr "Instal·la des de Google Play"
+
+#: package/contents/ui/FullRepresentation.qml:86
+#, kde-format
+msgid "Install from F-Droid"
+msgstr "Instal·la des del F-Droid"
+
+#: package/contents/ui/main.qml:49
+#, kde-format
+msgid "KDE Connect Settings..."
+msgstr "Arranjament del KDE Connect..."
+
+#~ msgctxt ""
+#~ "Display the battery charge percentage with the label \"Battery:\" so the "
+#~ "user knows what is being displayed"
+#~ msgid "Battery: %1"
+#~ msgstr "Bateria: %1"
+
+#~ msgid "%1 (%2)"
+#~ msgstr "%1 (%2)"

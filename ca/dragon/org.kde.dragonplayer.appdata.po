@@ -1,0 +1,92 @@
+# Translation of org.kde.dragonplayer.appdata.po to Catalan (Valencian)
+# Copyright (C) 2014-2016 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2016.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: dragon appdata files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2016-08-21 07:11+0000\n"
+"PO-Revision-Date: 2016-08-21 21:47+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.dragonplayer.appdata.xml:6
+msgid "Dragon Player"
+msgstr "Dragon Player"
+
+#. (itstool) path: component/summary
+#: org.kde.dragonplayer.appdata.xml:7
+msgid "Video player with focus on simplicity"
+msgstr "Reproductor de vídeo amb enfocament en la simplicitat"
+
+#. (itstool) path: description/p
+#: org.kde.dragonplayer.appdata.xml:9
+msgid ""
+"Dragon Player is a multimedia player where the focus is on simplicity, "
+"instead of features. Dragon Player does one thing, and only one thing, which "
+"is playing multimedia files. Its simple interface is designed not to get in "
+"your way and instead empower you to simply play multimedia files."
+msgstr ""
+"El Dragon Player és un reproductor multimèdia que se centra en la "
+"simplicitat, en lloc de les característiques. El Dragon Player fa una cosa, "
+"i només una cosa, la qual és reproduir fitxers multimèdia. Té una interfície "
+"senzilla, la qual està dissenyada perquè no s'interposi en el vostre camí i "
+"que simplement pugueu reproduir els fitxers multimèdia."
+
+#. (itstool) path: description/p
+#: org.kde.dragonplayer.appdata.xml:14
+msgid "Features:"
+msgstr "Característiques:"
+
+#. (itstool) path: ul/li
+#: org.kde.dragonplayer.appdata.xml:16
+msgid "Simple Interface"
+msgstr "Interfície senzilla"
+
+#. (itstool) path: ul/li
+#: org.kde.dragonplayer.appdata.xml:17
+msgid ""
+"Resuming videos: Starts playing a video where you were watching it last time"
+msgstr ""
+"Continua els vídeos: Inicia la reproducció d'un vídeo on l'estàveu veient "
+"l'última vegada"
+
+#. (itstool) path: ul/li
+#: org.kde.dragonplayer.appdata.xml:18
+msgid ""
+"Support for subtitles: Automatically loads subtitles with the matching name"
+msgstr ""
+"Admet a subtítols: Càrrega automàticament els subtítols que coincideixen amb "
+"el nom"
+
+#. (itstool) path: ul/li
+#: org.kde.dragonplayer.appdata.xml:19
+msgid "Video display settings (brightness, contrast)"
+msgstr "Ajustaments per a la pantalla de vídeo (brillantor, contrast)"
+
+#. (itstool) path: ul/li
+#: org.kde.dragonplayer.appdata.xml:20
+msgid ""
+"Due to using Solid and Phonon DragonPlayer is independent of any multimedia "
+"framework or hardware abstraction layer"
+msgstr ""
+"A causa de l'ús de Solid i Phonon, el Dragon Player és independent de "
+"qualsevol marc de treball multimèdia o capa d'abstracció de maquinari"
+
+#. (itstool) path: ul/li
+#: org.kde.dragonplayer.appdata.xml:21
+msgid "Supports playing CDs and DVDs"
+msgstr "Permet la reproducció dels CD i dels DVD"

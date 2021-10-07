@@ -1,0 +1,226 @@
+# Translation of kmymoney._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2010-2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Orestes Mas <orestes@tsc.upc.edu>, 2010.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2013, 2014, 2015, 2016, 2017, 2018, 2020, 2021.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2017, 2018, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kmymoney desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-07-10 00:24+0000\n"
+"PO-Revision-Date: 2021-09-12 20:43+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.12.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: kmymoney/icons/breeze-dark/index.theme:2
+msgctxt "Name"
+msgid "Breeze Dark"
+msgstr "Brisa fosca"
+
+#: kmymoney/icons/breeze-dark/index.theme:27
+msgctxt "Comment"
+msgid "Breeze Dark by the KDE VDG"
+msgstr "Brisa fosca, creat pel VDG del KDE"
+
+#: kmymoney/icons/breeze/index.theme:2
+msgctxt "Name"
+msgid "Breeze"
+msgstr "Brisa"
+
+#: kmymoney/icons/breeze/index.theme:27
+msgctxt "Comment"
+msgid "Breeze by the KDE VDG"
+msgstr "Brisa, creat pel VDG del KDE"
+
+#: kmymoney/org.kde.kmymoney.desktop:2
+msgctxt "Name"
+msgid "KMyMoney"
+msgstr "KMyMoney"
+
+#: kmymoney/org.kde.kmymoney.desktop:43
+msgctxt "GenericName"
+msgid "Personal Finance Manager"
+msgstr "Gestor per a les finances personals"
+
+#: kmymoney/org.kde.kmymoney.desktop:84
+msgctxt "Comment"
+msgid "Personal Finance Manager"
+msgstr "Gestor per a les finances personals"
+
+#: kmymoney/plugins/checkprinting/kcm_checkprinting.desktop:2
+msgctxt "Name"
+msgid "Configure the check printing plugin"
+msgstr "Configura el connector d'impressió de xecs"
+
+#: kmymoney/plugins/checkprinting/kcm_checkprinting.desktop:29
+msgctxt "Keywords"
+msgid "checkprinting;kmymoney;"
+msgstr "impressió de xec;kmymoney;"
+
+#: kmymoney/plugins/checkprinting/kcm_checkprinting.desktop:56
+msgctxt "Comment"
+msgid "Permits the configuration of the print check plugin's options"
+msgstr ""
+"Permet la configuració de les opcions del connector per a la impressió de "
+"xecs"
+
+#: kmymoney/plugins/csv/import/kcm_csvimporter.desktop:2
+msgctxt "Name"
+msgid "CSV Importer configuration"
+msgstr "Configuració de l'importador de CSV"
+
+#: kmymoney/plugins/csv/import/kcm_csvimporter.desktop:33
+msgctxt "Keywords"
+msgid "csvimporter;kmymoney;"
+msgstr "csvimporter;kmymoney;"
+
+#: kmymoney/plugins/csv/import/kcm_csvimporter.desktop:60
+msgctxt "Comment"
+msgid "Configuration for CSV Importer plugin"
+msgstr "Configuració del connector per a l'importador de CSV"
+
+#: kmymoney/plugins/ibanbicdata/germany/germany.desktop.in:2
+msgctxt "Name"
+msgid "GermanIbanBicDatabase"
+msgstr "Basededades_alemanya_IbanBic"
+
+#: kmymoney/plugins/ibanbicdata/germany/germany.desktop.in:22
+msgctxt "Comment"
+msgid ""
+"IBAN and BIC information as published by Deutsche Bundesbank, Frankfurt am "
+"Main, Deutschland."
+msgstr ""
+"Informació IBAN i BIC publicada pel Deutsche Bundesbank, Frankfurt del Main, "
+"Alemanya."
+
+#: kmymoney/plugins/ibanbicdata/ibanbicdata.desktop.in:4
+msgctxt "Name"
+msgid "A database for institution names and iban to bic rules"
+msgstr ""
+"Una base de dades per als noms de les institucions i les regles «iban» a "
+"«bic»"
+
+#: kmymoney/plugins/ibanbicdata/switzerland/switzerland.desktop.in:2
+msgctxt "Name"
+msgid "Swiss IBAN and BIC"
+msgstr "IBAN i BIC suïssos"
+
+#: kmymoney/plugins/ibanbicdata/switzerland/switzerland.desktop.in:21
+msgctxt "Comment"
+msgid "Make information about swiss IBANs and BICs available."
+msgstr "Posa a disposició la informació sobre els IBAN i BIC suïssos."
+
+#: kmymoney/plugins/ibanbicdata/target2/target2.desktop.in:2
+msgctxt "Name"
+msgid "Target2Participants"
+msgstr "Objectiu2Participants"
+
+#: kmymoney/plugins/ibanbicdata/target2/target2.desktop.in:22
+msgctxt "Comment"
+msgid "Contains the BIC and name of all target2 participants"
+msgstr "Conté el BIC i el nom de tots els participants objectiu 2"
+
+#: kmymoney/plugins/icalendar/export/kcm_icalendarexporter.desktop:2
+msgctxt "Name"
+msgid "Configure icalendar export plugin"
+msgstr "Configura el connector d'exportació de l'icalendar"
+
+#: kmymoney/plugins/icalendar/export/kcm_icalendarexporter.desktop:41
+msgctxt "Keywords"
+msgid "icalendarexporter;kmymoney;"
+msgstr "icalendarexporter;kmymoney;"
+
+#: kmymoney/plugins/icalendar/export/kcm_icalendarexporter.desktop:68
+msgctxt "Comment"
+msgid "Permits the configuration of the iCalendar plugin's options"
+msgstr "Permet la configuració de les opcions per al connector iCalendar"
+
+#: kmymoney/plugins/qif/config/kcm_qifexporter.desktop:2
+#: kmymoney/plugins/qif/config/kcm_qifimporter.desktop:2
+msgctxt "Name"
+msgid "QIF Importer configuration"
+msgstr "Configuració de l'importador de QIF"
+
+#: kmymoney/plugins/qif/config/kcm_qifexporter.desktop:31
+msgctxt "Keywords"
+msgid "qifexporter;kmymoney;"
+msgstr "qifexporter;kmymoney;"
+
+#: kmymoney/plugins/qif/config/kcm_qifexporter.desktop:58
+#: kmymoney/plugins/qif/config/kcm_qifimporter.desktop:58
+msgctxt "Comment"
+msgid "Configuration for QIF Importer plugin"
+msgstr "Configuració del connector per a l'importador de QIF"
+
+#: kmymoney/plugins/qif/config/kcm_qifimporter.desktop:31
+msgctxt "Keywords"
+msgid "qifimporter;kmymoney;"
+msgstr "qifimporter;kmymoney;"
+
+#: kmymoney/plugins/views/forecast/kcm_forecastview.desktop:2
+msgctxt "Name"
+msgid "Forecast view configuration"
+msgstr "Configuració per a la vista de la previsió"
+
+#: kmymoney/plugins/views/forecast/kcm_forecastview.desktop:30
+msgctxt "Keywords"
+msgid "forecastview;kmymoney;"
+msgstr "vista de previsió;kmymoney;"
+
+#: kmymoney/plugins/views/forecast/kcm_forecastview.desktop:57
+msgctxt "Comment"
+msgid "Configuration for forecast view plugin"
+msgstr "Configuració del connector per a la vista de la previsió"
+
+#: kmymoney/plugins/views/reports/kcm_reportsview.desktop:2
+msgctxt "Name"
+msgid "Reports view configuration"
+msgstr "Configuració de la vista d'informes"
+
+#: kmymoney/plugins/views/reports/kcm_reportsview.desktop:30
+msgctxt "Keywords"
+msgid "reportsview;kmymoney;"
+msgstr "vista d'informes;kmymoney;"
+
+#: kmymoney/plugins/views/reports/kcm_reportsview.desktop:57
+msgctxt "Comment"
+msgid "Configuration for reports view plugin"
+msgstr "Configuració del connector per a la vista dels informes"
+
+#: kmymoney/plugins/xml/kcm_xmlstorage.desktop:2
+msgctxt "Name"
+msgid "XML storage configuration"
+msgstr "Configuració de l'emmagatzematge XML"
+
+#: kmymoney/plugins/xml/kcm_xmlstorage.desktop:31
+msgctxt "Keywords"
+msgid "xmlstorage;kmymoney;"
+msgstr "xmlstorage;kmymoney;"
+
+#: kmymoney/plugins/xml/kcm_xmlstorage.desktop:59
+msgctxt "Comment"
+msgid "Configuration for XML storage plugin"
+msgstr "Configuració del connector per a l'emmagatzematge XML"
+
+#~ msgctxt "Name"
+#~ msgid "KMyMoney Importer Plugin"
+#~ msgstr "Connector d'importació del KMyMoney"
+
+#~ msgctxt "Comment"
+#~ msgid "A KMyMoney plugin"
+#~ msgstr "Un connector del KMyMoney"
+
+#~ msgctxt "Name"
+#~ msgid "Painter of payee identifier"
+#~ msgstr "Pintor de l'identificador del beneficiari"

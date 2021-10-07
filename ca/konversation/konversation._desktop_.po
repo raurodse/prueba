@@ -1,0 +1,300 @@
+# Translation of konversation._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2003-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2003, 2014, 2017, 2020.
+# Albert Astals Cid <aacid@kde.org>, 2004, 2005, 2006.
+# Manuel Tortosa <manutortosa@gmail.com>, 2009.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2010, 2013, 2014, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: konversation desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-09-01 00:27+0000\n"
+"PO-Revision-Date: 2020-10-13 11:12+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: data/images/nickicons/alternative/index.desktop:3
+msgctxt "Name"
+msgid "Big Bullets"
+msgstr "Big Bullets"
+
+#: data/images/nickicons/alternative/index.desktop:54
+msgctxt "Comment"
+msgid "\"Big Bullets\" by Dario Abatianni"
+msgstr "«Big Bullets» per en Dario Abatianni"
+
+#: data/images/nickicons/christmas/index.desktop:3
+msgctxt "Name"
+msgid "Christmas Theme"
+msgstr "Tema nadalenc"
+
+#: data/images/nickicons/christmas/index.desktop:54
+msgctxt "Comment"
+msgid "\"Christmas Theme\" by Kenichiro Takahashi"
+msgstr "«Tema nadalenc» per en Kenichiro Takahashi"
+
+#: data/images/nickicons/classic/index.desktop:3
+msgctxt "Name"
+msgid "Classic Theme"
+msgstr "Tema clàssic"
+
+#: data/images/nickicons/classic/index.desktop:56
+msgctxt "Comment"
+msgid "\"LED\" by Dario Abatianni"
+msgstr "«LED» per en Dario Abatianni"
+
+#: data/images/nickicons/default-dark/index.desktop:3
+msgctxt "Name"
+msgid "Default Theme (Dark variant)"
+msgstr "Tema predeterminat (variant fosca)"
+
+#: data/images/nickicons/default-dark/index.desktop:26
+#: data/images/nickicons/default/index.desktop:55
+msgctxt "Comment"
+msgid "\"Breeze\" by Uri Herrera"
+msgstr "«Brisa» per en Uri Herrera"
+
+#: data/images/nickicons/default/index.desktop:3
+msgctxt "Name"
+msgid "Default Theme"
+msgstr "Tema per omissió"
+
+#: data/images/nickicons/oxygen/index.desktop:3
+msgctxt "Name"
+msgid "Oxygen Theme"
+msgstr "Tema Oxygen"
+
+#: data/images/nickicons/oxygen/index.desktop:40
+msgctxt "Comment"
+msgid "\"Oxygen\" by Nuno Pinheiro"
+msgstr "«Oxygen» per en Nuno Pinheiro"
+
+#: data/images/nickicons/simplistic/index.desktop:3
+msgctxt "Name"
+msgid "KDE 3 Default Theme"
+msgstr "Tema per omissió del KDE 3"
+
+#: data/images/nickicons/simplistic/index.desktop:51
+msgctxt "Comment"
+msgid "\"Simplistic\" by Shintaro Matsuoka"
+msgstr "«Simplista» per en Shintaro Matsuoka"
+
+#: data/images/nickicons/smiling/index.desktop:3
+msgctxt "Name"
+msgid "Smiling Theme"
+msgstr "Tema Smiling"
+
+#: data/images/nickicons/smiling/index.desktop:53
+msgctxt "Comment"
+msgid "\"Smiling\" stolen from Kopete by John Tapsell"
+msgstr "«Smiling» robat del Kopete per en John Tapsell"
+
+#: data/images/nickicons/square/index.desktop:3
+msgctxt "Name"
+msgid "Square Theme"
+msgstr "Tema Square"
+
+#: data/images/nickicons/square/index.desktop:52
+msgctxt "Comment"
+msgid "\"SQUARE\" by Kenichiro Takahashi"
+msgstr "«SQUARE» per en Kenichiro Takahashi"
+
+#: data/konversation.notifyrc:4
+msgctxt "Comment"
+msgid "Konversation"
+msgstr "Konversation"
+
+#: data/konversation.notifyrc:62
+msgctxt "Name"
+msgid "New message"
+msgstr "Missatge nou"
+
+#: data/konversation.notifyrc:116
+msgctxt "Comment"
+msgid "New message arrived in a channel"
+msgstr "Ha arribat un missatge nou a un canal"
+
+#: data/konversation.notifyrc:169
+msgctxt "Name"
+msgid "Nick written"
+msgstr "Escriptura de sobrenom"
+
+#: data/konversation.notifyrc:219
+msgctxt "Comment"
+msgid "Someone wrote your nick in a message"
+msgstr "Algú ha escrit el vostre sobrenom en un missatge"
+
+#: data/konversation.notifyrc:271
+msgctxt "Name"
+msgid "Highlight triggered"
+msgstr "Activació de ressaltat"
+
+#: data/konversation.notifyrc:316
+msgctxt "Comment"
+msgid "Someone triggered a highlight"
+msgstr "Algú ha activat un ressaltat"
+
+#: data/konversation.notifyrc:364
+msgctxt "Name"
+msgid "Private message"
+msgstr "Missatge privat"
+
+#: data/konversation.notifyrc:415
+msgctxt "Comment"
+msgid "You received a private message"
+msgstr "Heu rebut un missatge privat"
+
+#: data/konversation.notifyrc:468
+msgctxt "Name"
+msgid "Nick changed"
+msgstr "Sobrenom canviat"
+
+#: data/konversation.notifyrc:518
+msgctxt "Comment"
+msgid "Someone changed their nick"
+msgstr "Algú ha canviat el seu sobrenom"
+
+#: data/konversation.notifyrc:570
+msgctxt "Name"
+msgid "Incoming file"
+msgstr "Fitxer entrant"
+
+#: data/konversation.notifyrc:623
+msgctxt "Comment"
+msgid "Someone wants to transmit a file to you over DCC"
+msgstr "Algú desitja enviar-vos un fitxer sobre DCC"
+
+#: data/konversation.notifyrc:675
+msgctxt "Name"
+msgid "DCC transfer error"
+msgstr "Error de transferència DCC"
+
+#: data/konversation.notifyrc:722
+msgctxt "Comment"
+msgid "An error occurred in a DCC transfer"
+msgstr "Ha ocorregut un error en una transferència DCC"
+
+#: data/konversation.notifyrc:771
+msgctxt "Name"
+msgid "DCC transfer complete"
+msgstr "S'ha completat la transferència DCC"
+
+#: data/konversation.notifyrc:818
+msgctxt "Comment"
+msgid "A DCC transfer successfully completed"
+msgstr "Una transferència DCC s'ha completat correctament"
+
+#: data/konversation.notifyrc:867
+msgctxt "Name"
+msgid "Nick joined channel"
+msgstr "El sobrenom ha accedit al canal"
+
+#: data/konversation.notifyrc:916
+msgctxt "Comment"
+msgid "New nick joined a channel"
+msgstr "Un sobrenom nou ha accedit a un canal"
+
+#: data/konversation.notifyrc:968
+msgctxt "Name"
+msgid "Nick left channel"
+msgstr "El sobrenom ha deixat el canal"
+
+#: data/konversation.notifyrc:1017
+msgctxt "Comment"
+msgid "A nick left a channel"
+msgstr "Un sobrenom ha deixat un canal"
+
+#: data/konversation.notifyrc:1069
+msgctxt "Name"
+msgid "Mode change"
+msgstr "Canvi de mode"
+
+#: data/konversation.notifyrc:1118
+msgctxt "Comment"
+msgid "A user or channel mode was changed"
+msgstr "El mode d'un usuari o d'un canal ha estat canviat"
+
+#: data/konversation.notifyrc:1170
+msgctxt "Name"
+msgid "Nick online"
+msgstr "Sobrenom en línia"
+
+#: data/konversation.notifyrc:1209
+msgctxt "Comment"
+msgid "A user on your watched nicks list has come online"
+msgstr "S'ha connectat un usuari de la vostra llista de sobrenoms vigilats"
+
+#: data/konversation.notifyrc:1261
+msgctxt "Name"
+msgid "Query"
+msgstr "Conversa"
+
+#: data/konversation.notifyrc:1315
+msgctxt "Comment"
+msgid "Someone started a conversation (query) with you"
+msgstr "Algú ha iniciat una conversa (query) amb vós"
+
+#: data/konversation.notifyrc:1367
+msgctxt "Name"
+msgid "Kick"
+msgstr "Expulsió"
+
+#: data/konversation.notifyrc:1419
+msgctxt "Comment"
+msgid "Someone kicked you out of a channel"
+msgstr "Algú vos ha expulsat d'un canal"
+
+#: data/konversation.notifyrc:1471
+msgctxt "Name"
+msgid "Connection failure"
+msgstr "Error de connexió"
+
+#: data/konversation.notifyrc:1523
+msgctxt "Comment"
+msgid "Failed to connect to server"
+msgstr "Ha fallat en connectar amb el servidor"
+
+#: data/konversation.notifyrc:1576
+msgctxt "Name"
+msgid "You joined a channel"
+msgstr "Heu entrat a un canal"
+
+#: data/konversation.notifyrc:1625
+msgctxt "Comment"
+msgid "You joined a channel"
+msgstr "Heu entrat a un canal"
+
+#: data/konversation.notifyrc:1677
+msgctxt "Name"
+msgid "DCC Chat"
+msgstr "Xat DCC"
+
+#: data/konversation.notifyrc:1728
+msgctxt "Comment"
+msgid "Someone started a DCC chat with you"
+msgstr "Algú ha iniciat un xat DCC amb vós"
+
+#: data/org.kde.konversation.desktop:7
+msgctxt "GenericName"
+msgid "IRC Client"
+msgstr "Client d'IRC"
+
+#: data/org.kde.konversation.desktop:62
+msgctxt "Name"
+msgid "Konversation"
+msgstr "Konversation"
+
+#~ msgctxt "Name"
+#~ msgid "Notify"
+#~ msgstr "Notificació"

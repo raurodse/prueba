@@ -1,0 +1,104 @@
+# Translation of rsibreak._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2010-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Manuel Tortosa Moreno <manutortosa@gmail.com>, 2010.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2015, 2018, 2020.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: rsibreak desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-07-09 00:25+0000\n"
+"PO-Revision-Date: 2020-08-02 12:31+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.04.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: src/org.kde.rsibreak.desktop:11 src/rsibreak_autostart.desktop:11
+msgctxt "Name"
+msgid "RSIBreak"
+msgstr "RSIBreak"
+
+#: src/org.kde.rsibreak.desktop:55
+msgctxt "GenericName"
+msgid "Help prevent repetitive strain injury"
+msgstr "Ajuda a prevenir la síndrome del canal carpià"
+
+#: src/org.kde.rsibreak.desktop:82 src/rsibreak_autostart.desktop:55
+msgctxt "Comment"
+msgid "Makes sure you rest now and then"
+msgstr "Assegureu-vos de prendre un descans, ara i després"
+
+#: src/rsibreak.notifyrc:4
+msgctxt "Comment"
+msgid "RSIBreak"
+msgstr "RSIBreak"
+
+#: src/rsibreak.notifyrc:49
+msgctxt "Name"
+msgid "Breaks"
+msgstr "Descansos"
+
+#: src/rsibreak.notifyrc:95
+msgctxt "Name"
+msgid "Start of a short break"
+msgstr "Inici d'un descans curt"
+
+#: src/rsibreak.notifyrc:137
+msgctxt "Comment"
+msgid "When a short break starts"
+msgstr "En començar un descans curt"
+
+#: src/rsibreak.notifyrc:183
+msgctxt "Name"
+msgid "End of a short break"
+msgstr "Fi d'un descans curt"
+
+#: src/rsibreak.notifyrc:225
+msgctxt "Comment"
+msgid "When a short break ends"
+msgstr "En finalitzar un descans curt"
+
+#: src/rsibreak.notifyrc:271
+msgctxt "Name"
+msgid "Start of a long break"
+msgstr "Inici d'un descans llarg"
+
+#: src/rsibreak.notifyrc:313
+msgctxt "Comment"
+msgid "When a long break starts"
+msgstr "En començar un descans llarg"
+
+#: src/rsibreak.notifyrc:359
+msgctxt "Name"
+msgid "End of a long break"
+msgstr "Fi d'un descans llarg"
+
+#: src/rsibreak.notifyrc:401
+msgctxt "Comment"
+msgid "When a long break ends"
+msgstr "En finalitzar un descans llarg"
+
+#: src/rsibreak.notifyrc:445
+msgctxt "Name"
+msgid "Regarding timers"
+msgstr "Temporitzadors"
+
+#: src/rsibreak.notifyrc:483
+msgctxt "Name"
+msgid "When the short timer has been reset"
+msgstr "En reiniciar el temporitzador curt"
+
+#: src/rsibreak.notifyrc:522
+msgctxt "Name"
+msgid "When the timers have been reset"
+msgstr "En reiniciar els temporitzadors"

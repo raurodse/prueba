@@ -1,0 +1,222 @@
+# Translation of ikonacli.po to Catalan (Valencian)
+# Copyright (C) 2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2020.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: ikona\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-02-29 02:47+0100\n"
+"PO-Revision-Date: 2020-07-11 08:47+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.04.3\n"
+
+#: src/rs/src/cli/cli.rs:38
+msgid "Command-line interface to Ikona"
+msgstr "Interfície de la línia d'ordres per a l'Ikona"
+
+#: src/rs/src/cli/cli.rs:40 src/rs/src/cli/cli.rs:196 src/rs/src/cli/cli.rs:200
+#: src/rs/src/cli/cli.rs:211 src/rs/src/cli/cli.rs:235
+#: src/rs/src/cli/cli.rs:247
+msgid "optimize"
+msgstr "optimitza"
+
+#: src/rs/src/cli/cli.rs:41
+msgid "Optimize your icon"
+msgstr "Optimitza la vostra icona"
+
+#: src/rs/src/cli/cli.rs:43 src/rs/src/cli/cli.rs:73 src/rs/src/cli/cli.rs:104
+#: src/rs/src/cli/cli.rs:135 src/rs/src/cli/cli.rs:158
+#: src/rs/src/cli/cli.rs:197 src/rs/src/cli/cli.rs:201
+#: src/rs/src/cli/cli.rs:266 src/rs/src/cli/cli.rs:270
+#: src/rs/src/cli/cli.rs:328 src/rs/src/cli/cli.rs:332
+#: src/rs/src/cli/cli.rs:389 src/rs/src/cli/cli.rs:434
+msgid "input"
+msgstr "entrada"
+
+#: src/rs/src/cli/cli.rs:44 src/rs/src/cli/cli.rs:74 src/rs/src/cli/cli.rs:105
+#: src/rs/src/cli/cli.rs:136 src/rs/src/cli/cli.rs:159
+msgid "Sets the input file to read from"
+msgstr "Estableix el fitxer d'entrada a llegir des de"
+
+#: src/rs/src/cli/cli.rs:49 src/rs/src/cli/cli.rs:66 src/rs/src/cli/cli.rs:79
+#: src/rs/src/cli/cli.rs:97 src/rs/src/cli/cli.rs:110 src/rs/src/cli/cli.rs:128
+#: src/rs/src/cli/cli.rs:148 src/rs/src/cli/cli.rs:170
+#: src/rs/src/cli/cli.rs:179 src/rs/src/cli/cli.rs:247
+#: src/rs/src/cli/cli.rs:309 src/rs/src/cli/cli.rs:371
+#: src/rs/src/cli/cli.rs:404 src/rs/src/cli/cli.rs:467
+msgid "output"
+msgstr "eixida"
+
+#: src/rs/src/cli/cli.rs:50 src/rs/src/cli/cli.rs:80 src/rs/src/cli/cli.rs:111
+#: src/rs/src/cli/cli.rs:149 src/rs/src/cli/cli.rs:171
+msgid "Sets the output file to write to"
+msgstr "Estableix el fitxer d'eixida on escriure a"
+
+#: src/rs/src/cli/cli.rs:54 src/rs/src/cli/cli.rs:56 src/rs/src/cli/cli.rs:84
+#: src/rs/src/cli/cli.rs:86 src/rs/src/cli/cli.rs:211 src/rs/src/cli/cli.rs:280
+msgid "mode"
+msgstr "mode"
+
+#: src/rs/src/cli/cli.rs:55 src/rs/src/cli/cli.rs:85
+msgid "m"
+msgstr "m"
+
+#: src/rs/src/cli/cli.rs:57
+msgid "Sets optimization method to use"
+msgstr "Estableix el mètode d'optimització a emprar"
+
+#: src/rs/src/cli/cli.rs:62 src/rs/src/cli/cli.rs:64 src/rs/src/cli/cli.rs:93
+#: src/rs/src/cli/cli.rs:95 src/rs/src/cli/cli.rs:124 src/rs/src/cli/cli.rs:126
+#: src/rs/src/cli/cli.rs:175 src/rs/src/cli/cli.rs:177
+#: src/rs/src/cli/cli.rs:235 src/rs/src/cli/cli.rs:297
+#: src/rs/src/cli/cli.rs:359 src/rs/src/cli/cli.rs:464
+msgid "inplace"
+msgstr "al_lloc"
+
+#: src/rs/src/cli/cli.rs:63 src/rs/src/cli/cli.rs:94 src/rs/src/cli/cli.rs:125
+#: src/rs/src/cli/cli.rs:176
+msgid "i"
+msgstr "a"
+
+#: src/rs/src/cli/cli.rs:65 src/rs/src/cli/cli.rs:96 src/rs/src/cli/cli.rs:127
+#: src/rs/src/cli/cli.rs:178
+msgid "Modifies the icon in-place"
+msgstr "Modifica la icona al lloc"
+
+#: src/rs/src/cli/cli.rs:70 src/rs/src/cli/cli.rs:265 src/rs/src/cli/cli.rs:269
+#: src/rs/src/cli/cli.rs:280 src/rs/src/cli/cli.rs:297
+#: src/rs/src/cli/cli.rs:309
+msgid "class"
+msgstr "classifica"
+
+#: src/rs/src/cli/cli.rs:71
+msgid "Class your icon"
+msgstr "Classifica la vostra icona"
+
+#: src/rs/src/cli/cli.rs:87
+msgid "Sets what type of icon to treat the icon as"
+msgstr "Estableix quin tipus d'icona per a tractar la icona com a"
+
+#: src/rs/src/cli/cli.rs:101 src/rs/src/cli/cli.rs:327
+#: src/rs/src/cli/cli.rs:331 src/rs/src/cli/cli.rs:342
+#: src/rs/src/cli/cli.rs:359 src/rs/src/cli/cli.rs:371
+msgid "convert"
+msgstr "converteix"
+
+#: src/rs/src/cli/cli.rs:102
+msgid "Convert your icon from light <-> dark"
+msgstr "Converteix la icona de clara <-> fosca"
+
+#: src/rs/src/cli/cli.rs:115 src/rs/src/cli/cli.rs:117
+msgid "target"
+msgstr "destinació"
+
+#: src/rs/src/cli/cli.rs:116
+msgid "t"
+msgstr "d"
+
+#: src/rs/src/cli/cli.rs:118
+msgid "Sets the type of icon to convert to"
+msgstr "Estableix el tipus d'icona a la qual convertir"
+
+#: src/rs/src/cli/cli.rs:132 src/rs/src/cli/cli.rs:388
+#: src/rs/src/cli/cli.rs:392 src/rs/src/cli/cli.rs:403
+msgid "extract"
+msgstr "extreu"
+
+#: src/rs/src/cli/cli.rs:133
+msgid "Extract icons from an Ikona template file"
+msgstr "Extreu les icones d'un fitxer de plantilla de l'Ikona"
+
+#: src/rs/src/cli/cli.rs:141 src/rs/src/cli/cli.rs:393
+msgid "size"
+msgstr "mida"
+
+#: src/rs/src/cli/cli.rs:142
+msgid "Sets the size of icon you want to extract"
+msgstr "Estableix la mida de la icona que voleu extreure"
+
+#: src/rs/src/cli/cli.rs:155 src/rs/src/cli/cli.rs:433
+#: src/rs/src/cli/cli.rs:438 src/rs/src/cli/cli.rs:464
+#: src/rs/src/cli/cli.rs:467
+msgid "pad"
+msgstr "farcit"
+
+#: src/rs/src/cli/cli.rs:156
+msgid "Add padding to an icon on all sides"
+msgstr "Afig un farciment a una icona a tots els costats"
+
+#: src/rs/src/cli/cli.rs:164 src/rs/src/cli/cli.rs:439
+msgid "padding"
+msgstr "farciment"
+
+#: src/rs/src/cli/cli.rs:165
+msgid "Sets the amount of padding to use"
+msgstr "Estableix la quantitat de farciment a usar"
+
+#: src/rs/src/cli/cli.rs:238 src/rs/src/cli/cli.rs:250
+msgid "Icon optimized"
+msgstr "S'ha optimitzat la icona"
+
+#: src/rs/src/cli/cli.rs:242 src/rs/src/cli/cli.rs:254
+msgid "Icon failed to optimize"
+msgstr "Ha fallat en optimitzar la icona"
+
+#: src/rs/src/cli/cli.rs:259 src/rs/src/cli/cli.rs:321
+#: src/rs/src/cli/cli.rs:383
+msgid "Please specify an output file"
+msgstr "Per favor, especifiqueu un fitxer d'eixida"
+
+#: src/rs/src/cli/cli.rs:300 src/rs/src/cli/cli.rs:312
+msgid "Icon classed"
+msgstr "S'ha classificat la icona"
+
+#: src/rs/src/cli/cli.rs:304 src/rs/src/cli/cli.rs:316
+msgid "Icon failed to class"
+msgstr "Ha fallat en classificar la icona"
+
+#: src/rs/src/cli/cli.rs:342
+msgid "light"
+msgstr "clara"
+
+#: src/rs/src/cli/cli.rs:362 src/rs/src/cli/cli.rs:374
+msgid "Icon converted"
+msgstr "S'ha convertit la icona"
+
+#: src/rs/src/cli/cli.rs:366 src/rs/src/cli/cli.rs:378
+msgid "Icon failed to convert"
+msgstr "Ha fallat en convertir la icona"
+
+#: src/rs/src/cli/cli.rs:425
+msgid "Icon extracted"
+msgstr "S'ha extret la icona"
+
+#: src/rs/src/cli/cli.rs:428
+msgid "Icon failed to extract"
+msgstr "Ha fallat en extreure la icona"
+
+#: src/rs/src/cli/cli.rs:445
+msgid "Padding is not a number"
+msgstr "El farciment no és un nombre"
+
+#: src/rs/src/cli/cli.rs:470
+msgid "Neither inplace nor output was specified"
+msgstr "No s'ha especificat ni el lloc ni l'eixida"
+
+#: src/rs/src/cli/cli.rs:477
+msgid "Icon padded"
+msgstr "Icona amb farciment"
+
+#: src/rs/src/cli/cli.rs:481
+msgid "Failed to pad icon"
+msgstr "Ha fallat en farcir la icona"

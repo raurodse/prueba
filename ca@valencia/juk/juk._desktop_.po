@@ -1,0 +1,77 @@
+# Translation of juk._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2000-2017 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 2000, 2005.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2002, 2003, 2004, 2005, 2007, 2008, 2009, 2011, 2013, 2015.
+# Albert Astals Cid <aacid@kde.org>, 2004.
+# Joan Maspons <joanmaspons@gmail.com>, 2009.
+# Manuel Tortosa <manutortosa@chakra-project.org>, 2010.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: juk desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-19 00:26+0000\n"
+"PO-Revision-Date: 2017-10-02 18:50+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: juk.notifyrc:4
+msgctxt "Comment"
+msgid "Juk Music Player"
+msgstr "Reproductor musical JuK"
+
+#: juk.notifyrc:55 org.kde.juk.desktop:11
+msgctxt "Name"
+msgid "JuK"
+msgstr "JuK"
+
+#: juk.notifyrc:108
+msgctxt "Name"
+msgid "Cover Successfully Downloaded"
+msgstr "La caràtula s'ha baixat correctament"
+
+#: juk.notifyrc:159
+msgctxt "Comment"
+msgid "A requested cover has been downloaded"
+msgstr "S'ha baixat la caràtula sol·licitada"
+
+#: juk.notifyrc:213
+msgctxt "Name"
+msgid "Cover Failed to Download"
+msgstr "Ha fallat la baixada de la caràtula"
+
+#: juk.notifyrc:264
+msgctxt "Comment"
+msgid "A requested cover has failed to download"
+msgstr "Una sol·licitud de baixada de caràtula ha fallat"
+
+#: juk.notifyrc:318
+msgctxt "Name"
+msgid "JuK running in dock mode"
+msgstr "El JuK s'està executant en el mode acoblat"
+
+#: juk.notifyrc:361
+msgctxt "Comment"
+msgid "Use context menu in system tray to restore."
+msgstr "Useu el menú contextual a la safata del sistema per a restaurar."
+
+#: jukservicemenu.desktop:7
+msgctxt "Name"
+msgid "Add to JuK Collection"
+msgstr "Afig a la col·lecció del JuK"
+
+#: org.kde.juk.desktop:62
+msgctxt "GenericName"
+msgid "Music Player"
+msgstr "Reproductor musical"
