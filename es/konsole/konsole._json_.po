@@ -1,0 +1,20 @@
+# Eloy Cuadra <ecuadra@eloihr.net>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: konsole\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-25 00:28+0000\n"
+"PO-Revision-Date: 2021-06-25 02:38+0200\n"
+"Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
+"Language-Team: Spanish <kde-l10n-es@kde.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 21.04.2\n"
+
+#: src/plugins/SSHManager/konsole_sshmanager.json
+msgctxt "Name"
+msgid "SSH Manager"
+msgstr "Gestor de SSH"

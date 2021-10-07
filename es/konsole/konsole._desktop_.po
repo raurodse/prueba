@@ -1,0 +1,199 @@
+# translation of desktop_kdebase.po to Spanish
+# Copyright (C) 2002
+#
+# Pablo de Vicente <vicente@oan.es>, 2002.
+# Jaime Robles <jaime@kde.org>, 2003, 2004, 2005, 2007, 2008, 2009.
+# Miguel Revilla Rodríguez <yo@miguelrevilla.com>, 2003, 2004.
+# Pablo de Vicente <vicnte@oan.es>, 2003.
+# Pablo de Vicente <pvicentea@wanadoo.es>, 2004.
+# Pablo de Vicente <p.devicente@wanadoo.es>, 2004, 2005.
+# Eloy Cuadra <ecuadra@eloihr.net>, 2005, 2009, 2010, 2016, 2018, 2020.
+# Pablo de Vicente <pablo.devicente@gmail.com>, 2005, 2006, 2007.
+# Enrique Matias Sanchez (aka Quique) <cronopios@gmail.com>, 2007.
+# Jaime Robles <jaime@robles.nu>, 2007.
+# Cristina Yenyxe González García <the.blue.valkyrie@gmail.com>, 2010.
+# Javier Vinal <fjvinal@gmail.com>, 2011.
+# Rocio Gallego <traducciones@rociogallego.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-07-27 00:28+0000\n"
+"PO-Revision-Date: 2020-06-06 02:01+0200\n"
+"Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
+"Language-Team: Spanish <kde-l10n-es@kde.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"First-Translator: Boris Wesslowski <Boris@Wesslowski.com>\n"
+"X-Generator: Lokalize 20.04.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: desktop/konsole.notifyrc:4
+msgctxt "Comment"
+msgid "Konsole"
+msgstr "Konsole"
+
+#: desktop/konsole.notifyrc:97
+msgctxt "Name"
+msgid "Bell in Focused Session"
+msgstr "Campana en la sesión con el foco"
+
+#: desktop/konsole.notifyrc:136
+msgctxt "Comment"
+msgid "Bell emitted within a focused session"
+msgstr "Campanada en una sesión con el foco"
+
+#: desktop/konsole.notifyrc:178
+msgctxt "Name"
+msgid "Bell in Non-Focused Session"
+msgstr "Campana en sesión sin el foco"
+
+#: desktop/konsole.notifyrc:217
+msgctxt "Comment"
+msgid "Bell emitted within a non-focused session"
+msgstr "Campanada en una sesión sin el foco"
+
+#: desktop/konsole.notifyrc:260
+msgctxt "Name"
+msgid "Activity in Non-Focused Monitored Session"
+msgstr "Actividad en sesión monitorizada sin el foco"
+
+#: desktop/konsole.notifyrc:299
+msgctxt "Comment"
+msgid "Activity detected in a non-focused monitored session"
+msgstr "Actividad detectada en una sesión monitorizada sin el foco"
+
+#: desktop/konsole.notifyrc:341
+msgctxt "Name"
+msgid "Activity in Monitored Session"
+msgstr "Actividad en sesión monitorizada"
+
+#: desktop/konsole.notifyrc:422
+msgctxt "Comment"
+msgid "Activity detected in a monitored session"
+msgstr "Actividad detectada en una sesión monitorizada"
+
+#: desktop/konsole.notifyrc:510
+msgctxt "Name"
+msgid "Silence in Non-Focused Monitored Session"
+msgstr "Silencio en sesión monitorizada sin el foco"
+
+#: desktop/konsole.notifyrc:549
+msgctxt "Comment"
+msgid "Silence detected in a non-focused monitored session"
+msgstr "Silencio detectado en una sesión monitorizada sin el foco"
+
+#: desktop/konsole.notifyrc:591
+msgctxt "Name"
+msgid "Silence in Monitored Session"
+msgstr "Silencio en sesión monitorizada"
+
+#: desktop/konsole.notifyrc:672
+msgctxt "Comment"
+msgid "Silence detected in a monitored session"
+msgstr "Silencio detectado en una sesión monitorizada"
+
+#: desktop/konsole.notifyrc:760
+msgctxt "Name"
+msgid "Process finished in Non-Focused Monitored Session"
+msgstr "Proceso terminado en sesión monitorizada sin el foco"
+
+#: desktop/konsole.notifyrc:791
+msgctxt "Comment"
+msgid "Process finished in a non-focused monitored session"
+msgstr "Proceso terminado en una sesión monitorizada sin el foco"
+
+#: desktop/konsole.notifyrc:825
+msgctxt "Name"
+msgid "Process finished in Monitored Session"
+msgstr "Proceso terminado en sesión monitorizada"
+
+#: desktop/konsole.notifyrc:857
+msgctxt "Comment"
+msgid "Process finished in a monitored session"
+msgstr "Proceso terminado en una sesión monitorizada"
+
+#: desktop/konsole.notifyrc:892
+msgctxt "Name"
+msgid "Session Finished With Non-Zero Status"
+msgstr "La sesión terminó con un estado distinto de cero"
+
+#: desktop/konsole.notifyrc:976
+msgctxt "Comment"
+msgid "A session has exited with non-zero status"
+msgstr "La sesión ha terminado con un estado distinto de cero"
+
+#: desktop/konsolepart.desktop:15 desktop/terminalemulator.desktop:6
+msgctxt "Name"
+msgid "Terminal Emulator"
+msgstr "Emulador de terminal"
+
+#: desktop/konsolepart.desktop:108 desktop/org.kde.konsole.desktop:196
+#: desktop/terminalemulator.desktop:99
+msgctxt "Comment"
+msgid "Command line access"
+msgstr "Acceso a la línea de órdenes"
+
+#: desktop/konsolerun.desktop:13
+msgctxt "Name"
+msgid "Run In Konsole"
+msgstr "Ejecutar en Konsole"
+
+#: desktop/konsolerun.desktop:63
+msgctxt "Comment"
+msgid "Run within Konsole"
+msgstr "Ejecutar en Konsole"
+
+#: desktop/org.kde.konsole.desktop:15
+msgctxt "Name"
+msgid "Konsole"
+msgstr "Konsole"
+
+#: desktop/org.kde.konsole.desktop:109
+msgctxt "GenericName"
+msgid "Terminal"
+msgstr "Terminal"
+
+#: desktop/org.kde.konsole.desktop:242
+msgctxt "Name"
+msgid "Open a New Window"
+msgstr "Abrir una nueva ventana"
+
+#: desktop/org.kde.konsole.desktop:295
+msgctxt "Name"
+msgid "Open a New Tab"
+msgstr "Abrir una nueva pestaña"
+
+#~ msgctxt "Name"
+#~ msgid "Open Terminal Here"
+#~ msgstr "Abrir terminal aquí"
+
+#~ msgctxt "Comment"
+#~ msgid "Opens a terminal at the current folder"
+#~ msgstr "Abre una terminal en la carpeta actual"
+
+#~ msgctxt "Name"
+#~ msgid "Activity in Hidden Monitored Session"
+#~ msgstr "Actividad en sesión oculta monitorizada"
+
+#~ msgctxt "Comment"
+#~ msgid "Activity detected in a hidden monitored session"
+#~ msgstr "Actividad detectada en una sesión oculta monitorizada"
+
+#~ msgctxt "Name"
+#~ msgid "Silence in Hidden Monitored Session"
+#~ msgstr "Silencio en sesión oculta monitorizada"
+
+#~ msgctxt "Comment"
+#~ msgid "Silence detected in a hidden monitored session"
+#~ msgstr "Silencio detectado en una sesión oculta monitorizada"
+
+#~ msgctxt "Name"
+#~ msgid "Shell"
+#~ msgstr "Intérprete de órdenes"
+
+#~ msgctxt "Comment"
+#~ msgid "Konsole default profile"
+#~ msgstr "Perfil predeterminado de Konsole"

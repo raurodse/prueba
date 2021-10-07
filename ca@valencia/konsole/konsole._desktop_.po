@@ -1,0 +1,195 @@
+# Translation of konsole._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2000-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 2000, 2004, 2005, 2006.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2002, 2003.
+# Albert Astals Cid <aacid@kde.org>, 2004, 2005.
+# Sebastia Pla Sanz <sebastia.pla@clarcat.com>, 2006.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2007, 2008, 2009, 2010, 2014, 2016, 2017, 2020.
+# Robert Millan <rmh@aybabtu.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: konsole desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-07-27 00:28+0000\n"
+"PO-Revision-Date: 2020-06-02 16:28+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: desktop/konsole.notifyrc:4
+msgctxt "Comment"
+msgid "Konsole"
+msgstr "Consola"
+
+#: desktop/konsole.notifyrc:97
+msgctxt "Name"
+msgid "Bell in Focused Session"
+msgstr "Timbre en una sessió amb focus"
+
+#: desktop/konsole.notifyrc:136
+msgctxt "Comment"
+msgid "Bell emitted within a focused session"
+msgstr "Timbre emés en una sessió amb focus"
+
+#: desktop/konsole.notifyrc:178
+msgctxt "Name"
+msgid "Bell in Non-Focused Session"
+msgstr "Timbre en una sessió sense focus"
+
+#: desktop/konsole.notifyrc:217
+msgctxt "Comment"
+msgid "Bell emitted within a non-focused session"
+msgstr "Timbre emés en una sessió sense focus"
+
+#: desktop/konsole.notifyrc:260
+msgctxt "Name"
+msgid "Activity in Non-Focused Monitored Session"
+msgstr "Activitat en una sessió controlada sense focus"
+
+#: desktop/konsole.notifyrc:299
+msgctxt "Comment"
+msgid "Activity detected in a non-focused monitored session"
+msgstr "Activitat detectada en una sessió controlada sense focus"
+
+#: desktop/konsole.notifyrc:341
+msgctxt "Name"
+msgid "Activity in Monitored Session"
+msgstr "Activitat en una sessió controlada"
+
+#: desktop/konsole.notifyrc:422
+msgctxt "Comment"
+msgid "Activity detected in a monitored session"
+msgstr "Activitat detectada en una sessió controlada"
+
+#: desktop/konsole.notifyrc:510
+msgctxt "Name"
+msgid "Silence in Non-Focused Monitored Session"
+msgstr "Silenci en una sessió controlada sense focus"
+
+#: desktop/konsole.notifyrc:549
+msgctxt "Comment"
+msgid "Silence detected in a non-focused monitored session"
+msgstr "Silenci detectat en una sessió controlada sense focus"
+
+#: desktop/konsole.notifyrc:591
+msgctxt "Name"
+msgid "Silence in Monitored Session"
+msgstr "Silenci en una sessió controlada"
+
+#: desktop/konsole.notifyrc:672
+msgctxt "Comment"
+msgid "Silence detected in a monitored session"
+msgstr "Silenci detectat en una sessió controlada"
+
+#: desktop/konsole.notifyrc:760
+msgctxt "Name"
+msgid "Process finished in Non-Focused Monitored Session"
+msgstr "El procés ha finalitzat a una sessió controlada sense focus"
+
+#: desktop/konsole.notifyrc:791
+msgctxt "Comment"
+msgid "Process finished in a non-focused monitored session"
+msgstr "El procés ha finalitzat a una sessió controlada sense focus"
+
+#: desktop/konsole.notifyrc:825
+msgctxt "Name"
+msgid "Process finished in Monitored Session"
+msgstr "El procés ha finalitzat a una sessió controlada"
+
+#: desktop/konsole.notifyrc:857
+msgctxt "Comment"
+msgid "Process finished in a monitored session"
+msgstr "El procés ha finalitzat a una sessió controlada"
+
+#: desktop/konsole.notifyrc:892
+msgctxt "Name"
+msgid "Session Finished With Non-Zero Status"
+msgstr "Sessió finalitzada amb un estat diferent de zero"
+
+#: desktop/konsole.notifyrc:976
+msgctxt "Comment"
+msgid "A session has exited with non-zero status"
+msgstr "Una sessió ha finalitzat amb un estat diferent de zero"
+
+#: desktop/konsolepart.desktop:15 desktop/terminalemulator.desktop:6
+msgctxt "Name"
+msgid "Terminal Emulator"
+msgstr "Emulador de terminal"
+
+#: desktop/konsolepart.desktop:108 desktop/org.kde.konsole.desktop:196
+#: desktop/terminalemulator.desktop:99
+msgctxt "Comment"
+msgid "Command line access"
+msgstr "Accés a la línia d'ordres"
+
+#: desktop/konsolerun.desktop:13
+msgctxt "Name"
+msgid "Run In Konsole"
+msgstr "Executa en el Konsole"
+
+#: desktop/konsolerun.desktop:63
+msgctxt "Comment"
+msgid "Run within Konsole"
+msgstr "Executa al Konsole"
+
+#: desktop/org.kde.konsole.desktop:15
+msgctxt "Name"
+msgid "Konsole"
+msgstr "Konsole"
+
+#: desktop/org.kde.konsole.desktop:109
+msgctxt "GenericName"
+msgid "Terminal"
+msgstr "Terminal"
+
+#: desktop/org.kde.konsole.desktop:242
+msgctxt "Name"
+msgid "Open a New Window"
+msgstr "Obri una finestra nova"
+
+#: desktop/org.kde.konsole.desktop:295
+msgctxt "Name"
+msgid "Open a New Tab"
+msgstr "Obri una pestanya nova"
+
+#~ msgctxt "Name"
+#~ msgid "Open Terminal Here"
+#~ msgstr "Obri un terminal ací"
+
+#~ msgctxt "Comment"
+#~ msgid "Opens a terminal at the current folder"
+#~ msgstr "Obri un terminal en la carpeta actual"
+
+#~ msgctxt "Name"
+#~ msgid "Activity in Hidden Monitored Session"
+#~ msgstr "Activitat en una sessió controlada oculta"
+
+#~ msgctxt "Comment"
+#~ msgid "Activity detected in a hidden monitored session"
+#~ msgstr "Activitat detectada en una sessió controlada oculta"
+
+#~ msgctxt "Name"
+#~ msgid "Silence in Hidden Monitored Session"
+#~ msgstr "Silenci en una sessió controlada oculta"
+
+#~ msgctxt "Comment"
+#~ msgid "Silence detected in a hidden monitored session"
+#~ msgstr "Silenci detectat en una sessió controlada oculta"
+
+#~ msgctxt "Name"
+#~ msgid "Shell"
+#~ msgstr "Intèrpret d'ordres"
+
+#~ msgctxt "Comment"
+#~ msgid "Konsole default profile"
+#~ msgstr "Perfil per omissió del Konsole"
