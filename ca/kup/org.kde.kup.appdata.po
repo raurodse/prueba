@@ -1,0 +1,73 @@
+# Translation of org.kde.kup.appdata.po to Catalan (Valencian)
+# Copyright (C) 2019-2021 This_file_is_part_of_KDE
+# This file is distributed under same license as the source of its messages in English.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2019.
+# Josep M. Ferrer <txemaq@gmail.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kup appdata files\n"
+"POT-Creation-Date: 2020-06-16 02:27+0200\n"
+"PO-Revision-Date: 2021-09-06 19:18+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.12.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.kup.appdata.xml:8
+msgid "Kup"
+msgstr "Kup"
+
+#. (itstool) path: component/summary
+#: org.kde.kup.appdata.xml:9
+msgid "Backup scheduler for KDE's Plasma desktop"
+msgstr ""
+"Planificador de la còpia de seguretat per a l'escriptori Plasma del KDE"
+
+#. (itstool) path: description/p
+#: org.kde.kup.appdata.xml:11
+msgid ""
+"Kup can help you remember to keep up-to-date backups of your personal files. "
+"It provides:"
+msgstr ""
+"El Kup ajuda a recordar el mantindre actualitzades les còpies de seguretat "
+"dels fitxers personals. Proporciona:"
+
+#. (itstool) path: ul/li
+#: org.kde.kup.appdata.xml:13
+msgid "Incremental backup archive with the use of \"bup\"."
+msgstr "Arxiu de còpia de seguretat incremental emprant «bup»."
+
+#. (itstool) path: ul/li
+#: org.kde.kup.appdata.xml:14
+msgid "Synchronized folders with the use of \"rsync\"."
+msgstr "Carpetes sincronitzades emprant «rsync»."
+
+#. (itstool) path: ul/li
+#: org.kde.kup.appdata.xml:15
+msgid "Support for local filesystem or external usb storage."
+msgstr "Suport per a sistema de fitxers local o emmagatzematge extern USB."
+
+#. (itstool) path: ul/li
+#: org.kde.kup.appdata.xml:16
+msgid ""
+"Monitor availability of backup destinations, like for example a mounted "
+"network storage."
+msgstr ""
+"Supervisa la disponibilitat de les destinacions de còpia de seguretat, com "
+"ara un emmagatzematge de xarxa muntat."
+
+#. (itstool) path: ul/li
+#: org.kde.kup.appdata.xml:17
+msgid "Integration into KDE's Plasma desktop."
+msgstr "Integració amb l'escriptori Plasma del KDE."
+
+#. (itstool) path: component/developer_name
+#: org.kde.kup.appdata.xml:27
+msgid "Simon Persson &lt;simon.persson@mykolab.com&gt;"
+msgstr "Simon Persson &lt;simon.persson@mykolab.com&gt;"
